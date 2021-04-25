@@ -165,7 +165,7 @@
     },
     "description": "Shows you the current list of commands, which may or may not be this list.",
     "name": "All commands",
-    "usage": "!commands",
+    "usage": "!rimcommands",
     "userLevel": "Anyone",
     "shortcut": false
   },
