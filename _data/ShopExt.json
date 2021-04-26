@@ -420,25 +420,6 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "defName": "ChildrenDislikesChildren",
-      "degree": 0,
-      "name": "dislikeschildren",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy dislikes children.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
       "defName": "Wimp",
       "degree": 0,
       "name": "douillet",
@@ -878,29 +859,6 @@
       },
       "description": "Timmy n'aime vraiment pas les femmes et se méfie d'elles.",
       "stats": [],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "ChildrenNaturalColonyChild",
-      "degree": 0,
-      "name": "naturalborncolony-child",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": [
-          "Naturelle ṁèðìṭàṭìòƞ Ƒòçùș ṭýṗè àſſòẅèð."
-        ]
-      },
-      "description": "Timmy has been born in the colony.",
-      "stats": [
-        "Naturelle ṁèðìṭàṭìòƞ Ƒòçùș ṭýṗè àſſòẅèð."
-      ],
       "conflicts": [],
       "bypassLimit": false
     },
@@ -1403,25 +1361,6 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "defName": "ChildrenToYoungToWork",
-      "degree": 0,
-      "name": "tooyoungtowork",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy is too young to work.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
       "defName": "SpeedOffset",
       "degree": -1,
       "name": "traînard",
@@ -1620,25 +1559,6 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "defName": "ChildrenWerewolfChild",
-      "degree": 0,
-      "name": "werewolf-child",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy is the child of a werewolf and will first transfrom when coming of age.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
       "defName": "Xenophobia",
       "degree": -1,
       "name": "xenophile",
@@ -1729,7 +1649,7 @@
       }
     },
     {
-      "price": 3749,
+      "price": 3750,
       "defName": "Lemolim",
       "enabled": false,
       "name": "lemolim",
@@ -1738,7 +1658,7 @@
       }
     },
     {
-      "price": 14000,
+      "price": 15000,
       "defName": "Human_BeeQueen",
       "enabled": true,
       "name": "Queen Bee",
