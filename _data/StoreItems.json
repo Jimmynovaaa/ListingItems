@@ -160,7 +160,7 @@
       "abr": "baie",
       "category": "Végétaux",
       "defname": "RawBerries",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "balisedecommerceorbital",
@@ -448,7 +448,7 @@
       "abr": "champignoncru",
       "category": "Végétaux",
       "defname": "RawFungus",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "chapeaudecowboy",
@@ -526,7 +526,7 @@
       "abr": "chocolat",
       "category": "Aliments",
       "defname": "Chocolate",
-      "price": 5
+      "price": -10
     },
     {
       "abr": "cibleurorbitalmécanoïde",
@@ -1126,7 +1126,7 @@
       "abr": "foin",
       "category": "Aliments",
       "defname": "Hay",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "fonderieélectrique",
@@ -1204,7 +1204,7 @@
       "abr": "fruitd'agave",
       "category": "Végétaux",
       "defname": "RawAgave",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "fusilàimpulsion",
@@ -1696,7 +1696,7 @@
       "abr": "maïs",
       "category": "Végétaux",
       "defname": "RawCorn",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "manteau",
@@ -2344,7 +2344,7 @@
       "abr": "pommedeterre",
       "category": "Végétaux",
       "defname": "RawPotatoes",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "postebasiquederecherche",
@@ -2524,7 +2524,7 @@
       "abr": "riz",
       "category": "Végétaux",
       "defname": "RawRice",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "robeeneltex",
@@ -2785,18 +2785,6 @@
       "price": -10
     },
     {
-      "abr": "birthcontrol",
-      "category": "Drogues",
-      "defname": "BirthControl",
-      "price": -10
-    },
-    {
-      "abr": "blackboard",
-      "category": "Production",
-      "defname": "Blackboard",
-      "price": -10
-    },
-    {
       "abr": "cargoshorts",
       "category": "Vêtements",
       "defname": "Apparel_FSCargoShorts",
@@ -2927,12 +2915,6 @@
       "category": "Animal",
       "defname": "ERN_Ferret",
       "price": 167
-    },
-    {
-      "abr": "fertilitybooster",
-      "category": "Drogues",
-      "defname": "FertilityBooster",
-      "price": -10
     },
     {
       "abr": "filecabinet",
@@ -3067,12 +3049,6 @@
       "price": -10
     },
     {
-      "abr": "pregnancytest",
-      "category": "Drogues",
-      "defname": "PregnancyTest",
-      "price": -10
-    },
-    {
       "abr": "psychicpylon",
       "category": "Spécial",
       "defname": "VFES_PsychicPylon",
@@ -3161,12 +3137,6 @@
       "category": "Divers",
       "defname": "VFE_Scarecrow",
       "price": 129
-    },
-    {
-      "abr": "schooltable",
-      "category": "Production",
-      "defname": "SchoolTable",
-      "price": -10
     },
     {
       "abr": "scrubs",
@@ -3316,7 +3286,7 @@
       "abr": "agariluxrawfungus",
       "category": "Végétaux",
       "defname": "AA_AgariluxRawFungus",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "agaripawn",
@@ -3670,13 +3640,13 @@
       "abr": "beebread",
       "category": "Plats",
       "defname": "BeeBread",
-      "price": 50
+      "price": 60
     },
     {
       "abr": "beebutter",
       "category": "Plats",
       "defname": "BeeButter",
-      "price": 4
+      "price": 30
     },
     {
       "abr": "beeeggs",
@@ -4060,7 +4030,7 @@
       "abr": "bluegel",
       "category": "Ressources brutes",
       "defname": "AA_BlueGel",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "bluegelbattery",
@@ -4168,25 +4138,25 @@
       "abr": "chameleonyakwool,desert",
       "category": "Textiles",
       "defname": "AA_ChameleonYakWoolDesert",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "chameleonyakwool,jungle",
       "category": "Textiles",
       "defname": "AA_ChameleonYakWoolJungle",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "chameleonyakwool,temperate",
       "category": "Textiles",
       "defname": "AA_ChameleonYakWoolTemperate",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "chameleonyakwool,winter",
       "category": "Textiles",
       "defname": "AA_ChameleonYakWoolWinter",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "chargedblizzariskegg(fert.)",
@@ -4252,7 +4222,7 @@
       "abr": "cindersilk",
       "category": "Textiles",
       "defname": "AA_CinderSilk",
-      "price": 7
+      "price": -10
     },
     {
       "abr": "colossalaerofleet",
@@ -4342,7 +4312,7 @@
       "abr": "cuteboldgoggles",
       "category": "Couvre-chefs",
       "defname": "Cutebold_Goggles",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "cuteboldleather",
@@ -4558,7 +4528,7 @@
       "abr": "fakecuteboldtail",
       "category": "Prothèses",
       "defname": "FakeCuteboldTail",
-      "price": 218
+      "price": -10
     },
     {
       "abr": "feraldrone",
@@ -4606,7 +4576,7 @@
       "abr": "fermentedrottingmound",
       "category": "Végétaux",
       "defname": "AA_RottingMoundItem",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "fermentingcomb",
@@ -4618,7 +4588,7 @@
       "abr": "finehoneymeal",
       "category": "Plats",
       "defname": "RB_FineHoney",
-      "price": 37
+      "price": 100
     },
     {
       "abr": "firewasp",
@@ -4678,7 +4648,7 @@
       "abr": "flowers",
       "category": "Végétaux",
       "defname": "RawFlowers",
-      "price": 3
+      "price": 60
     },
     {
       "abr": "foragerpheromones",
@@ -4852,7 +4822,7 @@
       "abr": "grey-coatedmouflonwool",
       "category": "Textiles",
       "defname": "AA_GreyCoatedMouflonWool",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "groundrunner",
@@ -4900,7 +4870,7 @@
       "abr": "hexagel",
       "category": "Ressources brutes",
       "defname": "AA_Hexagel",
-      "price": 10
+      "price": -10
     },
     {
       "abr": "hexagelbattery",
@@ -5062,13 +5032,13 @@
       "abr": "honeypreservedmeat",
       "category": "Plats",
       "defname": "RB_HoneyPreservedMeat",
-      "price": 8
+      "price": -10
     },
     {
       "abr": "honeypreservedvegetables",
       "category": "Plats",
       "defname": "RB_HoneyPreservedVegetables",
-      "price": 8
+      "price": 60
     },
     {
       "abr": "honeystomach",
@@ -5110,7 +5080,7 @@
       "abr": "honeyedicepop",
       "category": "Honey food products",
       "defname": "RB_HoneyedIcePop",
-      "price": 5
+      "price": 60
     },
     {
       "abr": "honeyglassscythe",
@@ -5362,7 +5332,7 @@
       "abr": "lavishhoneymeal",
       "category": "Plats",
       "defname": "RB_LavishHoney",
-      "price": 75
+      "price": 150
     },
     {
       "abr": "legreflexenhancement",
@@ -5518,7 +5488,7 @@
       "abr": "mead",
       "category": "Drogues",
       "defname": "RB_Mead",
-      "price": 20
+      "price": -10
     },
     {
       "abr": "meadfermentingbarrel",
@@ -5548,7 +5518,7 @@
       "abr": "medicinalcactipinequill",
       "category": "Médicaments",
       "defname": "AA_CactipineQuill",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "medicinaldrone",
@@ -5632,7 +5602,7 @@
       "abr": "moobee",
       "category": "Animal",
       "defname": "Moobee",
-      "price": 1667
+      "price": 2000
     },
     {
       "abr": "moobeechitin",
@@ -5656,7 +5626,7 @@
       "abr": "moobloom",
       "category": "Animal",
       "defname": "Moobloom",
-      "price": 500
+      "price": 2000
     },
     {
       "abr": "moribundgallatross",
@@ -5668,7 +5638,7 @@
       "abr": "mothsilk",
       "category": "Textiles",
       "defname": "AA_MothSilk",
-      "price": 9
+      "price": -10
     },
     {
       "abr": "mutantarm",
@@ -5878,7 +5848,7 @@
       "abr": "nondescriptvegetables",
       "category": "Végétaux",
       "defname": "RB_NonDescriptVegetables",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "nursepheromones",
@@ -6004,7 +5974,7 @@
       "abr": "plantmeat",
       "category": "Végétaux",
       "defname": "AA_CactusMeat",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "plasmorph",
@@ -6172,7 +6142,7 @@
       "abr": "prostheticcuteboldtail",
       "category": "Prothèses",
       "defname": "ProstheticCuteboldTail",
-      "price": 433
+      "price": -10
     },
     {
       "abr": "prostheticwing",
@@ -6250,7 +6220,7 @@
       "abr": "rawredslime",
       "category": "Végétaux",
       "defname": "AB_RawRedSlime",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ray-hound",
@@ -6370,7 +6340,7 @@
       "abr": "shredofintellegence",
       "category": "Drogues",
       "defname": "Intellegence_Drug",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "signalreceptor",
@@ -6388,7 +6358,7 @@
       "abr": "simplehoneymeal",
       "category": "Plats",
       "defname": "RB_SimpleHoney",
-      "price": 30
+      "price": 60
     },
     {
       "abr": "skydrone",
@@ -6412,7 +6382,7 @@
       "abr": "skysteel",
       "category": "Ressources brutes",
       "defname": "AA_SkySteel",
-      "price": 8
+      "price": -10
     },
     {
       "abr": "sleepystinger",
@@ -6682,7 +6652,7 @@
       "abr": "tenaillementale",
       "category": "Prothèses",
       "defname": "Mindscrew",
-      "price": 350
+      "price": -10
     },
     {
       "abr": "teratogenicoriginator",
@@ -6772,7 +6742,7 @@
       "abr": "unrefineduraniumcrystals",
       "category": "Ressources brutes",
       "defname": "AA_UraniumCrystals",
-      "price": 108
+      "price": -10
     },
     {
       "abr": "uprightpiano",
@@ -7897,5 +7867,5 @@
       "price": -10
     }
   ],
-  "total": 1316
+  "total": 1311
 }
