@@ -18,6 +18,26 @@
     "version": "8.0.1"
   },
   {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races 2.0",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Jack7D1",
+    "name": "Apini Playable Race, Continued!"
+  },
+  {
+    "author": "Sarg",
+    "name": "RimBees",
+    "steamId": "1558161673",
+    "version": "1.0.7.0"
+  },
+  {
+    "author": "CoolGuy27",
+    "name": "BeeGirl Race: RimBees Addon"
+  },
+  {
     "author": "Roolo",
     "name": "RunAndGun"
   },
@@ -44,12 +64,6 @@
     "name": "More Trade Ships"
   },
   {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races 2.0",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Orion",
     "name": "Hospitality"
   },
@@ -69,7 +83,7 @@
     "author": "jecrell and contributors",
     "name": "JecsTools (Unofficial)",
     "steamId": "2195729899",
-    "version": "1.1.2.2"
+    "version": "1.1.2.3"
   },
   {
     "author": "Crlsniper",
@@ -215,7 +229,7 @@
     "author": "Oblitus",
     "name": "Animals Logic",
     "steamId": "1098354593",
-    "version": "1.0.7751.22015"
+    "version": "1.0.7789.9895"
   },
   {
     "author": "Andreas Pardeike",
@@ -252,20 +266,6 @@
     "name": "Colony Leadership"
   },
   {
-    "author": "Jack7D1",
-    "name": "Apini Playable Race, Continued!"
-  },
-  {
-    "author": "Sarg",
-    "name": "RimBees",
-    "steamId": "1558161673",
-    "version": "1.0.7.0"
-  },
-  {
-    "author": "CoolGuy27",
-    "name": "BeeGirl Race: RimBees Addon"
-  },
-  {
     "author": "OskarPotocki, Atlas, Kikohi",
     "name": "Vanilla Furniture Expanded"
   },
@@ -274,12 +274,6 @@
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "5.0.3.2"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitResearch",
-    "steamId": "2312827542",
-    "version": "1.0.1.8"
   },
   {
     "author": "Razor 2.3",
@@ -373,7 +367,7 @@
     "author": "Ashilstraza",
     "name": "Cutebold Race",
     "steamId": "2147295726",
-    "version": "2.3.5"
+    "version": "2.3.6"
   },
   {
     "author": "Sarg, AFriend, milon, Skullywag and kaptain_kavern",
@@ -386,5 +380,11 @@
     "name": "Animal Genetics",
     "steamId": "2226725974",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
+    "name": "[KV] Faction Control",
+    "steamId": "1509102551",
+    "version": "1.0.7546.40571"
   }
 ]
