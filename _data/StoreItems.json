@@ -658,7 +658,7 @@
       "abr": "croquettes",
       "category": "Aliments",
       "defname": "Kibble",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "cryptosleepsuspender",
@@ -1756,13 +1756,13 @@
       "abr": "médicament",
       "category": "Médicaments",
       "defname": "MedicineIndustrial",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "médicamentavancé",
       "category": "Médicaments",
       "defname": "MedicineUltratech",
-      "price": -10
+      "price": 83
     },
     {
       "abr": "mégaraignée",
@@ -3214,19 +3214,19 @@
       "abr": "acanthamoebagigantea,huge",
       "category": "Animal",
       "defname": "AA_AcanthamoebaGiganteaHuge",
-      "price": 1167
+      "price": -10
     },
     {
       "abr": "acanthamoebagigantea,large",
       "category": "Animal",
       "defname": "AA_AcanthamoebaGiganteaLarge",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "acanthamoebagigantea,small",
       "category": "Animal",
       "defname": "AA_AcanthamoebaGiganteaSmall",
-      "price": 250
+      "price": -10
     },
     {
       "abr": "adaptivedrone",
@@ -3251,18 +3251,6 @@
       "category": "Drones and queens",
       "defname": "RB_Bee_Adaptive_Queen",
       "price": -10
-    },
-    {
-      "abr": "advancedbionicantenna",
-      "category": "Artificial",
-      "defname": "AdvancedBionicAntenna",
-      "price": 583
-    },
-    {
-      "abr": "advancedbionicwing",
-      "category": "Artificial",
-      "defname": "AdvancedBionicWing",
-      "price": 667
     },
     {
       "abr": "aerofleet",
@@ -3334,7 +3322,7 @@
       "abr": "alcoholicstinger",
       "category": "Bioniques",
       "defname": "Stinger_Alcohol",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "alloydrone",
@@ -3413,78 +3401,6 @@
       "category": "Animal",
       "defname": "AA_AnimusVox",
       "price": 500
-    },
-    {
-      "abr": "apini",
-      "category": "Animal",
-      "defname": "Apini",
-      "price": -10
-    },
-    {
-      "abr": "apiniapron",
-      "category": "Vêtements",
-      "defname": "ApiniApron",
-      "price": -10
-    },
-    {
-      "abr": "apinichitin",
-      "category": "Cuirs",
-      "defname": "apini_chitin",
-      "price": -10
-    },
-    {
-      "abr": "apininectarstill",
-      "category": "Meubles",
-      "defname": "ApiniNectarStill",
-      "price": -10
-    },
-    {
-      "abr": "apiniprostheticstable",
-      "category": "Meubles",
-      "defname": "ApiniProstheticsTable",
-      "price": -10
-    },
-    {
-      "abr": "apiniroyaljelly",
-      "category": "Plats",
-      "defname": "ApiniJelly",
-      "price": -10
-    },
-    {
-      "abr": "apiniruff",
-      "category": "Vêtements",
-      "defname": "ApiniRuff",
-      "price": -10
-    },
-    {
-      "abr": "apinisatchel",
-      "category": "Vêtements",
-      "defname": "ApiniSatchel",
-      "price": -10
-    },
-    {
-      "abr": "apinivest",
-      "category": "Armures",
-      "defname": "ApiniVest",
-      "price": 667
-    },
-    {
-      "abr": "apitechmechanites",
-      "category": "Produits manufacturés",
-      "defname": "ApitechMechanites",
-      "price": -10
-    },
-    {
-      "abr": "apitechsynthesizer",
-      "category": "Meubles",
-      "defname": "ApitechSynthesizer",
-      "price": -10
-    },
-    {
-      "abr": "apitechtable",
-      "category": "Meubles",
-      "defname": "ApitechTable",
-      "price": -10
     },
     {
       "abr": "archotechcuteboldtail",
@@ -3583,18 +3499,6 @@
       "price": -10
     },
     {
-      "abr": "azuri",
-      "category": "Animal",
-      "defname": "Azuri",
-      "price": -10
-    },
-    {
-      "abr": "azurichitin",
-      "category": "Cuirs",
-      "defname": "azuri_chitin",
-      "price": -10
-    },
-    {
       "abr": "badgerleather",
       "category": "Cuirs",
       "defname": "Leather_Badger",
@@ -3628,13 +3532,13 @@
       "abr": "beeantenna",
       "category": "Prothèses",
       "defname": "NaturalBeeAntenna",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "beebrain",
       "category": "Prothèses",
       "defname": "BeeBrain",
-      "price": 1258
+      "price": -10
     },
     {
       "abr": "beebread",
@@ -3646,7 +3550,7 @@
       "abr": "beebutter",
       "category": "Plats",
       "defname": "BeeButter",
-      "price": 30
+      "price": -10
     },
     {
       "abr": "beeeggs",
@@ -3877,12 +3781,6 @@
       "price": -10
     },
     {
-      "abr": "beeswaxcandle",
-      "category": "Meubles",
-      "defname": "BeeswaxCandle",
-      "price": 43
-    },
-    {
       "abr": "beetus",
       "category": "Drones and queens",
       "defname": "RB_Bee_Beetus_Queen",
@@ -3895,22 +3793,10 @@
       "price": -10
     },
     {
-      "abr": "bionicantenna",
-      "category": "Artificial",
-      "defname": "BionicAntenna",
-      "price": 417
-    },
-    {
       "abr": "bioniccuteboldtail",
       "category": "Bioniques",
       "defname": "BionicCuteboldTail",
       "price": -10
-    },
-    {
-      "abr": "bionicwing",
-      "category": "Artificial",
-      "defname": "BionicWing",
-      "price": 583
     },
     {
       "abr": "bittersweetdrone",
@@ -4096,7 +3982,7 @@
       "abr": "butchersstinger",
       "category": "Bioniques",
       "defname": "Stinger_Butchers",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "cactipine",
@@ -4234,7 +4120,7 @@
       "abr": "cooledkidney",
       "category": "Prothèses",
       "defname": "DesertKidney",
-      "price": 1200
+      "price": -10
     },
     {
       "abr": "crepuscularbeetle",
@@ -4265,12 +4151,6 @@
       "category": "Œufs (fécondés)",
       "defname": "AA_EggCrescendoAnoleFertilized",
       "price": -10
-    },
-    {
-      "abr": "crushermandibles",
-      "category": "Apitech",
-      "defname": "CrusherMandibles_Apini",
-      "price": 2667
     },
     {
       "abr": "crystallinecaracal",
@@ -4366,7 +4246,7 @@
       "abr": "desertstinger",
       "category": "Bioniques",
       "defname": "Stinger_Flame",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "devildrone",
@@ -4391,12 +4271,6 @@
       "category": "Animal",
       "defname": "AA_DevilSheep",
       "price": 1333
-    },
-    {
-      "abr": "digestiveenzymes",
-      "category": "Apitech",
-      "defname": "DigestiveEnzymes_Apini",
-      "price": 2333
     },
     {
       "abr": "disgustinghybrid",
@@ -4432,7 +4306,7 @@
       "abr": "droneeye",
       "category": "Prothèses",
       "defname": "BG_DroneEye",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "dunealisk",
@@ -4504,7 +4378,7 @@
       "abr": "electronicstinger",
       "category": "Bioniques",
       "defname": "Stinger_EMP",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "emptyhoneycomb",
@@ -4522,7 +4396,7 @@
       "abr": "explosivestinger",
       "category": "Bioniques",
       "defname": "Stinger_Explosive",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "fakecuteboldtail",
@@ -4675,12 +4549,6 @@
       "price": -10
     },
     {
-      "abr": "frontleg",
-      "category": "Natural",
-      "defname": "ApiniFrontLeg",
-      "price": 333
-    },
-    {
       "abr": "frostave",
       "category": "Animal",
       "defname": "AA_FrostAve",
@@ -4765,12 +4633,6 @@
       "price": -10
     },
     {
-      "abr": "gathererfrontleghairs",
-      "category": "Apitech",
-      "defname": "GathererFrontLeg_Apini",
-      "price": 3000
-    },
-    {
       "abr": "gigantelope",
       "category": "Animal",
       "defname": "AA_Gigantelope",
@@ -4780,7 +4642,7 @@
       "abr": "goldenpart",
       "category": "Prothèses",
       "defname": "GoldenPart",
-      "price": 107
+      "price": -10
     },
     {
       "abr": "gowmilk",
@@ -4846,13 +4708,13 @@
       "abr": "harvestkidney",
       "category": "Prothèses",
       "defname": "WoodlandKidney",
-      "price": 1200
+      "price": -10
     },
     {
       "abr": "heatedkidney",
       "category": "Prothèses",
       "defname": "ArcticKidney",
-      "price": 1200
+      "price": -10
     },
     {
       "abr": "heavywax",
@@ -4906,109 +4768,13 @@
       "abr": "honey",
       "category": "Bee honeys",
       "defname": "RB_BaseHoney",
-      "price": -10
-    },
-    {
-      "abr": "honey(bardsong)",
-      "category": "Honey",
-      "defname": "Honey_B",
-      "price": -10
-    },
-    {
-      "abr": "honey(emberose)",
-      "category": "Honey",
-      "defname": "Honey_E",
-      "price": -10
-    },
-    {
-      "abr": "honey(frostbell)",
-      "category": "Honey",
-      "defname": "Honey_F",
-      "price": -10
-    },
-    {
-      "abr": "honey(metalily)",
-      "category": "Honey",
-      "defname": "Honey_M",
-      "price": -10
-    },
-    {
-      "abr": "honey(rushthorn)",
-      "category": "Honey",
-      "defname": "Honey_R",
-      "price": -10
-    },
-    {
-      "abr": "honey(unflavored)",
-      "category": "Honey",
-      "defname": "ApiniHoney",
-      "price": -10
-    },
-    {
-      "abr": "honey(vigorbloom)",
-      "category": "Honey",
-      "defname": "Honey_V",
-      "price": -10
-    },
-    {
-      "abr": "honey(wiserbud)",
-      "category": "Honey",
-      "defname": "Honey_W",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "honeybadger",
       "category": "Animal",
       "defname": "HoneyBadger",
       "price": 13333
-    },
-    {
-      "abr": "honeycapsule",
-      "category": "Meubles",
-      "defname": "HoneyCapsule",
-      "price": -10
-    },
-    {
-      "abr": "honeycapsule(bardsong)",
-      "category": "Meubles",
-      "defname": "Vat_B",
-      "price": -10
-    },
-    {
-      "abr": "honeycapsule(emberose)",
-      "category": "Meubles",
-      "defname": "Vat_E",
-      "price": -10
-    },
-    {
-      "abr": "honeycapsule(frostbell)",
-      "category": "Meubles",
-      "defname": "Vat_F",
-      "price": -10
-    },
-    {
-      "abr": "honeycapsule(metalily)",
-      "category": "Meubles",
-      "defname": "Vat_M",
-      "price": -10
-    },
-    {
-      "abr": "honeycapsule(rushthorn)",
-      "category": "Meubles",
-      "defname": "Vat_R",
-      "price": -10
-    },
-    {
-      "abr": "honeycapsule(vigorbloom)",
-      "category": "Meubles",
-      "defname": "Vat_V",
-      "price": -10
-    },
-    {
-      "abr": "honeycapsule(wiserbud)",
-      "category": "Meubles",
-      "defname": "Vat_W",
-      "price": -10
     },
     {
       "abr": "honeycovereduranium",
@@ -5021,12 +4787,6 @@
       "category": "Armes à distance",
       "defname": "Gun_HoneyDipper",
       "price": 16667
-    },
-    {
-      "abr": "honeyglasshelmet",
-      "category": "Coiffures",
-      "defname": "ApiniHoneyGlassHelmet",
-      "price": 319
     },
     {
       "abr": "honeypreservedmeat",
@@ -5042,38 +4802,8 @@
     },
     {
       "abr": "honeystomach",
-      "category": "Natural",
-      "defname": "HoneyStomach",
-      "price": 833
-    },
-    {
-      "abr": "honeystomach",
       "category": "Prothèses",
       "defname": "BG_HoneyStomach",
-      "price": 508
-    },
-    {
-      "abr": "honeyvat",
-      "category": "Meubles",
-      "defname": "HoneyVat",
-      "price": -10
-    },
-    {
-      "abr": "honeywall",
-      "category": "Meubles",
-      "defname": "HoneyWall",
-      "price": -10
-    },
-    {
-      "abr": "honeycombdoublebed",
-      "category": "Meubles",
-      "defname": "HoneycombBed_L",
-      "price": -10
-    },
-    {
-      "abr": "honeycombsinglebed",
-      "category": "Meubles",
-      "defname": "HoneycombBed_S",
       "price": -10
     },
     {
@@ -5081,12 +4811,6 @@
       "category": "Honey food products",
       "defname": "RB_HoneyedIcePop",
       "price": 60
-    },
-    {
-      "abr": "honeyglassscythe",
-      "category": "Armes de mêlée",
-      "defname": "ApiniScythe",
-      "price": 400
     },
     {
       "abr": "housekeepingpheromones",
@@ -5161,16 +4885,10 @@
       "price": 300
     },
     {
-      "abr": "insectantenna",
-      "category": "Natural",
-      "defname": "InsectAntenna",
-      "price": 250
-    },
-    {
       "abr": "insectarm",
       "category": "Prothèses",
       "defname": "SimpleInsectArm",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "insectchitin",
@@ -5182,43 +4900,13 @@
       "abr": "insecteye",
       "category": "Prothèses",
       "defname": "SimpleInsecteye",
-      "price": 508
-    },
-    {
-      "abr": "insectheart",
-      "category": "Natural",
-      "defname": "InsectHeart",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "insectleg",
       "category": "Prothèses",
       "defname": "SimpleInsectLeg",
-      "price": 508
-    },
-    {
-      "abr": "insectleg",
-      "category": "Natural",
-      "defname": "InsectLeg",
-      "price": 333
-    },
-    {
-      "abr": "insectmouth",
-      "category": "Natural",
-      "defname": "InsectMouth",
-      "price": 1250
-    },
-    {
-      "abr": "insectsting",
-      "category": "Natural",
-      "defname": "InsectSting",
-      "price": 833
-    },
-    {
-      "abr": "insectwing",
-      "category": "Natural",
-      "defname": "InsectWing",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "insectoiddrone",
@@ -5320,7 +5008,7 @@
       "abr": "largestinger",
       "category": "Bioniques",
       "defname": "Stinger_Heavy",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "larvalatispec",
@@ -5333,12 +5021,6 @@
       "category": "Plats",
       "defname": "RB_LavishHoney",
       "price": 150
-    },
-    {
-      "abr": "legreflexenhancement",
-      "category": "Apitech",
-      "defname": "ReflexEnhancement_Apini",
-      "price": 3667
     },
     {
       "abr": "legendarydrone",
@@ -5422,7 +5104,7 @@
       "abr": "lucifersstinger",
       "category": "Bioniques",
       "defname": "Stinger_Lucifer",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "luxuriousdrone",
@@ -5464,7 +5146,7 @@
       "abr": "mandibles",
       "category": "Prothèses",
       "defname": "BG_Mandibles",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "mantrap",
@@ -5566,7 +5248,7 @@
       "abr": "midasstinger",
       "category": "Bioniques",
       "defname": "Stinger_Midas",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "milddrone",
@@ -5591,36 +5273,6 @@
       "category": "Animal",
       "defname": "AA_Mime",
       "price": 1667
-    },
-    {
-      "abr": "monarchmandibles",
-      "category": "Apitech",
-      "defname": "MonarchMandibles_Apini",
-      "price": 6333
-    },
-    {
-      "abr": "moobee",
-      "category": "Animal",
-      "defname": "Moobee",
-      "price": 2000
-    },
-    {
-      "abr": "moobeechitin",
-      "category": "Cuirs",
-      "defname": "moobee_chitin",
-      "price": -10
-    },
-    {
-      "abr": "moobeeegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "MoobeeEgg",
-      "price": -10
-    },
-    {
-      "abr": "moobeeegg(unfert.)",
-      "category": "Œufs (non fécondés)",
-      "defname": "MoobeeEggUnfertilized",
-      "price": -10
     },
     {
       "abr": "moobloom",
@@ -5674,54 +5326,6 @@
       "abr": "naturalbeestinger",
       "category": "Naturelles",
       "defname": "Stinger_Natural",
-      "price": 500
-    },
-    {
-      "abr": "nectar(bardsong)",
-      "category": "Nectar",
-      "defname": "Nectar_B",
-      "price": -10
-    },
-    {
-      "abr": "nectar(emberose)",
-      "category": "Nectar",
-      "defname": "Nectar_E",
-      "price": -10
-    },
-    {
-      "abr": "nectar(frostbell)",
-      "category": "Nectar",
-      "defname": "Nectar_F",
-      "price": -10
-    },
-    {
-      "abr": "nectar(metalily)",
-      "category": "Nectar",
-      "defname": "Nectar_M",
-      "price": -10
-    },
-    {
-      "abr": "nectar(rushthorn)",
-      "category": "Nectar",
-      "defname": "Nectar_R",
-      "price": -10
-    },
-    {
-      "abr": "nectar(unflavored)",
-      "category": "Nectar",
-      "defname": "Nectar",
-      "price": -10
-    },
-    {
-      "abr": "nectar(vigorbloom)",
-      "category": "Nectar",
-      "defname": "Nectar_V",
-      "price": -10
-    },
-    {
-      "abr": "nectar(wiserbud)",
-      "category": "Nectar",
-      "defname": "Nectar_W",
       "price": -10
     },
     {
@@ -5735,12 +5339,6 @@
       "category": "Animal",
       "defname": "AA_Needleroll",
       "price": 417
-    },
-    {
-      "abr": "neuroenhancer",
-      "category": "Apitech",
-      "defname": "Neuroenhancer_Apini",
-      "price": 4000
     },
     {
       "abr": "neutrodrone",
@@ -5881,12 +5479,6 @@
       "price": -10
     },
     {
-      "abr": "ocularenhancement",
-      "category": "Apitech",
-      "defname": "OcularEnhancement_Apini",
-      "price": 3333
-    },
-    {
       "abr": "ocularhoneycomb",
       "category": "Honey combs",
       "defname": "RB_Ocular_Honeycomb",
@@ -6001,64 +5593,10 @@
       "price": -10
     },
     {
-      "abr": "pollen",
-      "category": "Pollen",
-      "defname": "Pollen",
-      "price": -10
-    },
-    {
-      "abr": "pollenball",
-      "category": "Pollen",
-      "defname": "PollenBall",
-      "price": -10
-    },
-    {
-      "abr": "pollenball(bardsong)",
-      "category": "Pollen",
-      "defname": "PollenBall_B",
-      "price": -10
-    },
-    {
-      "abr": "pollenball(emberose)",
-      "category": "Pollen",
-      "defname": "PollenBall_E",
-      "price": -10
-    },
-    {
-      "abr": "pollenball(frostbell)",
-      "category": "Pollen",
-      "defname": "PollenBall_F",
-      "price": -10
-    },
-    {
-      "abr": "pollenball(metalily)",
-      "category": "Pollen",
-      "defname": "PollenBall_M",
-      "price": -10
-    },
-    {
-      "abr": "pollenball(rushthorn)",
-      "category": "Pollen",
-      "defname": "PollenBall_R",
-      "price": -10
-    },
-    {
-      "abr": "pollenball(vigorbloom)",
-      "category": "Pollen",
-      "defname": "PollenBall_V",
-      "price": -10
-    },
-    {
-      "abr": "pollenball(wiserbud)",
-      "category": "Pollen",
-      "defname": "PollenBall_W",
-      "price": -10
-    },
-    {
       "abr": "pollenbasket",
       "category": "Prothèses",
       "defname": "PollenBasket",
-      "price": 261
+      "price": -10
     },
     {
       "abr": "powderedassaultrifle",
@@ -6127,28 +5665,10 @@
       "price": -10
     },
     {
-      "abr": "proboscisenhancement",
-      "category": "Apitech",
-      "defname": "ProboscisEnhancement_Apini",
-      "price": 2000
-    },
-    {
-      "abr": "prostheticantenna",
-      "category": "Artificial",
-      "defname": "ProstheticAntenna",
-      "price": 250
-    },
-    {
       "abr": "prostheticcuteboldtail",
       "category": "Prothèses",
       "defname": "ProstheticCuteboldTail",
       "price": -10
-    },
-    {
-      "abr": "prostheticwing",
-      "category": "Artificial",
-      "defname": "ProstheticWing",
-      "price": 250
     },
     {
       "abr": "psychicdrone",
@@ -6259,12 +5779,6 @@
       "price": 2
     },
     {
-      "abr": "regenerativeenzymes",
-      "category": "Apitech",
-      "defname": "RegenerativeEnzymes_Apini",
-      "price": 3000
-    },
-    {
       "abr": "ripperhound",
       "category": "Animal",
       "defname": "AA_RipperHound",
@@ -6343,16 +5857,10 @@
       "price": -10
     },
     {
-      "abr": "signalreceptor",
-      "category": "Apitech",
-      "defname": "SignalReceptor_Apini",
-      "price": 2333
-    },
-    {
       "abr": "silkystinger",
       "category": "Bioniques",
       "defname": "Stinger_Silk",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "simplehoneymeal",
@@ -6388,7 +5896,7 @@
       "abr": "sleepystinger",
       "category": "Bioniques",
       "defname": "Stinger_Sleep",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "slimydrone",
@@ -6436,13 +5944,7 @@
       "abr": "smallstinger",
       "category": "Bioniques",
       "defname": "Stinger_Small",
-      "price": 333
-    },
-    {
-      "abr": "songstressmandibles",
-      "category": "Apitech",
-      "defname": "SongstressMandibles_Apini",
-      "price": 2667
+      "price": -10
     },
     {
       "abr": "spinedgow",
@@ -6538,7 +6040,7 @@
       "abr": "swampykidney",
       "category": "Prothèses",
       "defname": "SwampKidney",
-      "price": 1200
+      "price": -10
     },
     {
       "abr": "swarmling",
@@ -6823,12 +6325,6 @@
       "price": -10
     },
     {
-      "abr": "vianded'apini",
-      "category": "Viandes crues",
-      "defname": "Meat_Apini",
-      "price": -10
-    },
-    {
       "abr": "vianded'arcticlion",
       "category": "Viandes crues",
       "defname": "Meat_AA_ArcticLion",
@@ -6844,12 +6340,6 @@
       "abr": "vianded'atispec",
       "category": "Viandes crues",
       "defname": "Meat_AA_Atispec",
-      "price": -10
-    },
-    {
-      "abr": "vianded'azuri",
-      "category": "Viandes crues",
-      "defname": "Meat_Azuri",
       "price": -10
     },
     {
@@ -7267,6 +6757,30 @@
       "price": -10
     },
     {
+      "abr": "darkbeast",
+      "category": "Animal",
+      "defname": "AA_Darkbeast",
+      "price": 1250
+    },
+    {
+      "abr": "pedigreedraptor",
+      "category": "Animal",
+      "defname": "AA_PedigreedRaptor",
+      "price": 1750
+    },
+    {
+      "abr": "pedigreedraptoregg(fert.)",
+      "category": "Œufs (fécondés)",
+      "defname": "AA_EggPedigreedRaptorFertilized",
+      "price": -10
+    },
+    {
+      "abr": "skiphound",
+      "category": "Animal",
+      "defname": "AA_Skiphound",
+      "price": 1250
+    },
+    {
       "abr": "viandederat",
       "category": "Viandes crues",
       "defname": "Meat_Rat",
@@ -7516,7 +7030,7 @@
       "abr": "vitalscentre",
       "category": "Divers",
       "defname": "Facility_VitalsCentre",
-      "price": -10
+      "price": 1125
     },
     {
       "abr": "voiledeguerre",
@@ -7528,91 +7042,91 @@
       "abr": "wake-up",
       "category": "Drogues",
       "defname": "WakeUp",
-      "price": -10
+      "price": 58
     },
     {
       "abr": "walllight",
       "category": "Meubles",
       "defname": "Lighting_MURWallLight",
-      "price": -10
+      "price": 16
     },
     {
       "abr": "walllight(azure)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightAzure",
-      "price": -10
+      "price": 16
     },
     {
       "abr": "walllight(blue)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightBlue",
-      "price": -10
+      "price": 16
     },
     {
       "abr": "walllight(chartreuse)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightChartreuse",
-      "price": -10
+      "price": 16
     },
     {
       "abr": "walllight(cyan)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightCyan",
-      "price": -10
+      "price": 16
     },
     {
       "abr": "walllight(green)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightGreen",
-      "price": -10
+      "price": 16
     },
     {
       "abr": "walllight(magenta)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightMagenta",
-      "price": -10
+      "price": 16
     },
     {
       "abr": "walllight(orange)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightOrange",
-      "price": -10
+      "price": 16
     },
     {
       "abr": "walllight(red)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightRed",
-      "price": -10
+      "price": 16
     },
     {
       "abr": "walllight(rose)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightRose",
-      "price": -10
+      "price": 16
     },
     {
       "abr": "walllight(springgreen)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightSpringGreen",
-      "price": -10
+      "price": 16
     },
     {
       "abr": "walllight(violet)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightViolet",
-      "price": -10
+      "price": 16
     },
     {
       "abr": "walllight(yellow)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightYellow",
-      "price": -10
+      "price": 16
     },
     {
       "abr": "wallsunlight",
       "category": "Meubles",
       "defname": "Lighting_MURWallSunLight",
-      "price": -10
+      "price": 32
     },
     {
       "abr": "wapiti",
@@ -7624,7 +7138,7 @@
       "abr": "wardrobe",
       "category": "Meubles",
       "defname": "Table_Wardrobe",
-      "price": -10
+      "price": 285
     },
     {
       "abr": "warg",
@@ -7633,10 +7147,16 @@
       "price": 750
     },
     {
+      "abr": "waywardmobileassembler",
+      "category": "Animal",
+      "defname": "AA_WaywardMobileAssembler",
+      "price": 1083
+    },
+    {
       "abr": "weaponrack",
       "category": "Meubles",
       "defname": "Shelf_WeaponRack",
-      "price": -10
+      "price": 137
     },
     {
       "abr": "weavingdrone",
@@ -7672,13 +7192,13 @@
       "abr": "wildbeehive,mild",
       "category": "Beekeeping",
       "defname": "RB_WildHive_Mild",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "wildbeehive,temperate",
       "category": "Beekeeping",
       "defname": "RB_WildHive_Temperate",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "wildpawn",
@@ -7703,24 +7223,6 @@
       "category": "Œufs (fécondés)",
       "defname": "AA_WildpodSpores",
       "price": -10
-    },
-    {
-      "abr": "wingaeratorimplant",
-      "category": "Apitech",
-      "defname": "WingAerator_Apini",
-      "price": 2667
-    },
-    {
-      "abr": "wingbreezerimplant",
-      "category": "Apitech",
-      "defname": "WingBreezer_Apini",
-      "price": 2333
-    },
-    {
-      "abr": "wingwarmerimplant",
-      "category": "Apitech",
-      "defname": "WingWarmer_Apini",
-      "price": 2333
     },
     {
       "abr": "woodlanddrone",
@@ -7768,7 +7270,7 @@
       "abr": "yayo",
       "category": "Drogues",
       "defname": "Yayo",
-      "price": -10
+      "price": 35
     },
     {
       "abr": "yorkshireterrier",
@@ -7777,95 +7279,659 @@
       "price": 167
     },
     {
+      "abr": "advancedbionicantenna",
+      "category": "Artificial",
+      "defname": "AdvancedBionicAntenna",
+      "price": 583
+    },
+    {
+      "abr": "advancedbionicwing",
+      "category": "Artificial",
+      "defname": "AdvancedBionicWing",
+      "price": 667
+    },
+    {
+      "abr": "apini",
+      "category": "Animal",
+      "defname": "Apini",
+      "price": -10
+    },
+    {
+      "abr": "apiniapron",
+      "category": "Vêtements",
+      "defname": "ApiniApron",
+      "price": 136
+    },
+    {
+      "abr": "apiniarmorvest",
+      "category": "Armures",
+      "defname": "ApiniVest",
+      "price": 900
+    },
+    {
+      "abr": "apinichitin",
+      "category": "Cuirs",
+      "defname": "apini_chitin",
+      "price": -10
+    },
+    {
+      "abr": "apininectarstill",
+      "category": "Meubles",
+      "defname": "ApiniNectarStill",
+      "price": -10
+    },
+    {
+      "abr": "apiniprostheticstable",
+      "category": "Meubles",
+      "defname": "ApiniProstheticsTable",
+      "price": -10
+    },
+    {
+      "abr": "apiniroyaljelly",
+      "category": "Plats",
+      "defname": "ApiniJelly",
+      "price": -10
+    },
+    {
+      "abr": "apiniruff",
+      "category": "Vêtements",
+      "defname": "ApiniRuff",
+      "price": 145
+    },
+    {
+      "abr": "apinisatchel",
+      "category": "Vêtements",
+      "defname": "ApiniSatchel",
+      "price": 145
+    },
+    {
+      "abr": "apitechmechanites",
+      "category": "Produits manufacturés",
+      "defname": "ApitechMechanites",
+      "price": -10
+    },
+    {
+      "abr": "apitechsynthesizer",
+      "category": "Meubles",
+      "defname": "ApitechSynthesizer",
+      "price": -10
+    },
+    {
+      "abr": "apitechtable",
+      "category": "Meubles",
+      "defname": "ApitechTable",
+      "price": -10
+    },
+    {
+      "abr": "azuri",
+      "category": "Animal",
+      "defname": "Azuri",
+      "price": -10
+    },
+    {
+      "abr": "azurichitin",
+      "category": "Cuirs",
+      "defname": "azuri_chitin",
+      "price": -10
+    },
+    {
+      "abr": "beeswaxcandle",
+      "category": "Meubles",
+      "defname": "BeeswaxCandle",
+      "price": -10
+    },
+    {
+      "abr": "bionicantenna",
+      "category": "Artificial",
+      "defname": "BionicAntenna",
+      "price": 417
+    },
+    {
+      "abr": "bionicwing",
+      "category": "Artificial",
+      "defname": "BionicWing",
+      "price": 583
+    },
+    {
+      "abr": "crushermandibles",
+      "category": "Apitech",
+      "defname": "CrusherMandibles_Apini",
+      "price": 2667
+    },
+    {
+      "abr": "deliverybox",
+      "category": "Divers",
+      "defname": "BG_DeliveryBox",
+      "price": 100
+    },
+    {
+      "abr": "digestiveenzymes",
+      "category": "Apitech",
+      "defname": "DigestiveEnzymes_Apini",
+      "price": 2333
+    },
+    {
+      "abr": "frontleg",
+      "category": "Natural",
+      "defname": "ApiniFrontLeg",
+      "price": 333
+    },
+    {
+      "abr": "gathererfrontleghairs",
+      "category": "Apitech",
+      "defname": "GathererFrontLeg_Apini",
+      "price": 3000
+    },
+    {
+      "abr": "honey(bardsong)",
+      "category": "Honey",
+      "defname": "Honey_B",
+      "price": -10
+    },
+    {
+      "abr": "honey(emberose)",
+      "category": "Honey",
+      "defname": "Honey_E",
+      "price": -10
+    },
+    {
+      "abr": "honey(frostbell)",
+      "category": "Honey",
+      "defname": "Honey_F",
+      "price": -10
+    },
+    {
+      "abr": "honey(metalily)",
+      "category": "Honey",
+      "defname": "Honey_M",
+      "price": -10
+    },
+    {
+      "abr": "honey(rushthorn)",
+      "category": "Honey",
+      "defname": "Honey_R",
+      "price": -10
+    },
+    {
+      "abr": "honey(unflavored)",
+      "category": "Honey",
+      "defname": "ApiniHoney",
+      "price": -10
+    },
+    {
+      "abr": "honey(vigorbloom)",
+      "category": "Honey",
+      "defname": "Honey_V",
+      "price": -10
+    },
+    {
+      "abr": "honey(wiserbud)",
+      "category": "Honey",
+      "defname": "Honey_W",
+      "price": -10
+    },
+    {
+      "abr": "honeycapsule",
+      "category": "Meubles",
+      "defname": "HoneyCapsule",
+      "price": -10
+    },
+    {
+      "abr": "honeycapsule(bardsong)",
+      "category": "Meubles",
+      "defname": "Vat_B",
+      "price": -10
+    },
+    {
+      "abr": "honeycapsule(emberose)",
+      "category": "Meubles",
+      "defname": "Vat_E",
+      "price": -10
+    },
+    {
+      "abr": "honeycapsule(frostbell)",
+      "category": "Meubles",
+      "defname": "Vat_F",
+      "price": -10
+    },
+    {
+      "abr": "honeycapsule(metalily)",
+      "category": "Meubles",
+      "defname": "Vat_M",
+      "price": -10
+    },
+    {
+      "abr": "honeycapsule(rushthorn)",
+      "category": "Meubles",
+      "defname": "Vat_R",
+      "price": -10
+    },
+    {
+      "abr": "honeycapsule(vigorbloom)",
+      "category": "Meubles",
+      "defname": "Vat_V",
+      "price": -10
+    },
+    {
+      "abr": "honeycapsule(wiserbud)",
+      "category": "Meubles",
+      "defname": "Vat_W",
+      "price": -10
+    },
+    {
+      "abr": "honeyglasshelmet",
+      "category": "Coiffures",
+      "defname": "ApiniHoneyGlassHelmet",
+      "price": 319
+    },
+    {
+      "abr": "honeystomach",
+      "category": "Natural",
+      "defname": "HoneyStomach",
+      "price": 833
+    },
+    {
+      "abr": "honeyvat",
+      "category": "Meubles",
+      "defname": "HoneyVat",
+      "price": -10
+    },
+    {
+      "abr": "honeywall",
+      "category": "Meubles",
+      "defname": "HoneyWall",
+      "price": -10
+    },
+    {
+      "abr": "honeycombdoublebed",
+      "category": "Meubles",
+      "defname": "HoneycombBed_L",
+      "price": -10
+    },
+    {
+      "abr": "honeycombsinglebed",
+      "category": "Meubles",
+      "defname": "HoneycombBed_S",
+      "price": -10
+    },
+    {
+      "abr": "honeyglassscythe",
+      "category": "Armes de mêlée",
+      "defname": "ApiniScythe",
+      "price": 400
+    },
+    {
+      "abr": "honey-turret",
+      "category": "Sécurité",
+      "defname": "Turret_HoneyTurret",
+      "price": 667
+    },
+    {
+      "abr": "horridhoneymeal",
+      "category": "Plats",
+      "defname": "BG_HorridHoneyMeal",
+      "price": 17
+    },
+    {
+      "abr": "insectantenna",
+      "category": "Natural",
+      "defname": "InsectAntenna",
+      "price": 250
+    },
+    {
+      "abr": "insectheart",
+      "category": "Natural",
+      "defname": "InsectHeart",
+      "price": 1250
+    },
+    {
+      "abr": "insectleg",
+      "category": "Natural",
+      "defname": "InsectLeg",
+      "price": 333
+    },
+    {
+      "abr": "insectmouth",
+      "category": "Natural",
+      "defname": "InsectMouth",
+      "price": 1250
+    },
+    {
+      "abr": "insectsting",
+      "category": "Natural",
+      "defname": "InsectSting",
+      "price": 833
+    },
+    {
+      "abr": "insectwing",
+      "category": "Natural",
+      "defname": "InsectWing",
+      "price": 417
+    },
+    {
+      "abr": "legreflexenhancement",
+      "category": "Apitech",
+      "defname": "ReflexEnhancement_Apini",
+      "price": 3667
+    },
+    {
+      "abr": "monarchmandibles",
+      "category": "Apitech",
+      "defname": "MonarchMandibles_Apini",
+      "price": 6333
+    },
+    {
+      "abr": "moobee",
+      "category": "Animal",
+      "defname": "Moobee",
+      "price": 1667
+    },
+    {
+      "abr": "moobeechitin",
+      "category": "Cuirs",
+      "defname": "moobee_chitin",
+      "price": -10
+    },
+    {
+      "abr": "moobeeegg(fert.)",
+      "category": "Œufs (fécondés)",
+      "defname": "MoobeeEgg",
+      "price": -10
+    },
+    {
+      "abr": "moobeeegg(unfert.)",
+      "category": "Œufs (non fécondés)",
+      "defname": "MoobeeEggUnfertilized",
+      "price": -10
+    },
+    {
+      "abr": "nectar(bardsong)",
+      "category": "Nectar",
+      "defname": "Nectar_B",
+      "price": -10
+    },
+    {
+      "abr": "nectar(emberose)",
+      "category": "Nectar",
+      "defname": "Nectar_E",
+      "price": -10
+    },
+    {
+      "abr": "nectar(frostbell)",
+      "category": "Nectar",
+      "defname": "Nectar_F",
+      "price": -10
+    },
+    {
+      "abr": "nectar(metalily)",
+      "category": "Nectar",
+      "defname": "Nectar_M",
+      "price": -10
+    },
+    {
+      "abr": "nectar(rushthorn)",
+      "category": "Nectar",
+      "defname": "Nectar_R",
+      "price": -10
+    },
+    {
+      "abr": "nectar(unflavored)",
+      "category": "Nectar",
+      "defname": "Nectar",
+      "price": -10
+    },
+    {
+      "abr": "nectar(vigorbloom)",
+      "category": "Nectar",
+      "defname": "Nectar_V",
+      "price": -10
+    },
+    {
+      "abr": "nectar(wiserbud)",
+      "category": "Nectar",
+      "defname": "Nectar_W",
+      "price": -10
+    },
+    {
+      "abr": "neuroenhancer",
+      "category": "Apitech",
+      "defname": "Neuroenhancer_Apini",
+      "price": 4000
+    },
+    {
+      "abr": "ocularenhancement",
+      "category": "Apitech",
+      "defname": "OcularEnhancement_Apini",
+      "price": 3333
+    },
+    {
+      "abr": "oilyheart",
+      "category": "Prothèses",
+      "defname": "BG_OilHeart",
+      "price": -10
+    },
+    {
+      "abr": "plasticlungs",
+      "category": "Prothèses",
+      "defname": "BG_PlasticLungs",
+      "price": -10
+    },
+    {
+      "abr": "pollen",
+      "category": "Pollen",
+      "defname": "Pollen",
+      "price": -10
+    },
+    {
+      "abr": "pollenball",
+      "category": "Pollen",
+      "defname": "PollenBall",
+      "price": -10
+    },
+    {
+      "abr": "pollenball(bardsong)",
+      "category": "Pollen",
+      "defname": "PollenBall_B",
+      "price": -10
+    },
+    {
+      "abr": "pollenball(emberose)",
+      "category": "Pollen",
+      "defname": "PollenBall_E",
+      "price": -10
+    },
+    {
+      "abr": "pollenball(frostbell)",
+      "category": "Pollen",
+      "defname": "PollenBall_F",
+      "price": -10
+    },
+    {
+      "abr": "pollenball(metalily)",
+      "category": "Pollen",
+      "defname": "PollenBall_M",
+      "price": -10
+    },
+    {
+      "abr": "pollenball(rushthorn)",
+      "category": "Pollen",
+      "defname": "PollenBall_R",
+      "price": -10
+    },
+    {
+      "abr": "pollenball(vigorbloom)",
+      "category": "Pollen",
+      "defname": "PollenBall_V",
+      "price": -10
+    },
+    {
+      "abr": "pollenball(wiserbud)",
+      "category": "Pollen",
+      "defname": "PollenBall_W",
+      "price": -10
+    },
+    {
+      "abr": "proboscisenhancement",
+      "category": "Apitech",
+      "defname": "ProboscisEnhancement_Apini",
+      "price": 2000
+    },
+    {
+      "abr": "prostheticantenna",
+      "category": "Artificial",
+      "defname": "ProstheticAntenna",
+      "price": 250
+    },
+    {
+      "abr": "prostheticwing",
+      "category": "Artificial",
+      "defname": "ProstheticWing",
+      "price": 250
+    },
+    {
+      "abr": "regenerativeenzymes",
+      "category": "Apitech",
+      "defname": "RegenerativeEnzymes_Apini",
+      "price": 3000
+    },
+    {
+      "abr": "signalreceptor",
+      "category": "Apitech",
+      "defname": "SignalReceptor_Apini",
+      "price": 2333
+    },
+    {
+      "abr": "songstressmandibles",
+      "category": "Apitech",
+      "defname": "SongstressMandibles_Apini",
+      "price": 2667
+    },
+    {
+      "abr": "techno-wing",
+      "category": "Prothèses",
+      "defname": "BG_TechnoWings",
+      "price": -10
+    },
+    {
+      "abr": "vianded'apini",
+      "category": "Viandes crues",
+      "defname": "Meat_Apini",
+      "price": -10
+    },
+    {
+      "abr": "vianded'azuri",
+      "category": "Viandes crues",
+      "defname": "Meat_Azuri",
+      "price": -10
+    },
+    {
+      "abr": "wingaeratorimplant",
+      "category": "Apitech",
+      "defname": "WingAerator_Apini",
+      "price": 2667
+    },
+    {
+      "abr": "wingbreezerimplant",
+      "category": "Apitech",
+      "defname": "WingBreezer_Apini",
+      "price": 2333
+    },
+    {
+      "abr": "wingwarmerimplant",
+      "category": "Apitech",
+      "defname": "WingWarmer_Apini",
+      "price": 2333
+    },
+    {
       "abr": "ğùèșṭlit",
       "category": "Meubles",
       "defname": "BedGuest",
-      "price": -10
+      "price": 155
     },
     {
       "abr": "ğùèșṭlitdouble",
       "category": "Meubles",
       "defname": "DoubleBedGuest",
-      "price": -10
+      "price": 292
     },
     {
       "abr": "ğùèșṭlitroyal",
       "category": "Meubles",
       "defname": "RoyalBedGuest",
-      "price": -10
+      "price": 1467
     },
     {
       "abr": "ğùèșṭlitmédicalisé",
       "category": "Meubles",
       "defname": "HospitalBedGuest",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "ğùèșṭsacdecouchage",
       "category": "Meubles",
       "defname": "BedrollGuest",
-      "price": -10
+      "price": 137
     },
     {
       "abr": "ğùèșṭsacdecouchagedouble",
       "category": "Meubles",
       "defname": "BedrollDoubleGuest",
-      "price": -10
-    },
-    {
-      "abr": "ğùèșṭoperatingtable",
-      "category": "Meubles",
-      "defname": "Bed_OperatingTableGuest",
-      "price": -10
-    },
-    {
-      "abr": "ğùèșṭcryptosleepsuspender",
-      "category": "Meubles",
-      "defname": "Bed_CryptoBedGuest",
-      "price": -10
+      "price": 290
     },
     {
       "abr": "ğùèșṭhoneycombsinglebed",
       "category": "Meubles",
       "defname": "HoneycombBed_SGuest",
-      "price": -10
+      "price": 1025
     },
     {
       "abr": "ğùèșṭhoneycombdoublebed",
       "category": "Meubles",
       "defname": "HoneycombBed_LGuest",
-      "price": -10
+      "price": 1575
+    },
+    {
+      "abr": "ğùèșṭoperatingtable",
+      "category": "Meubles",
+      "defname": "Bed_OperatingTableGuest",
+      "price": 508
+    },
+    {
+      "abr": "ğùèșṭcryptosleepsuspender",
+      "category": "Meubles",
+      "defname": "Bed_CryptoBedGuest",
+      "price": 733
     },
     {
       "abr": "ğùèșṭslabbed",
       "category": "Meubles",
       "defname": "Bed_StoneSlabGuest",
-      "price": -10
+      "price": 111
     },
     {
       "abr": "ğùèșṭsimplebed",
       "category": "Meubles",
       "defname": "Bed_SimpleGuest",
-      "price": -10
+      "price": 137
     },
     {
       "abr": "ğùèșṭergonomicbed",
       "category": "Meubles",
       "defname": "Bed_ErgonomicGuest",
-      "price": -10
+      "price": 450
     },
     {
       "abr": "ğùèșṭergonomicdoublebed",
       "category": "Meubles",
       "defname": "Bed_DoubleErgonomicGuest",
-      "price": -10
+      "price": 867
     },
     {
       "abr": "ğùèșṭroyalposterbed",
       "category": "Meubles",
       "defname": "Bed_KingsizeGuest",
-      "price": -10
+      "price": 2008
     }
   ],
-  "total": 1311
+  "total": 1322
 }
