@@ -7846,91 +7846,91 @@
       "abr": "ğùèșṭlit",
       "category": "Meubles",
       "defname": "BedGuest",
-      "price": 155
+      "price": -10
     },
     {
       "abr": "ğùèșṭlitdouble",
       "category": "Meubles",
       "defname": "DoubleBedGuest",
-      "price": 292
+      "price": -10
     },
     {
       "abr": "ğùèșṭlitroyal",
       "category": "Meubles",
       "defname": "RoyalBedGuest",
-      "price": 1467
+      "price": -10
     },
     {
       "abr": "ğùèșṭlitmédicalisé",
       "category": "Meubles",
       "defname": "HospitalBedGuest",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "ğùèșṭsacdecouchage",
       "category": "Meubles",
       "defname": "BedrollGuest",
-      "price": 137
+      "price": -10
     },
     {
       "abr": "ğùèșṭsacdecouchagedouble",
       "category": "Meubles",
       "defname": "BedrollDoubleGuest",
-      "price": 290
+      "price": -10
     },
     {
       "abr": "ğùèșṭhoneycombsinglebed",
       "category": "Meubles",
       "defname": "HoneycombBed_SGuest",
-      "price": 1025
+      "price": -10
     },
     {
       "abr": "ğùèșṭhoneycombdoublebed",
       "category": "Meubles",
       "defname": "HoneycombBed_LGuest",
-      "price": 1575
+      "price": -10
     },
     {
       "abr": "ğùèșṭoperatingtable",
       "category": "Meubles",
       "defname": "Bed_OperatingTableGuest",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "ğùèșṭcryptosleepsuspender",
       "category": "Meubles",
       "defname": "Bed_CryptoBedGuest",
-      "price": 733
+      "price": -10
     },
     {
       "abr": "ğùèșṭslabbed",
       "category": "Meubles",
       "defname": "Bed_StoneSlabGuest",
-      "price": 111
+      "price": -10
     },
     {
       "abr": "ğùèșṭsimplebed",
       "category": "Meubles",
       "defname": "Bed_SimpleGuest",
-      "price": 137
+      "price": -10
     },
     {
       "abr": "ğùèșṭergonomicbed",
       "category": "Meubles",
       "defname": "Bed_ErgonomicGuest",
-      "price": 450
+      "price": -10
     },
     {
       "abr": "ğùèșṭergonomicdoublebed",
       "category": "Meubles",
       "defname": "Bed_DoubleErgonomicGuest",
-      "price": 867
+      "price": -10
     },
     {
       "abr": "ğùèșṭroyalposterbed",
       "category": "Meubles",
       "defname": "Bed_KingsizeGuest",
-      "price": 2008
+      "price": -10
     }
   ],
   "total": 1322
