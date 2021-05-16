@@ -1613,16 +1613,16 @@
       }
     },
     {
-      "price": 20000,
+      "price": 8333,
       "defName": "Human_BeeBot",
-      "enabled": true,
+      "enabled": false,
       "name": "BeeBot",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 7000,
+      "price": 4000,
       "defName": "Human_BeeGirl",
       "enabled": true,
       "name": "BeeGirl",
@@ -1658,7 +1658,7 @@
       }
     },
     {
-      "price": 15000,
+      "price": 8000,
       "defName": "Human_BeeQueen",
       "enabled": true,
       "name": "Queen Bee",
