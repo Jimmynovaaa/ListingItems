@@ -24,18 +24,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Jack7D1",
-    "name": "Apini Playable Race, Continued!"
-  },
-  {
     "author": "Sarg",
     "name": "RimBees",
     "steamId": "1558161673",
     "version": "1.0.7.0"
-  },
-  {
-    "author": "CoolGuy27",
-    "name": "BeeGirl Race: RimBees Addon"
   },
   {
     "author": "Roolo",
@@ -350,10 +342,6 @@
     "name": "WeaponStats"
   },
   {
-    "author": "Spdskatr",
-    "name": "Damage Indicators"
-  },
-  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
@@ -386,5 +374,29 @@
     "name": "[KV] Faction Control",
     "steamId": "1509102551",
     "version": "1.0.7546.40571"
+  },
+  {
+    "author": "latta",
+    "name": "FSharp.Core"
+  },
+  {
+    "author": "latta",
+    "name": "Infusion 2"
+  },
+  {
+    "author": "NotFood",
+    "name": "MendAndRecycle",
+    "steamId": "735241897",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Xtra Trees and Flowers"
+  },
+  {
+    "author": "Spdskatr, CaesarV6",
+    "name": "Damage Indicators [1.2]",
+    "steamId": "2016331497",
+    "version": "1.0.0.0"
   }
 ]
