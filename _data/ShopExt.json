@@ -447,47 +447,6 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "defName": "ApiniDrone",
-      "degree": 0,
-      "name": "drone",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": [
-          "Consommation excessive de drogue ṁèƞṭàſ șṭàṭè ðìșàþſèð.",
-          "Consommation importante de drogue ṁèƞṭàſ șṭàṭè ðìșàþſèð.",
-          "+6 intellectuel",
-          "+4 sociabilité",
-          "-10% temps de tir",
-          "+1.0 précision de tir",
-          "+12% seuil de crise de nerfs",
-          "-50% vitesse de travail agricole",
-          "-20% probabilité de déclenchement du piège",
-          "+10.00% impact des discussions"
-        ]
-      },
-      "description": "Timmy is a rare male Apini, who narrowly escaped death by snoo-snoo.\nDrones have special eyes for spotting queens.",
-      "stats": [
-        "Consommation excessive de drogue ṁèƞṭàſ șṭàṭè ðìșàþſèð.",
-        "Consommation importante de drogue ṁèƞṭàſ șṭàṭè ðìșàþſèð.",
-        "+6 intellectuel",
-        "+4 sociabilité",
-        "-10% temps de tir",
-        "+1.0 précision de tir",
-        "+12% seuil de crise de nerfs",
-        "-50% vitesse de travail agricole",
-        "-20% probabilité de déclenchement du piège",
-        "+10.00% impact des discussions"
-      ],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
       "defName": "ShootingAccuracy",
       "degree": -1,
       "name": "gâchettefacile",
@@ -1595,42 +1554,6 @@
   ],
   "races": [
     {
-      "price": 1667,
-      "defName": "Apini",
-      "enabled": false,
-      "name": "apini",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 2500,
-      "defName": "Azuri",
-      "enabled": false,
-      "name": "azuri",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 8333,
-      "defName": "Human_BeeBot",
-      "enabled": false,
-      "name": "BeeBot",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 4000,
-      "defName": "Human_BeeGirl",
-      "enabled": true,
-      "name": "BeeGirl",
-      "data": {
-        "customName": false
-      }
-    },
-    {
       "price": 2083,
       "defName": "Alien_Cutebold",
       "enabled": false,
@@ -1642,7 +1565,7 @@
     {
       "price": 2917,
       "defName": "Human",
-      "enabled": false,
+      "enabled": true,
       "name": "humain",
       "data": {
         "customName": false
@@ -1653,15 +1576,6 @@
       "defName": "Lemolim",
       "enabled": false,
       "name": "lemolim",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 8000,
-      "defName": "Human_BeeQueen",
-      "enabled": true,
-      "name": "Queen Bee",
       "data": {
         "customName": false
       }
