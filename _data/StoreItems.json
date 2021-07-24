@@ -1474,7 +1474,7 @@
       "abr": "jointdesmokeleaf",
       "category": "Drogues",
       "defname": "SmokeleafJoint",
-      "price": 18
+      "price": -10
     },
     {
       "abr": "laboratoirechimique",
@@ -1666,7 +1666,7 @@
       "abr": "luciferium",
       "category": "Drogues",
       "defname": "Luciferium",
-      "price": -10
+      "price": 150
     },
     {
       "abr": "lumièrecrépusculaire",
@@ -2236,7 +2236,7 @@
       "abr": "piègeàpointes",
       "category": "Sécurité",
       "defname": "TrapSpike",
-      "price": 169
+      "price": -10
     },
     {
       "abr": "piègeanti-incendieimprovisé",
@@ -2764,19 +2764,19 @@
       "abr": "archotechshieldgenerator",
       "category": "Spécial",
       "defname": "VFES_ShieldGenerator_Archotech",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "artillery",
       "category": "Sécurité",
       "defname": "VFES_Turret_Artillery",
-      "price": 1408
+      "price": -10
     },
     {
       "abr": "beartrap",
       "category": "Sécurité",
       "defname": "VFES_BearTrap",
-      "price": 236
+      "price": -10
     },
     {
       "abr": "bench",
@@ -2800,7 +2800,7 @@
       "abr": "chargeturret",
       "category": "Sécurité",
       "defname": "VFES_Turret_ChargeTurret",
-      "price": 1358
+      "price": -10
     },
     {
       "abr": "chefjacket",
@@ -2818,7 +2818,7 @@
       "abr": "chemfuelbarrel",
       "category": "Sécurité",
       "defname": "VFES_ChemfuelBarrel",
-      "price": 296
+      "price": -10
     },
     {
       "abr": "constructionjacket",
@@ -2842,13 +2842,13 @@
       "abr": "decoy",
       "category": "Sécurité",
       "defname": "VFES_Turret_Decoy",
-      "price": 140
+      "price": -10
     },
     {
       "abr": "deployableturret",
       "category": "Sécurité",
       "defname": "VFES_Turret_FloorTurret",
-      "price": 983
+      "price": -10
     },
     {
       "abr": "desertheadwrap",
@@ -2932,7 +2932,7 @@
       "abr": "flameturret",
       "category": "Sécurité",
       "defname": "VFES_Turret_Flame",
-      "price": 1117
+      "price": -10
     },
     {
       "abr": "fueledsmelter",
@@ -2986,7 +2986,7 @@
       "abr": "landmine",
       "category": "Sécurité",
       "defname": "VFES_Landmine",
-      "price": 261
+      "price": -10
     },
     {
       "abr": "largebin",
@@ -3016,7 +3016,7 @@
       "abr": "militaryturret",
       "category": "Sécurité",
       "defname": "VFES_Turret_MilitaryTurret",
-      "price": 842
+      "price": -10
     },
     {
       "abr": "moderncomputer",
@@ -3052,7 +3052,7 @@
       "abr": "psychicpylon",
       "category": "Spécial",
       "defname": "VFES_PsychicPylon",
-      "price": 2167
+      "price": -10
     },
     {
       "abr": "punchingbag",
@@ -3148,13 +3148,13 @@
       "abr": "searchlight",
       "category": "Sécurité",
       "defname": "VFES_Turret_Searchlight",
-      "price": 475
+      "price": -10
     },
     {
       "abr": "sentrygun",
       "category": "Sécurité",
       "defname": "VFES_Turret_SentryGun",
-      "price": 1058
+      "price": -10
     },
     {
       "abr": "shelf(1x1)",
@@ -3190,7 +3190,7 @@
       "abr": "smallshieldgenerator",
       "category": "Sécurité",
       "defname": "VFES_ShieldGenerator_Small",
-      "price": 3983
+      "price": -10
     },
     {
       "abr": "smithingcabinet",
@@ -5482,7 +5482,7 @@
       "abr": "tablederéparation",
       "category": "Production",
       "defname": "TableMending",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "adaptivedrone",
@@ -6172,7 +6172,7 @@
       "abr": "honeyedicepop",
       "category": "Honey food products",
       "defname": "RB_HoneyedIcePop",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "hybriddrone",
@@ -6820,7 +6820,7 @@
       "abr": "troussederéparation",
       "category": "Produits manufacturés",
       "defname": "MendingKit",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "weavingdrone",
@@ -6856,13 +6856,13 @@
       "abr": "wildbeehive,mild",
       "category": "Beekeeping",
       "defname": "RB_WildHive_Mild",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "wildbeehive,temperate",
       "category": "Beekeeping",
       "defname": "RB_WildHive_Temperate",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "woodlanddrone",
@@ -6901,28 +6901,58 @@
       "price": -10
     },
     {
-      "abr": "commonìƞƒùșèṟ",
+      "abr": "clustercolumn",
+      "category": "Sécurité",
+      "defname": "DetColumnMod",
+      "price": -10
+    },
+    {
+      "abr": "frozencolumn",
+      "category": "Divers",
+      "defname": "IceColumnMod",
+      "price": 833
+    },
+    {
+      "abr": "lightcolumn",
+      "category": "Divers",
+      "defname": "LightColumnMod",
+      "price": 170
+    },
+    {
+      "abr": "orbitaltradecolumn",
+      "category": "Divers",
+      "defname": "OrbitalTradeColumnMod",
+      "price": 358
+    },
+    {
+      "abr": "suncolumn",
+      "category": "Divers",
+      "defname": "SunColumnMod",
+      "price": 725
+    },
+    {
+      "abr": "commoninfuser",
       "category": "Infusers",
       "defname": "Infusion_Infuser_Common",
-      "price": -10
+      "price": 333
     },
     {
-      "abr": "uncommonìƞƒùșèṟ",
+      "abr": "uncommoninfuser",
       "category": "Infusers",
       "defname": "Infusion_Infuser_Uncommon",
-      "price": -10
+      "price": 833
     },
     {
-      "abr": "rareìƞƒùșèṟ",
+      "abr": "rareinfuser",
       "category": "Infusers",
       "defname": "Infusion_Infuser_Rare",
-      "price": -10
+      "price": 1833
     },
     {
-      "abr": "legendaryìƞƒùșèṟ",
+      "abr": "legendaryinfuser",
       "category": "Infusers",
       "defname": "Infusion_Infuser_Legendary",
-      "price": -10
+      "price": 3000
     },
     {
       "abr": "invitélit",
@@ -7003,5 +7033,5 @@
       "price": -10
     }
   ],
-  "total": 1167
+  "total": 1172
 }
