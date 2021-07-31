@@ -65,7 +65,7 @@
     {
       "description": "Timmy est une personne exceptionnellement agréable. il a une manière spéciale d'utiliser des mots gentils pour égayer la journée des autres. il ne va jamais les insulter, et ne juge jamais les autres par leur apparence.",
       "stats": [
-
+        "x200% global certainty loss factor"
       ],
       "conflicts": [
         "incisif",
@@ -83,7 +83,7 @@
           "psychopathe"
         ],
         "stats": [
-
+          "x200% global certainty loss factor"
         ]
       },
       "defName": "Kind",
@@ -749,7 +749,7 @@
     {
       "description": "Timmy dit toujours ce qu'il pense, tout spécialement si cela l'énerve ! En général, les gens apprécient moyennement…",
       "stats": [
-
+        "x50% global certainty loss factor"
       ],
       "conflicts": [
 
@@ -765,7 +765,7 @@
 
         ],
         "stats": [
-
+          "x50% global certainty loss factor"
         ]
       },
       "defName": "Abrasive",
@@ -934,7 +934,7 @@
         "Morbide meditation focus type allowed."
       ],
       "conflicts": [
-
+        "douillet"
       ],
       "bypassLimit": false,
       "data": {
@@ -944,7 +944,7 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "douillet"
         ],
         "stats": [
           "Morbide meditation focus type allowed."
@@ -2059,47 +2059,39 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1
+    },
+    {
+      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. il will prefer fishing above other activities.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Fishing Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VCEF_Fisherman",
+      "name": "fisherman",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
-    {
-      "data": {
-        "stats": [
-          "+39.00 Poids",
-          "+70% Inflammabilité",
-          "+75% Sensibilité psychique",
-          "+75% Sensibilité à la toxicité",
-          "+10.0C Température minimale de confort",
-          "+30.0C Température maximale de confort",
-          "+50 Quantité de cuir",
-          "+1250 € Valeur marchande",
-          "+4.50 Vitesse de déplacement",
-          "+75 Capacité de transport",
-          "+110% Facteur d'apprentissage global",
-          "+80% Vitesse de recherche",
-          "+130% Vitesse de minage",
-          "+115% Rendement minier",
-          "+75.00% Impact des discussions",
-          "+105% Vitesse de travail agricole",
-          "+105% Risque d'échec de récolte",
-          "+75% Vitesse de construction",
-          "+0.4 Probabilité d'esquiver en mêlée",
-          "+20% Chance de déclencher un piège",
-          "+110% Chasse furtive",
-          "+90% Vitesse de travail avec les animaux",
-          "+1 Valeur d'honneur",
-          "+17.5% Armure - Perforant"
-        ],
-        "mod": "Cutebold Race",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A small, squat humanoid with large, droopy ears and glowing yellow eyes. They are mostly harmless and easily scared off by larger humanoids.",
-      "defName": "Alien_Cutebold",
-      "enabled": false,
-      "name": "Cutebold",
-      "price": 2083
-    },
     {
       "data": {
         "stats": [
@@ -2109,7 +2101,7 @@
           "+4.60 Vitesse de déplacement",
           "+16.0C Température minimale de confort",
           "+26.0C Température maximale de confort",
-          "+50 Quantité de cuir",
+          "+75 Quantité de cuir",
           "+3 Valeur d'honneur"
         ],
         "mod": "RimWorld",
@@ -2121,52 +2113,6 @@
       "enabled": false,
       "name": "humain",
       "price": 2917
-    },
-    {
-      "data": {
-        "stats": [
-          "+50.00 Poids",
-          "+70% Inflammabilité",
-          "+21.0C Température minimale de confort",
-          "+48.0C Température maximale de confort",
-          "+30% Seuil de crise de nerfs",
-          "+5.50 Vitesse de déplacement",
-          "+120% Vitesse de réponse immunitaire",
-          "+80% Sensibilité à la toxicité",
-          "+95% Multiplicateur du taux de faim",
-          "+120% Vitesse de travail agricole",
-          "+120% Risque d'échec de récolte",
-          "+1.2 Vitesse de cuisine",
-          "+120% Efficacité de boucherie",
-          "+120% Efficacité du déchiquetage",
-          "+120% Vitesse de travail avec les animaux",
-          "+120% Chasse furtive",
-          "+35 Quantité de cuir",
-          "+75% Seuil de choc à la douleur",
-          "+80% Vitesse de minage",
-          "+80% Vitesse de forage en profondeur",
-          "+75% Rendement minier",
-          "+90% Vitesse d'opération chirurgicale",
-          "+85% Chance de réussir une opération médicale",
-          "+90% Vitesse des soins médicaux",
-          "+85% Qualité des soins médicaux",
-          "+80% Vitesse de construction",
-          "+115.00% Risque d'intoxication alimentaire",
-          "+90% Vitesse de brassage",
-          "+90% Production de médicaments",
-          "+85% Vitesse de recherche",
-          "+90% Vitesse de fonte",
-          "+2250 € Valeur marchande"
-        ],
-        "mod": "Lemolim Race",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "An anthropomorphic feline that likes to live in hot climates. They are known for having abnormal regenerative properties.",
-      "defName": "Lemolim",
-      "enabled": false,
-      "name": "lemolim",
-      "price": 3750
     }
   ]
 }
