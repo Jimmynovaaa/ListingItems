@@ -7,7 +7,7 @@
 	},
 	{
 		"abr": "tornados",
-		"price": 1,
+		"price": 2400,
 		"karmatype": "Bad"
 	},
 	{
@@ -113,11 +113,6 @@
 	{
 		"abr": "resourcepodcrash",
 		"price": 300,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "transportpodcrash",
-		"price": 600,
 		"karmatype": "Good"
 	},
 	{
@@ -426,5 +421,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 85
+	"total": 84
 }
