@@ -1,4457 +1,4841 @@
 {
-  "items": [
-    {
-      "abr": "acier",
-      "category": "Ressources brutes",
-      "defname": "Steel",
-      "price": -10
-    },
-    {
-      "abr": "activateurdeguérison",
-      "category": "Bioniques",
-      "defname": "HealingEnhancer",
-      "price": -10
-    },
-    {
-      "abr": "activateurd'immunité",
-      "category": "Bioniques",
-      "defname": "Immunoenhancer",
-      "price": -10
-    },
-    {
-      "abr": "alpaga",
-      "category": "Animaux",
-      "defname": "Alpaca",
-      "price": -10
-    },
-    {
-      "abr": "alphacastor",
-      "category": "Animaux",
-      "defname": "Alphabeaver",
-      "price": -10
-    },
-    {
-      "abr": "alternateurdecyclecircadien",
-      "category": "Bioniques",
-      "defname": "CircadianHalfCycler",
-      "price": -10
-    },
-    {
-      "abr": "ambroisie",
-      "category": "Drogues",
-      "defname": "Ambrosia",
-      "price": -10
-    },
-    {
-      "abr": "âne",
-      "category": "Animaux",
-      "defname": "Donkey",
-      "price": -10
-    },
-    {
-      "abr": "arccomposite",
-      "category": "Armes à distance",
-      "defname": "Bow_Recurve",
-      "price": -10
-    },
-    {
-      "abr": "arccourt",
-      "category": "Armes à distance",
-      "defname": "Bow_Short",
-      "price": -10
-    },
-    {
-      "abr": "arclong",
-      "category": "Armes à distance",
-      "defname": "Bow_Great",
-      "price": -10
-    },
-    {
-      "abr": "argent",
-      "category": "Ressources brutes",
-      "defname": "Silver",
-      "price": -10
-    },
-    {
-      "abr": "armuredecataphracte",
-      "category": "Armures",
-      "defname": "Apparel_ArmorCataphract",
-      "price": -10
-    },
-    {
-      "abr": "armuredecommando",
-      "category": "Armures",
-      "defname": "Apparel_PowerArmor",
-      "price": -10
-    },
-    {
-      "abr": "armuredegrenadier",
-      "category": "Armures",
-      "defname": "Apparel_ArmorMarineGrenadier",
-      "price": -10
-    },
-    {
-      "abr": "armuredeplates",
-      "category": "Armures",
-      "defname": "Apparel_PlateArmor",
-      "price": -10
-    },
-    {
-      "abr": "armuredereconnaissance",
-      "category": "Armures",
-      "defname": "Apparel_ArmorRecon",
-      "price": -10
-    },
-    {
-      "abr": "armuredevol",
-      "category": "Armures",
-      "defname": "Apparel_ArmorLocust",
-      "price": -10
-    },
-    {
-      "abr": "armurephoenix",
-      "category": "Armures",
-      "defname": "Apparel_ArmorCataphractPhoenix",
-      "price": -10
-    },
-    {
-      "abr": "artefactdefolie",
-      "category": "Utilitaires",
-      "defname": "Apparel_PsychicInsanityLance",
-      "price": -10
-    },
-    {
-      "abr": "artefactdeperturbationpsychique",
-      "category": "Utilitaires",
-      "defname": "Apparel_PsychicShockLance",
-      "price": -10
-    },
-    {
-      "abr": "artefactd'impulsionanimale",
-      "category": "Artéfacts",
-      "defname": "PsychicAnimalPulser",
-      "price": -10
-    },
-    {
-      "abr": "artefactd'impulsioncalmante",
-      "category": "Artéfacts",
-      "defname": "PsychicSoothePulser",
-      "price": -10
-    },
-    {
-      "abr": "assistantcircadien",
-      "category": "Bioniques",
-      "defname": "CircadianAssistant",
-      "price": -10
-    },
-    {
-      "abr": "assistantd'apprentissage",
-      "category": "Bioniques",
-      "defname": "LearningAssistant",
-      "price": -10
-    },
-    {
-      "abr": "autruche",
-      "category": "Animaux",
-      "defname": "Ostrich",
-      "price": -10
-    },
-    {
-      "abr": "baie",
-      "category": "Végétaux",
-      "defname": "RawBerries",
-      "price": -10
-    },
-    {
-      "abr": "balisedecommerceorbital",
-      "category": "Divers",
-      "defname": "OrbitalTradeBeacon",
-      "price": -10
-    },
-    {
-      "abr": "balisededébarquementpourvaisseau",
-      "category": "Divers",
-      "defname": "ShipLandingBeacon",
-      "price": -10
-    },
-    {
-      "abr": "barildefermentation",
-      "category": "Production",
-      "defname": "FermentingBarrel",
-      "price": -10
-    },
-    {
-      "abr": "bâtoneneltex",
-      "category": "Armes de mêlée",
-      "defname": "MeleeWeapon_PsyfocusStaff",
-      "price": -10
-    },
-    {
-      "abr": "batterie",
-      "category": "Énergie",
-      "defname": "Battery",
-      "price": -10
-    },
-    {
-      "abr": "béret",
-      "category": "Coiffure",
-      "defname": "Apparel_Beret",
-      "price": -10
-    },
-    {
-      "abr": "bière",
-      "category": "Drogues",
-      "defname": "Beer",
-      "price": 20
-    },
-    {
-      "abr": "bison",
-      "category": "Animaux",
-      "defname": "Bison",
-      "price": -10
-    },
-    {
-      "abr": "blocd'ardoise",
-      "category": "Blocs de pierre",
-      "defname": "BlocksSlate",
-      "price": -10
-    },
-    {
-      "abr": "blocdecalcaire",
-      "category": "Blocs de pierre",
-      "defname": "BlocksLimestone",
-      "price": -10
-    },
-    {
-      "abr": "blocdegranite",
-      "category": "Blocs de pierre",
-      "defname": "BlocksGranite",
-      "price": -10
-    },
-    {
-      "abr": "blocdegrès",
-      "category": "Blocs de pierre",
-      "defname": "BlocksSandstone",
-      "price": -10
-    },
-    {
-      "abr": "blocdemarbre",
-      "category": "Blocs de pierre",
-      "defname": "BlocksMarble",
-      "price": -10
-    },
-    {
-      "abr": "bois",
-      "category": "Ressources brutes",
-      "defname": "WoodLog",
-      "price": -10
-    },
-    {
-      "abr": "bonnet",
-      "category": "Couvre-chefs",
-      "defname": "Apparel_Tuque",
-      "price": -10
-    },
-    {
-      "abr": "bonneteneltex",
-      "category": "Couvre-chefs",
-      "defname": "Apparel_EltexSkullcap",
-      "price": -10
-    },
-    {
-      "abr": "boomalope",
-      "category": "Animaux",
-      "defname": "Boomalope",
-      "price": -10
-    },
-    {
-      "abr": "bouclierd'énergie",
-      "category": "Utilitaires",
-      "defname": "Apparel_ShieldBelt",
-      "price": -10
-    },
-    {
-      "abr": "bouquetin",
-      "category": "Animaux",
-      "defname": "Ibex",
-      "price": -10
-    },
-    {
-      "abr": "boxpourpetitsanimaux",
-      "category": "Meubles",
-      "defname": "AnimalSleepingBox",
-      "price": -10
-    },
-    {
-      "abr": "brasarchotech",
-      "category": "Archotech",
-      "defname": "ArchotechArm",
-      "price": -10
-    },
-    {
-      "abr": "brasbionique",
-      "category": "Bioniques",
-      "defname": "BionicArm",
-      "price": -10
-    },
-    {
-      "abr": "brasdeforage",
-      "category": "Prothèses",
-      "defname": "DrillArm",
-      "price": -10
-    },
-    {
-      "abr": "brasero",
-      "category": "Meubles",
-      "defname": "Brazier",
-      "price": -10
-    },
-    {
-      "abr": "caisseàoutils",
-      "category": "Divers",
-      "defname": "ToolCabinet",
-      "price": -10
-    },
-    {
-      "abr": "canard",
-      "category": "Animaux",
-      "defname": "Duck",
-      "price": -10
-    },
-    {
-      "abr": "cape",
-      "category": "Vêtements nobles",
-      "defname": "Apparel_Cape",
-      "price": -10
-    },
-    {
-      "abr": "capuche",
-      "category": "Couvre-chefs",
-      "defname": "Apparel_HatHood",
-      "price": -10
-    },
-    {
-      "abr": "capybara",
-      "category": "Animaux",
-      "defname": "Capybara",
-      "price": -10
-    },
-    {
-      "abr": "carabinedesurvie",
-      "category": "Armes à distance",
-      "defname": "Gun_BoltActionRifle",
-      "price": -10
-    },
-    {
-      "abr": "carbu-réacteurinfini",
-      "category": "Spécial",
-      "defname": "InfiniteChemreactor",
-      "price": -10
-    },
-    {
-      "abr": "caribou",
-      "category": "Animaux",
-      "defname": "Caribou",
-      "price": -10
-    },
-    {
-      "abr": "casoar",
-      "category": "Animaux",
-      "defname": "Cassowary",
-      "price": -10
-    },
-    {
-      "abr": "casquedecataphracte",
-      "category": "Coiffures",
-      "defname": "Apparel_ArmorHelmetCataphract",
-      "price": -10
-    },
-    {
-      "abr": "casquedecommando",
-      "category": "Coiffures",
-      "defname": "Apparel_PowerArmorHelmet",
-      "price": -10
-    },
-    {
-      "abr": "casquedereconnaissance",
-      "category": "Coiffures",
-      "defname": "Apparel_ArmorHelmetRecon",
-      "price": -10
-    },
-    {
-      "abr": "casqueeneltex",
-      "category": "Couvre-chefs",
-      "defname": "Apparel_PsyfocusHelmet",
-      "price": -10
-    },
-    {
-      "abr": "casquerenforcé",
-      "category": "Coiffures",
-      "defname": "Apparel_AdvancedHelmet",
-      "price": -10
-    },
-    {
-      "abr": "casquesimple",
-      "category": "Coiffures",
-      "defname": "Apparel_SimpleHelmet",
-      "price": -10
-    },
-    {
-      "abr": "celluledepuissanceinstable",
-      "category": "Spécial",
-      "defname": "UnstablePowerCell",
-      "price": -10
-    },
-    {
-      "abr": "cerf",
-      "category": "Animaux",
-      "defname": "Deer",
-      "price": -10
-    },
-    {
-      "abr": "chairhumaine",
-      "category": "Viandes crues",
-      "defname": "Meat_Human",
-      "price": -10
-    },
-    {
-      "abr": "chaise",
-      "category": "Meubles",
-      "defname": "DiningChair",
-      "price": -10
-    },
-    {
-      "abr": "champignoncru",
-      "category": "Végétaux",
-      "defname": "RawFungus",
-      "price": -10
-    },
-    {
-      "abr": "chapeaudecowboy",
-      "category": "Couvre-chefs",
-      "defname": "Apparel_CowboyHat",
-      "price": -10
-    },
-    {
-      "abr": "chapeaudedames",
-      "category": "Coiffure",
-      "defname": "Apparel_HatLadies",
-      "price": -10
-    },
-    {
-      "abr": "chapeaumelon",
-      "category": "Couvre-chefs",
-      "defname": "Apparel_BowlerHat",
-      "price": -10
-    },
-    {
-      "abr": "chapeaupapierpsychique",
-      "category": "Couvre-chefs",
-      "defname": "Apparel_PsychicFoilHelmet",
-      "price": -10
-    },
-    {
-      "abr": "chat",
-      "category": "Animaux",
-      "defname": "Cat",
-      "price": -10
-    },
-    {
-      "abr": "chemfuel",
-      "category": "Produits manufacturés",
-      "defname": "Chemfuel",
-      "price": -10
-    },
-    {
-      "abr": "chemise",
-      "category": "Vêtements",
-      "defname": "Apparel_CollarShirt",
-      "price": -10
-    },
-    {
-      "abr": "chemiseeneltex",
-      "category": "Vêtements",
-      "defname": "Apparel_PsyfocusShirt",
-      "price": -10
-    },
-    {
-      "abr": "chemisesolennelle",
-      "category": "Vêtements nobles",
-      "defname": "Apparel_ShirtRuffle",
-      "price": -10
-    },
-    {
-      "abr": "cheval",
-      "category": "Animaux",
-      "defname": "Horse",
-      "price": -10
-    },
-    {
-      "abr": "chèvre",
-      "category": "Animaux",
-      "defname": "Goat",
-      "price": -10
-    },
-    {
-      "abr": "chinchilla",
-      "category": "Animaux",
-      "defname": "Chinchilla",
-      "price": -10
-    },
-    {
-      "abr": "chocolat",
-      "category": "Aliments",
-      "defname": "Chocolate",
-      "price": -10
-    },
-    {
-      "abr": "cibleurorbitalmécanoïde",
-      "category": "Utilitaires",
-      "defname": "OrbitalTargeterMechCluster",
-      "price": -10
-    },
-    {
-      "abr": "clavecin",
-      "category": "Détente",
-      "defname": "Harpsichord",
-      "price": -10
-    },
-    {
-      "abr": "coagulateur",
-      "category": "Bioniques",
-      "defname": "Coagulator",
-      "price": -10
-    },
-    {
-      "abr": "cobaye",
-      "category": "Animaux",
-      "defname": "GuineaPig",
-      "price": -10
-    },
-    {
-      "abr": "cobra",
-      "category": "Animaux",
-      "defname": "Cobra",
-      "price": -10
-    },
-    {
-      "abr": "cochon",
-      "category": "Animaux",
-      "defname": "Pig",
-      "price": -10
-    },
-    {
-      "abr": "cocktailmolotov",
-      "category": "Grenades",
-      "defname": "Weapon_GrenadeMolotov",
-      "price": -10
-    },
-    {
-      "abr": "cœur",
-      "category": "Naturelles",
-      "defname": "Heart",
-      "price": -10
-    },
-    {
-      "abr": "cœurbionique",
-      "category": "Bioniques",
-      "defname": "BionicHeart",
-      "price": -10
-    },
-    {
-      "abr": "coiffetribale",
-      "category": "Couvre-chefs",
-      "defname": "Apparel_TribalHeaddress",
-      "price": -10
-    },
-    {
-      "abr": "colonnevertébralebionique",
-      "category": "Bioniques",
-      "defname": "BionicSpine",
-      "price": -10
-    },
-    {
-      "abr": "commode",
-      "category": "Meubles",
-      "defname": "Dresser",
-      "price": -10
-    },
-    {
-      "abr": "composant",
-      "category": "Produits manufacturés",
-      "defname": "ComponentIndustrial",
-      "price": -10
-    },
-    {
-      "abr": "composantavancé",
-      "category": "Produits manufacturés",
-      "defname": "ComponentSpacer",
-      "price": -10
-    },
-    {
-      "abr": "cornedethrumbo",
-      "category": "Objets",
-      "defname": "ThrumboHorn",
-      "price": -10
-    },
-    {
-      "abr": "corset",
-      "category": "Vêtements nobles",
-      "defname": "Apparel_Corset",
-      "price": -10
-    },
-    {
-      "abr": "cougar",
-      "category": "Animaux",
-      "defname": "Cougar",
-      "price": -10
-    },
-    {
-      "abr": "couronne",
-      "category": "Coiffure",
-      "defname": "Apparel_Crown",
-      "price": -10
-    },
-    {
-      "abr": "couronnestellique",
-      "category": "Coiffure",
-      "defname": "Apparel_CrownStellic",
-      "price": -10
-    },
-    {
-      "abr": "couteau",
-      "category": "Armes de mêlée",
-      "defname": "MeleeWeapon_Knife",
-      "price": -10
-    },
-    {
-      "abr": "crocsàvenin",
-      "category": "Prothèses",
-      "defname": "VenomFangs",
-      "price": -10
-    },
-    {
-      "abr": "croquettes",
-      "category": "Aliments",
-      "defname": "Kibble",
-      "price": -10
-    },
-    {
-      "abr": "cuir",
-      "category": "Cuirs",
-      "defname": "Leather_Plain",
-      "price": -10
-    },
-    {
-      "abr": "cuirdecochon",
-      "category": "Cuirs",
-      "defname": "Leather_Pig",
-      "price": -10
-    },
-    {
-      "abr": "cuirdedromadaire",
-      "category": "Cuirs",
-      "defname": "Leather_Camel",
-      "price": -10
-    },
-    {
-      "abr": "cuirdelézard",
-      "category": "Cuirs",
-      "defname": "Leather_Lizard",
-      "price": -10
-    },
-    {
-      "abr": "cuirderhinocéros",
-      "category": "Cuirs",
-      "defname": "Leather_Rhinoceros",
-      "price": -10
-    },
-    {
-      "abr": "cuird'éléphant",
-      "category": "Cuirs",
-      "defname": "Leather_Elephant",
-      "price": -10
-    },
-    {
-      "abr": "cuird'oiseau",
-      "category": "Cuirs",
-      "defname": "Leather_Bird",
-      "price": -10
-    },
-    {
-      "abr": "cuirfin",
-      "category": "Cuirs",
-      "defname": "Leather_Light",
-      "price": -10
-    },
-    {
-      "abr": "cuisinièreàbois",
-      "category": "Production",
-      "defname": "FueledStove",
-      "price": -10
-    },
-    {
-      "abr": "cuisinièreélectrique",
-      "category": "Production",
-      "defname": "ElectricStove",
-      "price": -10
-    },
-    {
-      "abr": "défensed'éléphant",
-      "category": "Objets",
-      "defname": "ElephantTusk",
-      "price": -10
-    },
-    {
-      "abr": "diabétoffe",
-      "category": "Textiles",
-      "defname": "DevilstrandCloth",
-      "price": -10
-    },
-    {
-      "abr": "dinde",
-      "category": "Animaux",
-      "defname": "Turkey",
-      "price": -10
-    },
-    {
-      "abr": "dispositifdissolvantpost-mortem",
-      "category": "Bioniques",
-      "defname": "DeathAcidifier",
-      "price": -10
-    },
-    {
-      "abr": "dromadaire",
-      "category": "Animaux",
-      "defname": "Dromedary",
-      "price": -10
-    },
-    {
-      "abr": "écureuil",
-      "category": "Animaux",
-      "defname": "Squirrel",
-      "price": -10
-    },
-    {
-      "abr": "éléphant",
-      "category": "Animaux",
-      "defname": "Elephant",
-      "price": -10
-    },
-    {
-      "abr": "émanateurpsychique",
-      "category": "Spécial",
-      "defname": "PsychicEmanator",
-      "price": -10
-    },
-    {
-      "abr": "émeu",
-      "category": "Animaux",
-      "defname": "Emu",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(arrosagemassif)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_Waterskip",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(attractiondecible)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_Beckon",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(bouclierdeprotection)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_BulletShield",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(concentration)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_Focus",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(décharged'échauffementneuronal)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_EntropyDump",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(écrandefumée)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_Smokepop",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(étourdissement)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_Stun",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(fardeau)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_Burden",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(foufurieux)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_Berserk",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(impulsionaveuglante)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_BlindingPulse",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(impulsiondechasseàl'homme)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_ManhunterPulse",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(impulsiondefoliefurieuse)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_BerserkPulse",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(inhibitiondeladouleur)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_Painblock",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(invisibilité)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_Invisibility",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(motd'amour)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_WordOfLove",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(motdeconfiance)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_WordOfTrust",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(motdejoie)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_WordOfJoy",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(motdesérénité)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_WordOfSerenity",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(motd'inspiration)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_WordOfInspiration",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(murdeterre)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_Wallraise",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(ondedéstabilisante)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_VertigoPulse",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(sautchaotique)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_ChaosSkip",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(sautdeblocs)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_Chunkskip",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(téléportationdisparatedemasse)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_MassChaosSkip",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(téléportation)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_Skip",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(tempêted'éclairs)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_Flashstorm",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(transportlointain)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_Farskip",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(tremblementpsychique)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_Neuroquake",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(troud'épinglesolaire)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_SolarPinhole",
-      "price": -10
-    },
-    {
-      "abr": "épéelongue",
-      "category": "Armes de mêlée",
-      "defname": "MeleeWeapon_LongSword",
-      "price": -10
-    },
-    {
-      "abr": "épéemono-moléculaire",
-      "category": "Armes de mêlée",
-      "defname": "MeleeWeapon_MonoSword",
-      "price": -10
-    },
-    {
-      "abr": "épéemono-moléculaireconsciente",
-      "category": "Armes intelligentes",
-      "defname": "MeleeWeapon_MonoSwordBladelink",
-      "price": -10
-    },
-    {
-      "abr": "épéeplasmique",
-      "category": "Armes de mêlée",
-      "defname": "MeleeWeapon_PlasmaSword",
-      "price": -10
-    },
-    {
-      "abr": "épéeplasmiqueconsciente",
-      "category": "Armes intelligentes",
-      "defname": "MeleeWeapon_PlasmaSwordBladelink",
-      "price": -10
-    },
-    {
-      "abr": "estomacamélioré",
-      "category": "Bioniques",
-      "defname": "ReprocessorStomach",
-      "price": -10
-    },
-    {
-      "abr": "estomacbionique",
-      "category": "Bioniques",
-      "defname": "BionicStomach",
-      "price": -10
-    },
-    {
-      "abr": "estomacdétoxifiant",
-      "category": "Bioniques",
-      "defname": "DetoxifierStomach",
-      "price": -10
-    },
-    {
-      "abr": "estomacnucléaire",
-      "category": "Bioniques",
-      "defname": "NuclearStomach",
-      "price": -10
-    },
-    {
-      "abr": "établid'assemblage",
-      "category": "Production",
-      "defname": "TableMachining",
-      "price": -10
-    },
-    {
-      "abr": "établideboucher",
-      "category": "Production",
-      "defname": "TableButcher",
-      "price": -10
-    },
-    {
-      "abr": "établidebrassage",
-      "category": "Production",
-      "defname": "Brewery",
-      "price": -10
-    },
-    {
-      "abr": "établideforgeronàcombustible",
-      "category": "Production",
-      "defname": "FueledSmithy",
-      "price": -10
-    },
-    {
-      "abr": "établideforgeronélectrique",
-      "category": "Production",
-      "defname": "ElectricSmithy",
-      "price": -10
-    },
-    {
-      "abr": "établidesculpture",
-      "category": "Production",
-      "defname": "TableSculpting",
-      "price": -10
-    },
-    {
-      "abr": "établidetailleurdepierre",
-      "category": "Production",
-      "defname": "TableStonecutter",
-      "price": -10
-    },
-    {
-      "abr": "établidetissageélectrique",
-      "category": "Production",
-      "defname": "ElectricTailoringBench",
-      "price": -10
-    },
-    {
-      "abr": "établidetissagemanuel",
-      "category": "Production",
-      "defname": "HandTailoringBench",
-      "price": -10
-    },
-    {
-      "abr": "étagère",
-      "category": "Meubles",
-      "defname": "Shelf",
-      "price": -10
-    },
-    {
-      "abr": "exhausteurd'amour",
-      "category": "Bioniques",
-      "defname": "LoveEnhancer",
-      "price": -10
-    },
-    {
-      "abr": "extincteuràmousse",
-      "category": "Divers",
-      "defname": "FirefoamPopper",
-      "price": -10
-    },
-    {
-      "abr": "fauteuil",
-      "category": "Meubles",
-      "defname": "Armchair",
-      "price": -10
-    },
-    {
-      "abr": "fennec",
-      "category": "Animaux",
-      "defname": "Fox_Fennec",
-      "price": -10
-    },
-    {
-      "abr": "feuilledepsychoïde",
-      "category": "Matières végétales",
-      "defname": "PsychoidLeaves",
-      "price": -10
-    },
-    {
-      "abr": "feuillesdesmokeleaf",
-      "category": "Matières végétales",
-      "defname": "SmokeleafLeaves",
-      "price": -10
-    },
-    {
-      "abr": "flake",
-      "category": "Drogues",
-      "defname": "Flake",
-      "price": -10
-    },
-    {
-      "abr": "focalisateurdefaisceaud'énergieorbital",
-      "category": "Utilitaires",
-      "defname": "OrbitalTargeterPowerBeam",
-      "price": -10
-    },
-    {
-      "abr": "foie",
-      "category": "Naturelles",
-      "defname": "Liver",
-      "price": -10
-    },
-    {
-      "abr": "foin",
-      "category": "Aliments",
-      "defname": "Hay",
-      "price": -10
-    },
-    {
-      "abr": "fonderieélectrique",
-      "category": "Production",
-      "defname": "ElectricSmelter",
-      "price": -10
-    },
-    {
-      "abr": "forageenprofondeur",
-      "category": "Production",
-      "defname": "DeepDrill",
-      "price": -10
-    },
-    {
-      "abr": "fourrurebleue",
-      "category": "Cuirs",
-      "defname": "Leather_Bluefur",
-      "price": -10
-    },
-    {
-      "abr": "fourruredechien",
-      "category": "Cuirs",
-      "defname": "Leather_Dog",
-      "price": -10
-    },
-    {
-      "abr": "fourruredechinchilla",
-      "category": "Cuirs",
-      "defname": "Leather_Chinchilla",
-      "price": -10
-    },
-    {
-      "abr": "fourruredecobaye",
-      "category": "Cuirs",
-      "defname": "Leather_GuineaPig",
-      "price": -10
-    },
-    {
-      "abr": "fourruredeloup",
-      "category": "Cuirs",
-      "defname": "Leather_Wolf",
-      "price": -10
-    },
-    {
-      "abr": "fourruredepanthère",
-      "category": "Cuirs",
-      "defname": "Leather_Panthera",
-      "price": -10
-    },
-    {
-      "abr": "fourrurederenard",
-      "category": "Cuirs",
-      "defname": "Leather_Fox",
-      "price": -10
-    },
-    {
-      "abr": "fourruredethrumbo",
-      "category": "Cuirs",
-      "defname": "Leather_Thrumbo",
-      "price": -10
-    },
-    {
-      "abr": "fourrured'ours",
-      "category": "Cuirs",
-      "defname": "Leather_Bear",
-      "price": -10
-    },
-    {
-      "abr": "fourrureépaisse",
-      "category": "Cuirs",
-      "defname": "Leather_Heavy",
-      "price": -10
-    },
-    {
-      "abr": "fruitd'agave",
-      "category": "Végétaux",
-      "defname": "RawAgave",
-      "price": -10
-    },
-    {
-      "abr": "fusilàimpulsion",
-      "category": "Armes à distance",
-      "defname": "Gun_ChargeRifle",
-      "price": -10
-    },
-    {
-      "abr": "fusilàpompe",
-      "category": "Armes à distance",
-      "defname": "Gun_PumpShotgun",
-      "price": -10
-    },
-    {
-      "abr": "fusilàpompeautomatique",
-      "category": "Armes à distance",
-      "defname": "Gun_ChainShotgun",
-      "price": -10
-    },
-    {
-      "abr": "fusild'assaut",
-      "category": "Armes à distance",
-      "defname": "Gun_AssaultRifle",
-      "price": -10
-    },
-    {
-      "abr": "fusildeprécision",
-      "category": "Armes à distance",
-      "defname": "Gun_SniperRifle",
-      "price": -10
-    },
-    {
-      "abr": "gastro-analyseur",
-      "category": "Bioniques",
-      "defname": "GastroAnalyzer",
-      "price": -10
-    },
-    {
-      "abr": "gazelle",
-      "category": "Animaux",
-      "defname": "Gazelle",
-      "price": -10
-    },
-    {
-      "abr": "geléed'insecte",
-      "category": "Produits animaliers",
-      "defname": "InsectJelly",
-      "price": -10
-    },
-    {
-      "abr": "générateurdetornade",
-      "category": "Utilitaires",
-      "defname": "TornadoGenerator",
-      "price": -10
-    },
-    {
-      "abr": "giletpare-balles",
-      "category": "Armures",
-      "defname": "Apparel_FlakVest",
-      "price": -10
-    },
-    {
-      "abr": "giletsolennel",
-      "category": "Vêtements nobles",
-      "defname": "Apparel_VestRoyal",
-      "price": -10
-    },
-    {
-      "abr": "glaive",
-      "category": "Armes de mêlée",
-      "defname": "MeleeWeapon_Gladius",
-      "price": -10
-    },
-    {
-      "abr": "glandeblindante",
-      "category": "Bioniques",
-      "defname": "StoneskinGland",
-      "price": -10
-    },
-    {
-      "abr": "glanded'armure",
-      "category": "Bioniques",
-      "defname": "ArmorskinGland",
-      "price": -10
-    },
-    {
-      "abr": "glandedurcissante",
-      "category": "Bioniques",
-      "defname": "ToughskinGland",
-      "price": -10
-    },
-    {
-      "abr": "glumelumineuse",
-      "category": "Spécial",
-      "defname": "GlowPod",
-      "price": -10
-    },
-    {
-      "abr": "go-juice",
-      "category": "Drogues",
-      "defname": "GoJuice",
-      "price": -10
-    },
-    {
-      "abr": "grandsanctuairedelanature",
-      "category": "Divers",
-      "defname": "NatureShrine_Large",
-      "price": -10
-    },
-    {
-      "abr": "grandtrônedeméditation",
-      "category": "Meubles",
-      "defname": "GrandThrone",
-      "price": -10
-    },
-    {
-      "abr": "grandesculpture",
-      "category": "Art",
-      "defname": "SculptureLarge",
-      "price": -10
-    },
-    {
-      "abr": "grenadeàfragmentation",
-      "category": "Grenades",
-      "defname": "Weapon_GrenadeFrag",
-      "price": -10
-    },
-    {
-      "abr": "grenadeiem",
-      "category": "Grenades",
-      "defname": "Weapon_GrenadeEMP",
-      "price": -10
-    },
-    {
-      "abr": "griffeénergétique",
-      "category": "Prothèses",
-      "defname": "PowerClaw",
-      "price": -10
-    },
-    {
-      "abr": "griffevenimeuse",
-      "category": "Prothèses",
-      "defname": "VenomTalon",
-      "price": -10
-    },
-    {
-      "abr": "grizzly",
-      "category": "Animaux",
-      "defname": "Bear_Grizzly",
-      "price": -10
-    },
-    {
-      "abr": "guenilledesauvage",
-      "category": "Vêtements",
-      "defname": "Apparel_TribalA",
-      "price": -10
-    },
-    {
-      "abr": "hache",
-      "category": "Armes de mêlée",
-      "defname": "MeleeWeapon_Axe",
-      "price": -10
-    },
-    {
-      "abr": "harmoniseurpsychique",
-      "category": "Archotech",
-      "defname": "PsychicHarmonizer",
-      "price": -10
-    },
-    {
-      "abr": "harpe",
-      "category": "Détente",
-      "defname": "Harp",
-      "price": -10
-    },
-    {
-      "abr": "haut-de-forme",
-      "category": "Coiffure",
-      "defname": "Apparel_HatTop",
-      "price": -10
-    },
-    {
-      "abr": "herbemédicinale",
-      "category": "Médicaments",
-      "defname": "MedicineHerbal",
-      "price": -10
-    },
-    {
-      "abr": "houblon",
-      "category": "Matières végétales",
-      "defname": "RawHops",
-      "price": -10
-    },
-    {
-      "abr": "husky",
-      "category": "Animaux",
-      "defname": "Husky",
-      "price": -10
-    },
-    {
-      "abr": "hyperfibre",
-      "category": "Textiles",
-      "defname": "Hyperweave",
-      "price": -10
-    },
-    {
-      "abr": "iguane",
-      "category": "Animaux",
-      "defname": "Iguana",
-      "price": -10
-    },
-    {
-      "abr": "ikwa",
-      "category": "Armes de mêlée",
-      "defname": "MeleeWeapon_Ikwa",
-      "price": -10
-    },
-    {
-      "abr": "implantanalgésique",
-      "category": "Prothèses",
-      "defname": "Painstopper",
-      "price": -10
-    },
-    {
-      "abr": "implantdubonheur",
-      "category": "Prothèses",
-      "defname": "Joywire",
-      "price": -10
-    },
-    {
-      "abr": "jade",
-      "category": "Ressources brutes",
-      "defname": "Jade",
-      "price": -10
-    },
-    {
-      "abr": "jambearchotech",
-      "category": "Archotech",
-      "defname": "ArchotechLeg",
-      "price": -10
-    },
-    {
-      "abr": "jambebionique",
-      "category": "Bioniques",
-      "defname": "BionicLeg",
-      "price": -10
-    },
-    {
-      "abr": "jeudulancerdecailloux",
-      "category": "Détente",
-      "defname": "HoopstoneRing",
-      "price": -10
-    },
-    {
-      "abr": "jointdesmokeleaf",
-      "category": "Drogues",
-      "defname": "SmokeleafJoint",
-      "price": -10
-    },
-    {
-      "abr": "laboratoirechimique",
-      "category": "Production",
-      "defname": "DrugLab",
-      "price": -10
-    },
-    {
-      "abr": "labrador",
-      "category": "Animaux",
-      "defname": "LabradorRetriever",
-      "price": -10
-    },
-    {
-      "abr": "lained'alpaga",
-      "category": "Laines",
-      "defname": "WoolAlpaca",
-      "price": -10
-    },
-    {
-      "abr": "lainedebison",
-      "category": "Laines",
-      "defname": "WoolBison",
-      "price": -10
-    },
-    {
-      "abr": "lainedemégathérium",
-      "category": "Laines",
-      "defname": "WoolMegasloth",
-      "price": -10
-    },
-    {
-      "abr": "lainedemouton",
-      "category": "Laines",
-      "defname": "WoolSheep",
-      "price": -10
-    },
-    {
-      "abr": "lainedemuffalo",
-      "category": "Laines",
-      "defname": "WoolMuffalo",
-      "price": -10
-    },
-    {
-      "abr": "lait",
-      "category": "Produits animaliers",
-      "defname": "Milk",
-      "price": -10
-    },
-    {
-      "abr": "lamedecoude",
-      "category": "Prothèses",
-      "defname": "ElbowBlade",
-      "price": -10
-    },
-    {
-      "abr": "lampadaire",
-      "category": "Meubles",
-      "defname": "StandingLamp",
-      "price": -10
-    },
-    {
-      "abr": "lampadaire(bleu)",
-      "category": "Meubles",
-      "defname": "StandingLamp_Blue",
-      "price": -10
-    },
-    {
-      "abr": "lampadaire(rouge)",
-      "category": "Meubles",
-      "defname": "StandingLamp_Red",
-      "price": -10
-    },
-    {
-      "abr": "lampadaire(vert)",
-      "category": "Meubles",
-      "defname": "StandingLamp_Green",
-      "price": -10
-    },
-    {
-      "abr": "lampehorticole",
-      "category": "Meubles",
-      "defname": "SunLamp",
-      "price": -10
-    },
-    {
-      "abr": "lance",
-      "category": "Armes de mêlée",
-      "defname": "MeleeWeapon_Spear",
-      "price": -10
-    },
-    {
-      "abr": "lance-charges",
-      "category": "Armes à distance",
-      "defname": "Gun_ChargeLance",
-      "price": -10
-    },
-    {
-      "abr": "lance-roquettesapocalyptique",
-      "category": "Armes à distance",
-      "defname": "Gun_DoomsdayRocket",
-      "price": -10
-    },
-    {
-      "abr": "lance-roquettestriple",
-      "category": "Armes à distance",
-      "defname": "Gun_TripleRocket",
-      "price": -10
-    },
-    {
-      "abr": "lanceurdeballesincendiaires",
-      "category": "Armes à distance",
-      "defname": "Gun_IncendiaryLauncher",
-      "price": -10
-    },
-    {
-      "abr": "lanceurdefumigène",
-      "category": "Armes à distance",
-      "defname": "Gun_SmokeLauncher",
-      "price": -10
-    },
-    {
-      "abr": "lanceuriem",
-      "category": "Armes à distance",
-      "defname": "Gun_EmpLauncher",
-      "price": -10
-    },
-    {
-      "abr": "lecteurpsychique",
-      "category": "Archotech",
-      "defname": "PsychicReader",
-      "price": -10
-    },
-    {
-      "abr": "lièvre",
-      "category": "Animaux",
-      "defname": "Hare",
-      "price": -10
-    },
-    {
-      "abr": "lièvredesneiges",
-      "category": "Animaux",
-      "defname": "Snowhare",
-      "price": -10
-    },
-    {
-      "abr": "lit",
-      "category": "Meubles",
-      "defname": "Bed",
-      "price": -10
-    },
-    {
-      "abr": "litdouble",
-      "category": "Meubles",
-      "defname": "DoubleBed",
-      "price": -10
-    },
-    {
-      "abr": "litmédicalisé",
-      "category": "Meubles",
-      "defname": "HospitalBed",
-      "price": -10
-    },
-    {
-      "abr": "litpouranimaux",
-      "category": "Meubles",
-      "defname": "AnimalBed",
-      "price": -10
-    },
-    {
-      "abr": "litroyal",
-      "category": "Meubles",
-      "defname": "RoyalBed",
-      "price": -10
-    },
-    {
-      "abr": "louparctique",
-      "category": "Animaux",
-      "defname": "Wolf_Arctic",
-      "price": -10
-    },
-    {
-      "abr": "loupdesbois",
-      "category": "Animaux",
-      "defname": "Wolf_Timber",
-      "price": -10
-    },
-    {
-      "abr": "luciferium",
-      "category": "Drogues",
-      "defname": "Luciferium",
-      "price": -10
-    },
-    {
-      "abr": "lumièrecrépusculaire",
-      "category": "Spécial",
-      "defname": "Gloomlight",
-      "price": -10
-    },
-    {
-      "abr": "lynx",
-      "category": "Animaux",
-      "defname": "Lynx",
-      "price": -10
-    },
-    {
-      "abr": "maingriffue",
-      "category": "Prothèses",
-      "defname": "HandTalon",
-      "price": -10
-    },
-    {
-      "abr": "mainverte",
-      "category": "Prothèses",
-      "defname": "FieldHand",
-      "price": -10
-    },
-    {
-      "abr": "maïs",
-      "category": "Végétaux",
-      "defname": "RawCorn",
-      "price": -10
-    },
-    {
-      "abr": "manteau",
-      "category": "Vêtements",
-      "defname": "Apparel_Duster",
-      "price": -10
-    },
-    {
-      "abr": "marteaudeguerre",
-      "category": "Armes de mêlée",
-      "defname": "MeleeWeapon_Warhammer",
-      "price": -10
-    },
-    {
-      "abr": "marteaudezeus",
-      "category": "Armes de mêlée",
-      "defname": "MeleeWeapon_Zeushammer",
-      "price": -10
-    },
-    {
-      "abr": "marteaudezeusconscient",
-      "category": "Armes intelligentes",
-      "defname": "MeleeWeapon_ZeusHammerBladelink",
-      "price": -10
-    },
-    {
-      "abr": "masquedeguerre",
-      "category": "Couvre-chefs",
-      "defname": "Apparel_WarMask",
-      "price": -10
-    },
-    {
-      "abr": "masse",
-      "category": "Armes de mêlée",
-      "defname": "MeleeWeapon_Mace",
-      "price": -10
-    },
-    {
-      "abr": "massue",
-      "category": "Armes de mêlée",
-      "defname": "MeleeWeapon_Club",
-      "price": -10
-    },
-    {
-      "abr": "mech-sérumderésurrection",
-      "category": "Objets",
-      "defname": "MechSerumResurrector",
-      "price": -10
-    },
-    {
-      "abr": "mech-sérumguérisseur",
-      "category": "Objets",
-      "defname": "MechSerumHealer",
-      "price": -10
-    },
-    {
-      "abr": "médicament",
-      "category": "Médicaments",
-      "defname": "MedicineIndustrial",
-      "price": -10
-    },
-    {
-      "abr": "médicamentavancé",
-      "category": "Médicaments",
-      "defname": "MedicineUltratech",
-      "price": -10
-    },
-    {
-      "abr": "mégaraignée",
-      "category": "Animaux",
-      "defname": "Megaspider",
-      "price": -10
-    },
-    {
-      "abr": "mégascarabée",
-      "category": "Animaux",
-      "defname": "Megascarab",
-      "price": -10
-    },
-    {
-      "abr": "mégathérium",
-      "category": "Animaux",
-      "defname": "Megasloth",
-      "price": -10
-    },
-    {
-      "abr": "minigun",
-      "category": "Armes à distance",
-      "defname": "Gun_Minigun",
-      "price": -10
-    },
-    {
-      "abr": "mini-tourelle",
-      "category": "Sécurité",
-      "defname": "Turret_MiniTurret",
-      "price": -10
-    },
-    {
-      "abr": "mitrailleuse",
-      "category": "Armes à distance",
-      "defname": "Gun_LMG",
-      "price": -10
-    },
-    {
-      "abr": "modificateurcorporel",
-      "category": "Bioniques",
-      "defname": "AestheticShaper",
-      "price": -10
-    },
-    {
-      "abr": "moniteurdesignesvitaux",
-      "category": "Divers",
-      "defname": "VitalsMonitor",
-      "price": -10
-    },
-    {
-      "abr": "mortier",
-      "category": "Sécurité",
-      "defname": "Turret_Mortar",
-      "price": -10
-    },
-    {
-      "abr": "moût",
-      "category": "Produits manufacturés",
-      "defname": "Wort",
-      "price": -10
-    },
-    {
-      "abr": "mouton",
-      "category": "Animaux",
-      "defname": "Sheep",
-      "price": -10
-    },
-    {
-      "abr": "muffalo",
-      "category": "Animaux",
-      "defname": "Muffalo",
-      "price": -10
-    },
-    {
-      "abr": "multi-analyseur",
-      "category": "Divers",
-      "defname": "MultiAnalyzer",
-      "price": -10
-    },
-    {
-      "abr": "neurocalculateur",
-      "category": "Bioniques",
-      "defname": "Neurocalculator",
-      "price": -10
-    },
-    {
-      "abr": "neuro-entraîneur(agriculture)",
-      "category": "Neuro-entraîneurs",
-      "defname": "Neurotrainer_Plants",
-      "price": -10
-    },
-    {
-      "abr": "neuro-entraîneur(animaux)",
-      "category": "Neuro-entraîneurs",
-      "defname": "Neurotrainer_Animals",
-      "price": -10
-    },
-    {
-      "abr": "neuro-entraîneur(artisanat)",
-      "category": "Neuro-entraîneurs",
-      "defname": "Neurotrainer_Crafting",
-      "price": -10
-    },
-    {
-      "abr": "neuro-entraîneur(artiste)",
-      "category": "Neuro-entraîneurs",
-      "defname": "Neurotrainer_Artistic",
-      "price": -10
-    },
-    {
-      "abr": "neuro-entraîneur(construction)",
-      "category": "Neuro-entraîneurs",
-      "defname": "Neurotrainer_Construction",
-      "price": -10
-    },
-    {
-      "abr": "neuro-entraîneur(cuisine)",
-      "category": "Neuro-entraîneurs",
-      "defname": "Neurotrainer_Cooking",
-      "price": -10
-    },
-    {
-      "abr": "neuro-entraîneur(intellectuel)",
-      "category": "Neuro-entraîneurs",
-      "defname": "Neurotrainer_Intellectual",
-      "price": -10
-    },
-    {
-      "abr": "neuro-entraîneur(médecine)",
-      "category": "Neuro-entraîneurs",
-      "defname": "Neurotrainer_Medicine",
-      "price": -10
-    },
-    {
-      "abr": "neuro-entraîneur(mêlée)",
-      "category": "Neuro-entraîneurs",
-      "defname": "Neurotrainer_Melee",
-      "price": -10
-    },
-    {
-      "abr": "neuro-entraîneur(minage)",
-      "category": "Neuro-entraîneurs",
-      "defname": "Neurotrainer_Mining",
-      "price": -10
-    },
-    {
-      "abr": "neuro-entraîneur(sociabilité)",
-      "category": "Neuro-entraîneurs",
-      "defname": "Neurotrainer_Social",
-      "price": -10
-    },
-    {
-      "abr": "neuro-entraîneur(tir)",
-      "category": "Neuro-entraîneurs",
-      "defname": "Neurotrainer_Shooting",
-      "price": -10
-    },
-    {
-      "abr": "neuro-formateurpsychique",
-      "category": "Archotech",
-      "defname": "PsychicAmplifier",
-      "price": -10
-    },
-    {
-      "abr": "neutroamine",
-      "category": "Produits manufacturés",
-      "defname": "Neutroamine",
-      "price": -10
-    },
-    {
-      "abr": "nezesthétique",
-      "category": "Bioniques",
-      "defname": "AestheticNose",
-      "price": -10
-    },
-    {
-      "abr": "noyaudebouclier",
-      "category": "Objets",
-      "defname": "BroadshieldCore",
-      "price": -10
-    },
-    {
-      "abr": "noyauiadepersonnalité",
-      "category": "Objets",
-      "defname": "AIPersonaCore",
-      "price": -10
-    },
-    {
-      "abr": "noyauiapédagogique",
-      "category": "Objets",
-      "defname": "TechprofSubpersonaCore",
-      "price": -10
-    },
-    {
-      "abr": "obusàimpulsionélectromagnétique",
-      "category": "Obus de mortier",
-      "defname": "Shell_EMP",
-      "price": -10
-    },
-    {
-      "abr": "obusanti-incendie",
-      "category": "Obus de mortier",
-      "defname": "Shell_Firefoam",
-      "price": -10
-    },
-    {
-      "abr": "obusfumigène",
-      "category": "Obus de mortier",
-      "defname": "Shell_Smoke",
-      "price": -10
-    },
-    {
-      "abr": "obushautementexplosif",
-      "category": "Obus de mortier",
-      "defname": "Shell_HighExplosive",
-      "price": -10
-    },
-    {
-      "abr": "obusincendiaire",
-      "category": "Obus de mortier",
-      "defname": "Shell_Incendiary",
-      "price": -10
-    },
-    {
-      "abr": "œilarchotech",
-      "category": "Archotech",
-      "defname": "ArchotechEye",
-      "price": -10
-    },
-    {
-      "abr": "œilbionique",
-      "category": "Bioniques",
-      "defname": "BionicEye",
-      "price": -10
-    },
-    {
-      "abr": "œufd'autruche(fécondé)",
-      "category": "Œufs (fécondés)",
-      "defname": "EggOstrichFertilized",
-      "price": -10
-    },
-    {
-      "abr": "œufdecanard(fécondé)",
-      "category": "Œufs (fécondés)",
-      "defname": "EggDuckFertilized",
-      "price": -10
-    },
-    {
-      "abr": "œufdecanard(nonfécondé)",
-      "category": "Œufs (non fécondés)",
-      "defname": "EggDuckUnfertilized",
-      "price": -10
-    },
-    {
-      "abr": "œufdecasoar(fécondé)",
-      "category": "Œufs (fécondés)",
-      "defname": "EggCassowaryFertilized",
-      "price": -10
-    },
-    {
-      "abr": "œufdecobra(fécondé)",
-      "category": "Œufs (fécondés)",
-      "defname": "EggCobraFertilized",
-      "price": -10
-    },
-    {
-      "abr": "œufdedinde(fécondé)",
-      "category": "Œufs (fécondés)",
-      "defname": "EggTurkeyFertilized",
-      "price": -10
-    },
-    {
-      "abr": "œufdepoule(fécondé)",
-      "category": "Œufs (fécondés)",
-      "defname": "EggChickenFertilized",
-      "price": -10
-    },
-    {
-      "abr": "œufdepoule(nonfécondé)",
-      "category": "Œufs (non fécondés)",
-      "defname": "EggChickenUnfertilized",
-      "price": -10
-    },
-    {
-      "abr": "œufdetortue(fécondé)",
-      "category": "Œufs (fécondés)",
-      "defname": "EggTortoiseFertilized",
-      "price": -10
-    },
-    {
-      "abr": "œufd'émeu(fécondé)",
-      "category": "Œufs (fécondés)",
-      "defname": "EggEmuFertilized",
-      "price": -10
-    },
-    {
-      "abr": "œufd'iguane(fécondé)",
-      "category": "Œufs (fécondés)",
-      "defname": "EggIguanaFertilized",
-      "price": -10
-    },
-    {
-      "abr": "œufd'oie(fécondé)",
-      "category": "Œufs (fécondés)",
-      "defname": "EggGooseFertilized",
-      "price": -10
-    },
-    {
-      "abr": "œufd'oie(nonfécondé)",
-      "category": "Œufs (non fécondés)",
-      "defname": "EggGooseUnfertilized",
-      "price": -10
-    },
-    {
-      "abr": "ogiveàantimatière",
-      "category": "Obus de mortier",
-      "defname": "Shell_AntigrainWarhead",
-      "price": -10
-    },
-    {
-      "abr": "oie",
-      "category": "Animaux",
-      "defname": "Goose",
-      "price": -10
-    },
-    {
-      "abr": "or",
-      "category": "Ressources brutes",
-      "defname": "Gold",
-      "price": -10
-    },
-    {
-      "abr": "ordinateurdeciblage",
-      "category": "Coiffures",
-      "defname": "Apparel_Gunlink",
-      "price": -10
-    },
-    {
-      "abr": "oreillebionique",
-      "category": "Bioniques",
-      "defname": "BionicEar",
-      "price": -10
-    },
-    {
-      "abr": "ourspolaire",
-      "category": "Animaux",
-      "defname": "Bear_Polar",
-      "price": -10
-    },
-    {
-      "abr": "packdebouclierbas",
-      "category": "Utilitaires",
-      "defname": "Apparel_PackBroadshield",
-      "price": -10
-    },
-    {
-      "abr": "packdefumigènes",
-      "category": "Utilitaires",
-      "defname": "Apparel_SmokepopBelt",
-      "price": -10
-    },
-    {
-      "abr": "packdorsaux",
-      "category": "Utilitaires",
-      "defname": "Apparel_PackJump",
-      "price": -10
-    },
-    {
-      "abr": "pantalon",
-      "category": "Vêtements",
-      "defname": "Apparel_Pants",
-      "price": -10
-    },
-    {
-      "abr": "pantalonrenforcé",
-      "category": "Armures",
-      "defname": "Apparel_FlakPants",
-      "price": -10
-    },
-    {
-      "abr": "panthère",
-      "category": "Animaux",
-      "defname": "Panther",
-      "price": -10
-    },
-    {
-      "abr": "parka",
-      "category": "Vêtements",
-      "defname": "Apparel_Parka",
-      "price": -10
-    },
-    {
-      "abr": "patchwork",
-      "category": "Cuirs",
-      "defname": "Leather_Patch",
-      "price": -10
-    },
-    {
-      "abr": "pâtenutritive",
-      "category": "Plats",
-      "defname": "MealNutrientPaste",
-      "price": -10
-    },
-    {
-      "abr": "peauhumaine",
-      "category": "Cuirs",
-      "defname": "Leather_Human",
-      "price": -10
-    },
-    {
-      "abr": "pemmican",
-      "category": "Aliments",
-      "defname": "Pemmican",
-      "price": -10
-    },
-    {
-      "abr": "penoxycyline",
-      "category": "Drogues",
-      "defname": "Penoxycyline",
-      "price": -10
-    },
-    {
-      "abr": "petitsanctuairedelanature",
-      "category": "Divers",
-      "defname": "NatureShrine_Small",
-      "price": -10
-    },
-    {
-      "abr": "petitecouronne",
-      "category": "Coiffure",
-      "defname": "Apparel_Coronet",
-      "price": -10
-    },
-    {
-      "abr": "petitesculpture",
-      "category": "Art",
-      "defname": "SculptureSmall",
-      "price": -10
-    },
-    {
-      "abr": "piano",
-      "category": "Détente",
-      "defname": "Piano",
-      "price": -10
-    },
-    {
-      "abr": "picdegenou",
-      "category": "Prothèses",
-      "defname": "KneeSpike",
-      "price": -10
-    },
-    {
-      "abr": "piègeàantimatièreimprovisé",
-      "category": "Sécurité",
-      "defname": "TrapIED_AntigrainWarhead",
-      "price": -10
-    },
-    {
-      "abr": "piègeàpointes",
-      "category": "Sécurité",
-      "defname": "TrapSpike",
-      "price": -10
-    },
-    {
-      "abr": "piègeanti-incendieimprovisé",
-      "category": "Sécurité",
-      "defname": "TrapIED_Firefoam",
-      "price": -10
-    },
-    {
-      "abr": "piègeexplosifimprovisé",
-      "category": "Sécurité",
-      "defname": "TrapIED_HighExplosive",
-      "price": -10
-    },
-    {
-      "abr": "piègefumigène",
-      "category": "Sécurité",
-      "defname": "TrapIED_Smoke",
-      "price": -10
-    },
-    {
-      "abr": "piègeiemimprovisé",
-      "category": "Sécurité",
-      "defname": "TrapIED_EMP",
-      "price": -10
-    },
-    {
-      "abr": "piègeincendiaireimprovisé",
-      "category": "Sécurité",
-      "defname": "TrapIED_Incendiary",
-      "price": -10
-    },
-    {
-      "abr": "pierred'animus",
-      "category": "Divers",
-      "defname": "AnimusStone",
-      "price": -10
-    },
-    {
-      "abr": "pilevanométrique",
-      "category": "Spécial",
-      "defname": "VanometricPowerCell",
-      "price": -10
-    },
-    {
-      "abr": "pilum",
-      "category": "Armes à distance",
-      "defname": "Pila",
-      "price": -10
-    },
-    {
-      "abr": "piquetdeferàcheval",
-      "category": "Détente",
-      "defname": "HorseshoesPin",
-      "price": -10
-    },
-    {
-      "abr": "pistoletautomatique",
-      "category": "Armes à distance",
-      "defname": "Gun_Autopistol",
-      "price": -10
-    },
-    {
-      "abr": "pistolet-mitrailleur",
-      "category": "Armes à distance",
-      "defname": "Gun_MachinePistol",
-      "price": -10
-    },
-    {
-      "abr": "pistolet-mitrailleurlourd",
-      "category": "Armes à distance",
-      "defname": "Gun_HeavySMG",
-      "price": -10
-    },
-    {
-      "abr": "plastacier",
-      "category": "Ressources brutes",
-      "defname": "Plasteel",
-      "price": -10
-    },
-    {
-      "abr": "platgastronomique",
-      "category": "Plats",
-      "defname": "MealLavish",
-      "price": -10
-    },
-    {
-      "abr": "platraffiné",
-      "category": "Plats",
-      "defname": "MealFine",
-      "price": -10
-    },
-    {
-      "abr": "platsimple",
-      "category": "Plats",
-      "defname": "MealSimple",
-      "price": -10
-    },
-    {
-      "abr": "plateaudejeud'ur",
-      "category": "Meubles",
-      "defname": "GameOfUrBoard",
-      "price": -10
-    },
-    {
-      "abr": "pommedeterre",
-      "category": "Végétaux",
-      "defname": "RawPotatoes",
-      "price": -10
-    },
-    {
-      "abr": "postebasiquederecherche",
-      "category": "Production",
-      "defname": "SimpleResearchBench",
-      "price": -10
-    },
-    {
-      "abr": "potdefleurs",
-      "category": "Meubles",
-      "defname": "PlantPot",
-      "price": -10
-    },
-    {
-      "abr": "poulet",
-      "category": "Animaux",
-      "defname": "Chicken",
-      "price": -10
-    },
-    {
-      "abr": "poumon",
-      "category": "Naturelles",
-      "defname": "Lung",
-      "price": -10
-    },
-    {
-      "abr": "prestigieusearmuredecataphracte",
-      "category": "Armures",
-      "defname": "Apparel_ArmorCataphractPrestige",
-      "price": -10
-    },
-    {
-      "abr": "prestigieusearmuredecommando",
-      "category": "Armures",
-      "defname": "Apparel_ArmorMarinePrestige",
-      "price": -10
-    },
-    {
-      "abr": "prestigieusearmuredereconnaissance",
-      "category": "Armures",
-      "defname": "Apparel_ArmorReconPrestige",
-      "price": -10
-    },
-    {
-      "abr": "prestigieuxcasquedecataphracte",
-      "category": "Coiffures",
-      "defname": "Apparel_ArmorHelmetCataphractPrestige",
-      "price": -10
-    },
-    {
-      "abr": "prestigieuxcasquedecommando",
-      "category": "Coiffures",
-      "defname": "Apparel_ArmorMarineHelmetPrestige",
-      "price": -10
-    },
-    {
-      "abr": "prestigieuxcasquedereconnaissance",
-      "category": "Coiffures",
-      "defname": "Apparel_ArmorHelmetReconPrestige",
-      "price": -10
-    },
-    {
-      "abr": "prothèseauditive",
-      "category": "Prothèses",
-      "defname": "CochlearImplant",
-      "price": -10
-    },
-    {
-      "abr": "prothèsecardiaque",
-      "category": "Prothèses",
-      "defname": "SimpleProstheticHeart",
-      "price": -10
-    },
-    {
-      "abr": "prothèsedebras",
-      "category": "Prothèses",
-      "defname": "SimpleProstheticArm",
-      "price": -10
-    },
-    {
-      "abr": "prothèsedejambe",
-      "category": "Prothèses",
-      "defname": "SimpleProstheticLeg",
-      "price": -10
-    },
-    {
-      "abr": "radiateur",
-      "category": "Température",
-      "defname": "Heater",
-      "price": -10
-    },
-    {
-      "abr": "rat",
-      "category": "Animaux",
-      "defname": "Rat",
-      "price": -10
-    },
-    {
-      "abr": "rataboum",
-      "category": "Animaux",
-      "defname": "Boomrat",
-      "price": -10
-    },
-    {
-      "abr": "rationdesurvie",
-      "category": "Plats",
-      "defname": "MealSurvivalPack",
-      "price": -10
-    },
-    {
-      "abr": "ratonlaveur",
-      "category": "Animaux",
-      "defname": "Raccoon",
-      "price": -10
-    },
-    {
-      "abr": "rein",
-      "category": "Naturelles",
-      "defname": "Kidney",
-      "price": -10
-    },
-    {
-      "abr": "renardarctique",
-      "category": "Animaux",
-      "defname": "Fox_Arctic",
-      "price": -10
-    },
-    {
-      "abr": "renardroux",
-      "category": "Animaux",
-      "defname": "Fox_Red",
-      "price": -10
-    },
-    {
-      "abr": "revolver",
-      "category": "Armes à distance",
-      "defname": "Gun_Revolver",
-      "price": -10
-    },
-    {
-      "abr": "rhinocéros",
-      "category": "Animaux",
-      "defname": "Rhinoceros",
-      "price": -10
-    },
-    {
-      "abr": "rideaux",
-      "category": "Meubles",
-      "defname": "Drape",
-      "price": -10
-    },
-    {
-      "abr": "riz",
-      "category": "Végétaux",
-      "defname": "RawRice",
-      "price": -10
-    },
-    {
-      "abr": "robeeneltex",
-      "category": "Vêtements",
-      "defname": "Apparel_PsyfocusRobe",
-      "price": -10
-    },
-    {
-      "abr": "robeprestigieuse",
-      "category": "Vêtements nobles",
-      "defname": "Apparel_RobeRoyal",
-      "price": -10
-    },
-    {
-      "abr": "sacdecouchage",
-      "category": "Meubles",
-      "defname": "Bedroll",
-      "price": -10
-    },
-    {
-      "abr": "sacdecouchagedouble",
-      "category": "Meubles",
-      "defname": "BedrollDouble",
-      "price": -10
-    },
-    {
-      "abr": "sanglier",
-      "category": "Animaux",
-      "defname": "WildBoar",
-      "price": -10
-    },
-    {
-      "abr": "schématechnique(analysemoléculaire)",
-      "category": "Schémas techniques",
-      "defname": "Techprint_MolecularAnalysis",
-      "price": -10
-    },
-    {
-      "abr": "schématechnique(armementcompact)",
-      "category": "Schémas techniques",
-      "defname": "Techprint_CompactWeaponry",
-      "price": -10
-    },
-    {
-      "abr": "schématechnique(armuredecataphracte)",
-      "category": "Schémas techniques",
-      "defname": "Techprint_CataphractArmor",
-      "price": -10
-    },
-    {
-      "abr": "schématechnique(calculneuronal)",
-      "category": "Schémas techniques",
-      "defname": "Techprint_NeuralComputation",
-      "price": -10
-    },
-    {
-      "abr": "schématechnique(façonnagedelachair)",
-      "category": "Schémas techniques",
-      "defname": "Techprint_FleshShaping",
-      "price": -10
-    },
-    {
-      "abr": "schématechnique(facteursdeguérison)",
-      "category": "Schémas techniques",
-      "defname": "Techprint_HealingFactors",
-      "price": -10
-    },
-    {
-      "abr": "schématechnique(influencecircadienne)",
-      "category": "Schémas techniques",
-      "defname": "Techprint_CircadianInfluence",
-      "price": -10
-    },
-    {
-      "abr": "schématechnique(membresspécialisés)",
-      "category": "Schémas techniques",
-      "defname": "Techprint_SpecializedLimbs",
-      "price": -10
-    },
-    {
-      "abr": "schématechnique(métabolismeartificiel)",
-      "category": "Schémas techniques",
-      "defname": "Techprint_ArtificialMetabolism",
-      "price": -10
-    },
-    {
-      "abr": "schématechnique(packsdorsaux)",
-      "category": "Schémas techniques",
-      "defname": "Techprint_JumpPack",
-      "price": -10
-    },
-    {
-      "abr": "schématechnique(renforcementdelapeau)",
-      "category": "Schémas techniques",
-      "defname": "Techprint_SkinHardening",
-      "price": -10
-    },
-    {
-      "abr": "schématechnique(synthèsedepoison)",
-      "category": "Schémas techniques",
-      "defname": "Techprint_VenomSynthesis",
-      "price": -10
-    },
-    {
-      "abr": "sculpturemonumentale",
-      "category": "Art",
-      "defname": "SculptureGrand",
-      "price": -10
-    },
-    {
-      "abr": "sensibilisateurpsychique",
-      "category": "Archotech",
-      "defname": "PsychicSensitizer",
-      "price": -10
-    },
-    {
-      "abr": "singe",
-      "category": "Animaux",
-      "defname": "Monkey",
-      "price": -10
-    },
-    {
-      "abr": "spélopède",
-      "category": "Animaux",
-      "defname": "Spelopede",
-      "price": -10
-    },
-    {
-      "abr": "synthé",
-      "category": "Textiles",
-      "defname": "Synthread",
-      "price": -10
-    },
-    {
-      "abr": "systèmedeviséedebombardementorbital",
-      "category": "Utilitaires",
-      "defname": "OrbitalTargeterBombardment",
-      "price": -10
-    },
-    {
-      "abr": "table(1x2)",
-      "category": "Meubles",
-      "defname": "Table1x2c",
-      "price": -10
-    },
-    {
-      "abr": "table(2x2)",
-      "category": "Meubles",
-      "defname": "Table2x2c",
-      "price": -10
-    },
-    {
-      "abr": "table(2x4)",
-      "category": "Meubles",
-      "defname": "Table2x4c",
-      "price": -10
-    },
-    {
-      "abr": "table(3x3)",
-      "category": "Meubles",
-      "defname": "Table3x3c",
-      "price": -10
-    },
-    {
-      "abr": "tabledebillard",
-      "category": "Meubles",
-      "defname": "BilliardsTable",
-      "price": 600
-    },
-    {
-      "abr": "tabledenuit",
-      "category": "Meubles",
-      "defname": "EndTable",
-      "price": -10
-    },
-    {
-      "abr": "tabledepoker",
-      "category": "Meubles",
-      "defname": "PokerTable",
-      "price": 400
-    },
-    {
-      "abr": "tabled'échecs",
-      "category": "Meubles",
-      "defname": "ChessTable",
-      "price": 281
-    },
-    {
-      "abr": "tabouret",
-      "category": "Meubles",
-      "defname": "Stool",
-      "price": -10
-    },
-    {
-      "abr": "télescope",
-      "category": "Détente",
-      "defname": "Telescope",
-      "price": -10
-    },
-    {
-      "abr": "télévisionàécrangéant",
-      "category": "Détente",
-      "defname": "MegascreenTelevision",
-      "price": -10
-    },
-    {
-      "abr": "télévisionàécranplat",
-      "category": "Détente",
-      "defname": "FlatscreenTelevision",
-      "price": -10
-    },
-    {
-      "abr": "télévisioncathodique",
-      "category": "Détente",
-      "defname": "TubeTelevision",
-      "price": -10
-    },
-    {
-      "abr": "tenaillementale",
-      "category": "Prothèses",
-      "defname": "Mindscrew",
-      "price": -10
-    },
-    {
-      "abr": "thépekoe",
-      "category": "Drogues",
-      "defname": "PsychiteTea",
-      "price": -10
-    },
-    {
-      "abr": "thrumbo",
-      "category": "Animaux",
-      "defname": "Thrumbo",
-      "price": -10
-    },
-    {
-      "abr": "tissu",
-      "category": "Textiles",
-      "defname": "Cloth",
-      "price": -10
-    },
-    {
-      "abr": "tortue",
-      "category": "Animaux",
-      "defname": "Tortoise",
-      "price": -10
-    },
-    {
-      "abr": "trônedeméditation",
-      "category": "Meubles",
-      "defname": "Throne",
-      "price": -10
-    },
-    {
-      "abr": "t-shirt",
-      "category": "Vêtements",
-      "defname": "Apparel_BasicShirt",
-      "price": -10
-    },
-    {
-      "abr": "uranium",
-      "category": "Ressources brutes",
-      "defname": "Uranium",
-      "price": -10
-    },
-    {
-      "abr": "urne",
-      "category": "Meubles",
-      "defname": "Urn",
-      "price": -10
-    },
-    {
-      "abr": "vache",
-      "category": "Animaux",
-      "defname": "Cow",
-      "price": -10
-    },
-    {
-      "abr": "veste",
-      "category": "Vêtements",
-      "defname": "Apparel_Jacket",
-      "price": -10
-    },
-    {
-      "abr": "vesteeneltex",
-      "category": "Vêtements",
-      "defname": "Apparel_PsyfocusVest",
-      "price": -10
-    },
-    {
-      "abr": "vesterenforcée",
-      "category": "Armures",
-      "defname": "Apparel_FlakJacket",
-      "price": -10
-    },
-    {
-      "abr": "vianded'alpaga",
-      "category": "Viandes crues",
-      "defname": "Meat_Alpaca",
-      "price": -10
-    },
-    {
-      "abr": "vianded'alphacastor",
-      "category": "Viandes crues",
-      "defname": "Meat_Alphabeaver",
-      "price": -10
-    },
-    {
-      "abr": "viandedeâne",
-      "category": "Viandes crues",
-      "defname": "Meat_Donkey",
-      "price": -10
-    },
-    {
-      "abr": "viandedebison",
-      "category": "Viandes crues",
-      "defname": "Meat_Bison",
-      "price": -10
-    },
-    {
-      "abr": "viandedebœuf",
-      "category": "Viandes crues",
-      "defname": "Meat_Cow",
-      "price": -10
-    },
-    {
-      "abr": "viandedeboomalope",
-      "category": "Viandes crues",
-      "defname": "Meat_Boomalope",
-      "price": -10
-    },
-    {
-      "abr": "viandedebouquetin",
-      "category": "Viandes crues",
-      "defname": "Meat_Ibex",
-      "price": -10
-    },
-    {
-      "abr": "viandedecanard",
-      "category": "Viandes crues",
-      "defname": "Meat_Duck",
-      "price": -10
-    },
-    {
-      "abr": "viandedecapybara",
-      "category": "Viandes crues",
-      "defname": "Meat_Capybara",
-      "price": -10
-    },
-    {
-      "abr": "viandedecaribou",
-      "category": "Viandes crues",
-      "defname": "Meat_Caribou",
-      "price": -10
-    },
-    {
-      "abr": "viandedecerf",
-      "category": "Viandes crues",
-      "defname": "Meat_Deer",
-      "price": -10
-    },
-    {
-      "abr": "viandedechat",
-      "category": "Viandes crues",
-      "defname": "Meat_Cat",
-      "price": -10
-    },
-    {
-      "abr": "viandedecheval",
-      "category": "Viandes crues",
-      "defname": "Meat_Horse",
-      "price": -10
-    },
-    {
-      "abr": "viandedechèvre",
-      "category": "Viandes crues",
-      "defname": "Meat_Goat",
-      "price": -10
-    },
-    {
-      "abr": "viandedechinchilla",
-      "category": "Viandes crues",
-      "defname": "Meat_Chinchilla",
-      "price": -10
-    },
-    {
-      "abr": "viandedecobaye",
-      "category": "Viandes crues",
-      "defname": "Meat_GuineaPig",
-      "price": -10
-    },
-    {
-      "abr": "viandedecobra",
-      "category": "Viandes crues",
-      "defname": "Meat_Cobra",
-      "price": -10
-    },
-    {
-      "abr": "viandedecougar",
-      "category": "Viandes crues",
-      "defname": "Meat_Cougar",
-      "price": -10
-    },
-    {
-      "abr": "viandededinde",
-      "category": "Viandes crues",
-      "defname": "Meat_Turkey",
-      "price": -10
-    },
-    {
-      "abr": "viandededromadaire",
-      "category": "Viandes crues",
-      "defname": "Meat_Dromedary",
-      "price": -10
-    },
-    {
-      "abr": "viandedegazelle",
-      "category": "Viandes crues",
-      "defname": "Meat_Gazelle",
-      "price": -10
-    },
-    {
-      "abr": "viandedehusky",
-      "category": "Viandes crues",
-      "defname": "Meat_Husky",
-      "price": -10
-    },
-    {
-      "abr": "viandedelabrador",
-      "category": "Viandes crues",
-      "defname": "Meat_LabradorRetriever",
-      "price": -10
-    },
-    {
-      "abr": "viandedelièvre",
-      "category": "Viandes crues",
-      "defname": "Meat_Hare",
-      "price": -10
-    },
-    {
-      "abr": "viandedeloup",
-      "category": "Viandes crues",
-      "defname": "Meat_Wolf_Timber",
-      "price": -10
-    },
-    {
-      "abr": "viandedelynx",
-      "category": "Viandes crues",
-      "defname": "Meat_Lynx",
-      "price": -10
-    },
-    {
-      "abr": "viandedemégathérium",
-      "category": "Viandes crues",
-      "defname": "Meat_Megasloth",
-      "price": -10
-    },
-    {
-      "abr": "viandedemouton",
-      "category": "Viandes crues",
-      "defname": "Meat_Sheep",
-      "price": -10
-    },
-    {
-      "abr": "viandedemuffalo",
-      "category": "Viandes crues",
-      "defname": "Meat_Muffalo",
-      "price": -10
-    },
-    {
-      "abr": "viandedepanthère",
-      "category": "Viandes crues",
-      "defname": "Meat_Panther",
-      "price": -10
-    },
-    {
-      "abr": "viandedeporc",
-      "category": "Viandes crues",
-      "defname": "Meat_Pig",
-      "price": -10
-    },
-    {
-      "abr": "viandedepoulet",
-      "category": "Viandes crues",
-      "defname": "Meat_Chicken",
-      "price": -10
-    },
-    {
-      "abr": "viandederat",
-      "category": "Viandes crues",
-      "defname": "Meat_Rat",
-      "price": -10
-    },
-    {
-      "abr": "viandederataboum",
-      "category": "Viandes crues",
-      "defname": "Meat_Boomrat",
-      "price": -10
-    },
-    {
-      "abr": "viandederatonlaveur",
-      "category": "Viandes crues",
-      "defname": "Meat_Raccoon",
-      "price": -10
-    },
-    {
-      "abr": "viandederenard",
-      "category": "Viandes crues",
-      "defname": "Meat_Fox_Fennec",
-      "price": -10
-    },
-    {
-      "abr": "viandederhinocéros",
-      "category": "Viandes crues",
-      "defname": "Meat_Rhinoceros",
-      "price": -10
-    },
-    {
-      "abr": "viandedesinge",
-      "category": "Viandes crues",
-      "defname": "Meat_Monkey",
-      "price": -10
-    },
-    {
-      "abr": "viandedethrumbo",
-      "category": "Viandes crues",
-      "defname": "Meat_Thrumbo",
-      "price": -10
-    },
-    {
-      "abr": "viandedetortue",
-      "category": "Viandes crues",
-      "defname": "Meat_Tortoise",
-      "price": -10
-    },
-    {
-      "abr": "viandedewapiti",
-      "category": "Viandes crues",
-      "defname": "Meat_Elk",
-      "price": -10
-    },
-    {
-      "abr": "viandedewarg",
-      "category": "Viandes crues",
-      "defname": "Meat_Warg",
-      "price": -10
-    },
-    {
-      "abr": "viandedeyak",
-      "category": "Viandes crues",
-      "defname": "Meat_Yak",
-      "price": -10
-    },
-    {
-      "abr": "viandedeyorkshireterrier",
-      "category": "Viandes crues",
-      "defname": "Meat_YorkshireTerrier",
-      "price": -10
-    },
-    {
-      "abr": "vianded'écureuil",
-      "category": "Viandes crues",
-      "defname": "Meat_Squirrel",
-      "price": -10
-    },
-    {
-      "abr": "vianded'éléphant",
-      "category": "Viandes crues",
-      "defname": "Meat_Elephant",
-      "price": -10
-    },
-    {
-      "abr": "vianded'iguane",
-      "category": "Viandes crues",
-      "defname": "Meat_Iguana",
-      "price": -10
-    },
-    {
-      "abr": "vianded'insecteogm",
-      "category": "Viandes crues",
-      "defname": "Meat_Megaspider",
-      "price": -10
-    },
-    {
-      "abr": "vianded'oiseau",
-      "category": "Viandes crues",
-      "defname": "Meat_Cassowary",
-      "price": -10
-    },
-    {
-      "abr": "vianded'ours",
-      "category": "Viandes crues",
-      "defname": "Meat_Bear_Grizzly",
-      "price": -10
-    },
-    {
-      "abr": "voiledeguerre",
-      "category": "Couvre-chefs",
-      "defname": "Apparel_WarVeil",
-      "price": -10
-    },
-    {
-      "abr": "wake-up",
-      "category": "Drogues",
-      "defname": "WakeUp",
-      "price": -10
-    },
-    {
-      "abr": "wapiti",
-      "category": "Animaux",
-      "defname": "Elk",
-      "price": -10
-    },
-    {
-      "abr": "warg",
-      "category": "Animaux",
-      "defname": "Warg",
-      "price": -10
-    },
-    {
-      "abr": "yak",
-      "category": "Animaux",
-      "defname": "Yak",
-      "price": -10
-    },
-    {
-      "abr": "yayo",
-      "category": "Drogues",
-      "defname": "Yayo",
-      "price": -10
-    },
-    {
-      "abr": "yorkshireterrier",
-      "category": "Animaux",
-      "defname": "YorkshireTerrier",
-      "price": -10
-    },
-    {
-      "abr": "canonrenforcé",
-      "category": "Objets",
-      "defname": "ReinforcedBarrel",
-      "price": -10
-    },
-    {
-      "abr": "hachedebrèche",
-      "category": "Armes de mêlée",
-      "defname": "MeleeWeapon_BreachAxe",
-      "price": -10
-    },
-    {
-      "abr": "marqueurd'enclos",
-      "category": "Divers",
-      "defname": "PenMarker",
-      "price": -10
-    },
-    {
-      "abr": "platcarnivoregastronomique",
-      "category": "Plats",
-      "defname": "MealLavish_Meat",
-      "price": -10
-    },
-    {
-      "abr": "platcarnivoreraffiné",
-      "category": "Plats",
-      "defname": "MealFine_Meat",
-      "price": -10
-    },
-    {
-      "abr": "platvégétariengastronomique",
-      "category": "Plats",
-      "defname": "MealLavish_Veg",
-      "price": -10
-    },
-    {
-      "abr": "platvégétarienraffiné",
-      "category": "Plats",
-      "defname": "MealFine_Veg",
-      "price": -10
-    },
-    {
-      "abr": "pondoir",
-      "category": "Divers",
-      "defname": "EggBox",
-      "price": -10
-    },
-    {
-      "abr": "languebionique",
-      "category": "Bioniques",
-      "defname": "BionicTongue",
-      "price": -10
-    },
-    {
-      "abr": "rideaux(1x1)",
-      "category": "Constructions",
-      "defname": "HeronCurtainTribal",
-      "price": -10
-    },
-    {
-      "abr": "rideaux(2x1)",
-      "category": "Constructions",
-      "defname": "HeronCurtainTribalDouble",
-      "price": -10
-    },
-    {
-      "abr": "rideaux(3x1)",
-      "category": "Constructions",
-      "defname": "HeronCurtainTribalTriple",
-      "price": -10
-    },
-    {
-      "abr": "hide",
-      "category": "Cuirs",
-      "defname": "porg_hide",
-      "price": -10
-    },
-    {
-      "abr": "acklay",
-      "category": "Animaux",
-      "defname": "Acklay",
-      "price": -10
-    },
-    {
-      "abr": "acklayegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "EggAcklayFertilized",
-      "price": -10
-    },
-    {
-      "abr": "acklayhide",
-      "category": "Cuirs",
-      "defname": "acklay_hide",
-      "price": -10
-    },
-    {
-      "abr": "acklaymeat",
-      "category": "Viandes crues",
-      "defname": "Meat_Acklay",
-      "price": -10
-    },
-    {
-      "abr": "aiwha",
-      "category": "Animaux",
-      "defname": "Aiwha",
-      "price": -10
-    },
-    {
-      "abr": "aiwhaleather",
-      "category": "Cuirs",
-      "defname": "Leather_Aiwha",
-      "price": -10
-    },
-    {
-      "abr": "aiwhameat",
-      "category": "Viandes crues",
-      "defname": "Meat_Aiwha",
-      "price": -10
-    },
-    {
-      "abr": "ankarressaphir(bluesombre)",
-      "category": "Cristal pour sabre",
-      "defname": "PJ_AnkSapphire",
-      "price": -10
-    },
-    {
-      "abr": "armurecomposite",
-      "category": "Vêtements",
-      "defname": "PJ_CompArmor",
-      "price": -10
-    },
-    {
-      "abr": "armuredestormtrooper",
-      "category": "Vêtements",
-      "defname": "PJ_TroopArmor",
-      "price": -10
-    },
-    {
-      "abr": "armuredestormtrooper",
-      "category": "Vêtements",
-      "defname": "PJ_TroopArmorJO",
-      "price": -10
-    },
-    {
-      "abr": "armuredestormtrooper",
-      "category": "Vêtements",
-      "defname": "PJ_TroopArmorNCO",
-      "price": -10
-    },
-    {
-      "abr": "armuredestormtrooper",
-      "category": "Vêtements",
-      "defname": "PJ_TroopArmorSO",
-      "price": -10
-    },
-    {
-      "abr": "armuredevétéranmandalorien",
-      "category": "Vêtements",
-      "defname": "PJ_VetMandoArmor",
-      "price": 10250
-    },
-    {
-      "abr": "armureduclanbarky",
-      "category": "Vêtements",
-      "defname": "PJ_BarkMandoArmor",
-      "price": 10250
-    },
-    {
-      "abr": "armuremandalorienne",
-      "category": "Vêtements",
-      "defname": "PJ_MandoArmor",
-      "price": 10083
-    },
-    {
-      "abr": "bantha",
-      "category": "Animaux",
-      "defname": "Bantha",
-      "price": 2083
-    },
-    {
-      "abr": "banthahide",
-      "category": "Cuirs",
-      "defname": "bantha_hide",
-      "price": -10
-    },
-    {
-      "abr": "banthahorn",
-      "category": "Objets",
-      "defname": "BanthaHorn",
-      "price": -10
-    },
-    {
-      "abr": "banthameat",
-      "category": "Viandes crues",
-      "defname": "Meat_Bantha",
-      "price": -10
-    },
-    {
-      "abr": "banthawool",
-      "category": "Laines",
-      "defname": "WoolBantha",
-      "price": -10
-    },
-    {
-      "abr": "basicvibrocell",
-      "category": "Vibroblade motors",
-      "defname": "PJ_VibroMotorNorm",
-      "price": -10
-    },
-    {
-      "abr": "batondesgardesd'honneur",
-      "category": "Armes de mêlée",
-      "defname": "SWSaber_JGuard",
-      "price": 5000
-    },
-    {
-      "abr": "bionicrodianantenna",
-      "category": "Bioniques",
-      "defname": "StarWarsRaces_Rodian_BionicAntenna",
-      "price": -10
-    },
-    {
-      "abr": "bionictwi'leklekku",
-      "category": "Bioniques",
-      "defname": "StarWarsRaces_Twilek_BionicLekku",
-      "price": -10
-    },
-    {
-      "abr": "blasterdereco",
-      "category": "Armes à distance",
-      "defname": "PJ_Scoutblaster",
-      "price": 1725
-    },
-    {
-      "abr": "blasterdh-17",
-      "category": "Armes à distance",
-      "defname": "PJ_DH17Blaster",
-      "price": 3667
-    },
-    {
-      "abr": "blasterdl-44",
-      "category": "Armes à distance",
-      "defname": "PJ_DL44blaster",
-      "price": 1725
-    },
-    {
-      "abr": "blasterse14",
-      "category": "Armes à distance",
-      "defname": "PJ_SE14blaster",
-      "price": 1725
-    },
-    {
-      "abr": "bluemilk",
-      "category": "Produits animaliers",
-      "defname": "BlueMilk",
-      "price": -10
-    },
-    {
-      "abr": "burejedi",
-      "category": "Vêtements",
-      "defname": "PJ_Jedi_Robe",
-      "price": 458
-    },
-    {
-      "abr": "burejedicustomisé",
-      "category": "Vêtements",
-      "defname": "PJ_JFac_Robe",
-      "price": 467
-    },
-    {
-      "abr": "buresith",
-      "category": "Vêtements",
-      "defname": "PJ_Sith_Robe",
-      "price": 458
-    },
-    {
-      "abr": "buresithcustomisé",
-      "category": "Vêtements",
-      "defname": "PJ_SithFac_Robe",
-      "price": 467
-    },
-    {
-      "abr": "bureaudegestionnaire",
-      "category": "Production",
-      "defname": "FM_ManagerStation",
-      "price": -10
-    },
-    {
-      "abr": "bureaudegestionnairebasique",
-      "category": "Production",
-      "defname": "FM_BasicManagerStation",
-      "price": -10
-    },
-    {
-      "abr": "carabineblasterdxr-6",
-      "category": "Armes à distance",
-      "defname": "PJ_DXR6Carb",
-      "price": 1725
-    },
-    {
-      "abr": "carabineblasteree-3",
-      "category": "Armes à distance",
-      "defname": "PJ_EE3Carbine",
-      "price": 1725
-    },
-    {
-      "abr": "casquedel'alliance",
-      "category": "Couvre-chefs",
-      "defname": "PJ_RebHat",
-      "price": 162
-    },
-    {
-      "abr": "casquedepilotedetie",
-      "category": "Couvre-chefs",
-      "defname": "PJ_TIEHelm",
-      "price": 2033
-    },
-    {
-      "abr": "casquedepiloterebelle(blue)",
-      "category": "Couvre-chefs",
-      "defname": "PJ_RebPilot_H_Blue",
-      "price": 79
-    },
-    {
-      "abr": "casquedepiloterebelle(red)",
-      "category": "Couvre-chefs",
-      "defname": "PJ_RebPilot_H_Red",
-      "price": 163
-    },
-    {
-      "abr": "casquederecorebelle(forêt)",
-      "category": "Couvre-chefs",
-      "defname": "PJ_RebScoutHat",
-      "price": 162
-    },
-    {
-      "abr": "casquederecorebelle(marron)",
-      "category": "Couvre-chefs",
-      "defname": "PJ_RebLAVHat",
-      "price": 162
-    },
-    {
-      "abr": "casquedescouttrooper",
-      "category": "Couvre-chefs",
-      "defname": "PJ_SCTHelm",
-      "price": 1367
-    },
-    {
-      "abr": "casquedestormtrooper",
-      "category": "Couvre-chefs",
-      "defname": "PJ_STHelm",
-      "price": 1333
-    },
-    {
-      "abr": "casquegrandfroid",
-      "category": "Couvre-chefs",
-      "defname": "PJ_RebSnowHat",
-      "price": 155
-    },
-    {
-      "abr": "casquemandalorien",
-      "category": "Couvre-chefs",
-      "defname": "PJ_MandoHelm",
-      "price": 2533
-    },
-    {
-      "abr": "casquettedecommandantimpérial",
-      "category": "Couvre-chefs",
-      "defname": "PJ_ImpHat",
-      "price": 417
-    },
-    {
-      "abr": "casquettedecommandantimpérial",
-      "category": "Couvre-chefs",
-      "defname": "PJ_ImpHatBrn",
-      "price": 417
-    },
-    {
-      "abr": "casquettedecommandantimpérial(noir)",
-      "category": "Couvre-chefs",
-      "defname": "PJ_ImpHatB",
-      "price": 417
-    },
-    {
-      "abr": "casquettedelanavyimperiale",
-      "category": "Couvre-chefs",
-      "defname": "PJ_ImpNavyH",
-      "price": 417
-    },
-    {
-      "abr": "clothrodianantenna",
-      "category": "Prothèses",
-      "defname": "StarWarsRaces_Rodian_ProstheticAntenna",
-      "price": -10
-    },
-    {
-      "abr": "clothtogrutalekku",
-      "category": "Prothèses",
-      "defname": "StarWarsRaces_Togruta_ProstheticLekku",
-      "price": -10
-    },
-    {
-      "abr": "clothtwi'leklekku",
-      "category": "Prothèses",
-      "defname": "StarWarsRaces_Twilek_ProstheticLekku",
-      "price": -10
-    },
-    {
-      "abr": "combinaisondevoljaune",
-      "category": "Vêtements",
-      "defname": "PJ_GenFlight_Y",
-      "price": 1167
-    },
-    {
-      "abr": "combinaisondevolrebelle",
-      "category": "Vêtements",
-      "defname": "PJ_RebFlight",
-      "price": 1167
-    },
-    {
-      "abr": "combinaisonimpériale",
-      "category": "Vêtements",
-      "defname": "PJ_ImpUniform",
-      "price": -10
-    },
-    {
-      "abr": "composantinternedusabre",
-      "category": "Objets",
-      "defname": "PJ_SaberInternal",
-      "price": -10
-    },
-    {
-      "abr": "coussindeméditation(jedi)",
-      "category": "Meubles",
-      "defname": "PJ_ForceMedPadJ",
-      "price": 147
-    },
-    {
-      "abr": "coussindeméditation(sith)",
-      "category": "Meubles",
-      "defname": "PJ_ForceMedPadS",
-      "price": 147
-    },
-    {
-      "abr": "cristaladegan(vert)",
-      "category": "Cristal pour sabre",
-      "defname": "PJ_AdeganCrystal",
-      "price": -10
-    },
-    {
-      "abr": "cristaldamind(azurclair)",
-      "category": "Cristal pour sabre",
-      "defname": "PJ_DamindCrystal",
-      "price": -10
-    },
-    {
-      "abr": "cristaldecouleur(azur)",
-      "category": "Cristal pour sabre",
-      "defname": "PJ_KyberCrystalAzure",
-      "price": -10
-    },
-    {
-      "abr": "cristaldecouleur(bleu)",
-      "category": "Cristal pour sabre",
-      "defname": "PJ_KyberCrystalBlue",
-      "price": -10
-    },
-    {
-      "abr": "cristaldecouleur(jaune)",
-      "category": "Cristal pour sabre",
-      "defname": "PJ_KyberCrystalYellow",
-      "price": -10
-    },
-    {
-      "abr": "cristaldecouleur(turquoise)",
-      "category": "Cristal pour sabre",
-      "defname": "PJ_KyberCrystalCyan",
-      "price": -10
-    },
-    {
-      "abr": "cristaldecouleur(vert)",
-      "category": "Cristal pour sabre",
-      "defname": "PJ_KyberCrystal",
-      "price": -10
-    },
-    {
-      "abr": "cristaldecouleur(violet)",
-      "category": "Cristal pour sabre",
-      "defname": "PJ_KyberCrystalPurple",
-      "price": -10
-    },
-    {
-      "abr": "cristaldragite(violetclair)",
-      "category": "Cristal pour sabre",
-      "defname": "PJ_DragiteCrystal",
-      "price": -10
-    },
-    {
-      "abr": "cristaleralam(argent)",
-      "category": "Cristal pour sabre",
-      "defname": "PJ_EralamCrystal",
-      "price": -10
-    },
-    {
-      "abr": "cristalfirkrann(argent)",
-      "category": "Cristal pour sabre",
-      "defname": "PJ_FirkrannCrystal",
-      "price": -10
-    },
-    {
-      "abr": "cristalhurrikaine(indigo)",
-      "category": "Cristal pour sabre",
-      "defname": "PJ_HurCrystal",
-      "price": -10
-    },
-    {
-      "abr": "cristalkaiburr(rougeorangé)",
-      "category": "Cristal pour sabre",
-      "defname": "PJ_KaiburrCrystal",
-      "price": -10
-    },
-    {
-      "abr": "cristalpontite(bleuglacial)",
-      "category": "Cristal pour sabre",
-      "defname": "PJ_PontiteCrystal",
-      "price": -10
-    },
-    {
-      "abr": "cristalrubat(bronze)",
-      "category": "Cristal pour sabre",
-      "defname": "PJ_RubatCrystal",
-      "price": -10
-    },
-    {
-      "abr": "cristalsynthétique(rouge)",
-      "category": "Cristal pour sabre",
-      "defname": "PJ_KyberCrystalRed",
-      "price": -10
-    },
-    {
-      "abr": "cryovibrocell",
-      "category": "Vibroblade motors",
-      "defname": "PJ_CryoCell",
-      "price": -10
-    },
-    {
-      "abr": "customhood",
-      "category": "Couvre-chefs",
-      "defname": "PJ_CustomHood",
-      "price": 417
-    },
-    {
-      "abr": "deathtrooperarmor",
-      "category": "Vêtements",
-      "defname": "PJ_TroopArmorDT",
-      "price": 7083
-    },
-    {
-      "abr": "deathtrooperarmor(cmd)",
-      "category": "Vêtements",
-      "defname": "PJ_TroopArmorDTC",
-      "price": 7250
-    },
-    {
-      "abr": "dewback",
-      "category": "Animaux",
-      "defname": "Dewback",
-      "price": -10
-    },
-    {
-      "abr": "dewbackegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "EggDewbackFertilized",
-      "price": -10
-    },
-    {
-      "abr": "dewbackhide",
-      "category": "Cuirs",
-      "defname": "dewback_hide",
-      "price": -10
-    },
-    {
-      "abr": "dewbackmeat",
-      "category": "Viandes crues",
-      "defname": "Meat_Dewback",
-      "price": -10
-    },
-    {
-      "abr": "ectoplasme",
-      "category": "Viandes crues",
-      "defname": "Meat_PJ_ForceGhostR",
-      "price": -10
-    },
-    {
-      "abr": "ewok",
-      "category": "Animal",
-      "defname": "StarWarsRaces_Ewok",
-      "price": -10
-    },
-    {
-      "abr": "ewokhood",
-      "category": "Couvre-chefs",
-      "defname": "StarWarsRaces_Ewok_Hood",
-      "price": 203
-    },
-    {
-      "abr": "ewoktabard",
-      "category": "Star Wars Races - Ewok",
-      "defname": "StarWarsRaces_Ewok_Parka",
-      "price": 211
-    },
-    {
-      "abr": "experimentalvibrocell",
-      "category": "Vibroblade motors",
-      "defname": "PJ_XXCell",
-      "price": -10
-    },
-    {
-      "abr": "fusilàionsjawa",
-      "category": "Armes à distance",
-      "defname": "PJ_JawaIon",
-      "price": 1725
-    },
-    {
-      "abr": "fusilblasterdc-15a",
-      "category": "Armes à distance",
-      "defname": "PJ_DC15Rifle",
-      "price": 1725
-    },
-    {
-      "abr": "fusilblastere-11",
-      "category": "Armes à distance",
-      "defname": "PJ_E11Blaster",
-      "price": 3667
-    },
-    {
-      "abr": "fusilblasterlourddlt-19",
-      "category": "Armes à distance",
-      "defname": "PJ_DLT19Rifle",
-      "price": 1725
-    },
-    {
-      "abr": "fusilblastert-21",
-      "category": "Armes à distance",
-      "defname": "PJ_T21Rifle",
-      "price": 1725
-    },
-    {
-      "abr": "gestionia",
-      "category": "Production",
-      "defname": "FM_AIManager",
-      "price": -10
-    },
-    {
-      "abr": "gizka",
-      "category": "Animaux",
-      "defname": "Gizka",
-      "price": -10
-    },
-    {
-      "abr": "gizkaegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "EggGizkaFertilized",
-      "price": -10
-    },
-    {
-      "abr": "gizkaegg(unfert.)",
-      "category": "Œufs (non fécondés)",
-      "defname": "EggGizkaUnfertilized",
-      "price": -10
-    },
-    {
-      "abr": "gizkameat",
-      "category": "Viandes crues",
-      "defname": "Meat_Gizka",
-      "price": -10
-    },
-    {
-      "abr": "gizkaskin",
-      "category": "Cuirs",
-      "defname": "gizka_skin",
-      "price": -10
-    },
-    {
-      "abr": "humanlikeleather",
-      "category": "Cuirs",
-      "defname": "StarWarsRaces_Leather_Humanlike",
-      "price": -10
-    },
-    {
-      "abr": "hypersonicvibrocell",
-      "category": "Vibroblade motors",
-      "defname": "PJ_SonicCell",
-      "price": -10
-    },
-    {
-      "abr": "imperialcommandcap(dark)",
-      "category": "Couvre-chefs",
-      "defname": "PJ_ImpSTOHat",
-      "price": 417
-    },
-    {
-      "abr": "imperialcredit",
-      "category": "Ressources brutes",
-      "defname": "PJ_ImperialCredit",
-      "price": -10
-    },
-    {
-      "abr": "imperialisbuniform(outer)",
-      "category": "Vêtements",
-      "defname": "PJ_ImpUniformISBSHELL",
-      "price": 167
-    },
-    {
-      "abr": "jedihood",
-      "category": "Couvre-chefs",
-      "defname": "PJ_JediHood",
-      "price": 417
-    },
-    {
-      "abr": "kraytdragon",
-      "category": "Animaux",
-      "defname": "KraytDragon",
-      "price": -10
-    },
-    {
-      "abr": "kraytdragonegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "EggKraytDragonFertilized",
-      "price": -10
-    },
-    {
-      "abr": "kraytdragonhide",
-      "category": "Cuirs",
-      "defname": "KraytDragon_hide",
-      "price": -10
-    },
-    {
-      "abr": "kraytdragonhorn",
-      "category": "Objets",
-      "defname": "KraytDragonHorn",
-      "price": -10
-    },
-    {
-      "abr": "kraytdragonmeat",
-      "category": "Viandes crues",
-      "defname": "Meat_KraytDragon",
-      "price": -10
-    },
-    {
-      "abr": "krill",
-      "category": "Animaux",
-      "defname": "Krill",
-      "price": -10
-    },
-    {
-      "abr": "krill",
-      "category": "Viandes crues",
-      "defname": "Meat_Krill",
-      "price": -10
-    },
-    {
-      "abr": "krillshell",
-      "category": "Cuirs",
-      "defname": "Leather_Krill",
-      "price": -10
-    },
-    {
-      "abr": "lanceurdeballedenym",
-      "category": "Armes à distance",
-      "defname": "PJ_NymSlug",
-      "price": -10
-    },
-    {
-      "abr": "lekku",
-      "category": "Naturelles",
-      "defname": "StarWarsRaces_Togruta_Thing_Lekku",
-      "price": -10
-    },
-    {
-      "abr": "lekku",
-      "category": "Naturelles",
-      "defname": "StarWarsRaces_Twilek_Thing_Lekku",
-      "price": -10
-    },
-    {
-      "abr": "lingotdemineraidebarab(orange)",
-      "category": "Cristal pour sabre",
-      "defname": "PJ_BarabIngot",
-      "price": -10
-    },
-    {
-      "abr": "modifiedshirt",
-      "category": "Vêtements",
-      "defname": "PJ_RebCollarShirt",
-      "price": -10
-    },
-    {
-      "abr": "nerf",
-      "category": "Animaux",
-      "defname": "Nerf",
-      "price": -10
-    },
-    {
-      "abr": "nerfhide",
-      "category": "Cuirs",
-      "defname": "nerf_hide",
-      "price": -10
-    },
-    {
-      "abr": "nerfwool",
-      "category": "Laines",
-      "defname": "WoolNerf",
-      "price": -10
-    },
-    {
-      "abr": "nerf_meat",
-      "category": "Viandes crues",
-      "defname": "Meat_Nerf",
-      "price": -10
-    },
-    {
-      "abr": "nexu",
-      "category": "Animaux",
-      "defname": "Nexu",
-      "price": -10
-    },
-    {
-      "abr": "nexufur",
-      "category": "Cuirs",
-      "defname": "nexu_fur",
-      "price": -10
-    },
-    {
-      "abr": "nexumeat",
-      "category": "Viandes crues",
-      "defname": "Meat_Nexu",
-      "price": -10
-    },
-    {
-      "abr": "pantalond'uniforme",
-      "category": "Vêtements",
-      "defname": "PJ_Apparel_Pants",
-      "price": -10
-    },
-    {
-      "abr": "perlededragonkrayt(noir)",
-      "category": "Cristal pour sabre",
-      "defname": "PJ_BlackPearl",
-      "price": -10
-    },
-    {
-      "abr": "perleultime(pale)",
-      "category": "Cristal pour sabre",
-      "defname": "PJ_UltimaPearl",
-      "price": -10
-    },
-    {
-      "abr": "pistoletlanceur",
-      "category": "Armes à distance",
-      "defname": "PJ_LauncherP",
-      "price": -10
-    },
-    {
-      "abr": "poignéedusabre",
-      "category": "Objets",
-      "defname": "PJ_SaberCasing",
-      "price": -10
-    },
-    {
-      "abr": "porg",
-      "category": "Animaux",
-      "defname": "Porg",
-      "price": -10
-    },
-    {
-      "abr": "porgegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "EggPorgFertilized",
-      "price": -10
-    },
-    {
-      "abr": "porgegg(unfert.)",
-      "category": "Œufs (non fécondés)",
-      "defname": "EggPorgUnfertilized",
-      "price": -10
-    },
-    {
-      "abr": "porgmeat",
-      "category": "Viandes crues",
-      "defname": "Meat_Porg",
-      "price": -10
-    },
-    {
-      "abr": "rancor",
-      "category": "Animaux",
-      "defname": "Rancor",
-      "price": 5000
-    },
-    {
-      "abr": "rancoregg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "EggRancorFertilized",
-      "price": -10
-    },
-    {
-      "abr": "rancorhide",
-      "category": "Cuirs",
-      "defname": "rancor_hide",
-      "price": -10
-    },
-    {
-      "abr": "rancormeat",
-      "category": "Viandes crues",
-      "defname": "Meat_Rancor",
-      "price": -10
-    },
-    {
-      "abr": "rancorskull",
-      "category": "Objets",
-      "defname": "RancorSkull",
-      "price": -10
-    },
-    {
-      "abr": "rebelb-wingflightsuit",
-      "category": "Vêtements",
-      "defname": "PJ_RebBFlight",
-      "price": 1167
-    },
-    {
-      "abr": "reek",
-      "category": "Animaux",
-      "defname": "Reek",
-      "price": 2500
-    },
-    {
-      "abr": "reekhide",
-      "category": "Cuirs",
-      "defname": "reek_hide",
-      "price": -10
-    },
-    {
-      "abr": "reekmeat",
-      "category": "Viandes crues",
-      "defname": "Meat_Reek",
-      "price": -10
-    },
-    {
-      "abr": "reinforcedarmorvest",
-      "category": "Vêtements",
-      "defname": "PJ_Apparel_XVestPlate",
-      "price": -10
-    },
-    {
-      "abr": "rodian",
-      "category": "Animal",
-      "defname": "StarWarsRaces_Rodian",
-      "price": -10
-    },
-    {
-      "abr": "rodianantenna",
-      "category": "Naturelles",
-      "defname": "StarWarsRaces_Rodian_Thing_Antenna",
-      "price": -10
-    },
-    {
-      "abr": "rodianleather",
-      "category": "Cuirs",
-      "defname": "StarWarsRaces_Leather_Rodian",
-      "price": -10
-    },
-    {
-      "abr": "sabrelaser(ahsokatano)",
-      "category": "Armes de mêlée",
-      "defname": "SWSaber_Ahsokasaber",
-      "price": -10
-    },
-    {
-      "abr": "sabrelaser(darksaber)",
-      "category": "Armes de mêlée",
-      "defname": "SWSaber_Darksaber",
-      "price": -10
-    },
-    {
-      "abr": "sabrelaser(double)",
-      "category": "Armes de mêlée",
-      "defname": "SWSaber_Doublesaber",
-      "price": -10
-    },
-    {
-      "abr": "sabrelaser(macewindu)",
-      "category": "Armes de mêlée",
-      "defname": "SWSaber_MaceSaber",
-      "price": -10
-    },
-    {
-      "abr": "sabrelaser(poignéeancienne)",
-      "category": "Armes de mêlée",
-      "defname": "SWSaber_ObiSaber",
-      "price": -10
-    },
-    {
-      "abr": "sabrelaser(poignéeencroix)",
-      "category": "Armes de mêlée",
-      "defname": "SWSaber_KyloSaber",
-      "price": -10
-    },
-    {
-      "abr": "sabrelaser(poignéeenelectrum)",
-      "category": "Armes de mêlée",
-      "defname": "SWSaber_ElectrumSaber",
-      "price": -10
-    },
-    {
-      "abr": "sabrelaser(poignéeincurvé)",
-      "category": "Armes de mêlée",
-      "defname": "SWSaber_DookuSaber",
-      "price": -10
-    },
-    {
-      "abr": "sabrelaser(prototype)",
-      "category": "Armes de mêlée",
-      "defname": "SWSaber_Lightsaber",
-      "price": -10
-    },
-    {
-      "abr": "sabrelaser(qui-gonjinn)",
-      "category": "Armes de mêlée",
-      "defname": "SWSaber_Quigon",
-      "price": -10
-    },
-    {
-      "abr": "sabrelaser(yoda)",
-      "category": "Armes de mêlée",
-      "defname": "SWSaber_Yodasaber",
-      "price": -10
-    },
-    {
-      "abr": "sabrelaserdouble(inquisitor)",
-      "category": "Armes de mêlée",
-      "defname": "SWSaber_Inquis",
-      "price": -10
-    },
-    {
-      "abr": "sabrelaserpike",
-      "category": "Armes de mêlée",
-      "defname": "SWSaber_SaberPike",
-      "price": -10
-    },
-    {
-      "abr": "schématechnique(câblageducerveau)",
-      "category": "Schémas techniques",
-      "defname": "Techprint_BrainWiring",
-      "price": -10
-    },
-    {
-      "abr": "shoretrooperarmor",
-      "category": "Vêtements",
-      "defname": "PJ_TroopArmorSh",
-      "price": 6750
-    },
-    {
-      "abr": "shoretrooperarmor(cpt)",
-      "category": "Vêtements",
-      "defname": "PJ_TroopArmorShC",
-      "price": 6750
-    },
-    {
-      "abr": "shoretrooperarmor(sl)",
-      "category": "Vêtements",
-      "defname": "PJ_TroopArmorShSL",
-      "price": 6750
-    },
-    {
-      "abr": "shoretrooperhelm",
-      "category": "Couvre-chefs",
-      "defname": "PJ_SHHelm",
-      "price": 1333
-    },
-    {
-      "abr": "sithhood",
-      "category": "Couvre-chefs",
-      "defname": "PJ_SithHood",
-      "price": 417
-    },
-    {
-      "abr": "slime",
-      "category": "Végétaux",
-      "defname": "AB_RawSlime",
-      "price": -10
-    },
-    {
-      "abr": "specopsvibrocell",
-      "category": "Vibroblade motors",
-      "defname": "PJ_SpecOpsCell",
-      "price": -10
-    },
-    {
-      "abr": "starwarslighta",
-      "category": "Meubles",
-      "defname": "SwLightA",
-      "price": -10
-    },
-    {
-      "abr": "starwarslightb",
-      "category": "Meubles",
-      "defname": "SwLightB",
-      "price": -10
-    },
-    {
-      "abr": "stormtrooperhelm",
-      "category": "Couvre-chefs",
-      "defname": "PJ_DTHelm",
-      "price": 1500
-    },
-    {
-      "abr": "stormtrooperofficeruniform",
-      "category": "Vêtements",
-      "defname": "PJ_STOffUniform",
-      "price": -10
-    },
-    {
-      "abr": "tauntaun",
-      "category": "Animaux",
-      "defname": "Tauntaun",
-      "price": 2833
-    },
-    {
-      "abr": "tauntaunhide",
-      "category": "Cuirs",
-      "defname": "tauntaun_hide",
-      "price": -10
-    },
-    {
-      "abr": "tauntaunmeat",
-      "category": "Viandes crues",
-      "defname": "Meat_Tauntaun",
-      "price": -10
-    },
-    {
-      "abr": "togejedi",
-      "category": "Vêtements",
-      "defname": "PJ_InnerRobes",
-      "price": 197
-    },
-    {
-      "abr": "togruta",
-      "category": "Animal",
-      "defname": "StarWarsRaces_Togruta",
-      "price": -10
-    },
-    {
-      "abr": "tuskenvibrostaff",
-      "category": "Armes de mêlée",
-      "defname": "PJ_TStaff",
-      "price": -10
-    },
-    {
-      "abr": "twi'lek",
-      "category": "Animal",
-      "defname": "StarWarsRaces_Twilek",
-      "price": -10
-    },
-    {
-      "abr": "twi'lekheadwrap",
-      "category": "Couvre-chefs",
-      "defname": "StarWarsRaces_TwilekHeadCovering",
-      "price": -10
-    },
-    {
-      "abr": "twi'lekheadwrapadecorativesymbol",
-      "category": "Couvre-chefs",
-      "defname": "StarWarsRaces_TwilekDecorative",
-      "price": -10
-    },
-    {
-      "abr": "twi'lekheadwrapwithgoggles",
-      "category": "Couvre-chefs",
-      "defname": "StarWarsRaces_TwilekGoggles",
-      "price": -10
-    },
-    {
-      "abr": "twi'lekleather",
-      "category": "Cuirs",
-      "defname": "StarWarsRaces_Leather_Twilek",
-      "price": -10
-    },
-    {
-      "abr": "twi'lektuque",
-      "category": "Couvre-chefs",
-      "defname": "StarWarsRaces_TwilekTuque",
-      "price": -10
-    },
-    {
-      "abr": "uniformedelanavyimpériale",
-      "category": "Vêtements",
-      "defname": "PJ_ImpUniformBlack",
-      "price": 167
-    },
-    {
-      "abr": "uniformedelanavyimpériale(outer)",
-      "category": "Vêtements",
-      "defname": "PJ_ImpNAVYSHELL",
-      "price": 167
-    },
-    {
-      "abr": "uniformedelanavyimpériale(outer)",
-      "category": "Vêtements",
-      "defname": "PJ_ImpUniformBlackSHELL",
-      "price": 167
-    },
-    {
-      "abr": "uniformedelanavyimpériale(outer)",
-      "category": "Vêtements",
-      "defname": "PJ_ImpUniformGrnSHELL",
-      "price": 167
-    },
-    {
-      "abr": "uniformedelanavyimpériale(outer)",
-      "category": "Vêtements",
-      "defname": "PJ_ImpUniformBrownSHELL",
-      "price": 167
-    },
-    {
-      "abr": "uniformed'officierdel'alliance",
-      "category": "Vêtements",
-      "defname": "PJ_RebOfficer",
-      "price": 1167
-    },
-    {
-      "abr": "vestecamouflé",
-      "category": "Vêtements",
-      "defname": "PJ_Reb_CamoJacket",
-      "price": 296
-    },
-    {
-      "abr": "vestedescout",
-      "category": "Vêtements",
-      "defname": "PJ_Reb_ScoutJacket",
-      "price": 229
-    },
-    {
-      "abr": "vestedescout(marron)",
-      "category": "Vêtements",
-      "defname": "PJ_Reb_ScoutLAVJacket",
-      "price": 229
-    },
-    {
-      "abr": "vestedetrooper",
-      "category": "Vêtements",
-      "defname": "PJ_Reb_TroopJacket",
-      "price": 229
-    },
-    {
-      "abr": "viandederodian",
-      "category": "Viandes crues",
-      "defname": "Meat_StarWarsRaces_Rodian",
-      "price": -10
-    },
-    {
-      "abr": "viandedetogruta",
-      "category": "Viandes crues",
-      "defname": "Meat_StarWarsRaces_Togruta",
-      "price": -10
-    },
-    {
-      "abr": "viandedetwi'lek",
-      "category": "Viandes crues",
-      "defname": "Meat_StarWarsRaces_Twilek",
-      "price": -10
-    },
-    {
-      "abr": "viandedewookiee",
-      "category": "Viandes crues",
-      "defname": "Meat_StarWarsRaces_Wookiee",
-      "price": -10
-    },
-    {
-      "abr": "vianded'ewok",
-      "category": "Viandes crues",
-      "defname": "Meat_StarWarsRaces_Ewok",
-      "price": -10
-    },
-    {
-      "abr": "vibrodouble-lame",
-      "category": "Armes de mêlée",
-      "defname": "PJ_Vibrodouble",
-      "price": -10
-    },
-    {
-      "abr": "vibrohachoir(mando)",
-      "category": "Armes de mêlée",
-      "defname": "PJ_Vibrocleaver",
-      "price": -10
-    },
-    {
-      "abr": "vibro-faux",
-      "category": "Armes de mêlée",
-      "defname": "PJ_VScythe",
-      "price": -10
-    },
-    {
-      "abr": "vibrohache(prototype)",
-      "category": "Armes de mêlée",
-      "defname": "PJ_Vibroaxe",
-      "price": -10
-    },
-    {
-      "abr": "vibrolame(echani)",
-      "category": "Armes de mêlée",
-      "defname": "PJ_Vibrosword",
-      "price": -10
-    },
-    {
-      "abr": "vibrostaff(prototype)",
-      "category": "Armes de mêlée",
-      "defname": "PJ_StaffX",
-      "price": -10
-    },
-    {
-      "abr": "vulptex",
-      "category": "Animaux",
-      "defname": "Vulptex",
-      "price": 167
-    },
-    {
-      "abr": "vulptexhide",
-      "category": "Cuirs",
-      "defname": "vulptex_hide",
-      "price": -10
-    },
-    {
-      "abr": "vulptexmeat",
-      "category": "Viandes crues",
-      "defname": "Meat_Vulptex",
-      "price": -10
-    },
-    {
-      "abr": "wampa",
-      "category": "Animaux",
-      "defname": "Wampa",
-      "price": 5000
-    },
-    {
-      "abr": "wampahide",
-      "category": "Cuirs",
-      "defname": "wampa_hide",
-      "price": -10
-    },
-    {
-      "abr": "wampameat",
-      "category": "Viandes crues",
-      "defname": "Meat_Wampa",
-      "price": -10
-    },
-    {
-      "abr": "wookiee",
-      "category": "Animal",
-      "defname": "StarWarsRaces_Wookiee",
-      "price": -10
-    },
-    {
-      "abr": "wookieebandolier(tribalwearversion)",
-      "category": "Star Wars Races - Wookiee",
-      "defname": "StarWarsRaces_Wookiee_Bandolier_Tribalwear",
-      "price": -10
-    }
-  ],
-  "total": 742
+	"items" : [
+	{
+		"abr": "acier",
+		"price": -10,
+		"category": "Ressources brutes",
+		"defname": "Steel"
+	},
+	{
+		"abr": "alpaga",
+		"price": 583,
+		"category": "Animaux",
+		"defname": "Alpaca"
+	},
+	{
+		"abr": "alphacastor",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "Alphabeaver"
+	},
+	{
+		"abr": "ambroisie",
+		"price": -10,
+		"category": "Drogues",
+		"defname": "Ambrosia"
+	},
+	{
+		"abr": "âne",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "Donkey"
+	},
+	{
+		"abr": "arccomposite",
+		"price": -10,
+		"category": "Armes à distance",
+		"defname": "Bow_Recurve"
+	},
+	{
+		"abr": "arccourt",
+		"price": -10,
+		"category": "Armes à distance",
+		"defname": "Bow_Short"
+	},
+	{
+		"abr": "arclong",
+		"price": -10,
+		"category": "Armes à distance",
+		"defname": "Bow_Great"
+	},
+	{
+		"abr": "argent",
+		"price": -10,
+		"category": "Ressources brutes",
+		"defname": "Silver"
+	},
+	{
+		"abr": "armuredecommando",
+		"price": -10,
+		"category": "Armures",
+		"defname": "Apparel_PowerArmor"
+	},
+	{
+		"abr": "armuredeplates",
+		"price": -10,
+		"category": "Armures",
+		"defname": "Apparel_PlateArmor"
+	},
+	{
+		"abr": "armuredereconnaissance",
+		"price": -10,
+		"category": "Armures",
+		"defname": "Apparel_ArmorRecon"
+	},
+	{
+		"abr": "artefactdefolie",
+		"price": -10,
+		"category": "Utilitaires",
+		"defname": "Apparel_PsychicInsanityLance"
+	},
+	{
+		"abr": "artefactdeperturbationpsychique",
+		"price": -10,
+		"category": "Utilitaires",
+		"defname": "Apparel_PsychicShockLance"
+	},
+	{
+		"abr": "artefactd'impulsionanimale",
+		"price": -10,
+		"category": "Artéfacts",
+		"defname": "PsychicAnimalPulser"
+	},
+	{
+		"abr": "artefactd'impulsioncalmante",
+		"price": -10,
+		"category": "Artéfacts",
+		"defname": "PsychicSoothePulser"
+	},
+	{
+		"abr": "autruche",
+		"price": 417,
+		"category": "Animaux",
+		"defname": "Ostrich"
+	},
+	{
+		"abr": "baie",
+		"price": -10,
+		"category": "Végétaux",
+		"defname": "RawBerries"
+	},
+	{
+		"abr": "balisedecommerceorbital",
+		"price": -10,
+		"category": "Divers",
+		"defname": "OrbitalTradeBeacon"
+	},
+	{
+		"abr": "barildefermentation",
+		"price": -10,
+		"category": "Production",
+		"defname": "FermentingBarrel"
+	},
+	{
+		"abr": "batterie",
+		"price": -10,
+		"category": "Énergie",
+		"defname": "Battery"
+	},
+	{
+		"abr": "bière",
+		"price": -10,
+		"category": "Drogues",
+		"defname": "Beer"
+	},
+	{
+		"abr": "bison",
+		"price": 583,
+		"category": "Animaux",
+		"defname": "Bison"
+	},
+	{
+		"abr": "blocd'ardoise",
+		"price": -10,
+		"category": "Blocs de pierre",
+		"defname": "BlocksSlate"
+	},
+	{
+		"abr": "blocdecalcaire",
+		"price": -10,
+		"category": "Blocs de pierre",
+		"defname": "BlocksLimestone"
+	},
+	{
+		"abr": "blocdegranite",
+		"price": -10,
+		"category": "Blocs de pierre",
+		"defname": "BlocksGranite"
+	},
+	{
+		"abr": "blocdegrès",
+		"price": -10,
+		"category": "Blocs de pierre",
+		"defname": "BlocksSandstone"
+	},
+	{
+		"abr": "blocdemarbre",
+		"price": -10,
+		"category": "Blocs de pierre",
+		"defname": "BlocksMarble"
+	},
+	{
+		"abr": "bois",
+		"price": -10,
+		"category": "Ressources brutes",
+		"defname": "WoodLog"
+	},
+	{
+		"abr": "bonnet",
+		"price": -10,
+		"category": "Couvre-chefs",
+		"defname": "Apparel_Tuque"
+	},
+	{
+		"abr": "boomalope",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "Boomalope"
+	},
+	{
+		"abr": "bouclierd'énergie",
+		"price": -10,
+		"category": "Utilitaires",
+		"defname": "Apparel_ShieldBelt"
+	},
+	{
+		"abr": "bouquetin",
+		"price": 417,
+		"category": "Animaux",
+		"defname": "Ibex"
+	},
+	{
+		"abr": "boxpourpetitsanimaux",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "AnimalSleepingBox"
+	},
+	{
+		"abr": "brasarchotech",
+		"price": -10,
+		"category": "Archotech",
+		"defname": "ArchotechArm"
+	},
+	{
+		"abr": "brasbionique",
+		"price": -10,
+		"category": "Bioniques",
+		"defname": "BionicArm"
+	},
+	{
+		"abr": "caisseàoutils",
+		"price": -10,
+		"category": "Divers",
+		"defname": "ToolCabinet"
+	},
+	{
+		"abr": "canard",
+		"price": 100,
+		"category": "Animaux",
+		"defname": "Duck"
+	},
+	{
+		"abr": "capuche",
+		"price": -10,
+		"category": "Couvre-chefs",
+		"defname": "Apparel_HatHood"
+	},
+	{
+		"abr": "capybara",
+		"price": 250,
+		"category": "Animaux",
+		"defname": "Capybara"
+	},
+	{
+		"abr": "carabinedesurvie",
+		"price": -10,
+		"category": "Armes à distance",
+		"defname": "Gun_BoltActionRifle"
+	},
+	{
+		"abr": "carbu-réacteurinfini",
+		"price": -10,
+		"category": "Spécial",
+		"defname": "InfiniteChemreactor"
+	},
+	{
+		"abr": "caribou",
+		"price": 500,
+		"category": "Animaux",
+		"defname": "Caribou"
+	},
+	{
+		"abr": "casoar",
+		"price": 333,
+		"category": "Animaux",
+		"defname": "Cassowary"
+	},
+	{
+		"abr": "casquedecommando",
+		"price": -10,
+		"category": "Casques",
+		"defname": "Apparel_PowerArmorHelmet"
+	},
+	{
+		"abr": "casquedereconnaissance",
+		"price": -10,
+		"category": "Casques",
+		"defname": "Apparel_ArmorHelmetRecon"
+	},
+	{
+		"abr": "casquerenforcé",
+		"price": -10,
+		"category": "Casques",
+		"defname": "Apparel_AdvancedHelmet"
+	},
+	{
+		"abr": "casquesimple",
+		"price": 153,
+		"category": "Casques",
+		"defname": "Apparel_SimpleHelmet"
+	},
+	{
+		"abr": "cerf",
+		"price": 417,
+		"category": "Animaux",
+		"defname": "Deer"
+	},
+	{
+		"abr": "chairhumaine",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Human"
+	},
+	{
+		"abr": "chaise",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "DiningChair"
+	},
+	{
+		"abr": "champignoncru",
+		"price": -10,
+		"category": "Végétaux",
+		"defname": "RawFungus"
+	},
+	{
+		"abr": "chapeaudecowboy",
+		"price": 94,
+		"category": "Couvre-chefs",
+		"defname": "Apparel_CowboyHat"
+	},
+	{
+		"abr": "chapeaumelon",
+		"price": 77,
+		"category": "Couvre-chefs",
+		"defname": "Apparel_BowlerHat"
+	},
+	{
+		"abr": "chapeaupapierpsychique",
+		"price": -10,
+		"category": "Couvre-chefs",
+		"defname": "Apparel_PsychicFoilHelmet"
+	},
+	{
+		"abr": "chat",
+		"price": 167,
+		"category": "Animaux",
+		"defname": "Cat"
+	},
+	{
+		"abr": "chemfuel",
+		"price": -10,
+		"category": "Produits manufacturés",
+		"defname": "Chemfuel"
+	},
+	{
+		"abr": "chemise",
+		"price": 166,
+		"category": "Vêtements",
+		"defname": "Apparel_CollarShirt"
+	},
+	{
+		"abr": "cheval",
+		"price": 917,
+		"category": "Animaux",
+		"defname": "Horse"
+	},
+	{
+		"abr": "chèvre",
+		"price": 333,
+		"category": "Animaux",
+		"defname": "Goat"
+	},
+	{
+		"abr": "chinchilla",
+		"price": 250,
+		"category": "Animaux",
+		"defname": "Chinchilla"
+	},
+	{
+		"abr": "chocolat",
+		"price": -10,
+		"category": "Aliments",
+		"defname": "Chocolate"
+	},
+	{
+		"abr": "cobaye",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "GuineaPig"
+	},
+	{
+		"abr": "cobra",
+		"price": 250,
+		"category": "Animaux",
+		"defname": "Cobra"
+	},
+	{
+		"abr": "cochon",
+		"price": 333,
+		"category": "Animaux",
+		"defname": "Pig"
+	},
+	{
+		"abr": "cocktailmolotov",
+		"price": -10,
+		"category": "Grenades",
+		"defname": "Weapon_GrenadeMolotov"
+	},
+	{
+		"abr": "cœur",
+		"price": -10,
+		"category": "Naturelles",
+		"defname": "Heart"
+	},
+	{
+		"abr": "cœurbionique",
+		"price": -10,
+		"category": "Bioniques",
+		"defname": "BionicHeart"
+	},
+	{
+		"abr": "coiffetribale",
+		"price": -10,
+		"category": "Couvre-chefs",
+		"defname": "Apparel_TribalHeaddress"
+	},
+	{
+		"abr": "colonnevertébralebionique",
+		"price": -10,
+		"category": "Bioniques",
+		"defname": "BionicSpine"
+	},
+	{
+		"abr": "commode",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Dresser"
+	},
+	{
+		"abr": "composant",
+		"price": -10,
+		"category": "Produits manufacturés",
+		"defname": "ComponentIndustrial"
+	},
+	{
+		"abr": "composantavancé",
+		"price": -10,
+		"category": "Produits manufacturés",
+		"defname": "ComponentSpacer"
+	},
+	{
+		"abr": "cornedethrumbo",
+		"price": -10,
+		"category": "Objets",
+		"defname": "ThrumboHorn"
+	},
+	{
+		"abr": "cougar",
+		"price": 667,
+		"category": "Animaux",
+		"defname": "Cougar"
+	},
+	{
+		"abr": "couteau",
+		"price": -10,
+		"category": "Armes de mêlée",
+		"defname": "MeleeWeapon_Knife"
+	},
+	{
+		"abr": "croquettes",
+		"price": -10,
+		"category": "Aliments",
+		"defname": "Kibble"
+	},
+	{
+		"abr": "cuir",
+		"price": -10,
+		"category": "Cuirs",
+		"defname": "Leather_Plain"
+	},
+	{
+		"abr": "cuirdecochon",
+		"price": -10,
+		"category": "Cuirs",
+		"defname": "Leather_Pig"
+	},
+	{
+		"abr": "cuirdedromadaire",
+		"price": -10,
+		"category": "Cuirs",
+		"defname": "Leather_Camel"
+	},
+	{
+		"abr": "cuirdelézard",
+		"price": -10,
+		"category": "Cuirs",
+		"defname": "Leather_Lizard"
+	},
+	{
+		"abr": "cuirderhinocéros",
+		"price": -10,
+		"category": "Cuirs",
+		"defname": "Leather_Rhinoceros"
+	},
+	{
+		"abr": "cuird'éléphant",
+		"price": -10,
+		"category": "Cuirs",
+		"defname": "Leather_Elephant"
+	},
+	{
+		"abr": "cuird'oiseau",
+		"price": -10,
+		"category": "Cuirs",
+		"defname": "Leather_Bird"
+	},
+	{
+		"abr": "cuirfin",
+		"price": -10,
+		"category": "Cuirs",
+		"defname": "Leather_Light"
+	},
+	{
+		"abr": "cuisinièreàbois",
+		"price": -10,
+		"category": "Production",
+		"defname": "FueledStove"
+	},
+	{
+		"abr": "cuisinièreélectrique",
+		"price": -10,
+		"category": "Production",
+		"defname": "ElectricStove"
+	},
+	{
+		"abr": "défensed'éléphant",
+		"price": -10,
+		"category": "Objets",
+		"defname": "ElephantTusk"
+	},
+	{
+		"abr": "diabétoffe",
+		"price": -10,
+		"category": "Textiles",
+		"defname": "DevilstrandCloth"
+	},
+	{
+		"abr": "dinde",
+		"price": 167,
+		"category": "Animaux",
+		"defname": "Turkey"
+	},
+	{
+		"abr": "dispositifdissolvantpost-mortem",
+		"price": -10,
+		"category": "Bioniques",
+		"defname": "DeathAcidifier"
+	},
+	{
+		"abr": "dromadaire",
+		"price": 500,
+		"category": "Animaux",
+		"defname": "Dromedary"
+	},
+	{
+		"abr": "écureuil",
+		"price": 58,
+		"category": "Animaux",
+		"defname": "Squirrel"
+	},
+	{
+		"abr": "éléphant",
+		"price": 1000,
+		"category": "Animaux",
+		"defname": "Elephant"
+	},
+	{
+		"abr": "émanateurpsychique",
+		"price": -10,
+		"category": "Spécial",
+		"defname": "PsychicEmanator"
+	},
+	{
+		"abr": "émeu",
+		"price": 333,
+		"category": "Animaux",
+		"defname": "Emu"
+	},
+	{
+		"abr": "épéelongue",
+		"price": 442,
+		"category": "Armes de mêlée",
+		"defname": "MeleeWeapon_LongSword"
+	},
+	{
+		"abr": "estomacbionique",
+		"price": -10,
+		"category": "Bioniques",
+		"defname": "BionicStomach"
+	},
+	{
+		"abr": "établid'assemblage",
+		"price": -10,
+		"category": "Production",
+		"defname": "TableMachining"
+	},
+	{
+		"abr": "établideboucher",
+		"price": -10,
+		"category": "Production",
+		"defname": "TableButcher"
+	},
+	{
+		"abr": "établidebrassage",
+		"price": -10,
+		"category": "Production",
+		"defname": "Brewery"
+	},
+	{
+		"abr": "établideforgeronàcombustible",
+		"price": -10,
+		"category": "Production",
+		"defname": "FueledSmithy"
+	},
+	{
+		"abr": "établideforgeronélectrique",
+		"price": -10,
+		"category": "Production",
+		"defname": "ElectricSmithy"
+	},
+	{
+		"abr": "établidesculpture",
+		"price": -10,
+		"category": "Production",
+		"defname": "TableSculpting"
+	},
+	{
+		"abr": "établidetailleurdepierre",
+		"price": -10,
+		"category": "Production",
+		"defname": "TableStonecutter"
+	},
+	{
+		"abr": "établidetissageélectrique",
+		"price": -10,
+		"category": "Production",
+		"defname": "ElectricTailoringBench"
+	},
+	{
+		"abr": "établidetissagemanuel",
+		"price": -10,
+		"category": "Production",
+		"defname": "HandTailoringBench"
+	},
+	{
+		"abr": "étagère",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Shelf"
+	},
+	{
+		"abr": "extincteuràmousse",
+		"price": -10,
+		"category": "Divers",
+		"defname": "FirefoamPopper"
+	},
+	{
+		"abr": "fauteuil",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Armchair"
+	},
+	{
+		"abr": "fennec",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "Fox_Fennec"
+	},
+	{
+		"abr": "feuilledepsychoïde",
+		"price": -10,
+		"category": "Matières végétales",
+		"defname": "PsychoidLeaves"
+	},
+	{
+		"abr": "feuillesdesmokeleaf",
+		"price": -10,
+		"category": "Matières végétales",
+		"defname": "SmokeleafLeaves"
+	},
+	{
+		"abr": "flake",
+		"price": -10,
+		"category": "Drogues",
+		"defname": "Flake"
+	},
+	{
+		"abr": "focalisateurdefaisceaud'énergieorbital",
+		"price": -10,
+		"category": "Utilitaires",
+		"defname": "OrbitalTargeterPowerBeam"
+	},
+	{
+		"abr": "foie",
+		"price": -10,
+		"category": "Naturelles",
+		"defname": "Liver"
+	},
+	{
+		"abr": "foin",
+		"price": -10,
+		"category": "Aliments",
+		"defname": "Hay"
+	},
+	{
+		"abr": "fonderieélectrique",
+		"price": -10,
+		"category": "Production",
+		"defname": "ElectricSmelter"
+	},
+	{
+		"abr": "forageenprofondeur",
+		"price": -10,
+		"category": "Production",
+		"defname": "DeepDrill"
+	},
+	{
+		"abr": "fourrurebleue",
+		"price": -10,
+		"category": "Cuirs",
+		"defname": "Leather_Bluefur"
+	},
+	{
+		"abr": "fourruredechien",
+		"price": -10,
+		"category": "Cuirs",
+		"defname": "Leather_Dog"
+	},
+	{
+		"abr": "fourruredechinchilla",
+		"price": -10,
+		"category": "Cuirs",
+		"defname": "Leather_Chinchilla"
+	},
+	{
+		"abr": "fourruredecobaye",
+		"price": -10,
+		"category": "Cuirs",
+		"defname": "Leather_GuineaPig"
+	},
+	{
+		"abr": "fourruredeloup",
+		"price": -10,
+		"category": "Cuirs",
+		"defname": "Leather_Wolf"
+	},
+	{
+		"abr": "fourruredepanthère",
+		"price": -10,
+		"category": "Cuirs",
+		"defname": "Leather_Panthera"
+	},
+	{
+		"abr": "fourrurederenard",
+		"price": -10,
+		"category": "Cuirs",
+		"defname": "Leather_Fox"
+	},
+	{
+		"abr": "fourruredethrumbo",
+		"price": -10,
+		"category": "Cuirs",
+		"defname": "Leather_Thrumbo"
+	},
+	{
+		"abr": "fourrured'ours",
+		"price": -10,
+		"category": "Cuirs",
+		"defname": "Leather_Bear"
+	},
+	{
+		"abr": "fourrureépaisse",
+		"price": -10,
+		"category": "Cuirs",
+		"defname": "Leather_Heavy"
+	},
+	{
+		"abr": "fruitd'agave",
+		"price": -10,
+		"category": "Végétaux",
+		"defname": "RawAgave"
+	},
+	{
+		"abr": "fusilàimpulsion",
+		"price": -10,
+		"category": "Armes à distance",
+		"defname": "Gun_ChargeRifle"
+	},
+	{
+		"abr": "fusilàpompe",
+		"price": -10,
+		"category": "Armes à distance",
+		"defname": "Gun_PumpShotgun"
+	},
+	{
+		"abr": "fusilàpompeautomatique",
+		"price": -10,
+		"category": "Armes à distance",
+		"defname": "Gun_ChainShotgun"
+	},
+	{
+		"abr": "fusild'assaut",
+		"price": -10,
+		"category": "Armes à distance",
+		"defname": "Gun_AssaultRifle"
+	},
+	{
+		"abr": "fusildeprécision",
+		"price": -10,
+		"category": "Armes à distance",
+		"defname": "Gun_SniperRifle"
+	},
+	{
+		"abr": "gazelle",
+		"price": 250,
+		"category": "Animaux",
+		"defname": "Gazelle"
+	},
+	{
+		"abr": "geléed'insecte",
+		"price": -10,
+		"category": "Produits animaliers",
+		"defname": "InsectJelly"
+	},
+	{
+		"abr": "générateurdetornade",
+		"price": -10,
+		"category": "Utilitaires",
+		"defname": "TornadoGenerator"
+	},
+	{
+		"abr": "giletpare-balles",
+		"price": -10,
+		"category": "Armures",
+		"defname": "Apparel_FlakVest"
+	},
+	{
+		"abr": "glaive",
+		"price": -10,
+		"category": "Armes de mêlée",
+		"defname": "MeleeWeapon_Gladius"
+	},
+	{
+		"abr": "glumelumineuse",
+		"price": -10,
+		"category": "Spécial",
+		"defname": "GlowPod"
+	},
+	{
+		"abr": "go-juice",
+		"price": -10,
+		"category": "Drogues",
+		"defname": "GoJuice"
+	},
+	{
+		"abr": "grandesculpture",
+		"price": -10,
+		"category": "Art",
+		"defname": "SculptureLarge"
+	},
+	{
+		"abr": "grenadeàfragmentation",
+		"price": -10,
+		"category": "Grenades",
+		"defname": "Weapon_GrenadeFrag"
+	},
+	{
+		"abr": "grenadeiem",
+		"price": -10,
+		"category": "Grenades",
+		"defname": "Weapon_GrenadeEMP"
+	},
+	{
+		"abr": "griffeénergétique",
+		"price": -10,
+		"category": "Prothèses",
+		"defname": "PowerClaw"
+	},
+	{
+		"abr": "grizzly",
+		"price": 1167,
+		"category": "Animaux",
+		"defname": "Bear_Grizzly"
+	},
+	{
+		"abr": "guenilledesauvage",
+		"price": -10,
+		"category": "Vêtements",
+		"defname": "Apparel_TribalA"
+	},
+	{
+		"abr": "herbemédicinale",
+		"price": -10,
+		"category": "Médicaments",
+		"defname": "MedicineHerbal"
+	},
+	{
+		"abr": "houblon",
+		"price": -10,
+		"category": "Matières végétales",
+		"defname": "RawHops"
+	},
+	{
+		"abr": "husky",
+		"price": 417,
+		"category": "Animaux",
+		"defname": "Husky"
+	},
+	{
+		"abr": "hyperfibre",
+		"price": -10,
+		"category": "Textiles",
+		"defname": "Hyperweave"
+	},
+	{
+		"abr": "iguane",
+		"price": 167,
+		"category": "Animaux",
+		"defname": "Iguana"
+	},
+	{
+		"abr": "ikwa",
+		"price": -10,
+		"category": "Armes de mêlée",
+		"defname": "MeleeWeapon_Ikwa"
+	},
+	{
+		"abr": "implantanalgésique",
+		"price": -10,
+		"category": "Prothèses",
+		"defname": "Painstopper"
+	},
+	{
+		"abr": "implantdubonheur",
+		"price": -10,
+		"category": "Prothèses",
+		"defname": "Joywire"
+	},
+	{
+		"abr": "jade",
+		"price": -10,
+		"category": "Ressources brutes",
+		"defname": "Jade"
+	},
+	{
+		"abr": "jambearchotech",
+		"price": -10,
+		"category": "Archotech",
+		"defname": "ArchotechLeg"
+	},
+	{
+		"abr": "jambebionique",
+		"price": -10,
+		"category": "Bioniques",
+		"defname": "BionicLeg"
+	},
+	{
+		"abr": "jeudulancerdecailloux",
+		"price": -10,
+		"category": "Détente",
+		"defname": "HoopstoneRing"
+	},
+	{
+		"abr": "jointdesmokeleaf",
+		"price": 18,
+		"category": "Drogues",
+		"defname": "SmokeleafJoint"
+	},
+	{
+		"abr": "laboratoirechimique",
+		"price": -10,
+		"category": "Production",
+		"defname": "DrugLab"
+	},
+	{
+		"abr": "labrador",
+		"price": 417,
+		"category": "Animaux",
+		"defname": "LabradorRetriever"
+	},
+	{
+		"abr": "lained'alpaga",
+		"price": -10,
+		"category": "Laines",
+		"defname": "WoolAlpaca"
+	},
+	{
+		"abr": "lainedebison",
+		"price": -10,
+		"category": "Laines",
+		"defname": "WoolBison"
+	},
+	{
+		"abr": "lainedemégathérium",
+		"price": -10,
+		"category": "Laines",
+		"defname": "WoolMegasloth"
+	},
+	{
+		"abr": "lainedemouton",
+		"price": -10,
+		"category": "Laines",
+		"defname": "WoolSheep"
+	},
+	{
+		"abr": "lainedemuffalo",
+		"price": -10,
+		"category": "Laines",
+		"defname": "WoolMuffalo"
+	},
+	{
+		"abr": "lait",
+		"price": -10,
+		"category": "Produits animaliers",
+		"defname": "Milk"
+	},
+	{
+		"abr": "lampadaire",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "StandingLamp"
+	},
+	{
+		"abr": "lampadaire(bleu)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "StandingLamp_Blue"
+	},
+	{
+		"abr": "lampadaire(rouge)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "StandingLamp_Red"
+	},
+	{
+		"abr": "lampadaire(vert)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "StandingLamp_Green"
+	},
+	{
+		"abr": "lampehorticole",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "SunLamp"
+	},
+	{
+		"abr": "lance",
+		"price": -10,
+		"category": "Armes de mêlée",
+		"defname": "MeleeWeapon_Spear"
+	},
+	{
+		"abr": "lance-charges",
+		"price": -10,
+		"category": "Armes à distance",
+		"defname": "Gun_ChargeLance"
+	},
+	{
+		"abr": "lance-roquettesapocalyptique",
+		"price": -10,
+		"category": "Armes à distance",
+		"defname": "Gun_DoomsdayRocket"
+	},
+	{
+		"abr": "lance-roquettestriple",
+		"price": -10,
+		"category": "Armes à distance",
+		"defname": "Gun_TripleRocket"
+	},
+	{
+		"abr": "lanceurdeballesincendiaires",
+		"price": -10,
+		"category": "Armes à distance",
+		"defname": "Gun_IncendiaryLauncher"
+	},
+	{
+		"abr": "lanceurdefumigène",
+		"price": -10,
+		"category": "Armes à distance",
+		"defname": "Gun_SmokeLauncher"
+	},
+	{
+		"abr": "lanceuriem",
+		"price": -10,
+		"category": "Armes à distance",
+		"defname": "Gun_EmpLauncher"
+	},
+	{
+		"abr": "lièvre",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "Hare"
+	},
+	{
+		"abr": "lièvredesneiges",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "Snowhare"
+	},
+	{
+		"abr": "lit",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Bed"
+	},
+	{
+		"abr": "litdouble",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "DoubleBed"
+	},
+	{
+		"abr": "litmédicalisé",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "HospitalBed"
+	},
+	{
+		"abr": "litpouranimaux",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "AnimalBed"
+	},
+	{
+		"abr": "litroyal",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "RoyalBed"
+	},
+	{
+		"abr": "louparctique",
+		"price": 583,
+		"category": "Animaux",
+		"defname": "Wolf_Arctic"
+	},
+	{
+		"abr": "loupdesbois",
+		"price": 583,
+		"category": "Animaux",
+		"defname": "Wolf_Timber"
+	},
+	{
+		"abr": "luciferium",
+		"price": -10,
+		"category": "Drogues",
+		"defname": "Luciferium"
+	},
+	{
+		"abr": "lynx",
+		"price": 417,
+		"category": "Animaux",
+		"defname": "Lynx"
+	},
+	{
+		"abr": "maïs",
+		"price": -10,
+		"category": "Végétaux",
+		"defname": "RawCorn"
+	},
+	{
+		"abr": "manteau",
+		"price": -10,
+		"category": "Vêtements",
+		"defname": "Apparel_Duster"
+	},
+	{
+		"abr": "masquedeguerre",
+		"price": -10,
+		"category": "Couvre-chefs",
+		"defname": "Apparel_WarMask"
+	},
+	{
+		"abr": "masse",
+		"price": -10,
+		"category": "Armes de mêlée",
+		"defname": "MeleeWeapon_Mace"
+	},
+	{
+		"abr": "massue",
+		"price": -10,
+		"category": "Armes de mêlée",
+		"defname": "MeleeWeapon_Club"
+	},
+	{
+		"abr": "mech-sérumderésurrection",
+		"price": -10,
+		"category": "Objets",
+		"defname": "MechSerumResurrector"
+	},
+	{
+		"abr": "mech-sérumguérisseur",
+		"price": -10,
+		"category": "Objets",
+		"defname": "MechSerumHealer"
+	},
+	{
+		"abr": "médicament",
+		"price": -10,
+		"category": "Médicaments",
+		"defname": "MedicineIndustrial"
+	},
+	{
+		"abr": "médicamentavancé",
+		"price": -10,
+		"category": "Médicaments",
+		"defname": "MedicineUltratech"
+	},
+	{
+		"abr": "mégaraignée",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "Megaspider"
+	},
+	{
+		"abr": "mégascarabée",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "Megascarab"
+	},
+	{
+		"abr": "mégathérium",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "Megasloth"
+	},
+	{
+		"abr": "minigun",
+		"price": -10,
+		"category": "Armes à distance",
+		"defname": "Gun_Minigun"
+	},
+	{
+		"abr": "mini-tourelle",
+		"price": -10,
+		"category": "Sécurité",
+		"defname": "Turret_MiniTurret"
+	},
+	{
+		"abr": "mitrailleuse",
+		"price": -10,
+		"category": "Armes à distance",
+		"defname": "Gun_LMG"
+	},
+	{
+		"abr": "moniteurdesignesvitaux",
+		"price": -10,
+		"category": "Divers",
+		"defname": "VitalsMonitor"
+	},
+	{
+		"abr": "mortier",
+		"price": -10,
+		"category": "Sécurité",
+		"defname": "Turret_Mortar"
+	},
+	{
+		"abr": "moût",
+		"price": -10,
+		"category": "Produits manufacturés",
+		"defname": "Wort"
+	},
+	{
+		"abr": "mouton",
+		"price": 350,
+		"category": "Animaux",
+		"defname": "Sheep"
+	},
+	{
+		"abr": "muffalo",
+		"price": 500,
+		"category": "Animaux",
+		"defname": "Muffalo"
+	},
+	{
+		"abr": "multi-analyseur",
+		"price": -10,
+		"category": "Divers",
+		"defname": "MultiAnalyzer"
+	},
+	{
+		"abr": "neuro-entraîneur(agriculture)",
+		"price": -10,
+		"category": "Neuro-entraîneurs",
+		"defname": "Neurotrainer_Plants"
+	},
+	{
+		"abr": "neuro-entraîneur(animaux)",
+		"price": -10,
+		"category": "Neuro-entraîneurs",
+		"defname": "Neurotrainer_Animals"
+	},
+	{
+		"abr": "neuro-entraîneur(artisanat)",
+		"price": -10,
+		"category": "Neuro-entraîneurs",
+		"defname": "Neurotrainer_Crafting"
+	},
+	{
+		"abr": "neuro-entraîneur(artiste)",
+		"price": -10,
+		"category": "Neuro-entraîneurs",
+		"defname": "Neurotrainer_Artistic"
+	},
+	{
+		"abr": "neuro-entraîneur(construction)",
+		"price": -10,
+		"category": "Neuro-entraîneurs",
+		"defname": "Neurotrainer_Construction"
+	},
+	{
+		"abr": "neuro-entraîneur(cuisine)",
+		"price": -10,
+		"category": "Neuro-entraîneurs",
+		"defname": "Neurotrainer_Cooking"
+	},
+	{
+		"abr": "neuro-entraîneur(intellectuel)",
+		"price": -10,
+		"category": "Neuro-entraîneurs",
+		"defname": "Neurotrainer_Intellectual"
+	},
+	{
+		"abr": "neuro-entraîneur(médecine)",
+		"price": -10,
+		"category": "Neuro-entraîneurs",
+		"defname": "Neurotrainer_Medicine"
+	},
+	{
+		"abr": "neuro-entraîneur(mêlée)",
+		"price": -10,
+		"category": "Neuro-entraîneurs",
+		"defname": "Neurotrainer_Melee"
+	},
+	{
+		"abr": "neuro-entraîneur(minage)",
+		"price": -10,
+		"category": "Neuro-entraîneurs",
+		"defname": "Neurotrainer_Mining"
+	},
+	{
+		"abr": "neuro-entraîneur(sociabilité)",
+		"price": -10,
+		"category": "Neuro-entraîneurs",
+		"defname": "Neurotrainer_Social"
+	},
+	{
+		"abr": "neuro-entraîneur(tir)",
+		"price": -10,
+		"category": "Neuro-entraîneurs",
+		"defname": "Neurotrainer_Shooting"
+	},
+	{
+		"abr": "neutroamine",
+		"price": -10,
+		"category": "Produits manufacturés",
+		"defname": "Neutroamine"
+	},
+	{
+		"abr": "noyauiadepersonnalité",
+		"price": -10,
+		"category": "Objets",
+		"defname": "AIPersonaCore"
+	},
+	{
+		"abr": "noyauiapédagogique",
+		"price": -10,
+		"category": "Objets",
+		"defname": "TechprofSubpersonaCore"
+	},
+	{
+		"abr": "obusàimpulsionélectromagnétique",
+		"price": -10,
+		"category": "Obus de mortier",
+		"defname": "Shell_EMP"
+	},
+	{
+		"abr": "obusanti-incendie",
+		"price": -10,
+		"category": "Obus de mortier",
+		"defname": "Shell_Firefoam"
+	},
+	{
+		"abr": "obusfumigène",
+		"price": -10,
+		"category": "Obus de mortier",
+		"defname": "Shell_Smoke"
+	},
+	{
+		"abr": "obushautementexplosif",
+		"price": -10,
+		"category": "Obus de mortier",
+		"defname": "Shell_HighExplosive"
+	},
+	{
+		"abr": "obusincendiaire",
+		"price": -10,
+		"category": "Obus de mortier",
+		"defname": "Shell_Incendiary"
+	},
+	{
+		"abr": "œilarchotech",
+		"price": -10,
+		"category": "Archotech",
+		"defname": "ArchotechEye"
+	},
+	{
+		"abr": "œilbionique",
+		"price": -10,
+		"category": "Bioniques",
+		"defname": "BionicEye"
+	},
+	{
+		"abr": "œufd'autruche(fécondé)",
+		"price": -10,
+		"category": "Œufs (fécondés)",
+		"defname": "EggOstrichFertilized"
+	},
+	{
+		"abr": "œufdecanard(fécondé)",
+		"price": -10,
+		"category": "Œufs (fécondés)",
+		"defname": "EggDuckFertilized"
+	},
+	{
+		"abr": "œufdecanard(nonfécondé)",
+		"price": -10,
+		"category": "Œufs (non fécondés)",
+		"defname": "EggDuckUnfertilized"
+	},
+	{
+		"abr": "œufdecasoar(fécondé)",
+		"price": -10,
+		"category": "Œufs (fécondés)",
+		"defname": "EggCassowaryFertilized"
+	},
+	{
+		"abr": "œufdecobra(fécondé)",
+		"price": -10,
+		"category": "Œufs (fécondés)",
+		"defname": "EggCobraFertilized"
+	},
+	{
+		"abr": "œufdedinde(fécondé)",
+		"price": -10,
+		"category": "Œufs (fécondés)",
+		"defname": "EggTurkeyFertilized"
+	},
+	{
+		"abr": "œufdepoule(fécondé)",
+		"price": -10,
+		"category": "Œufs (fécondés)",
+		"defname": "EggChickenFertilized"
+	},
+	{
+		"abr": "œufdepoule(nonfécondé)",
+		"price": -10,
+		"category": "Œufs (non fécondés)",
+		"defname": "EggChickenUnfertilized"
+	},
+	{
+		"abr": "œufdetortue(fécondé)",
+		"price": -10,
+		"category": "Œufs (fécondés)",
+		"defname": "EggTortoiseFertilized"
+	},
+	{
+		"abr": "œufd'émeu(fécondé)",
+		"price": -10,
+		"category": "Œufs (fécondés)",
+		"defname": "EggEmuFertilized"
+	},
+	{
+		"abr": "œufd'iguane(fécondé)",
+		"price": -10,
+		"category": "Œufs (fécondés)",
+		"defname": "EggIguanaFertilized"
+	},
+	{
+		"abr": "œufd'oie(fécondé)",
+		"price": -10,
+		"category": "Œufs (fécondés)",
+		"defname": "EggGooseFertilized"
+	},
+	{
+		"abr": "œufd'oie(nonfécondé)",
+		"price": -10,
+		"category": "Œufs (non fécondés)",
+		"defname": "EggGooseUnfertilized"
+	},
+	{
+		"abr": "ogiveàantimatière",
+		"price": -10,
+		"category": "Obus de mortier",
+		"defname": "Shell_AntigrainWarhead"
+	},
+	{
+		"abr": "oie",
+		"price": 150,
+		"category": "Animaux",
+		"defname": "Goose"
+	},
+	{
+		"abr": "or",
+		"price": -10,
+		"category": "Ressources brutes",
+		"defname": "Gold"
+	},
+	{
+		"abr": "oreillebionique",
+		"price": -10,
+		"category": "Bioniques",
+		"defname": "BionicEar"
+	},
+	{
+		"abr": "ourspolaire",
+		"price": 1167,
+		"category": "Animaux",
+		"defname": "Bear_Polar"
+	},
+	{
+		"abr": "packdefumigènes",
+		"price": -10,
+		"category": "Utilitaires",
+		"defname": "Apparel_SmokepopBelt"
+	},
+	{
+		"abr": "pantalon",
+		"price": 143,
+		"category": "Vêtements",
+		"defname": "Apparel_Pants"
+	},
+	{
+		"abr": "pantalonrenforcé",
+		"price": 375,
+		"category": "Armures",
+		"defname": "Apparel_FlakPants"
+	},
+	{
+		"abr": "panthère",
+		"price": 667,
+		"category": "Animaux",
+		"defname": "Panther"
+	},
+	{
+		"abr": "parka",
+		"price": 315,
+		"category": "Vêtements",
+		"defname": "Apparel_Parka"
+	},
+	{
+		"abr": "patchwork",
+		"price": -10,
+		"category": "Cuirs",
+		"defname": "Leather_Patch"
+	},
+	{
+		"abr": "pâtenutritive",
+		"price": -10,
+		"category": "Plats",
+		"defname": "MealNutrientPaste"
+	},
+	{
+		"abr": "peauhumaine",
+		"price": -10,
+		"category": "Cuirs",
+		"defname": "Leather_Human"
+	},
+	{
+		"abr": "pemmican",
+		"price": -10,
+		"category": "Aliments",
+		"defname": "Pemmican"
+	},
+	{
+		"abr": "penoxycyline",
+		"price": -10,
+		"category": "Drogues",
+		"defname": "Penoxycyline"
+	},
+	{
+		"abr": "petitesculpture",
+		"price": -10,
+		"category": "Art",
+		"defname": "SculptureSmall"
+	},
+	{
+		"abr": "piègeàantimatièreimprovisé",
+		"price": -10,
+		"category": "Sécurité",
+		"defname": "TrapIED_AntigrainWarhead"
+	},
+	{
+		"abr": "piègeàpointes",
+		"price": -10,
+		"category": "Sécurité",
+		"defname": "TrapSpike"
+	},
+	{
+		"abr": "piègeanti-incendieimprovisé",
+		"price": -10,
+		"category": "Sécurité",
+		"defname": "TrapIED_Firefoam"
+	},
+	{
+		"abr": "piègeexplosifimprovisé",
+		"price": -10,
+		"category": "Sécurité",
+		"defname": "TrapIED_HighExplosive"
+	},
+	{
+		"abr": "piègefumigène",
+		"price": -10,
+		"category": "Sécurité",
+		"defname": "TrapIED_Smoke"
+	},
+	{
+		"abr": "piègeiemimprovisé",
+		"price": -10,
+		"category": "Sécurité",
+		"defname": "TrapIED_EMP"
+	},
+	{
+		"abr": "piègeincendiaireimprovisé",
+		"price": -10,
+		"category": "Sécurité",
+		"defname": "TrapIED_Incendiary"
+	},
+	{
+		"abr": "pilevanométrique",
+		"price": -10,
+		"category": "Spécial",
+		"defname": "VanometricPowerCell"
+	},
+	{
+		"abr": "pilum",
+		"price": -10,
+		"category": "Armes à distance",
+		"defname": "Pila"
+	},
+	{
+		"abr": "piquetdeferàcheval",
+		"price": -10,
+		"category": "Détente",
+		"defname": "HorseshoesPin"
+	},
+	{
+		"abr": "pistoletautomatique",
+		"price": -10,
+		"category": "Armes à distance",
+		"defname": "Gun_Autopistol"
+	},
+	{
+		"abr": "pistolet-mitrailleur",
+		"price": -10,
+		"category": "Armes à distance",
+		"defname": "Gun_MachinePistol"
+	},
+	{
+		"abr": "pistolet-mitrailleurlourd",
+		"price": -10,
+		"category": "Armes à distance",
+		"defname": "Gun_HeavySMG"
+	},
+	{
+		"abr": "plastacier",
+		"price": -10,
+		"category": "Ressources brutes",
+		"defname": "Plasteel"
+	},
+	{
+		"abr": "platgastronomique",
+		"price": -10,
+		"category": "Plats",
+		"defname": "MealLavish"
+	},
+	{
+		"abr": "platraffiné",
+		"price": -10,
+		"category": "Plats",
+		"defname": "MealFine"
+	},
+	{
+		"abr": "platsimple",
+		"price": -10,
+		"category": "Plats",
+		"defname": "MealSimple"
+	},
+	{
+		"abr": "plateaudejeud'ur",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "GameOfUrBoard"
+	},
+	{
+		"abr": "pommedeterre",
+		"price": -10,
+		"category": "Végétaux",
+		"defname": "RawPotatoes"
+	},
+	{
+		"abr": "postebasiquederecherche",
+		"price": -10,
+		"category": "Production",
+		"defname": "SimpleResearchBench"
+	},
+	{
+		"abr": "potdefleurs",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "PlantPot"
+	},
+	{
+		"abr": "poulet",
+		"price": 83,
+		"category": "Animaux",
+		"defname": "Chicken"
+	},
+	{
+		"abr": "poumon",
+		"price": -10,
+		"category": "Naturelles",
+		"defname": "Lung"
+	},
+	{
+		"abr": "prothèseauditive",
+		"price": -10,
+		"category": "Prothèses",
+		"defname": "CochlearImplant"
+	},
+	{
+		"abr": "prothèsecardiaque",
+		"price": -10,
+		"category": "Prothèses",
+		"defname": "SimpleProstheticHeart"
+	},
+	{
+		"abr": "prothèsedebras",
+		"price": -10,
+		"category": "Prothèses",
+		"defname": "SimpleProstheticArm"
+	},
+	{
+		"abr": "prothèsedejambe",
+		"price": -10,
+		"category": "Prothèses",
+		"defname": "SimpleProstheticLeg"
+	},
+	{
+		"abr": "radiateur",
+		"price": -10,
+		"category": "Température",
+		"defname": "Heater"
+	},
+	{
+		"abr": "rat",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "Rat"
+	},
+	{
+		"abr": "rataboum",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "Boomrat"
+	},
+	{
+		"abr": "rationdesurvie",
+		"price": -10,
+		"category": "Plats",
+		"defname": "MealSurvivalPack"
+	},
+	{
+		"abr": "ratonlaveur",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "Raccoon"
+	},
+	{
+		"abr": "rein",
+		"price": -10,
+		"category": "Naturelles",
+		"defname": "Kidney"
+	},
+	{
+		"abr": "renardarctique",
+		"price": 333,
+		"category": "Animaux",
+		"defname": "Fox_Arctic"
+	},
+	{
+		"abr": "renardroux",
+		"price": 333,
+		"category": "Animaux",
+		"defname": "Fox_Red"
+	},
+	{
+		"abr": "revolver",
+		"price": -10,
+		"category": "Armes à distance",
+		"defname": "Gun_Revolver"
+	},
+	{
+		"abr": "rhinocéros",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "Rhinoceros"
+	},
+	{
+		"abr": "riz",
+		"price": -10,
+		"category": "Végétaux",
+		"defname": "RawRice"
+	},
+	{
+		"abr": "sacdecouchage",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Bedroll"
+	},
+	{
+		"abr": "sacdecouchagedouble",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "BedrollDouble"
+	},
+	{
+		"abr": "sanglier",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "WildBoar"
+	},
+	{
+		"abr": "sculpturemonumentale",
+		"price": -10,
+		"category": "Art",
+		"defname": "SculptureGrand"
+	},
+	{
+		"abr": "singe",
+		"price": 167,
+		"category": "Animaux",
+		"defname": "Monkey"
+	},
+	{
+		"abr": "spélopède",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "Spelopede"
+	},
+	{
+		"abr": "synthé",
+		"price": -10,
+		"category": "Textiles",
+		"defname": "Synthread"
+	},
+	{
+		"abr": "systèmedeviséedebombardementorbital",
+		"price": -10,
+		"category": "Utilitaires",
+		"defname": "OrbitalTargeterBombardment"
+	},
+	{
+		"abr": "table(1x2)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Table1x2c"
+	},
+	{
+		"abr": "table(2x2)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Table2x2c"
+	},
+	{
+		"abr": "table(2x4)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Table2x4c"
+	},
+	{
+		"abr": "table(3x3)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Table3x3c"
+	},
+	{
+		"abr": "tabledebillard",
+		"price": 600,
+		"category": "Meubles",
+		"defname": "BilliardsTable"
+	},
+	{
+		"abr": "tabledenuit",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "EndTable"
+	},
+	{
+		"abr": "tabledepoker",
+		"price": 400,
+		"category": "Meubles",
+		"defname": "PokerTable"
+	},
+	{
+		"abr": "tabled'échecs",
+		"price": 281,
+		"category": "Meubles",
+		"defname": "ChessTable"
+	},
+	{
+		"abr": "tabouret",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Stool"
+	},
+	{
+		"abr": "télescope",
+		"price": -10,
+		"category": "Détente",
+		"defname": "Telescope"
+	},
+	{
+		"abr": "télévisionàécrangéant",
+		"price": -10,
+		"category": "Détente",
+		"defname": "MegascreenTelevision"
+	},
+	{
+		"abr": "télévisionàécranplat",
+		"price": -10,
+		"category": "Détente",
+		"defname": "FlatscreenTelevision"
+	},
+	{
+		"abr": "télévisioncathodique",
+		"price": -10,
+		"category": "Détente",
+		"defname": "TubeTelevision"
+	},
+	{
+		"abr": "thépekoe",
+		"price": -10,
+		"category": "Drogues",
+		"defname": "PsychiteTea"
+	},
+	{
+		"abr": "thrumbo",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "Thrumbo"
+	},
+	{
+		"abr": "tissu",
+		"price": -10,
+		"category": "Textiles",
+		"defname": "Cloth"
+	},
+	{
+		"abr": "tortue",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "Tortoise"
+	},
+	{
+		"abr": "t-shirt",
+		"price": 143,
+		"category": "Vêtements",
+		"defname": "Apparel_BasicShirt"
+	},
+	{
+		"abr": "uranium",
+		"price": -10,
+		"category": "Ressources brutes",
+		"defname": "Uranium"
+	},
+	{
+		"abr": "urne",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Urn"
+	},
+	{
+		"abr": "vache",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "Cow"
+	},
+	{
+		"abr": "veste",
+		"price": 275,
+		"category": "Vêtements",
+		"defname": "Apparel_Jacket"
+	},
+	{
+		"abr": "vesterenforcée",
+		"price": 483,
+		"category": "Armures",
+		"defname": "Apparel_FlakJacket"
+	},
+	{
+		"abr": "vianded'alpaga",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Alpaca"
+	},
+	{
+		"abr": "vianded'alphacastor",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Alphabeaver"
+	},
+	{
+		"abr": "viandedeâne",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Donkey"
+	},
+	{
+		"abr": "viandedebison",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Bison"
+	},
+	{
+		"abr": "viandedebœuf",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Cow"
+	},
+	{
+		"abr": "viandedeboomalope",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Boomalope"
+	},
+	{
+		"abr": "viandedebouquetin",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Ibex"
+	},
+	{
+		"abr": "viandedecanard",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Duck"
+	},
+	{
+		"abr": "viandedecapybara",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Capybara"
+	},
+	{
+		"abr": "viandedecaribou",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Caribou"
+	},
+	{
+		"abr": "viandedecerf",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Deer"
+	},
+	{
+		"abr": "viandedechat",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Cat"
+	},
+	{
+		"abr": "viandedecheval",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Horse"
+	},
+	{
+		"abr": "viandedechèvre",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Goat"
+	},
+	{
+		"abr": "viandedechinchilla",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Chinchilla"
+	},
+	{
+		"abr": "viandedecobaye",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_GuineaPig"
+	},
+	{
+		"abr": "viandedecobra",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Cobra"
+	},
+	{
+		"abr": "viandedecougar",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Cougar"
+	},
+	{
+		"abr": "viandededinde",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Turkey"
+	},
+	{
+		"abr": "viandededromadaire",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Dromedary"
+	},
+	{
+		"abr": "viandedegazelle",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Gazelle"
+	},
+	{
+		"abr": "viandedehusky",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Husky"
+	},
+	{
+		"abr": "viandedelabrador",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_LabradorRetriever"
+	},
+	{
+		"abr": "viandedelièvre",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Hare"
+	},
+	{
+		"abr": "viandedeloup",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Wolf_Timber"
+	},
+	{
+		"abr": "viandedelynx",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Lynx"
+	},
+	{
+		"abr": "viandedemégathérium",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Megasloth"
+	},
+	{
+		"abr": "viandedemouton",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Sheep"
+	},
+	{
+		"abr": "viandedemuffalo",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Muffalo"
+	},
+	{
+		"abr": "viandedepanthère",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Panther"
+	},
+	{
+		"abr": "viandedeporc",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Pig"
+	},
+	{
+		"abr": "viandedepoulet",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Chicken"
+	},
+	{
+		"abr": "viandederat",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Rat"
+	},
+	{
+		"abr": "viandederataboum",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Boomrat"
+	},
+	{
+		"abr": "viandederatonlaveur",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Raccoon"
+	},
+	{
+		"abr": "viandederenard",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Fox_Fennec"
+	},
+	{
+		"abr": "viandederhinocéros",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Rhinoceros"
+	},
+	{
+		"abr": "viandedesinge",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Monkey"
+	},
+	{
+		"abr": "viandedethrumbo",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Thrumbo"
+	},
+	{
+		"abr": "viandedetortue",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Tortoise"
+	},
+	{
+		"abr": "viandedewapiti",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Elk"
+	},
+	{
+		"abr": "viandedewarg",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Warg"
+	},
+	{
+		"abr": "viandedeyak",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Yak"
+	},
+	{
+		"abr": "viandedeyorkshireterrier",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_YorkshireTerrier"
+	},
+	{
+		"abr": "vianded'écureuil",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Squirrel"
+	},
+	{
+		"abr": "vianded'éléphant",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Elephant"
+	},
+	{
+		"abr": "vianded'iguane",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Iguana"
+	},
+	{
+		"abr": "vianded'insecteogm",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Megaspider"
+	},
+	{
+		"abr": "vianded'oiseau",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Cassowary"
+	},
+	{
+		"abr": "vianded'ours",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Bear_Grizzly"
+	},
+	{
+		"abr": "voiledeguerre",
+		"price": 75,
+		"category": "Couvre-chefs",
+		"defname": "Apparel_WarVeil"
+	},
+	{
+		"abr": "wake-up",
+		"price": -10,
+		"category": "Drogues",
+		"defname": "WakeUp"
+	},
+	{
+		"abr": "wapiti",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "Elk"
+	},
+	{
+		"abr": "warg",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "Warg"
+	},
+	{
+		"abr": "yak",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "Yak"
+	},
+	{
+		"abr": "yayo",
+		"price": -10,
+		"category": "Drogues",
+		"defname": "Yayo"
+	},
+	{
+		"abr": "yorkshireterrier",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "YorkshireTerrier"
+	},
+	{
+		"abr": "canonrenforcé",
+		"price": -10,
+		"category": "Objets",
+		"defname": "ReinforcedBarrel"
+	},
+	{
+		"abr": "hachedebrèche",
+		"price": -10,
+		"category": "Armes de mêlée",
+		"defname": "MeleeWeapon_BreachAxe"
+	},
+	{
+		"abr": "marqueurd'enclos",
+		"price": -10,
+		"category": "Divers",
+		"defname": "PenMarker"
+	},
+	{
+		"abr": "platcarnivoregastronomique",
+		"price": -10,
+		"category": "Plats",
+		"defname": "MealLavish_Meat"
+	},
+	{
+		"abr": "platcarnivoreraffiné",
+		"price": -10,
+		"category": "Plats",
+		"defname": "MealFine_Meat"
+	},
+	{
+		"abr": "platvégétariengastronomique",
+		"price": -10,
+		"category": "Plats",
+		"defname": "MealLavish_Veg"
+	},
+	{
+		"abr": "platvégétarienraffiné",
+		"price": -10,
+		"category": "Plats",
+		"defname": "MealFine_Veg"
+	},
+	{
+		"abr": "pondoir",
+		"price": -10,
+		"category": "Divers",
+		"defname": "EggBox"
+	},
+	{
+		"abr": "languebionique",
+		"price": -10,
+		"category": "Bioniques",
+		"defname": "BionicTongue"
+	},
+	{
+		"abr": "bureaudegestionnaire",
+		"price": -10,
+		"category": "Production",
+		"defname": "FM_ManagerStation"
+	},
+	{
+		"abr": "bureaudegestionnairebasique",
+		"price": -10,
+		"category": "Production",
+		"defname": "FM_BasicManagerStation"
+	},
+	{
+		"abr": "gestionia",
+		"price": -10,
+		"category": "Production",
+		"defname": "FM_AIManager"
+	},
+	{
+		"abr": "armoireàpharmacie",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "LWM_Medicine_Cabinet"
+	},
+	{
+		"abr": "armurerie",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "LWM_WeaponsCabinet"
+	},
+	{
+		"abr": "armureriesécurisée",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "LWM_WeaponsLocker"
+	},
+	{
+		"abr": "crochetsàviande",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "LWM_Meat_Hook"
+	},
+	{
+		"abr": "emptyinfuser",
+		"price": -10,
+		"category": "Infusers",
+		"defname": "Infusion_InfuserEmpty"
+	},
+	{
+		"abr": "garde-robe",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "LWM_Clothing_Rack"
+	},
+	{
+		"abr": "grandeétagère",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "LWM_BigShelf"
+	},
+	{
+		"abr": "palette",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "LWM_Pallet"
+	},
+	{
+		"abr": "paletteemballée",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "LWM_Pallet_Covered"
+	},
+	{
+		"abr": "panierànourriture",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "LWM_Food_Basket"
+	},
+	{
+		"abr": "panierentissu",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "LWM_FabricHamper"
+	},
+	{
+		"abr": "petitcoffre-fort",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "LWM_Safe"
+	},
+	{
+		"abr": "petitcontainer",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "LWM_DeepStorage_Skip"
+	},
+	{
+		"abr": "petitréfrigérateur",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "RimFridge_SingleRefrigerator"
+	},
+	{
+		"abr": "plateauàrepas",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "LWM_MealRack"
+	},
+	{
+		"abr": "quadrefrigerator",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "RimFridge_QuadRefrigerator"
+	},
+	{
+		"abr": "abyssiniancat",
+		"price": 333,
+		"category": "Animaux",
+		"defname": "AEXP_CatAbyssinian"
+	},
+	{
+		"abr": "accélérateurdesommeil",
+		"price": -10,
+		"category": "Divers",
+		"defname": "SleepAccelerator"
+	},
+	{
+		"abr": "activateurdeguérison",
+		"price": -10,
+		"category": "Bioniques",
+		"defname": "HealingEnhancer"
+	},
+	{
+		"abr": "activateurd'immunité",
+		"price": -10,
+		"category": "Bioniques",
+		"defname": "Immunoenhancer"
+	},
+	{
+		"abr": "africanwilddog",
+		"price": 1250,
+		"category": "Animaux",
+		"defname": "AEXP_AfricanWildDog"
+	},
+	{
+		"abr": "alligator",
+		"price": 1250,
+		"category": "Animaux",
+		"defname": "AEXP_Alligator"
+	},
+	{
+		"abr": "alligatoregg(fert.)",
+		"price": -10,
+		"category": "Œufs (fécondés)",
+		"defname": "AEXP_EggAlligatorFertilized"
+	},
+	{
+		"abr": "alternateurdecyclecircadien",
+		"price": -10,
+		"category": "Bioniques",
+		"defname": "CircadianHalfCycler"
+	},
+	{
+		"abr": "anaconda",
+		"price": 1292,
+		"category": "Animaux",
+		"defname": "AEXP_Anaconda"
+	},
+	{
+		"abr": "anacondaegg(fert.)",
+		"price": -10,
+		"category": "Œufs (fécondés)",
+		"defname": "AEXP_EggAnacondaFertilized"
+	},
+	{
+		"abr": "applique",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "GLWallLamp"
+	},
+	{
+		"abr": "applique",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "WallLamp"
+	},
+	{
+		"abr": "applique(bleu)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "GLWallLamp_Blue"
+	},
+	{
+		"abr": "applique(jaune)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "GLWallLamp_Yellow"
+	},
+	{
+		"abr": "applique(orange)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "GLWallLamp_Orange"
+	},
+	{
+		"abr": "applique(rouge)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "GLWallLamp_Red"
+	},
+	{
+		"abr": "applique(vert)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "GLWallLamp_Green"
+	},
+	{
+		"abr": "applique(violet)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "GLWallLamp_Violet"
+	},
+	{
+		"abr": "arbredenoël",
+		"price": -10,
+		"category": "Divers",
+		"defname": "ChristmasTree"
+	},
+	{
+		"abr": "arche",
+		"price": -10,
+		"category": "Reliques inertes",
+		"defname": "RelicInertArk"
+	},
+	{
+		"abr": "arcticcoyote",
+		"price": 250,
+		"category": "Animaux",
+		"defname": "AEXP_ArcticCoyote"
+	},
+	{
+		"abr": "armuredecataphracte",
+		"price": -10,
+		"category": "Armures",
+		"defname": "Apparel_ArmorCataphract"
+	},
+	{
+		"abr": "armuredegrenadier",
+		"price": -10,
+		"category": "Armures",
+		"defname": "Apparel_ArmorMarineGrenadier"
+	},
+	{
+		"abr": "armuredevol",
+		"price": -10,
+		"category": "Armures",
+		"defname": "Apparel_ArmorLocust"
+	},
+	{
+		"abr": "armurephoenix",
+		"price": -10,
+		"category": "Armures",
+		"defname": "Apparel_ArmorCataphractPhoenix"
+	},
+	{
+		"abr": "assistantcircadien",
+		"price": -10,
+		"category": "Bioniques",
+		"defname": "CircadianAssistant"
+	},
+	{
+		"abr": "assistantd'apprentissage",
+		"price": -10,
+		"category": "Bioniques",
+		"defname": "LearningAssistant"
+	},
+	{
+		"abr": "atelierdeverre(combustiblechimique)",
+		"price": -10,
+		"category": "Production",
+		"defname": "FueledGlassworkTable"
+	},
+	{
+		"abr": "atelierdeverre(électricité)",
+		"price": -10,
+		"category": "Production",
+		"defname": "GlassworkTable"
+	},
+	{
+		"abr": "atelierdeverrerenforcé",
+		"price": -10,
+		"category": "Production",
+		"defname": "ReinforcedGlassworkTable"
+	},
+	{
+		"abr": "badger",
+		"price": 458,
+		"category": "Animaux",
+		"defname": "AEXP_Badger"
+	},
+	{
+		"abr": "balisededébarquementpourvaisseau",
+		"price": -10,
+		"category": "Divers",
+		"defname": "ShipLandingBeacon"
+	},
+	{
+		"abr": "banc",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Pew"
+	},
+	{
+		"abr": "bandeaupourlesyeux",
+		"price": -10,
+		"category": "Couvre-chefs",
+		"defname": "Apparel_Blindfold"
+	},
+	{
+		"abr": "bangàbrûler",
+		"price": -10,
+		"category": "Divers",
+		"defname": "Burnbong"
+	},
+	{
+		"abr": "bâtoneneltex",
+		"price": -10,
+		"category": "Armes de mêlée",
+		"defname": "MeleeWeapon_PsyfocusStaff"
+	},
+	{
+		"abr": "beagle",
+		"price": 167,
+		"category": "Animaux",
+		"defname": "AEXP_Beagle"
+	},
+	{
+		"abr": "beaver",
+		"price": 200,
+		"category": "Animaux",
+		"defname": "AEXP_Beaver"
+	},
+	{
+		"abr": "bengalcat",
+		"price": 333,
+		"category": "Animaux",
+		"defname": "AEXP_CatBengal"
+	},
+	{
+		"abr": "béret",
+		"price": -10,
+		"category": "Coiffure",
+		"defname": "Apparel_Beret"
+	},
+	{
+		"abr": "blackbear",
+		"price": 1167,
+		"category": "Animaux",
+		"defname": "AEXP_BlackBear"
+	},
+	{
+		"abr": "blackrhinoceros",
+		"price": 1167,
+		"category": "Animaux",
+		"defname": "AEXP_BlackRhino"
+	},
+	{
+		"abr": "black-footedferret",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "AEXP_BlackFootedFerret"
+	},
+	{
+		"abr": "boîte",
+		"price": -10,
+		"category": "Reliques inertes",
+		"defname": "RelicInertBox"
+	},
+	{
+		"abr": "bonneteneltex",
+		"price": -10,
+		"category": "Couvre-chefs",
+		"defname": "Apparel_EltexSkullcap"
+	},
+	{
+		"abr": "bonnetlarge",
+		"price": -10,
+		"category": "Couvre-chefs",
+		"defname": "Apparel_Flophat"
+	},
+	{
+		"abr": "bonobo",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "AEXP_Bonobo"
+	},
+	{
+		"abr": "boombat",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "AEXP_Boombat"
+	},
+	{
+		"abr": "bouleàfacette",
+		"price": -10,
+		"category": "Divers",
+		"defname": "LightBall"
+	},
+	{
+		"abr": "brasdeforage",
+		"price": -10,
+		"category": "Prothèses",
+		"defname": "DrillArm"
+	},
+	{
+		"abr": "brasero",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Brazier"
+	},
+	{
+		"abr": "braserotamisé",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "DarklightBrazier"
+	},
+	{
+		"abr": "britishshorthaircat",
+		"price": 333,
+		"category": "Animaux",
+		"defname": "AEXP_CatBritishShorthair"
+	},
+	{
+		"abr": "bûcher",
+		"price": 230,
+		"category": "Divers",
+		"defname": "Pyre"
+	},
+	{
+		"abr": "burka",
+		"price": -10,
+		"category": "Vêtements",
+		"defname": "Apparel_Burka"
+	},
+	{
+		"abr": "cageàgibet",
+		"price": -10,
+		"category": "Divers",
+		"defname": "GibbetCage"
+	},
+	{
+		"abr": "caisse",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "CashRegister_CashRegister"
+	},
+	{
+		"abr": "cale",
+		"price": -10,
+		"category": "Couvre-chefs",
+		"defname": "Apparel_Slicecap"
+	},
+	{
+		"abr": "calice",
+		"price": -10,
+		"category": "Reliques inertes",
+		"defname": "RelicInertCup"
+	},
+	{
+		"abr": "camel",
+		"price": 533,
+		"category": "Animaux",
+		"defname": "AEXP_Camel"
+	},
+	{
+		"abr": "camelwool",
+		"price": -10,
+		"category": "Laines",
+		"defname": "WoolCamel"
+	},
+	{
+		"abr": "cape",
+		"price": -10,
+		"category": "Vêtements nobles",
+		"defname": "Apparel_Cape"
+	},
+	{
+		"abr": "capsuledebiosculptage",
+		"price": -10,
+		"category": "Divers",
+		"defname": "BiosculpterPod"
+	},
+	{
+		"abr": "casquedecataphracte",
+		"price": -10,
+		"category": "Casques",
+		"defname": "Apparel_ArmorHelmetCataphract"
+	},
+	{
+		"abr": "casqueeneltex",
+		"price": -10,
+		"category": "Couvre-chefs",
+		"defname": "Apparel_PsyfocusHelmet"
+	},
+	{
+		"abr": "casquetted'autorité",
+		"price": -10,
+		"category": "Couvre-chefs",
+		"defname": "Apparel_AuthorityCap"
+	},
+	{
+		"abr": "ceilingdarklamp",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "GLCeilingLampDark"
+	},
+	{
+		"abr": "celluledepuissanceinstable",
+		"price": -10,
+		"category": "Spécial",
+		"defname": "UnstablePowerCell"
+	},
+	{
+		"abr": "chainsaw",
+		"price": -10,
+		"category": "Armes de mêlée",
+		"defname": "PowerTool_IndustrialChainsaw"
+	},
+	{
+		"abr": "chapeaudedames",
+		"price": 203,
+		"category": "Coiffure",
+		"defname": "Apparel_HatLadies"
+	},
+	{
+		"abr": "cheetah",
+		"price": 667,
+		"category": "Animaux",
+		"defname": "AEXP_Cheetah"
+	},
+	{
+		"abr": "chemiseeneltex",
+		"price": -10,
+		"category": "Vêtements",
+		"defname": "Apparel_PsyfocusShirt"
+	},
+	{
+		"abr": "chemisesolennelle",
+		"price": -10,
+		"category": "Vêtements nobles",
+		"defname": "Apparel_ShirtRuffle"
+	},
+	{
+		"abr": "chihuahua",
+		"price": 550,
+		"category": "Animaux",
+		"defname": "AEXP_Chihuahua"
+	},
+	{
+		"abr": "cibleurorbitalmécanoïde",
+		"price": -10,
+		"category": "Utilitaires",
+		"defname": "OrbitalTargeterMechCluster"
+	},
+	{
+		"abr": "clavecin",
+		"price": -10,
+		"category": "Détente",
+		"defname": "Harpsichord"
+	},
+	{
+		"abr": "coagulateur",
+		"price": -10,
+		"category": "Bioniques",
+		"defname": "Coagulator"
+	},
+	{
+		"abr": "coiffeuse",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "StylingStation"
+	},
+	{
+		"abr": "collierd'esclave",
+		"price": -10,
+		"category": "Couvre-chefs",
+		"defname": "Apparel_Collar"
+	},
+	{
+		"abr": "commoninfuser",
+		"price": -10,
+		"category": "Infusers",
+		"defname": "Infusion_Infuser_Common"
+	},
+	{
+		"abr": "compresseurneuronal",
+		"price": -10,
+		"category": "Divers",
+		"defname": "NeuralSupercharger"
+	},
+	{
+		"abr": "corgi",
+		"price": 1083,
+		"category": "Animaux",
+		"defname": "AEXP_Corgi"
+	},
+	{
+		"abr": "corset",
+		"price": -10,
+		"category": "Vêtements nobles",
+		"defname": "Apparel_Corset"
+	},
+	{
+		"abr": "couronne",
+		"price": -10,
+		"category": "Coiffure",
+		"defname": "Apparel_Crown"
+	},
+	{
+		"abr": "couronnedetorture",
+		"price": -10,
+		"category": "Couvre-chefs",
+		"defname": "Apparel_TortureCrown"
+	},
+	{
+		"abr": "couronnestellique",
+		"price": -10,
+		"category": "Coiffure",
+		"defname": "Apparel_CrownStellic"
+	},
+	{
+		"abr": "coussindeprière",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "KneelPillow"
+	},
+	{
+		"abr": "coyote",
+		"price": 250,
+		"category": "Animaux",
+		"defname": "AEXP_Coyote"
+	},
+	{
+		"abr": "crâne",
+		"price": -10,
+		"category": "Objets",
+		"defname": "Skull"
+	},
+	{
+		"abr": "crocodile",
+		"price": 1333,
+		"category": "Animaux",
+		"defname": "AEXP_Crocodile"
+	},
+	{
+		"abr": "crocodileegg(fert.)",
+		"price": -10,
+		"category": "Œufs (fécondés)",
+		"defname": "AEXP_EggCrocodileFertilized"
+	},
+	{
+		"abr": "crocodileegg(unfert.)",
+		"price": -10,
+		"category": "Œufs (non fécondés)",
+		"defname": "AEXP_EggCrocodileUnfertilized"
+	},
+	{
+		"abr": "crocsàvenin",
+		"price": -10,
+		"category": "Prothèses",
+		"defname": "VenomFangs"
+	},
+	{
+		"abr": "cube",
+		"price": -10,
+		"category": "Reliques inertes",
+		"defname": "RelicInertCube"
+	},
+	{
+		"abr": "dalleanimaliste(grande)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "AnimalistSlab_Broad"
+	},
+	{
+		"abr": "dalleanimaliste(moyenne)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "AnimalistSlab_Medium"
+	},
+	{
+		"abr": "dallemorbide(grande)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "MorbidSlab_Broad"
+	},
+	{
+		"abr": "dallemorbide(moyenne)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "MorbidSlab_Medium"
+	},
+	{
+		"abr": "dalletotémique(grande)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "TotemicSlab_Broad"
+	},
+	{
+		"abr": "dalletotémique(moyenne)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "TotemicSlab_Medium"
+	},
+	{
+		"abr": "deserttortoise",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "AEXP_DesertTortoise"
+	},
+	{
+		"abr": "deserttortoiseegg(fert.)",
+		"price": -10,
+		"category": "Œufs (fécondés)",
+		"defname": "AEXP_EggDesertTortoiseFertilized"
+	},
+	{
+		"abr": "deserttortoiseegg(unfert.)",
+		"price": -10,
+		"category": "Œufs (non fécondés)",
+		"defname": "AEXP_EggDesertTortoiseUnfertilized"
+	},
+	{
+		"abr": "diamond",
+		"price": -10,
+		"category": "Ressources brutes",
+		"defname": "Diamond"
+	},
+	{
+		"abr": "dogmeat",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_AEXP_Beagle"
+	},
+	{
+		"abr": "drapeausacrificiel",
+		"price": -10,
+		"category": "Divers",
+		"defname": "SacrificialFlag"
+	},
+	{
+		"abr": "drill",
+		"price": 592,
+		"category": "Armes de mêlée",
+		"defname": "PowerTool_IndustrialDrill"
+	},
+	{
+		"abr": "effigie",
+		"price": -10,
+		"category": "Divers",
+		"defname": "Effigy"
+	},
+	{
+		"abr": "entraîneurpsychique(arrosagemassif)",
+		"price": -10,
+		"category": "Psycho-entraîneurs",
+		"defname": "Psytrainer_Waterskip"
+	},
+	{
+		"abr": "entraîneurpsychique(attractiondecible)",
+		"price": -10,
+		"category": "Psycho-entraîneurs",
+		"defname": "Psytrainer_Beckon"
+	},
+	{
+		"abr": "entraîneurpsychique(bouclierdeprotection)",
+		"price": -10,
+		"category": "Psycho-entraîneurs",
+		"defname": "Psytrainer_BulletShield"
+	},
+	{
+		"abr": "entraîneurpsychique(concentration)",
+		"price": -10,
+		"category": "Psycho-entraîneurs",
+		"defname": "Psytrainer_Focus"
+	},
+	{
+		"abr": "entraîneurpsychique(décharged'échauffementneuronal)",
+		"price": -10,
+		"category": "Psycho-entraîneurs",
+		"defname": "Psytrainer_EntropyDump"
+	},
+	{
+		"abr": "entraîneurpsychique(écrandefumée)",
+		"price": -10,
+		"category": "Psycho-entraîneurs",
+		"defname": "Psytrainer_Smokepop"
+	},
+	{
+		"abr": "entraîneurpsychique(étourdissement)",
+		"price": -10,
+		"category": "Psycho-entraîneurs",
+		"defname": "Psytrainer_Stun"
+	},
+	{
+		"abr": "entraîneurpsychique(fardeau)",
+		"price": -10,
+		"category": "Psycho-entraîneurs",
+		"defname": "Psytrainer_Burden"
+	},
+	{
+		"abr": "entraîneurpsychique(foufurieux)",
+		"price": -10,
+		"category": "Psycho-entraîneurs",
+		"defname": "Psytrainer_Berserk"
+	},
+	{
+		"abr": "entraîneurpsychique(impulsionaveuglante)",
+		"price": -10,
+		"category": "Psycho-entraîneurs",
+		"defname": "Psytrainer_BlindingPulse"
+	},
+	{
+		"abr": "entraîneurpsychique(impulsiondechasseàl'homme)",
+		"price": -10,
+		"category": "Psycho-entraîneurs",
+		"defname": "Psytrainer_ManhunterPulse"
+	},
+	{
+		"abr": "entraîneurpsychique(impulsiondefoliefurieuse)",
+		"price": -10,
+		"category": "Psycho-entraîneurs",
+		"defname": "Psytrainer_BerserkPulse"
+	},
+	{
+		"abr": "entraîneurpsychique(inhibitiondeladouleur)",
+		"price": -10,
+		"category": "Psycho-entraîneurs",
+		"defname": "Psytrainer_Painblock"
+	},
+	{
+		"abr": "entraîneurpsychique(invisibilité)",
+		"price": -10,
+		"category": "Psycho-entraîneurs",
+		"defname": "Psytrainer_Invisibility"
+	},
+	{
+		"abr": "entraîneurpsychique(motd'amour)",
+		"price": -10,
+		"category": "Psycho-entraîneurs",
+		"defname": "Psytrainer_WordOfLove"
+	},
+	{
+		"abr": "entraîneurpsychique(motdeconfiance)",
+		"price": -10,
+		"category": "Psycho-entraîneurs",
+		"defname": "Psytrainer_WordOfTrust"
+	},
+	{
+		"abr": "entraîneurpsychique(motdejoie)",
+		"price": -10,
+		"category": "Psycho-entraîneurs",
+		"defname": "Psytrainer_WordOfJoy"
+	},
+	{
+		"abr": "entraîneurpsychique(motdesérénité)",
+		"price": -10,
+		"category": "Psycho-entraîneurs",
+		"defname": "Psytrainer_WordOfSerenity"
+	},
+	{
+		"abr": "entraîneurpsychique(motd'inspiration)",
+		"price": -10,
+		"category": "Psycho-entraîneurs",
+		"defname": "Psytrainer_WordOfInspiration"
+	},
+	{
+		"abr": "entraîneurpsychique(murdeterre)",
+		"price": -10,
+		"category": "Psycho-entraîneurs",
+		"defname": "Psytrainer_Wallraise"
+	},
+	{
+		"abr": "entraîneurpsychique(ondedéstabilisante)",
+		"price": -10,
+		"category": "Psycho-entraîneurs",
+		"defname": "Psytrainer_VertigoPulse"
+	},
+	{
+		"abr": "entraîneurpsychique(sautchaotique)",
+		"price": -10,
+		"category": "Psycho-entraîneurs",
+		"defname": "Psytrainer_ChaosSkip"
+	},
+	{
+		"abr": "entraîneurpsychique(sautdeblocs)",
+		"price": -10,
+		"category": "Psycho-entraîneurs",
+		"defname": "Psytrainer_Chunkskip"
+	},
+	{
+		"abr": "entraîneurpsychique(téléportationdisparatedemasse)",
+		"price": -10,
+		"category": "Psycho-entraîneurs",
+		"defname": "Psytrainer_MassChaosSkip"
+	},
+	{
+		"abr": "entraîneurpsychique(téléportation)",
+		"price": -10,
+		"category": "Psycho-entraîneurs",
+		"defname": "Psytrainer_Skip"
+	},
+	{
+		"abr": "entraîneurpsychique(tempêted'éclairs)",
+		"price": -10,
+		"category": "Psycho-entraîneurs",
+		"defname": "Psytrainer_Flashstorm"
+	},
+	{
+		"abr": "entraîneurpsychique(transportlointain)",
+		"price": -10,
+		"category": "Psycho-entraîneurs",
+		"defname": "Psytrainer_Farskip"
+	},
+	{
+		"abr": "entraîneurpsychique(tremblementpsychique)",
+		"price": -10,
+		"category": "Psycho-entraîneurs",
+		"defname": "Psytrainer_Neuroquake"
+	},
+	{
+		"abr": "entraîneurpsychique(troud'épinglesolaire)",
+		"price": -10,
+		"category": "Psycho-entraîneurs",
+		"defname": "Psytrainer_SolarPinhole"
+	},
+	{
+		"abr": "épéemono-moléculaire",
+		"price": -10,
+		"category": "Armes de mêlée",
+		"defname": "MeleeWeapon_MonoSword"
+	},
+	{
+		"abr": "épéemono-moléculaireconsciente",
+		"price": -10,
+		"category": "Armes intelligentes",
+		"defname": "MeleeWeapon_MonoSwordBladelink"
+	},
+	{
+		"abr": "épéeplasmique",
+		"price": -10,
+		"category": "Armes de mêlée",
+		"defname": "MeleeWeapon_PlasmaSword"
+	},
+	{
+		"abr": "épéeplasmiqueconsciente",
+		"price": -10,
+		"category": "Armes intelligentes",
+		"defname": "MeleeWeapon_PlasmaSwordBladelink"
+	},
+	{
+		"abr": "estomacamélioré",
+		"price": -10,
+		"category": "Bioniques",
+		"defname": "ReprocessorStomach"
+	},
+	{
+		"abr": "estomacdétoxifiant",
+		"price": -10,
+		"category": "Bioniques",
+		"defname": "DetoxifierStomach"
+	},
+	{
+		"abr": "estomacnucléaire",
+		"price": -10,
+		"category": "Bioniques",
+		"defname": "NuclearStomach"
+	},
+	{
+		"abr": "étoileausol(grande)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "SpikecoreFloorStar_Medium"
+	},
+	{
+		"abr": "étoileausol(moyenne)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "SpikecoreFloorStar_Broad"
+	},
+	{
+		"abr": "exhausteurd'amour",
+		"price": -10,
+		"category": "Bioniques",
+		"defname": "LoveEnhancer"
+	},
+	{
+		"abr": "fragment",
+		"price": -10,
+		"category": "Reliques inertes",
+		"defname": "RelicInertFragment"
+	},
+	{
+		"abr": "frenchbulldog",
+		"price": 250,
+		"category": "Animaux",
+		"defname": "AEXP_FrenchBulldog"
+	},
+	{
+		"abr": "gastro-analyseur",
+		"price": -10,
+		"category": "Bioniques",
+		"defname": "GastroAnalyzer"
+	},
+	{
+		"abr": "germanshepherd",
+		"price": 750,
+		"category": "Animaux",
+		"defname": "AEXP_GermanShepherd"
+	},
+	{
+		"abr": "giantpanda",
+		"price": 1167,
+		"category": "Animaux",
+		"defname": "AEXP_Panda"
+	},
+	{
+		"abr": "giantpangolin",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "AEXP_Pangolin"
+	},
+	{
+		"abr": "gilamonster",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "AEXP_GilaMonster"
+	},
+	{
+		"abr": "gilamonsteregg(fert.)",
+		"price": -10,
+		"category": "Œufs (fécondés)",
+		"defname": "AEXP_EggGilaMonsterFertilized"
+	},
+	{
+		"abr": "gilamonsteregg(unfert.)",
+		"price": -10,
+		"category": "Œufs (non fécondés)",
+		"defname": "AEXP_EggGilaMonsterUnfertilized"
+	},
+	{
+		"abr": "giletsolennel",
+		"price": -10,
+		"category": "Vêtements nobles",
+		"defname": "Apparel_VestRoyal"
+	},
+	{
+		"abr": "giraffe",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "AEXP_Giraffe"
+	},
+	{
+		"abr": "glandeblindante",
+		"price": -10,
+		"category": "Bioniques",
+		"defname": "StoneskinGland"
+	},
+	{
+		"abr": "glanded'armure",
+		"price": -10,
+		"category": "Bioniques",
+		"defname": "ArmorskinGland"
+	},
+	{
+		"abr": "glandedurcissante",
+		"price": -10,
+		"category": "Bioniques",
+		"defname": "ToughskinGland"
+	},
+	{
+		"abr": "goldbracelet",
+		"price": -10,
+		"category": "Vêtements",
+		"defname": "Jewelry_Bracelet"
+	},
+	{
+		"abr": "goldearring",
+		"price": -10,
+		"category": "Vêtements",
+		"defname": "Jewelry_Earring"
+	},
+	{
+		"abr": "goldeltexnecklace",
+		"price": -10,
+		"category": "Vêtements",
+		"defname": "Jewelry_PsychicNecklace"
+	},
+	{
+		"abr": "goldnecklace",
+		"price": -10,
+		"category": "Vêtements",
+		"defname": "Jewelry_Necklace"
+	},
+	{
+		"abr": "goldring",
+		"price": -10,
+		"category": "Vêtements",
+		"defname": "Jewelry_Ring"
+	},
+	{
+		"abr": "gorilla",
+		"price": 917,
+		"category": "Animaux",
+		"defname": "AEXP_Gorilla"
+	},
+	{
+		"abr": "grainedegauranlen",
+		"price": -10,
+		"category": "Objets",
+		"defname": "GauranlenSeed"
+	},
+	{
+		"abr": "grandsanctuairedelanature",
+		"price": -10,
+		"category": "Divers",
+		"defname": "NatureShrine_Large"
+	},
+	{
+		"abr": "grandstatueofcolonist",
+		"price": -10,
+		"category": "Art",
+		"defname": "TMB_StatueOfColonistKGrand"
+	},
+	{
+		"abr": "grandtrônedeméditation",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "GrandThrone"
+	},
+	{
+		"abr": "grandverresphérique",
+		"price": -10,
+		"category": "Produits manufacturés",
+		"defname": "LargeCircularGlass"
+	},
+	{
+		"abr": "greatdane",
+		"price": 1083,
+		"category": "Animaux",
+		"defname": "AEXP_GreatDane"
+	},
+	{
+		"abr": "griffevenimeuse",
+		"price": -10,
+		"category": "Prothèses",
+		"defname": "VenomTalon"
+	},
+	{
+		"abr": "grinder",
+		"price": -10,
+		"category": "Armes de mêlée",
+		"defname": "PowerTool_IndustrialGrinder"
+	},
+	{
+		"abr": "hache",
+		"price": -10,
+		"category": "Armes de mêlée",
+		"defname": "MeleeWeapon_Axe"
+	},
+	{
+		"abr": "harmoniseurpsychique",
+		"price": -10,
+		"category": "Archotech",
+		"defname": "PsychicHarmonizer"
+	},
+	{
+		"abr": "harpe",
+		"price": -10,
+		"category": "Détente",
+		"defname": "Harp"
+	},
+	{
+		"abr": "haut-de-forme",
+		"price": 203,
+		"category": "Coiffure",
+		"defname": "Apparel_HatTop"
+	},
+	{
+		"abr": "haut-parleur",
+		"price": -10,
+		"category": "Divers",
+		"defname": "Loudspeaker"
+	},
+	{
+		"abr": "hedgehog",
+		"price": 42,
+		"category": "Animaux",
+		"defname": "AEXP_Hedgehog"
+	},
+	{
+		"abr": "hippopotamus",
+		"price": 1333,
+		"category": "Animaux",
+		"defname": "AEXP_Hippopotamus"
+	},
+	{
+		"abr": "hippopotamusleather",
+		"price": -10,
+		"category": "Cuirs",
+		"defname": "AEXP_Leather_Hippopotamus"
+	},
+	{
+		"abr": "hugestatueofcolonist",
+		"price": -10,
+		"category": "Art",
+		"defname": "TMB_StatueOfColonistKLarge"
+	},
+	{
+		"abr": "hyena",
+		"price": 308,
+		"category": "Animaux",
+		"defname": "AEXP_Hyena"
+	},
+	{
+		"abr": "indianelephant",
+		"price": 1000,
+		"category": "Animaux",
+		"defname": "AEXP_IndianElephant"
+	},
+	{
+		"abr": "jackhammer",
+		"price": -10,
+		"category": "Armes de mêlée",
+		"defname": "PowerTool_IndustrialJackHammer"
+	},
+	{
+		"abr": "jaguar",
+		"price": 667,
+		"category": "Animaux",
+		"defname": "AEXP_Jaguar"
+	},
+	{
+		"abr": "kangaroo",
+		"price": 417,
+		"category": "Animaux",
+		"defname": "AEXP_Kangaroo"
+	},
+	{
+		"abr": "koala",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "AEXP_Koala"
+	},
+	{
+		"abr": "lamedecoude",
+		"price": -10,
+		"category": "Prothèses",
+		"defname": "ElbowBlade"
+	},
+	{
+		"abr": "lampadaireextérieur",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "OutdoorGroundLamp"
+	},
+	{
+		"abr": "lampadairetamisé",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Darklamp"
+	},
+	{
+		"abr": "lasersculptingtable",
+		"price": -10,
+		"category": "Production",
+		"defname": "LaserTableSculpting"
+	},
+	{
+		"abr": "lecteurpsychique",
+		"price": -10,
+		"category": "Archotech",
+		"defname": "PsychicReader"
+	},
+	{
+		"abr": "legendaryinfuser",
+		"price": -10,
+		"category": "Infusers",
+		"defname": "Infusion_Infuser_Legendary"
+	},
+	{
+		"abr": "lemur",
+		"price": 250,
+		"category": "Animaux",
+		"defname": "AEXP_Lemur"
+	},
+	{
+		"abr": "lion",
+		"price": 2000,
+		"category": "Animaux",
+		"defname": "AEXP_Lion"
+	},
+	{
+		"abr": "lionpelt",
+		"price": -10,
+		"category": "Cuirs",
+		"defname": "AEXP_Leather_Lion"
+	},
+	{
+		"abr": "litdedalle",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "SlabBed"
+	},
+	{
+		"abr": "litdoublededalle",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "SlabDoubleBed"
+	},
+	{
+		"abr": "maingriffue",
+		"price": -10,
+		"category": "Prothèses",
+		"defname": "HandTalon"
+	},
+	{
+		"abr": "mainverte",
+		"price": -10,
+		"category": "Prothèses",
+		"defname": "FieldHand"
+	},
+	{
+		"abr": "mainecoon",
+		"price": 1250,
+		"category": "Animaux",
+		"defname": "AEXP_CatMaineCoon"
+	},
+	{
+		"abr": "mandrill",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "AEXP_Mandrill"
+	},
+	{
+		"abr": "marteaudeguerre",
+		"price": -10,
+		"category": "Armes de mêlée",
+		"defname": "MeleeWeapon_Warhammer"
+	},
+	{
+		"abr": "marteaudezeus",
+		"price": -10,
+		"category": "Armes de mêlée",
+		"defname": "MeleeWeapon_Zeushammer"
+	},
+	{
+		"abr": "marteaudezeusconscient",
+		"price": -10,
+		"category": "Armes intelligentes",
+		"defname": "MeleeWeapon_ZeusHammerBladelink"
+	},
+	{
+		"abr": "masque",
+		"price": -10,
+		"category": "Couvre-chefs",
+		"defname": "Apparel_VisageMask"
+	},
+	{
+		"abr": "meditrain(tm)table",
+		"price": -10,
+		"category": "Divers",
+		"defname": "IF_MeditrainTable"
+	},
+	{
+		"abr": "megascorpion",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "AEXP_Megascorpion"
+	},
+	{
+		"abr": "megawolverine",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "AEXP_MegaWolverine"
+	},
+	{
+		"abr": "moa",
+		"price": 750,
+		"category": "Animaux",
+		"defname": "AEXP_Moa"
+	},
+	{
+		"abr": "moaegg(fert.)",
+		"price": -10,
+		"category": "Œufs (fécondés)",
+		"defname": "AEXP_EggMoaFertilized"
+	},
+	{
+		"abr": "modificateurcorporel",
+		"price": -10,
+		"category": "Bioniques",
+		"defname": "AestheticShaper"
+	},
+	{
+		"abr": "modulemécanoïde",
+		"price": -10,
+		"category": "Spécial",
+		"defname": "Gloomlight"
+	},
+	{
+		"abr": "moose",
+		"price": 750,
+		"category": "Animaux",
+		"defname": "AEXP_Moose"
+	},
+	{
+		"abr": "munchkincat",
+		"price": 333,
+		"category": "Animaux",
+		"defname": "AEXP_CatMunchkin"
+	},
+	{
+		"abr": "muskox",
+		"price": 475,
+		"category": "Animaux",
+		"defname": "AEXP_Muskox"
+	},
+	{
+		"abr": "muskoxwool",
+		"price": -10,
+		"category": "Laines",
+		"defname": "AEXP_MuskOxWool"
+	},
+	{
+		"abr": "neurocalculateur",
+		"price": -10,
+		"category": "Bioniques",
+		"defname": "Neurocalculator"
+	},
+	{
+		"abr": "neuro-formateurpsychique",
+		"price": -10,
+		"category": "Archotech",
+		"defname": "PsychicAmplifier"
+	},
+	{
+		"abr": "nezesthétique",
+		"price": -10,
+		"category": "Bioniques",
+		"defname": "AestheticNose"
+	},
+	{
+		"abr": "norwegianforestcat",
+		"price": 333,
+		"category": "Animaux",
+		"defname": "AEXP_CatNorwegianForest"
+	},
+	{
+		"abr": "noyaudebouclier",
+		"price": -10,
+		"category": "Objets",
+		"defname": "BroadshieldCore"
+	},
+	{
+		"abr": "ordinateurdeciblage",
+		"price": -10,
+		"category": "Casques",
+		"defname": "Apparel_Gunlink"
+	},
+	{
+		"abr": "otter",
+		"price": 283,
+		"category": "Animaux",
+		"defname": "AEXP_Otter"
+	},
+	{
+		"abr": "packdebouclierbas",
+		"price": -10,
+		"category": "Utilitaires",
+		"defname": "Apparel_PackBroadshield"
+	},
+	{
+		"abr": "packdorsaux",
+		"price": -10,
+		"category": "Utilitaires",
+		"defname": "Apparel_PackJump"
+	},
+	{
+		"abr": "pendentif",
+		"price": 833,
+		"category": "Reliques inertes",
+		"defname": "RelicInertPendant"
+	},
+	{
+		"abr": "penguin",
+		"price": 200,
+		"category": "Animaux",
+		"defname": "AEXP_Penguin"
+	},
+	{
+		"abr": "penguinegg(fert.)",
+		"price": -10,
+		"category": "Œufs (fécondés)",
+		"defname": "AEXP_EggPenguinFertilized"
+	},
+	{
+		"abr": "persiancat",
+		"price": 333,
+		"category": "Animaux",
+		"defname": "AEXP_CatPersian"
+	},
+	{
+		"abr": "petitsanctuairedelanature",
+		"price": -10,
+		"category": "Divers",
+		"defname": "NatureShrine_Small"
+	},
+	{
+		"abr": "petitecouronne",
+		"price": -10,
+		"category": "Coiffure",
+		"defname": "Apparel_Coronet"
+	},
+	{
+		"abr": "piano",
+		"price": -10,
+		"category": "Détente",
+		"defname": "Piano"
+	},
+	{
+		"abr": "picdegenou",
+		"price": -10,
+		"category": "Prothèses",
+		"defname": "KneeSpike"
+	},
+	{
+		"abr": "pierred'animus",
+		"price": -10,
+		"category": "Divers",
+		"defname": "AnimusStone"
+	},
+	{
+		"abr": "pinnipedleather",
+		"price": -10,
+		"category": "Cuirs",
+		"defname": "AEXP_Leather_Pinniped"
+	},
+	{
+		"abr": "pinnipedmeat",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_AEXP_Seal"
+	},
+	{
+		"abr": "piqueàcrâne",
+		"price": -10,
+		"category": "Divers",
+		"defname": "Skullspike"
+	},
+	{
+		"abr": "plafonnier",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "GLCeilingLamp"
+	},
+	{
+		"abr": "plafonnier",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "CeilingLamp"
+	},
+	{
+		"abr": "plafonnier(bleu)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "GLCeilingLamp_Blue"
+	},
+	{
+		"abr": "plafonnier(bleu)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "CeilingLamp_Blue"
+	},
+	{
+		"abr": "plafonnier(jaune)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "GLCeilingLamp_Yellow"
+	},
+	{
+		"abr": "plafonnier(jaune)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "CeilingLamp_Yellow"
+	},
+	{
+		"abr": "plafonnier(orange)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "GLCeilingLamp_Orange"
+	},
+	{
+		"abr": "plafonnier(orange)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "CeilingLamp_Orange"
+	},
+	{
+		"abr": "plafonnier(rouge)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "GLCeilingLamp_Red"
+	},
+	{
+		"abr": "plafonnier(rouge)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "CeilingLamp_Red"
+	},
+	{
+		"abr": "plafonnier(vert)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "GLCeilingLamp_Green"
+	},
+	{
+		"abr": "plafonnier(vert)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "CeilingLamp_Green"
+	},
+	{
+		"abr": "plafonnier(violet)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "GLCeilingLamp_Violet"
+	},
+	{
+		"abr": "plafonnier(violet)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "CeilingLamp_Violet"
+	},
+	{
+		"abr": "platypus",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "AEXP_Platypus"
+	},
+	{
+		"abr": "platypusegg(fert.)",
+		"price": -10,
+		"category": "Œufs (fécondés)",
+		"defname": "AEXP_EggPlatypusFertilized"
+	},
+	{
+		"abr": "platypusleather",
+		"price": -10,
+		"category": "Cuirs",
+		"defname": "AEXP_Leather_Platypus"
+	},
+	{
+		"abr": "poignée",
+		"price": -10,
+		"category": "Reliques inertes",
+		"defname": "RelicInertSwordHandle"
+	},
+	{
+		"abr": "poodle",
+		"price": 417,
+		"category": "Animaux",
+		"defname": "AEXP_Poodle"
+	},
+	{
+		"abr": "porcupine",
+		"price": 200,
+		"category": "Animaux",
+		"defname": "AEXP_Porcupine"
+	},
+	{
+		"abr": "potdebonsaï",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "PlantPot_Bonsai"
+	},
+	{
+		"abr": "prestigieusearmuredecataphracte",
+		"price": -10,
+		"category": "Armures",
+		"defname": "Apparel_ArmorCataphractPrestige"
+	},
+	{
+		"abr": "prestigieusearmuredecommando",
+		"price": -10,
+		"category": "Armures",
+		"defname": "Apparel_ArmorMarinePrestige"
+	},
+	{
+		"abr": "prestigieusearmuredereconnaissance",
+		"price": -10,
+		"category": "Armures",
+		"defname": "Apparel_ArmorReconPrestige"
+	},
+	{
+		"abr": "prestigieuxcasquedecataphracte",
+		"price": -10,
+		"category": "Casques",
+		"defname": "Apparel_ArmorHelmetCataphractPrestige"
+	},
+	{
+		"abr": "prestigieuxcasquedecommando",
+		"price": -10,
+		"category": "Casques",
+		"defname": "Apparel_ArmorMarineHelmetPrestige"
+	},
+	{
+		"abr": "prestigieuxcasquedereconnaissance",
+		"price": -10,
+		"category": "Casques",
+		"defname": "Apparel_ArmorHelmetReconPrestige"
+	},
+	{
+		"abr": "primatemeat",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_AEXP_Gorilla"
+	},
+	{
+		"abr": "pug",
+		"price": 500,
+		"category": "Animaux",
+		"defname": "AEXP_Pug"
+	},
+	{
+		"abr": "pupitre",
+		"price": -10,
+		"category": "Divers",
+		"defname": "Lectern"
+	},
+	{
+		"abr": "quagga",
+		"price": 1250,
+		"category": "Animaux",
+		"defname": "AEXP_Quagga"
+	},
+	{
+		"abr": "rareinfuser",
+		"price": -10,
+		"category": "Infusers",
+		"defname": "Infusion_Infuser_Rare"
+	},
+	{
+		"abr": "rattlesnake",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "AEXP_Rattlesnake"
+	},
+	{
+		"abr": "rattlesnakeegg(fert.)",
+		"price": -10,
+		"category": "Œufs (fécondés)",
+		"defname": "AEXP_EggRattlesnakeFertilized"
+	},
+	{
+		"abr": "rattlesnakeegg(unfert.)",
+		"price": -10,
+		"category": "Œufs (non fécondés)",
+		"defname": "AEXP_EggRattlesnakeUnfertilized"
+	},
+	{
+		"abr": "rawfish",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "AEXP_RawFish"
+	},
+	{
+		"abr": "redpanda",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "AEXP_RedPanda"
+	},
+	{
+		"abr": "réfrigérateur",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "RimFridge_Refrigerator"
+	},
+	{
+		"abr": "réfrigérateurmuraldouble",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "RimFridge_WallRefrigerator"
+	},
+	{
+		"abr": "réfrigérateurmuralsimple",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "RimFridge_SingleWallRefrigerator"
+	},
+	{
+		"abr": "réservoiràfoin",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "LWM_Hayloft"
+	},
+	{
+		"abr": "rideaux",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Drape"
+	},
+	{
+		"abr": "robe",
+		"price": 297,
+		"category": "Vêtements",
+		"defname": "Apparel_Robe"
+	},
+	{
+		"abr": "robeeneltex",
+		"price": -10,
+		"category": "Vêtements",
+		"defname": "Apparel_PsyfocusRobe"
+	},
+	{
+		"abr": "robeprestigieuse",
+		"price": -10,
+		"category": "Vêtements nobles",
+		"defname": "Apparel_RobeRoyal"
+	},
+	{
+		"abr": "rockhopperpenguin",
+		"price": 200,
+		"category": "Animaux",
+		"defname": "AEXP_RockhopperPenguin"
+	},
+	{
+		"abr": "rockhopperpenguinegg(fert.)",
+		"price": -10,
+		"category": "Œufs (fécondés)",
+		"defname": "AEXP_EggRockhopperPenguinFertilized"
+	},
+	{
+		"abr": "rottweiler",
+		"price": 417,
+		"category": "Animaux",
+		"defname": "AEXP_Rottweiler"
+	},
+	{
+		"abr": "ruby",
+		"price": -10,
+		"category": "Ressources brutes",
+		"defname": "Ruby"
+	},
+	{
+		"abr": "sanctuaired'encens",
+		"price": -10,
+		"category": "Divers",
+		"defname": "IncenseShrine"
+	},
+	{
+		"abr": "sangled'esclave",
+		"price": -10,
+		"category": "Vêtements",
+		"defname": "Apparel_BodyStrap"
+	},
+	{
+		"abr": "sapphire",
+		"price": -10,
+		"category": "Ressources brutes",
+		"defname": "Sapphire"
+	},
+	{
+		"abr": "schématechnique(analysemoléculaire)",
+		"price": -10,
+		"category": "Schémas techniques",
+		"defname": "Techprint_MolecularAnalysis"
+	},
+	{
+		"abr": "schématechnique(armementcompact)",
+		"price": -10,
+		"category": "Schémas techniques",
+		"defname": "Techprint_CompactWeaponry"
+	},
+	{
+		"abr": "schématechnique(armuredecataphracte)",
+		"price": -10,
+		"category": "Schémas techniques",
+		"defname": "Techprint_CataphractArmor"
+	},
+	{
+		"abr": "schématechnique(câblageducerveau)",
+		"price": -10,
+		"category": "Schémas techniques",
+		"defname": "Techprint_BrainWiring"
+	},
+	{
+		"abr": "schématechnique(calculneuronal)",
+		"price": -10,
+		"category": "Schémas techniques",
+		"defname": "Techprint_NeuralComputation"
+	},
+	{
+		"abr": "schématechnique(façonnagedelachair)",
+		"price": -10,
+		"category": "Schémas techniques",
+		"defname": "Techprint_FleshShaping"
+	},
+	{
+		"abr": "schématechnique(facteursdeguérison)",
+		"price": -10,
+		"category": "Schémas techniques",
+		"defname": "Techprint_HealingFactors"
+	},
+	{
+		"abr": "schématechnique(influencecircadienne)",
+		"price": -10,
+		"category": "Schémas techniques",
+		"defname": "Techprint_CircadianInfluence"
+	},
+	{
+		"abr": "schématechnique(membresspécialisés)",
+		"price": -10,
+		"category": "Schémas techniques",
+		"defname": "Techprint_SpecializedLimbs"
+	},
+	{
+		"abr": "schématechnique(métabolismeartificiel)",
+		"price": -10,
+		"category": "Schémas techniques",
+		"defname": "Techprint_ArtificialMetabolism"
+	},
+	{
+		"abr": "schématechnique(packsdorsaux)",
+		"price": -10,
+		"category": "Schémas techniques",
+		"defname": "Techprint_JumpPack"
+	},
+	{
+		"abr": "schématechnique(renforcementdelapeau)",
+		"price": -10,
+		"category": "Schémas techniques",
+		"defname": "Techprint_SkinHardening"
+	},
+	{
+		"abr": "schématechnique(synthèsedepoison)",
+		"price": -10,
+		"category": "Schémas techniques",
+		"defname": "Techprint_VenomSynthesis"
+	},
+	{
+		"abr": "sculptureterrifiante",
+		"price": -10,
+		"category": "Art",
+		"defname": "SculptureTerror"
+	},
+	{
+		"abr": "seal",
+		"price": 333,
+		"category": "Animaux",
+		"defname": "AEXP_Seal"
+	},
+	{
+		"abr": "sensibilisateurpsychique",
+		"price": -10,
+		"category": "Archotech",
+		"defname": "PsychicSensitizer"
+	},
+	{
+		"abr": "shih-tzu",
+		"price": 500,
+		"category": "Animaux",
+		"defname": "AEXP_Shih-Tzu"
+	},
+	{
+		"abr": "siamesecat",
+		"price": 333,
+		"category": "Animaux",
+		"defname": "AEXP_CatSiamese"
+	},
+	{
+		"abr": "silverbracelet",
+		"price": -10,
+		"category": "Vêtements",
+		"defname": "Jewelry_Bracelet_Silver"
+	},
+	{
+		"abr": "silverearring",
+		"price": -10,
+		"category": "Vêtements",
+		"defname": "Jewelry_Earring_Silver"
+	},
+	{
+		"abr": "silvereltexnecklace",
+		"price": -10,
+		"category": "Vêtements",
+		"defname": "Jewelry_PsychicNecklace_Silver"
+	},
+	{
+		"abr": "silvernecklace",
+		"price": -10,
+		"category": "Vêtements",
+		"defname": "Jewelry_Necklace_Silver"
+	},
+	{
+		"abr": "silverring",
+		"price": -10,
+		"category": "Vêtements",
+		"defname": "Jewelry_Ring_Silver"
+	},
+	{
+		"abr": "solcannibale",
+		"price": -10,
+		"category": "Divers",
+		"defname": "CannibalPlatter"
+	},
+	{
+		"abr": "somalicat",
+		"price": 333,
+		"category": "Animaux",
+		"defname": "AEXP_CatSomali"
+	},
+	{
+		"abr": "sphynxcat",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "AEXP_CatSphynx"
+	},
+	{
+		"abr": "statueofcolonist",
+		"price": -10,
+		"category": "Art",
+		"defname": "TMB_StatueOfColonistK"
+	},
+	{
+		"abr": "sugegasa",
+		"price": -10,
+		"category": "Couvre-chefs",
+		"defname": "Apparel_Shadecone"
+	},
+	{
+		"abr": "tablecarréeenverre",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "GlassTableShort"
+	},
+	{
+		"abr": "tablederéparation",
+		"price": -10,
+		"category": "Production",
+		"defname": "TableMending"
+	},
+	{
+		"abr": "tablette",
+		"price": -10,
+		"category": "Reliques inertes",
+		"defname": "RelicInertTablet"
+	},
+	{
+		"abr": "tambour",
+		"price": 205,
+		"category": "Détente",
+		"defname": "Drum"
+	},
+	{
+		"abr": "tapir",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "AEXP_Tapir"
+	},
+	{
+		"abr": "tapisdeprière",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "KneelSheet"
+	},
+	{
+		"abr": "tapisrustique(grand)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "RusticRug_Broad"
+	},
+	{
+		"abr": "tapisrustique(moyen)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "RusticRug_Medium"
+	},
+	{
+		"abr": "tasmaniandevil",
+		"price": 750,
+		"category": "Animaux",
+		"defname": "AEXP_TasmanianDevil"
+	},
+	{
+		"abr": "télévisionenverre",
+		"price": -10,
+		"category": "Détente",
+		"defname": "GlassMonitorLarge"
+	},
+	{
+		"abr": "tenaillementale",
+		"price": -10,
+		"category": "Prothèses",
+		"defname": "Mindscrew"
+	},
+	{
+		"abr": "thylacine",
+		"price": 1083,
+		"category": "Animaux",
+		"defname": "AEXP_Thylacine"
+	},
+	{
+		"abr": "tiger",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "AEXP_Tiger"
+	},
+	{
+		"abr": "tigerleather",
+		"price": -10,
+		"category": "Cuirs",
+		"defname": "AEXP_Leather_Tiger"
+	},
+	{
+		"abr": "toqueavecqueue",
+		"price": -10,
+		"category": "Couvre-chefs",
+		"defname": "Apparel_Tailcap"
+	},
+	{
+		"abr": "trèsgrandeétagère",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "LWM_VeryBigShelf"
+	},
+	{
+		"abr": "trônedeméditation",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Throne"
+	},
+	{
+		"abr": "troussederéparation",
+		"price": -10,
+		"category": "Produits manufacturés",
+		"defname": "MendingKit"
+	},
+	{
+		"abr": "turban",
+		"price": 75,
+		"category": "Couvre-chefs",
+		"defname": "Apparel_Headwrap"
+	},
+	{
+		"abr": "uncommoninfuser",
+		"price": -10,
+		"category": "Infusers",
+		"defname": "Infusion_Infuser_Uncommon"
+	},
+	{
+		"abr": "verre",
+		"price": -10,
+		"category": "Produits manufacturés",
+		"defname": "Glass"
+	},
+	{
+		"abr": "verretrempé",
+		"price": -10,
+		"category": "Produits manufacturés",
+		"defname": "ReinforcedGlass"
+	},
+	{
+		"abr": "vesteeneltex",
+		"price": 833,
+		"category": "Vêtements",
+		"defname": "Apparel_PsyfocusVest"
+	},
+	{
+		"abr": "vianded'alligator",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_AEXP_Alligator"
+	},
+	{
+		"abr": "viandedebadger",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_AEXP_Badger"
+	},
+	{
+		"abr": "viandedeblack-footedferret",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_AEXP_BlackFootedFerret"
+	},
+	{
+		"abr": "viandedecheetah",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_AEXP_Cheetah"
+	},
+	{
+		"abr": "viandedecrocodile",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_AEXP_Crocodile"
+	},
+	{
+		"abr": "viandededryadeimmature",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_Dryad_Basic"
+	},
+	{
+		"abr": "viandedegiantpangolin",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_AEXP_Pangolin"
+	},
+	{
+		"abr": "viandedegiraffe",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_AEXP_Giraffe"
+	},
+	{
+		"abr": "viandedejaguar",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_AEXP_Jaguar"
+	},
+	{
+		"abr": "viandedekangaroo",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_AEXP_Kangaroo"
+	},
+	{
+		"abr": "viandedekoala",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_AEXP_Koala"
+	},
+	{
+		"abr": "viandedelion",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_AEXP_Lion"
+	},
+	{
+		"abr": "viandedemegawolverine",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_AEXP_MegaWolverine"
+	},
+	{
+		"abr": "viandedemoose",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_AEXP_Moose"
+	},
+	{
+		"abr": "viandedemuskox",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_AEXP_Muskox"
+	},
+	{
+		"abr": "viandedeplatypus",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_AEXP_Platypus"
+	},
+	{
+		"abr": "viandedeporcupine",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_AEXP_Porcupine"
+	},
+	{
+		"abr": "viandederedpanda",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_AEXP_RedPanda"
+	},
+	{
+		"abr": "viandedetasmaniandevil",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_AEXP_TasmanianDevil"
+	},
+	{
+		"abr": "viandedethylacine",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_AEXP_Thylacine"
+	},
+	{
+		"abr": "viandedetiger",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_AEXP_Tiger"
+	},
+	{
+		"abr": "vianded'hedgehog",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_AEXP_Hedgehog"
+	},
+	{
+		"abr": "vianded'hippopotamus",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_AEXP_Hippopotamus"
+	},
+	{
+		"abr": "vianded'hyena",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_AEXP_Hyena"
+	},
+	{
+		"abr": "vianded'otter",
+		"price": -10,
+		"category": "Viandes crues",
+		"defname": "Meat_AEXP_Otter"
+	},
+	{
+		"abr": "voile",
+		"price": 111,
+		"category": "Couvre-chefs",
+		"defname": "Apparel_Broadwrap"
+	},
+	{
+		"abr": "walldarklight",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "GLWallLampDark"
+	},
+	{
+		"abr": "walldarklight",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Lighting_MURWallLightDark"
+	},
+	{
+		"abr": "walllight",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Lighting_MURWallLight"
+	},
+	{
+		"abr": "walllight(azure)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Lighting_MURWallLightAzure"
+	},
+	{
+		"abr": "walllight(blue)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Lighting_MURWallLightBlue"
+	},
+	{
+		"abr": "walllight(chartreuse)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Lighting_MURWallLightChartreuse"
+	},
+	{
+		"abr": "walllight(cyan)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Lighting_MURWallLightCyan"
+	},
+	{
+		"abr": "walllight(green)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Lighting_MURWallLightGreen"
+	},
+	{
+		"abr": "walllight(magenta)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Lighting_MURWallLightMagenta"
+	},
+	{
+		"abr": "walllight(orange)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Lighting_MURWallLightOrange"
+	},
+	{
+		"abr": "walllight(red)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Lighting_MURWallLightRed"
+	},
+	{
+		"abr": "walllight(rose)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Lighting_MURWallLightRose"
+	},
+	{
+		"abr": "walllight(springgreen)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Lighting_MURWallLightSpringGreen"
+	},
+	{
+		"abr": "walllight(violet)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Lighting_MURWallLightViolet"
+	},
+	{
+		"abr": "walllight(yellow)",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Lighting_MURWallLightYellow"
+	},
+	{
+		"abr": "wallsunlight",
+		"price": -10,
+		"category": "Meubles",
+		"defname": "Lighting_MURWallSunLight"
+	},
+	{
+		"abr": "walrus",
+		"price": -10,
+		"category": "Animaux",
+		"defname": "AEXP_Walrus"
+	},
+	{
+		"abr": "walrustusk",
+		"price": -10,
+		"category": "Objets",
+		"defname": "AEXP_WalrusTusk"
+	}
+	],
+	"total": 824
 }
