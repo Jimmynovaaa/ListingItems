@@ -2059,6 +2059,104 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1
+    },
+    {
+      "description": "Timmy's reflexes are truly out of this world. They can parry melee attacks without any training and with luck even bullets.",
+      "stats": [
+        "+10.0 melee parry melee chance",
+        "+5.0 melee parry projectile chance",
+        "+10.0 probabilité d'esquiver en mêlée"
+      ],
+      "conflicts": [
+        "douillet"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Supreme Melee (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "douillet"
+        ],
+        "stats": [
+          "+10.0 melee parry melee chance",
+          "+5.0 melee parry projectile chance",
+          "+10.0 probabilité d'esquiver en mêlée"
+        ]
+      },
+      "defName": "SupremeMelee_QuickReflexes",
+      "name": "quickreflexes",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy's reflexes transcend common sense. They can easily parry melee attacks without any training and with a bit of luck even bullets.",
+      "stats": [
+        "+20.0 melee parry melee chance",
+        "+10.0 melee parry projectile chance",
+        "+20.0 probabilité d'esquiver en mêlée"
+      ],
+      "conflicts": [
+        "douillet"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Supreme Melee (Continued)",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "douillet"
+        ],
+        "stats": [
+          "+20.0 melee parry melee chance",
+          "+10.0 melee parry projectile chance",
+          "+20.0 probabilité d'esquiver en mêlée"
+        ]
+      },
+      "defName": "SupremeMelee_QuickReflexes",
+      "name": "transcendentreflexes",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2
+    },
+    {
+      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. il will prefer fishing above other activities.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Fishing Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VCEF_Fisherman",
+      "name": "fisherman",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
