@@ -115,9 +115,9 @@
   },
   {
     "author": "jecrell et contributors",
-    "name": "JecsTools (Unofficial)",
-    "steamId": "2195729899",
-    "version": "1.3.0.3"
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.3.0.4"
   },
   {
     "author": "EdB",
@@ -700,5 +700,17 @@
     "name": "Vanilla Furniture Expanded - Security",
     "steamId": "1845154007",
     "version": "1.1.1.0"
+  },
+  {
+    "author": "Gargamiel",
+    "name": "PokéWorld",
+    "steamId": "2652029657",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Holgast",
+    "name": "Pokeworld Enhancements",
+    "steamId": null,
+    "version": null
   }
 ]
