@@ -1864,7 +1864,7 @@
       "abr": "litpouranimaux",
       "category": "Meubles",
       "defname": "AnimalBed",
-      "price": 136
+      "price": -10
     },
     {
       "abr": "litroyal",
@@ -1888,7 +1888,7 @@
       "abr": "luciferium",
       "category": "Drogues",
       "defname": "Luciferium",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "lynx",
@@ -7746,18 +7746,1283 @@
       "defname": "PW_PokeBallBelt",
       "price": 284
     },
-    
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggBulbasaur",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggCharmander",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSquirtle",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggCaterpie",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggWeedle",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggPidgey",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggRattata",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSpearow",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggEkans",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSandshrew",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggNidoranF",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggNidoranM",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggVulpix",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggZubat",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggOddish",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggParas",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggVenonat",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggDiglett",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMeowth",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggPsyduck",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMankey",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggGrowlithe",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggPoliwag",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggAbra",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMachop",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggBellsprout",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggTentacool",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggGeodude",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggPonyta",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSlowpoke",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMagnemite",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggFarfetchd",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggDoduo",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSeel",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggGrimer",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggShellder",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggGastly",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggOnix",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggDrowzee",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggKrabby",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggVoltorb",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggExeggcute",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggCubone",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggLickitung",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggKoffing",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggRhyhorn",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggTangela",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggKangaskhan",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggHorsea",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggGoldeen",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggStaryu",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggScyther",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggPinsir",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggTauros",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMagikarp",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggLapras",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggEevee",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggPorygon",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggOmanyte",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggKabuto",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggAerodactyl",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggDratini",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggChikorita",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggCyndaquil",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggTotodile",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSentret",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggHoothoot",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggLedyba",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSpinarak",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggChinchou",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggPichu",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggCleffa",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggIgglybuff",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggTogepi",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggNatu",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMareep",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggHoppip",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggAipom",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSunkern",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggYanma",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggWooper",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMurkrow",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMisdreavus",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggGirafarig",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggPineco",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggDunsparce",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggGligar",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSnubbull",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggQwilfish",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggShuckle",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggHeracross",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSneasel",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggTeddiursa",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSlugma",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSwinub",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggCorsola",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggRemoraid",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggDelibird",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSkarmory",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggHoundour",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggPhanpy",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggStantler",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSmeargle",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggTyrogue",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSmoochum",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggElekid",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMagby",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMiltank",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggLarvitar",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggTreecko",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggTorchic",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMudkip",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggPoochyena",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggZigzagoon",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggWurmple",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggLotad",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSeedot",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggTaillow",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggWingull",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggRalts",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSurskit",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggShroomish",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSlakoth",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggNincada",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggWhismur",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMakuhita",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggAzurill",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggNosepass",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSkitty",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSableye",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMawile",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggAron",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMeditite",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggElectrike",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggPlusle",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMinun",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggVolbeat",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggIllumise",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggGulpin",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggCarvanha",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggWailmer",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggNumel",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggTorkoal",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSpoink",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSpinda",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggTrapinch",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggCacnea",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSwablu",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggZangoose",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSeviper",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggLunatone",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSolrock",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggBarboach",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggCorphish",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggBaltoy",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggLileep",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggAnorith",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggFeebas",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggCastform",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggKecleon",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggShuppet",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggDuskull",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggTropius",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggAbsol",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggWynaut",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSnorunt",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSpheal",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggClamperl",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggRelicanth",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggLuvdisc",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggBagon",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggBeldum",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggTurtwig",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggChimchar",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggPiplup",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggStarly",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggBidoof",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggKricketot",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggShinx",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggBudew",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggCranidos",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggShieldon",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggBurmy",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggCombee",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggPachirisu",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggBuizel",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggCherubi",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggShellos",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggDrifloon",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggBuneary",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggGlameow",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggChingling",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggStunky",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggBronzor",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggBonsly",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMimeJr",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggHappiny",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggChatot",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSpiritomb",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggGible",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMunchlax",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggRiolu",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggHippopotas",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSkorupi",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggCroagunk",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggCarnivine",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggFinneon",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggMantyke",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggSnover",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggRotom",
+      "price": -10
+    },
+    {
+      "abr": "pokémonegg",
+      "category": "Pokémon eggs",
+      "defname": "PW_EggPhione",
+      "price": -10
+    },
     {
       "abr": "pokémonmeat",
       "category": "Viandes crues",
       "defname": "Meat_PW_Bulbasaur",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "pokémonmeat",
       "category": "Viandes crues",
       "defname": "Meat_PW_Venusaur",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "politoed",
@@ -8777,157 +10042,157 @@
       "abr": "wingull",
       "category": "Animaux",
       "defname": "PW_Wingull",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "wobbuffet",
       "category": "Animaux",
       "defname": "PW_Wobbuffet",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "wooper",
       "category": "Animaux",
       "defname": "PW_Wooper",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "wormadam",
       "category": "Animaux",
       "defname": "PW_Wormadam",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "wurmple",
       "category": "Animaux",
       "defname": "PW_Wurmple",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "wynaut",
       "category": "Animaux",
       "defname": "PW_Wynaut",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "xatu",
       "category": "Animaux",
       "defname": "PW_Xatu",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "yanma",
       "category": "Animaux",
       "defname": "PW_Yanma",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "yanmega",
       "category": "Animaux",
       "defname": "PW_Yanmega",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "zangoose",
       "category": "Animaux",
       "defname": "PW_Zangoose",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "zapdos",
       "category": "Animaux",
       "defname": "PW_Zapdos",
-      "price": 1083
+      "price": -10
     },
     {
       "abr": "zigzagoon",
       "category": "Animaux",
       "defname": "PW_Zigzagoon",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "zubat",
       "category": "Animaux",
       "defname": "PW_Zubat",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "invitélit",
       "category": "Meubles",
       "defname": "BedGuest",
-      "price": 155
+      "price": -10
     },
     {
       "abr": "invitélitdouble",
       "category": "Meubles",
       "defname": "DoubleBedGuest",
-      "price": 292
+      "price": -10
     },
     {
       "abr": "invitélitroyal",
       "category": "Meubles",
       "defname": "RoyalBedGuest",
-      "price": 1467
+      "price": -10
     },
     {
       "abr": "invitélitmédicalisé",
       "category": "Meubles",
       "defname": "HospitalBedGuest",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "invitésacdecouchage",
       "category": "Meubles",
       "defname": "BedrollGuest",
-      "price": 137
+      "price": -10
     },
     {
       "abr": "invitésacdecouchagedouble",
       "category": "Meubles",
       "defname": "BedrollDoubleGuest",
-      "price": 290
+      "price": -10
     },
     {
       "abr": "invitélitdedalle",
       "category": "Meubles",
       "defname": "SlabBedGuest",
-      "price": 102
+      "price": -10
     },
     {
       "abr": "invitélitdoublededalle",
       "category": "Meubles",
       "defname": "SlabDoubleBedGuest",
-      "price": 288
+      "price": -10
     },
     {
       "abr": "invitéergonomicbed",
       "category": "Meubles",
       "defname": "Bed_ErgonomicGuest",
-      "price": 450
+      "price": -10
     },
     {
       "abr": "invitéergonomicdoublebed",
       "category": "Meubles",
       "defname": "Bed_DoubleErgonomicGuest",
-      "price": 867
+      "price": -10
     },
     {
       "abr": "invitéroyalposterbed",
       "category": "Meubles",
       "defname": "Bed_KingsizeGuest",
-      "price": 2008
+      "price": -10
     },
     {
       "abr": "invitéslabbed",
       "category": "Meubles",
       "defname": "Bed_StoneSlabGuest",
-      "price": 111
+      "price": -10
     },
     {
       "abr": "invitésimplebed",
       "category": "Meubles",
       "defname": "Bed_SimpleGuest",
-      "price": 137
+      "price": -10
     }
   ],
   "total": 1699
