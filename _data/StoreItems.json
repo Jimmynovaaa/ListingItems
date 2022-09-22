@@ -208,7 +208,7 @@
       "abr": "bangàbrûler",
       "category": "Divers",
       "defname": "Burnbong",
-      "price": -10
+      "price": 517
     },
     {
       "abr": "barildefermentation",
@@ -238,13 +238,13 @@
       "abr": "bière",
       "category": "Drogues",
       "defname": "Beer",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "bison",
       "category": "Animaux",
       "defname": "Bison",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "blocd'ardoise",
@@ -340,7 +340,7 @@
       "abr": "brasarchotech",
       "category": "Archotech",
       "defname": "ArchotechArm",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "brasbionique",
@@ -610,7 +610,7 @@
       "abr": "chocolat",
       "category": "Aliments",
       "defname": "Chocolate",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "cibleurorbitalmécanoïde",
@@ -622,7 +622,7 @@
       "abr": "clavecin",
       "category": "Détente",
       "defname": "Harpsichord",
-      "price": -10
+      "price": 692
     },
     {
       "abr": "coagulateur",
@@ -658,7 +658,7 @@
       "abr": "coeur",
       "category": "Naturelles",
       "defname": "Heart",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "cœurbionique",
@@ -1300,7 +1300,7 @@
       "abr": "foie",
       "category": "Naturelles",
       "defname": "Liver",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "foin",
@@ -1576,7 +1576,7 @@
       "abr": "harpe",
       "category": "Détente",
       "defname": "Harp",
-      "price": -10
+      "price": 408
     },
     {
       "abr": "haut-de-forme",
@@ -1654,7 +1654,7 @@
       "abr": "jambearchotech",
       "category": "Archotech",
       "defname": "ArchotechLeg",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "jambebionique",
@@ -1666,13 +1666,13 @@
       "abr": "jeudulancerdecailloux",
       "category": "Détente",
       "defname": "HoopstoneRing",
-      "price": -10
+      "price": 67
     },
     {
       "abr": "jointdesmokeleaf",
       "category": "Drogues",
       "defname": "SmokeleafJoint",
-      "price": -10
+      "price": 18
     },
     {
       "abr": "laboratoirechimique",
@@ -1888,7 +1888,7 @@
       "abr": "luciferium",
       "category": "Drogues",
       "defname": "Luciferium",
-      "price": -10
+      "price": 117
     },
     {
       "abr": "lynx",
@@ -2086,73 +2086,73 @@
       "abr": "neuro-entraîneur(agriculture)",
       "category": "Neuro-entraîneurs",
       "defname": "Neurotrainer_Plants",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "neuro-entraîneur(animaux)",
       "category": "Neuro-entraîneurs",
       "defname": "Neurotrainer_Animals",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "neuro-entraîneur(artisanat)",
       "category": "Neuro-entraîneurs",
       "defname": "Neurotrainer_Crafting",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "neuro-entraîneur(artiste)",
       "category": "Neuro-entraîneurs",
       "defname": "Neurotrainer_Artistic",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "neuro-entraîneur(construction)",
       "category": "Neuro-entraîneurs",
       "defname": "Neurotrainer_Construction",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "neuro-entraîneur(cuisine)",
       "category": "Neuro-entraîneurs",
       "defname": "Neurotrainer_Cooking",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "neuro-entraîneur(intellectuel)",
       "category": "Neuro-entraîneurs",
       "defname": "Neurotrainer_Intellectual",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "neuro-entraîneur(médecine)",
       "category": "Neuro-entraîneurs",
       "defname": "Neurotrainer_Medicine",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "neuro-entraîneur(mêlée)",
       "category": "Neuro-entraîneurs",
       "defname": "Neurotrainer_Melee",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "neuro-entraîneur(minage)",
       "category": "Neuro-entraîneurs",
       "defname": "Neurotrainer_Mining",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "neuro-entraîneur(sociabilité)",
       "category": "Neuro-entraîneurs",
       "defname": "Neurotrainer_Social",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "neuro-entraîneur(tir)",
       "category": "Neuro-entraîneurs",
       "defname": "Neurotrainer_Shooting",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "neuro-formateurpsychique",
@@ -2224,7 +2224,7 @@
       "abr": "œilarchotech",
       "category": "Archotech",
       "defname": "ArchotechEye",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "oeilbionique",
@@ -2332,7 +2332,7 @@
       "abr": "ordinateurdeciblage",
       "category": "Casques",
       "defname": "Apparel_Gunlink",
-      "price": -10
+      "price": 575
     },
     {
       "abr": "oreillebionique",
@@ -2374,31 +2374,31 @@
       "abr": "auxiliaryai(agricultural)",
       "category": "Archotech",
       "defname": "FarmerCore",
-      "price": -10
+      "price": 5833
     },
     {
       "abr": "auxiliaryai(constructing)",
       "category": "Archotech",
       "defname": "ConstructorCore",
-      "price": -10
+      "price": 5833
     },
     {
       "abr": "auxiliaryai(diplomatic)",
       "category": "Archotech",
       "defname": "DiplomatCore",
-      "price": -10
+      "price": 5833
     },
     {
       "abr": "auxiliaryai(medical)",
       "category": "Archotech",
       "defname": "DoctorCore",
-      "price": -10
+      "price": 5833
     },
     {
       "abr": "auxiliaryai(mining)",
       "category": "Archotech",
       "defname": "MinerCore",
-      "price": -10
+      "price": 5833
     },
     {
       "abr": "bandaged'oreille",
@@ -2416,7 +2416,7 @@
       "abr": "bras",
       "category": "Naturelles",
       "defname": "Arm",
-      "price": -10
+      "price": 2167
     },
     {
       "abr": "brasbioniqueavancé",
@@ -2548,7 +2548,7 @@
       "abr": "estomac",
       "category": "Naturelles",
       "defname": "Stomach",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "estomacartificiel",
@@ -2614,7 +2614,7 @@
       "abr": "jambe",
       "category": "Naturelles",
       "defname": "Leg",
-      "price": -10
+      "price": 2167
     },
     {
       "abr": "jambebioniqueavancée",
@@ -2644,7 +2644,7 @@
       "abr": "mâchoire",
       "category": "Naturelles",
       "defname": "Jaw",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "mâchoirebionique",
@@ -2704,7 +2704,7 @@
       "abr": "nez",
       "category": "Naturelles",
       "defname": "Nose",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "nezartificiel",
@@ -2716,7 +2716,7 @@
       "abr": "oeil",
       "category": "Naturelles",
       "defname": "Eye",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "oeilbioniqueavancé",
@@ -2740,7 +2740,7 @@
       "abr": "oreille",
       "category": "Naturelles",
       "defname": "Ear",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "oreillebioniqueavancée",
@@ -2890,7 +2890,7 @@
       "abr": "piano",
       "category": "Détente",
       "defname": "Piano",
-      "price": -10
+      "price": 1117
     },
     {
       "abr": "picdegenou",
@@ -2986,7 +2986,7 @@
       "abr": "piquetdeferàcheval",
       "category": "Détente",
       "defname": "HorseshoesPin",
-      "price": -10
+      "price": 34
     },
     {
       "abr": "pistoletautomatique",
@@ -3112,7 +3112,7 @@
       "abr": "poumon",
       "category": "Naturelles",
       "defname": "Lung",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "poumonartificiel",
@@ -3274,7 +3274,7 @@
       "abr": "rein",
       "category": "Naturelles",
       "defname": "Kidney",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "reinartificiel",
@@ -3580,13 +3580,13 @@
       "abr": "tacticalcorneaimplant",
       "category": "Archotech",
       "defname": "TacticalCorneaImplant",
-      "price": -10
+      "price": 4167
     },
     {
       "abr": "tambour",
       "category": "Détente",
       "defname": "Drum",
-      "price": -10
+      "price": 205
     },
     {
       "abr": "tapisdeprière",
@@ -3610,25 +3610,25 @@
       "abr": "télescope",
       "category": "Détente",
       "defname": "Telescope",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "télévisionàécrangéant",
       "category": "Détente",
       "defname": "MegascreenTelevision",
-      "price": -10
+      "price": 2475
     },
     {
       "abr": "télévisionàécranplat",
       "category": "Détente",
       "defname": "FlatscreenTelevision",
-      "price": -10
+      "price": 1533
     },
     {
       "abr": "télévisioncathodique",
       "category": "Détente",
       "defname": "TubeTelevision",
-      "price": -10
+      "price": 525
     },
     {
       "abr": "tenaillementale",
@@ -4072,73 +4072,73 @@
       "abr": "walllight(azure)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightAzure",
-      "price": -10
+      "price": 16
     },
     {
       "abr": "walllight(blue)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightBlue",
-      "price": -10
+      "price": 16
     },
     {
       "abr": "walllight(chartreuse)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightChartreuse",
-      "price": -10
+      "price": 16
     },
     {
       "abr": "walllight(cyan)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightCyan",
-      "price": -10
+      "price": 16
     },
     {
       "abr": "walllight(green)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightGreen",
-      "price": -10
+      "price": 16
     },
     {
       "abr": "walllight(magenta)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightMagenta",
-      "price": -10
+      "price": 16
     },
     {
       "abr": "walllight(orange)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightOrange",
-      "price": -10
+      "price": 16
     },
     {
       "abr": "walllight(red)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightRed",
-      "price": -10
+      "price": 16
     },
     {
       "abr": "walllight(rose)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightRose",
-      "price": -10
+      "price": 16
     },
     {
       "abr": "walllight(springgreen)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightSpringGreen",
-      "price": -10
+      "price": 16
     },
     {
       "abr": "walllight(violet)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightViolet",
-      "price": -10
+      "price": 16
     },
     {
       "abr": "walllight(yellow)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightYellow",
-      "price": -10
+      "price": 16
     },
     {
       "abr": "wallsunlight",
@@ -4294,7 +4294,7 @@
       "abr": "animalsbook",
       "category": "Books",
       "defname": "VBE_BookAnimals",
-      "price": -10
+      "price": 2258
     },
     {
       "abr": "apples",
@@ -4318,7 +4318,7 @@
       "abr": "artbook",
       "category": "Books",
       "defname": "VBE_BookArt",
-      "price": -10
+      "price": 2258
     },
     {
       "abr": "badger",
@@ -4456,13 +4456,13 @@
       "abr": "constructionbook",
       "category": "Books",
       "defname": "VBE_BookConstruction",
-      "price": -10
+      "price": 2258
     },
     {
       "abr": "cookingbook",
       "category": "Books",
       "defname": "VBE_BookCooking",
-      "price": -10
+      "price": 2258
     },
     {
       "abr": "corgi",
@@ -4486,7 +4486,7 @@
       "abr": "craftingbook",
       "category": "Books",
       "defname": "VBE_BookCrafting",
-      "price": -10
+      "price": 2258
     },
     {
       "abr": "crocodile",
@@ -4630,7 +4630,7 @@
       "abr": "growingbook",
       "category": "Books",
       "defname": "VBE_BookGrowing",
-      "price": -10
+      "price": 2258
     },
     {
       "abr": "hedgehog",
@@ -4666,13 +4666,13 @@
       "abr": "industrialradio",
       "category": "Détente",
       "defname": "Radio_Industrial",
-      "price": -10
+      "price": 433
     },
     {
       "abr": "intellectualbook",
       "category": "Books",
       "defname": "VBE_BookIntellectual",
-      "price": -10
+      "price": 2258
     },
     {
       "abr": "jaguar",
@@ -4726,7 +4726,7 @@
       "abr": "longwaveradio",
       "category": "Détente",
       "defname": "Radio_Spacer",
-      "price": -10
+      "price": 1033
     },
     {
       "abr": "mainecoon",
@@ -4750,7 +4750,7 @@
       "abr": "medicalbook",
       "category": "Books",
       "defname": "VBE_BookMedical",
-      "price": -10
+      "price": 2258
     },
     {
       "abr": "megascorpion",
@@ -4768,13 +4768,13 @@
       "abr": "meleebook",
       "category": "Books",
       "defname": "VBE_BookMelee",
-      "price": -10
+      "price": 2258
     },
     {
       "abr": "miningbook",
       "category": "Books",
       "defname": "VBE_BookMining",
-      "price": -10
+      "price": 2258
     },
     {
       "abr": "moa",
@@ -4792,7 +4792,7 @@
       "abr": "moderncomputer",
       "category": "Détente",
       "defname": "Joy_ModernComputer",
-      "price": -10
+      "price": 1100
     },
     {
       "abr": "modernlamp",
@@ -4828,7 +4828,7 @@
       "abr": "newspaper",
       "category": "Books",
       "defname": "VBE_Newspaper",
-      "price": -10
+      "price": 33
     },
     {
       "abr": "norwegianforestcat",
@@ -4840,7 +4840,7 @@
       "abr": "oldcomputer",
       "category": "Détente",
       "defname": "Joy_InudstrialComputer",
-      "price": -10
+      "price": 517
     },
     {
       "abr": "onions",
@@ -5134,7 +5134,7 @@
       "abr": "shootingbook",
       "category": "Books",
       "defname": "VBE_BookShooting",
-      "price": -10
+      "price": 2258
     },
     {
       "abr": "siamesecat",
@@ -5170,7 +5170,7 @@
       "abr": "socialbook",
       "category": "Books",
       "defname": "VBE_BookSocial",
-      "price": -10
+      "price": 2258
     },
     {
       "abr": "somalicat",
@@ -5482,7 +5482,7 @@
       "abr": "beartrap",
       "category": "Sécurité",
       "defname": "VFES_BearTrap",
-      "price": -10
+      "price": 236
     },
     {
       "abr": "chargeturret",
@@ -5500,7 +5500,7 @@
       "abr": "decoy",
       "category": "Sécurité",
       "defname": "VFES_Turret_Decoy",
-      "price": -10
+      "price": 140
     },
     {
       "abr": "deployableturret",
@@ -7162,13 +7162,13 @@
       "abr": "saiyanarmor",
       "category": "Armures",
       "defname": "SR_SaiyanBattleArmor",
-      "price": -10
+      "price": 1933
     },
     {
       "abr": "saiyanbattlearmor",
       "category": "Armures",
       "defname": "SR_SaiyanFullBattleArmor",
-      "price": -10
+      "price": 2900
     },
     {
       "abr": "saiyanboots",
@@ -7186,7 +7186,7 @@
       "abr": "saiyanpowerarmor",
       "category": "Armures",
       "defname": "SR_SaiyanPowerArmor",
-      "price": -10
+      "price": 6667
     },
     {
       "abr": "saiyanuniform",

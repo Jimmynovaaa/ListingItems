@@ -2422,7 +2422,7 @@
       },
       "description": "Un humain de souche, en grande partie épargné par l'ingénierie génétique et globalement peu altéré par la pression de l'évolution sur les planètes extraterrestres.",
       "defName": "Human",
-      "enabled": true,
+      "enabled": false,
       "name": "humain",
       "price": 1
     },
@@ -2446,7 +2446,7 @@
       "defName": "SR_SaiyanRace",
       "enabled": true,
       "name": "saiyan",
-      "price": 1
+      "price": 5000
     }
   ]
 }
