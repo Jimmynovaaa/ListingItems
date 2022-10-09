@@ -58,7 +58,7 @@
       "abr": "arbredenoël",
       "category": "Divers",
       "defname": "ChristmasTree",
-      "price": -10
+      "price": 263
     },
     {
       "abr": "arccomposite",
@@ -208,7 +208,7 @@
       "abr": "bangàbrûler",
       "category": "Divers",
       "defname": "Burnbong",
-      "price": 517
+      "price": -10
     },
     {
       "abr": "barildefermentation",
@@ -244,7 +244,7 @@
       "abr": "bison",
       "category": "Animaux",
       "defname": "Bison",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "blocd'ardoise",
@@ -292,7 +292,7 @@
       "abr": "bonnet",
       "category": "Couvre-chefs",
       "defname": "Apparel_Tuque",
-      "price": -10
+      "price": 74
     },
     {
       "abr": "bonneteneltex",
@@ -538,7 +538,7 @@
       "abr": "chapeaudecowboy",
       "category": "Couvre-chefs",
       "defname": "Apparel_CowboyHat",
-      "price": -10
+      "price": 94
     },
     {
       "abr": "chapeaudedames",
@@ -550,7 +550,7 @@
       "abr": "chapeaumelon",
       "category": "Couvre-chefs",
       "defname": "Apparel_BowlerHat",
-      "price": -10
+      "price": 77
     },
     {
       "abr": "chapeaupapierpsychique",
@@ -658,7 +658,7 @@
       "abr": "coeur",
       "category": "Naturelles",
       "defname": "Heart",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "cœurbionique",
@@ -949,180 +949,6 @@
       "price": -10
     },
     {
-      "abr": "entraîneurpsychique(arrosagemassif)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_Waterskip",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(attractiondecible)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_Beckon",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(bouclierdeprotection)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_BulletShield",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(concentration)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_Focus",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(décharged'échauffementneuronal)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_EntropyDump",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(écrandefumée)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_Smokepop",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(étourdissement)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_Stun",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(fardeau)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_Burden",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(foufurieux)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_Berserk",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(impulsionaveuglante)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_BlindingPulse",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(impulsiondechasseàl'homme)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_ManhunterPulse",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(impulsiondefoliefurieuse)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_BerserkPulse",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(inhibitiondeladouleur)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_Painblock",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(invisibilité)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_Invisibility",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(motd'amour)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_WordOfLove",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(motdeconfiance)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_WordOfTrust",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(motdejoie)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_WordOfJoy",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(motdesérénité)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_WordOfSerenity",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(motd'inspiration)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_WordOfInspiration",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(murdeterre)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_Wallraise",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(ondedéstabilisante)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_VertigoPulse",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(sautchaotique)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_ChaosSkip",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(sautdeblocs)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_Chunkskip",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(téléportationdisparatedemasse)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_MassChaosSkip",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(téléportation)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_Skip",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(tempêted'éclairs)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_Flashstorm",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(transportlointain)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_Farskip",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(tremblementpsychique)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_Neuroquake",
-      "price": -10
-    },
-    {
-      "abr": "entraîneurpsychique(troud'épinglesolaire)",
-      "category": "Psycho-entraîneurs",
-      "defname": "Psytrainer_SolarPinhole",
-      "price": -10
-    },
-    {
       "abr": "épéelongue",
       "category": "Armes de mêlée",
       "defname": "MeleeWeapon_LongSword",
@@ -1300,7 +1126,7 @@
       "abr": "foie",
       "category": "Naturelles",
       "defname": "Liver",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "foin",
@@ -1888,7 +1714,7 @@
       "abr": "luciferium",
       "category": "Drogues",
       "defname": "Luciferium",
-      "price": 117
+      "price": -10
     },
     {
       "abr": "lynx",
@@ -2332,7 +2158,7 @@
       "abr": "ordinateurdeciblage",
       "category": "Casques",
       "defname": "Apparel_Gunlink",
-      "price": 575
+      "price": -10
     },
     {
       "abr": "oreillebionique",
@@ -2374,31 +2200,31 @@
       "abr": "auxiliaryai(agricultural)",
       "category": "Archotech",
       "defname": "FarmerCore",
-      "price": 5833
+      "price": -10
     },
     {
       "abr": "auxiliaryai(constructing)",
       "category": "Archotech",
       "defname": "ConstructorCore",
-      "price": 5833
+      "price": -10
     },
     {
       "abr": "auxiliaryai(diplomatic)",
       "category": "Archotech",
       "defname": "DiplomatCore",
-      "price": 5833
+      "price": -10
     },
     {
       "abr": "auxiliaryai(medical)",
       "category": "Archotech",
       "defname": "DoctorCore",
-      "price": 5833
+      "price": -10
     },
     {
       "abr": "auxiliaryai(mining)",
       "category": "Archotech",
       "defname": "MinerCore",
-      "price": 5833
+      "price": -10
     },
     {
       "abr": "bandaged'oreille",
@@ -2416,7 +2242,7 @@
       "abr": "bras",
       "category": "Naturelles",
       "defname": "Arm",
-      "price": 2167
+      "price": -10
     },
     {
       "abr": "brasbioniqueavancé",
@@ -2548,7 +2374,7 @@
       "abr": "estomac",
       "category": "Naturelles",
       "defname": "Stomach",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "estomacartificiel",
@@ -2614,7 +2440,7 @@
       "abr": "jambe",
       "category": "Naturelles",
       "defname": "Leg",
-      "price": 2167
+      "price": -10
     },
     {
       "abr": "jambebioniqueavancée",
@@ -2644,7 +2470,7 @@
       "abr": "mâchoire",
       "category": "Naturelles",
       "defname": "Jaw",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "mâchoirebionique",
@@ -2704,7 +2530,7 @@
       "abr": "nez",
       "category": "Naturelles",
       "defname": "Nose",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "nezartificiel",
@@ -2716,7 +2542,7 @@
       "abr": "oeil",
       "category": "Naturelles",
       "defname": "Eye",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "oeilbioniqueavancé",
@@ -2740,7 +2566,7 @@
       "abr": "oreille",
       "category": "Naturelles",
       "defname": "Ear",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "oreillebioniqueavancée",
@@ -3112,7 +2938,7 @@
       "abr": "poumon",
       "category": "Naturelles",
       "defname": "Lung",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "poumonartificiel",
@@ -3274,7 +3100,7 @@
       "abr": "rein",
       "category": "Naturelles",
       "defname": "Kidney",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "reinartificiel",
@@ -4072,73 +3898,73 @@
       "abr": "walllight(azure)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightAzure",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "walllight(blue)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightBlue",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "walllight(chartreuse)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightChartreuse",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "walllight(cyan)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightCyan",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "walllight(green)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightGreen",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "walllight(magenta)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightMagenta",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "walllight(orange)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightOrange",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "walllight(red)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightRed",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "walllight(rose)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightRose",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "walllight(springgreen)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightSpringGreen",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "walllight(violet)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightViolet",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "walllight(yellow)",
       "category": "Meubles",
       "defname": "Lighting_MURWallLightYellow",
-      "price": 16
+      "price": -10
     },
     {
       "abr": "wallsunlight",
@@ -4306,7 +4132,7 @@
       "abr": "arcademachine",
       "category": "Détente",
       "defname": "Joy_Arcade",
-      "price": -10
+      "price": 650
     },
     {
       "abr": "arcticcoyote",
@@ -5240,7 +5066,7 @@
     },
     {
       "abr": "uprightpiano",
-      "category": "Meubles",
+      "category": "Détente",
       "defname": "Joy_Piano",
       "price": -10
     },
@@ -5482,7 +5308,7 @@
       "abr": "beartrap",
       "category": "Sécurité",
       "defname": "VFES_BearTrap",
-      "price": 236
+      "price": -10
     },
     {
       "abr": "chargeturret",
@@ -5551,267 +5377,9 @@
       "price": -10
     },
     {
-      "abr": "acanthamoebagigantea,huge",
-      "category": "Animaux",
-      "defname": "AA_AcanthamoebaGiganteaHuge",
-      "price": -10
-    },
-    {
-      "abr": "acanthamoebagigantea,large",
-      "category": "Animaux",
-      "defname": "AA_AcanthamoebaGiganteaLarge",
-      "price": -10
-    },
-    {
-      "abr": "acanthamoebagigantea,small",
-      "category": "Animaux",
-      "defname": "AA_AcanthamoebaGiganteaSmall",
-      "price": -10
-    },
-    {
       "abr": "advancedvest",
       "category": "Armures",
       "defname": "VAE_Apparel_AdvancedVest",
-      "price": -10
-    },
-    {
-      "abr": "aerofleet",
-      "category": "Animaux",
-      "defname": "AA_Aerofleet",
-      "price": -10
-    },
-    {
-      "abr": "aerofleetfur",
-      "category": "Cuirs",
-      "defname": "AA_Leather_Aerofleet",
-      "price": -10
-    },
-    {
-      "abr": "aerofleetmeat",
-      "category": "Viandes crues",
-      "defname": "AA_AerofleetMeat",
-      "price": -10
-    },
-    {
-      "abr": "agariluxrawfungus",
-      "category": "Végétaux",
-      "defname": "AA_AgariluxRawFungus",
-      "price": -10
-    },
-    {
-      "abr": "agaripawn",
-      "category": "Animaux",
-      "defname": "AA_Agaripawn",
-      "price": -10
-    },
-    {
-      "abr": "agaripawnsporeclump(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_AgaripawnSpores",
-      "price": -10
-    },
-    {
-      "abr": "agaripod",
-      "category": "Animaux",
-      "defname": "AA_Agaripod",
-      "price": -10
-    },
-    {
-      "abr": "agaripodsporeclump(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_AgaripodSpores",
-      "price": -10
-    },
-    {
-      "abr": "alienleather",
-      "category": "Cuirs",
-      "defname": "O21_AlienLeather_Thin",
-      "price": -10
-    },
-    {
-      "abr": "ambroisenarm",
-      "category": "Pièces simples",
-      "defname": "AmbroisenMedArm",
-      "price": -10
-    },
-    {
-      "abr": "ambroisenear",
-      "category": "Pièces simples",
-      "defname": "AmbroisenMedEar",
-      "price": -10
-    },
-    {
-      "abr": "ambroiseneye",
-      "category": "Pièces simples",
-      "defname": "AmbroisenMedEye",
-      "price": -10
-    },
-    {
-      "abr": "ambroisenfinger",
-      "category": "Pièces simples",
-      "defname": "AmbroisenMedFinger",
-      "price": -10
-    },
-    {
-      "abr": "ambroisenfoot",
-      "category": "Pièces simples",
-      "defname": "AmbroisenMedFoot",
-      "price": -10
-    },
-    {
-      "abr": "ambroisenhand",
-      "category": "Pièces simples",
-      "defname": "AmbroisenMedHand",
-      "price": -10
-    },
-    {
-      "abr": "ambroisenleg",
-      "category": "Pièces simples",
-      "defname": "AmbroisenMedLeg",
-      "price": -10
-    },
-    {
-      "abr": "ambroisennose",
-      "category": "Pièces simples",
-      "defname": "AmbroisenMedNose",
-      "price": -10
-    },
-    {
-      "abr": "ambroisentoe",
-      "category": "Pièces simples",
-      "defname": "AmbroisenMedToe",
-      "price": -10
-    },
-    {
-      "abr": "angelmoth",
-      "category": "Animaux",
-      "defname": "AA_AngelMoth",
-      "price": -10
-    },
-    {
-      "abr": "angelmothegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_AngelMothEggFertilized",
-      "price": -10
-    },
-    {
-      "abr": "angelmothlarva",
-      "category": "Animaux",
-      "defname": "AA_AngelMothLarva",
-      "price": -10
-    },
-    {
-      "abr": "animacolossus",
-      "category": "Animaux",
-      "defname": "AA_AnimaColossus",
-      "price": -10
-    },
-    {
-      "abr": "animalisk",
-      "category": "Animaux",
-      "defname": "AA_Animalisk",
-      "price": -10
-    },
-    {
-      "abr": "animaliskegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_AnimaliskEggFertilized",
-      "price": -10
-    },
-    {
-      "abr": "animusvox",
-      "category": "Animaux",
-      "defname": "AA_AnimusVox",
-      "price": -10
-    },
-    {
-      "abr": "arcticlion",
-      "category": "Animaux",
-      "defname": "AA_ArcticLion",
-      "price": -10
-    },
-    {
-      "abr": "arcticlionfur",
-      "category": "Cuirs",
-      "defname": "AA_ArcticLion_Leather",
-      "price": -10
-    },
-    {
-      "abr": "arcturanskyeel",
-      "category": "Animaux",
-      "defname": "AA_Skyeel",
-      "price": -10
-    },
-    {
-      "abr": "artificialarm",
-      "category": "Pièces simples",
-      "defname": "ArtificialMedArm",
-      "price": -10
-    },
-    {
-      "abr": "artificialear",
-      "category": "Pièces simples",
-      "defname": "ArtificialMedEar",
-      "price": -10
-    },
-    {
-      "abr": "artificialeye",
-      "category": "Pièces simples",
-      "defname": "ArtificialMedEye",
-      "price": -10
-    },
-    {
-      "abr": "artificialfinger",
-      "category": "Pièces simples",
-      "defname": "ArtificialMedFinger",
-      "price": -10
-    },
-    {
-      "abr": "artificialfoot",
-      "category": "Pièces simples",
-      "defname": "ArtificialMedFoot",
-      "price": -10
-    },
-    {
-      "abr": "artificialhand",
-      "category": "Pièces simples",
-      "defname": "ArtificialMedHand",
-      "price": -10
-    },
-    {
-      "abr": "artificialleg",
-      "category": "Pièces simples",
-      "defname": "ArtificialMedLeg",
-      "price": -10
-    },
-    {
-      "abr": "artificialnose",
-      "category": "Pièces simples",
-      "defname": "ArtificialMedNose",
-      "price": -10
-    },
-    {
-      "abr": "artificialtoe",
-      "category": "Pièces simples",
-      "defname": "ArtificialMedToe",
-      "price": -10
-    },
-    {
-      "abr": "atispec",
-      "category": "Animaux",
-      "defname": "AA_Atispec",
-      "price": -10
-    },
-    {
-      "abr": "atispecegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_AtispecEggFertilized",
-      "price": -10
-    },
-    {
-      "abr": "aurorasylph",
-      "category": "Animaux",
-      "defname": "AA_AuroraSylph",
       "price": -10
     },
     {
@@ -5821,153 +5389,9 @@
       "price": -10
     },
     {
-      "abr": "barbslinger",
-      "category": "Animaux",
-      "defname": "AA_Barbslinger",
-      "price": -10
-    },
-    {
-      "abr": "bedbug",
-      "category": "Animaux",
-      "defname": "AA_BedBug",
-      "price": -10
-    },
-    {
-      "abr": "bedbugegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_BedBugEggFertilized",
-      "price": -10
-    },
-    {
-      "abr": "bedbugegg(unfert.)",
-      "category": "Œufs (non fécondés)",
-      "defname": "AA_BedBugEggUnfertilized",
-      "price": -10
-    },
-    {
-      "abr": "blackhiveinsectjelly",
-      "category": "Produits animaliers",
-      "defname": "AA_BlackInsectJelly",
-      "price": -10
-    },
-    {
-      "abr": "blackinsectchitin",
-      "category": "Cuirs",
-      "defname": "Leather_BlackChitin",
-      "price": -10
-    },
-    {
-      "abr": "blackscarab",
-      "category": "Animaux",
-      "defname": "AA_BlackScarab",
-      "price": -10
-    },
-    {
-      "abr": "blackspelopede",
-      "category": "Animaux",
-      "defname": "AA_BlackSpelopede",
-      "price": -10
-    },
-    {
-      "abr": "blackspider",
-      "category": "Animaux",
-      "defname": "AA_BlackSpider",
-      "price": -10
-    },
-    {
-      "abr": "blizzarisk",
-      "category": "Animaux",
-      "defname": "AA_Blizzarisk",
-      "price": -10
-    },
-    {
-      "abr": "blizzariskclutchmother",
-      "category": "Animaux",
-      "defname": "AA_BlizzariskClutchMother",
-      "price": -10
-    },
-    {
-      "abr": "blizzariskegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_BlizzariskEggFertilized",
-      "price": -10
-    },
-    {
-      "abr": "blizzariskegg(unfert.)",
-      "category": "Œufs (non fécondés)",
-      "defname": "AA_BlizzariskEggUnfertilized",
-      "price": -10
-    },
-    {
-      "abr": "bloodshrimp",
-      "category": "Animaux",
-      "defname": "AA_BloodShrimp",
-      "price": -10
-    },
-    {
-      "abr": "bluegel",
-      "category": "Ressources brutes",
-      "defname": "AA_BlueGel",
-      "price": -10
-    },
-    {
-      "abr": "bluegelbattery",
-      "category": "Énergie",
-      "defname": "AA_BlueGelBattery",
-      "price": -10
-    },
-    {
-      "abr": "bluemilk",
-      "category": "Produits animaliers",
-      "defname": "AA_BlueMilk",
-      "price": -10
-    },
-    {
-      "abr": "bobeene",
-      "category": "Animaux",
-      "defname": "AA_Bobeene",
-      "price": -10
-    },
-    {
-      "abr": "bouldermit",
-      "category": "Animaux",
-      "defname": "AA_BoulderMit",
-      "price": -10
-    },
-    {
       "abr": "bulletproofvest",
       "category": "Armures",
       "defname": "VAE_Apparel_BulletproofVest",
-      "price": -10
-    },
-    {
-      "abr": "bumbledrone",
-      "category": "Animaux",
-      "defname": "AA_Bumbledrone",
-      "price": -10
-    },
-    {
-      "abr": "bumbledroneegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_BumbledroneQueenEggFertilized",
-      "price": -10
-    },
-    {
-      "abr": "bumbledronehierophant",
-      "category": "Animaux",
-      "defname": "AA_BumbledroneHierophant",
-      "price": -10
-    },
-    {
-      "abr": "bumbledronequeen",
-      "category": "Animaux",
-      "defname": "AA_BumbledroneQueen",
-      "price": -10
-    },
-    {
-      "abr": "cactipine",
-      "category": "Animaux",
-      "defname": "AA_Cactipine",
       "price": -10
     },
     {
@@ -5977,345 +5401,9 @@
       "price": -10
     },
     {
-      "abr": "chameleonyak",
-      "category": "Animaux",
-      "defname": "AA_ChameleonYak",
-      "price": -10
-    },
-    {
-      "abr": "chameleonyakwool,desert",
-      "category": "Laines",
-      "defname": "AA_ChameleonYakWoolDesert",
-      "price": -10
-    },
-    {
-      "abr": "chameleonyakwool,jungle",
-      "category": "Laines",
-      "defname": "AA_ChameleonYakWoolJungle",
-      "price": -10
-    },
-    {
-      "abr": "chameleonyakwool,temperate",
-      "category": "Laines",
-      "defname": "AA_ChameleonYakWoolTemperate",
-      "price": -10
-    },
-    {
-      "abr": "chameleonyakwool,winter",
-      "category": "Laines",
-      "defname": "AA_ChameleonYakWoolWinter",
-      "price": -10
-    },
-    {
-      "abr": "chargedblizzariskegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_BlizzariskSuperEggFertilized",
-      "price": -10
-    },
-    {
-      "abr": "chargeddunealiskegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_DunealiskSuperEggFertilized",
-      "price": -10
-    },
-    {
-      "abr": "chargedferaliskegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_FeraliskSuperEggFertilized",
-      "price": -10
-    },
-    {
-      "abr": "chemfuelmyrmidon",
-      "category": "Animaux",
-      "defname": "AA_ChemfuelMyrmidon",
-      "price": -10
-    },
-    {
       "abr": "chestplate",
       "category": "Armures",
       "defname": "VAE_Apparel_Chestplate",
-      "price": -10
-    },
-    {
-      "abr": "cinderlisk",
-      "category": "Animaux",
-      "defname": "AA_Cinderlisk",
-      "price": -10
-    },
-    {
-      "abr": "cinderliskegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_CinderliskEggFertilized",
-      "price": -10
-    },
-    {
-      "abr": "cinderliskegg(unfert.)",
-      "category": "Œufs (non fécondés)",
-      "defname": "AA_CinderliskEggUnfertilized",
-      "price": -10
-    },
-    {
-      "abr": "cindersilk",
-      "category": "Textiles",
-      "defname": "AA_CinderSilk",
-      "price": -10
-    },
-    {
-      "abr": "colossalaerofleet",
-      "category": "Animaux",
-      "defname": "AA_ColossalAerofleet",
-      "price": -10
-    },
-    {
-      "abr": "crabmeat",
-      "category": "Viandes crues",
-      "defname": "Meat_AA_BoulderMit",
-      "price": -10
-    },
-    {
-      "abr": "crepuscularbeetle",
-      "category": "Animaux",
-      "defname": "AA_CrepuscularBeetle",
-      "price": -10
-    },
-    {
-      "abr": "crepuscularbeetleegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_CrepuscularBeetleEggFertilized",
-      "price": -10
-    },
-    {
-      "abr": "crepuscularbeetleegg(unfert.)",
-      "category": "Œufs (non fécondés)",
-      "defname": "AA_CrepuscularBeetleEggUnfertilized",
-      "price": -10
-    },
-    {
-      "abr": "crescendoanole",
-      "category": "Animaux",
-      "defname": "AA_CrescendoAnole",
-      "price": -10
-    },
-    {
-      "abr": "crescendoanoleegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_EggCrescendoAnoleFertilized",
-      "price": -10
-    },
-    {
-      "abr": "crystallinecaracal",
-      "category": "Animaux",
-      "defname": "AA_CrystallineCaracal",
-      "price": -10
-    },
-    {
-      "abr": "crystalmit",
-      "category": "Animaux",
-      "defname": "AA_CrystalMit",
-      "price": -10
-    },
-    {
-      "abr": "darkmarbledsteak",
-      "category": "Viandes crues",
-      "defname": "Meat_AA_NightMule",
-      "price": -10
-    },
-    {
-      "abr": "darkbeast",
-      "category": "Animaux",
-      "defname": "AA_Darkbeast",
-      "price": -10
-    },
-    {
-      "abr": "decaydrake",
-      "category": "Animaux",
-      "defname": "AA_DecayDrake",
-      "price": -10
-    },
-    {
-      "abr": "desertave",
-      "category": "Animaux",
-      "defname": "AA_DesertAve",
-      "price": -10
-    },
-    {
-      "abr": "desertaveegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_EggDesertAveFertilized",
-      "price": -10
-    },
-    {
-      "abr": "devilsheep",
-      "category": "Animaux",
-      "defname": "AA_DevilSheep",
-      "price": -10
-    },
-    {
-      "abr": "disgustingnutrientpastemeal",
-      "category": "Plats",
-      "defname": "AA_DisgustingMealNutrientPaste",
-      "price": -10
-    },
-    {
-      "abr": "drainer",
-      "category": "Animaux",
-      "defname": "AA_Drainer",
-      "price": -10
-    },
-    {
-      "abr": "draineregg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_DrainerEggFertilized",
-      "price": -10
-    },
-    {
-      "abr": "drainerlarva",
-      "category": "Animaux",
-      "defname": "AA_DrainerLarva",
-      "price": -10
-    },
-    {
-      "abr": "dunealisk",
-      "category": "Animaux",
-      "defname": "AA_Dunealisk",
-      "price": -10
-    },
-    {
-      "abr": "dunealiskclutchmother",
-      "category": "Animaux",
-      "defname": "AA_DunealiskClutchMother",
-      "price": -10
-    },
-    {
-      "abr": "dunealiskegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_DunealiskEggFertilized",
-      "price": -10
-    },
-    {
-      "abr": "dunealiskegg(unfert.)",
-      "category": "Œufs (non fécondés)",
-      "defname": "AA_DunealiskEggUnfertilized",
-      "price": -10
-    },
-    {
-      "abr": "duskrat",
-      "category": "Animaux",
-      "defname": "AA_DuskRat",
-      "price": -10
-    },
-    {
-      "abr": "earpatch",
-      "category": "Pièces simples",
-      "defname": "EarPatch",
-      "price": -10
-    },
-    {
-      "abr": "empressbutterfly",
-      "category": "Animaux",
-      "defname": "AA_EmpressButterfly",
-      "price": -10
-    },
-    {
-      "abr": "empressbutterflyegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_EmpressButterflyEggFertilized",
-      "price": -10
-    },
-    {
-      "abr": "empressbutterflylarva",
-      "category": "Animaux",
-      "defname": "AA_EmpressButterflyLarva",
-      "price": -10
-    },
-    {
-      "abr": "engorgedtentacularaberration",
-      "category": "Animaux",
-      "defname": "AA_EngorgedTentacularAberration",
-      "price": -10
-    },
-    {
-      "abr": "erin",
-      "category": "Animaux",
-      "defname": "AA_Erin",
-      "price": -10
-    },
-    {
-      "abr": "eyeling",
-      "category": "Animaux",
-      "defname": "AA_Eyeling",
-      "price": -10
-    },
-    {
-      "abr": "feralisk",
-      "category": "Animaux",
-      "defname": "AA_Feralisk",
-      "price": -10
-    },
-    {
-      "abr": "feraliskclutchmother",
-      "category": "Animaux",
-      "defname": "AA_FeraliskClutchMother",
-      "price": -10
-    },
-    {
-      "abr": "feraliskegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_FeraliskEggFertilized",
-      "price": -10
-    },
-    {
-      "abr": "feraliskegg(unfert.)",
-      "category": "Œufs (non fécondés)",
-      "defname": "AA_FeraliskEggUnfertilized",
-      "price": -10
-    },
-    {
-      "abr": "fermentedrottingmound",
-      "category": "Végétaux",
-      "defname": "AA_RottingMoundItem",
-      "price": -10
-    },
-    {
-      "abr": "fermentingbarrel",
-      "category": "Production",
-      "defname": "BarrelProcessor",
-      "price": -10
-    },
-    {
-      "abr": "firewasp",
-      "category": "Animaux",
-      "defname": "AA_FireWasp",
-      "price": -10
-    },
-    {
-      "abr": "firewaspegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_FireWaspEggFertilized",
-      "price": -10
-    },
-    {
-      "abr": "firewaspegg(unfert.)",
-      "category": "Œufs (non fécondés)",
-      "defname": "AA_FireWaspEggUnfertilized",
-      "price": -10
-    },
-    {
-      "abr": "fissionmouse",
-      "category": "Animaux",
-      "defname": "AA_FissionMouse",
-      "price": -10
-    },
-    {
-      "abr": "fissionmouse,secondgeneration",
-      "category": "Animaux",
-      "defname": "AA_FissionMouseSecond",
-      "price": -10
-    },
-    {
-      "abr": "fissionmouse,thirdgeneration",
-      "category": "Animaux",
-      "defname": "AA_FissionMouseThird",
       "price": -10
     },
     {
@@ -6325,87 +5413,9 @@
       "price": -10
     },
     {
-      "abr": "flamingophoenix",
-      "category": "Animaux",
-      "defname": "AA_FlamingoPhoenix",
-      "price": -10
-    },
-    {
-      "abr": "flamingophoenixegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_EggFlamingoPhoenixFertilized",
-      "price": -10
-    },
-    {
-      "abr": "frostave",
-      "category": "Animaux",
-      "defname": "AA_FrostAve",
-      "price": -10
-    },
-    {
-      "abr": "frostlynx",
-      "category": "Animaux",
-      "defname": "AA_FrostLynx",
-      "price": -10
-    },
-    {
-      "abr": "frostboundbehemoth",
-      "category": "Animaux",
-      "defname": "AA_FrostboundBehemoth",
-      "price": -10
-    },
-    {
-      "abr": "frostling",
-      "category": "Animaux",
-      "defname": "AA_Frostling",
-      "price": -10
-    },
-    {
-      "abr": "frostmite",
-      "category": "Animaux",
-      "defname": "AA_Frostmite",
-      "price": -10
-    },
-    {
-      "abr": "fungalhusk",
-      "category": "Animaux",
-      "defname": "AA_FungalHusk",
-      "price": -10
-    },
-    {
-      "abr": "furryalienleather",
-      "category": "Cuirs",
-      "defname": "O21_AlienLeather_Furry",
-      "price": -10
-    },
-    {
-      "abr": "gallatross",
-      "category": "Animaux",
-      "defname": "AA_Gallatross",
-      "price": -10
-    },
-    {
-      "abr": "gallatrosshorn",
-      "category": "Objets",
-      "defname": "AA_GallatrossHorn",
-      "price": -10
-    },
-    {
-      "abr": "gallatrossleather",
-      "category": "Cuirs",
-      "defname": "Leather_Gallatross",
-      "price": -10
-    },
-    {
       "abr": "gambeson",
       "category": "Armures",
       "defname": "VAE_Apparel_Gambeson",
-      "price": -10
-    },
-    {
-      "abr": "genix",
-      "category": "Animaux",
-      "defname": "AA_Genix",
       "price": -10
     },
     {
@@ -6421,96 +5431,6 @@
       "price": -10
     },
     {
-      "abr": "gisuit",
-      "category": "Vêtements",
-      "defname": "SR_GiSuit",
-      "price": -10
-    },
-    {
-      "abr": "giantcrownedsilkie",
-      "category": "Animaux",
-      "defname": "AA_GiantCrownedSilkie",
-      "price": -10
-    },
-    {
-      "abr": "giantcrownedsilkieegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_EggGiantCrownedSilkieFertilized",
-      "price": -10
-    },
-    {
-      "abr": "giantcrownedsilkieegg(unfert.)",
-      "category": "Œufs (non fécondés)",
-      "defname": "AA_EggGiantCrownedSilkieUnfertilized",
-      "price": -10
-    },
-    {
-      "abr": "giantcrownedsilkiesilk",
-      "category": "Laines",
-      "defname": "AA_GiantCrownedSilkieSilk",
-      "price": -10
-    },
-    {
-      "abr": "gigantelope",
-      "category": "Animaux",
-      "defname": "AA_Gigantelope",
-      "price": -10
-    },
-    {
-      "abr": "gowmilk",
-      "category": "Produits animaliers",
-      "defname": "AA_GowMilk",
-      "price": -10
-    },
-    {
-      "abr": "greatdevourer",
-      "category": "Animaux",
-      "defname": "AA_GreatDevourer",
-      "price": -10
-    },
-    {
-      "abr": "greatdevoureregg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_GreatDevourerEggFertilized",
-      "price": -10
-    },
-    {
-      "abr": "greatdevoureregg(unfert.)",
-      "category": "Œufs (non fécondés)",
-      "defname": "AA_GreatDevourerEggUnfertilized",
-      "price": -10
-    },
-    {
-      "abr": "greengoo",
-      "category": "Animaux",
-      "defname": "AA_GreenGoo",
-      "price": -10
-    },
-    {
-      "abr": "grey-coatedmouflon",
-      "category": "Animaux",
-      "defname": "AA_GreyCoatedMouflon",
-      "price": -10
-    },
-    {
-      "abr": "grey-coatedmouflonwool",
-      "category": "Laines",
-      "defname": "AA_GreyCoatedMouflonWool",
-      "price": -10
-    },
-    {
-      "abr": "groundrunner",
-      "category": "Animaux",
-      "defname": "AA_Groundrunner",
-      "price": -10
-    },
-    {
-      "abr": "hardenedchitin",
-      "category": "Cuirs",
-      "defname": "Leather_RaptorPlates",
-      "price": -10
-    },
-    {
       "abr": "hazmathood",
       "category": "Casques",
       "defname": "VAE_Headgear_HAZMATMask",
@@ -6523,177 +5443,9 @@
       "price": -10
     },
     {
-      "abr": "helixien",
-      "category": "Animaux",
-      "defname": "AA_Helixien",
-      "price": -10
-    },
-    {
-      "abr": "hexagel",
-      "category": "Ressources brutes",
-      "defname": "AA_Hexagel",
-      "price": -10
-    },
-    {
-      "abr": "hexagelbattery",
-      "category": "Énergie",
-      "defname": "AA_HexaGelBattery",
-      "price": -10
-    },
-    {
-      "abr": "hexagelcore",
-      "category": "Produits manufacturés",
-      "defname": "AA_HexagelCore",
-      "price": -10
-    },
-    {
-      "abr": "hugeanimapearl",
-      "category": "Produits manufacturés",
-      "defname": "AA_HugeAnimaPearl",
-      "price": -10
-    },
-    {
-      "abr": "infectedaerofleet",
-      "category": "Animaux",
-      "defname": "AA_InfectedAerofleet",
-      "price": -10
-    },
-    {
-      "abr": "insectchitin",
-      "category": "Cuirs",
-      "defname": "Leather_Chitin",
-      "price": -10
-    },
-    {
-      "abr": "intricateear",
-      "category": "Pièces simples",
-      "defname": "MechanicalMedEar",
-      "price": -10
-    },
-    {
-      "abr": "intricateeye",
-      "category": "Pièces simples",
-      "defname": "MechanicalMedEye",
-      "price": -10
-    },
-    {
-      "abr": "intricatenose",
-      "category": "Pièces simples",
-      "defname": "MechanicalMedNose",
-      "price": -10
-    },
-    {
-      "abr": "ironarm",
-      "category": "Pièces simples",
-      "defname": "IronArm",
-      "price": -10
-    },
-    {
-      "abr": "ironchitin",
-      "category": "Cuirs",
-      "defname": "Leather_IronChitin",
-      "price": -10
-    },
-    {
-      "abr": "ironhuskbeetle",
-      "category": "Animaux",
-      "defname": "AA_IronhuskBeetle",
-      "price": -10
-    },
-    {
-      "abr": "ironhuskbeetleegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_IronhuskEggFertilized",
-      "price": -10
-    },
-    {
-      "abr": "ironhuskbeetleegg(unfert.)",
-      "category": "Œufs (non fécondés)",
-      "defname": "AA_IronhuskEggUnfertilized",
-      "price": -10
-    },
-    {
-      "abr": "junglelisk",
-      "category": "Animaux",
-      "defname": "AA_Junglelisk",
-      "price": -10
-    },
-    {
-      "abr": "jungleliskegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_JungleliskEggFertilized",
-      "price": -10
-    },
-    {
-      "abr": "jungleliskegg(unfert.)",
-      "category": "Œufs (non fécondés)",
-      "defname": "AA_JungleliskEggUnfertilized",
-      "price": -10
-    },
-    {
-      "abr": "kimask",
-      "category": "Couvre-chefs",
-      "defname": "SR_KiMask",
-      "price": -10
-    },
-    {
-      "abr": "larvalatispec",
-      "category": "Animaux",
-      "defname": "AA_LarvalAtispec",
-      "price": -10
-    },
-    {
       "abr": "lightplatearmor",
       "category": "Armures",
       "defname": "VAE_Apparel_LightPlateArmor",
-      "price": -10
-    },
-    {
-      "abr": "lionmeat",
-      "category": "Viandes crues",
-      "defname": "Meat_AA_ArcticLion",
-      "price": -10
-    },
-    {
-      "abr": "lizardmeat",
-      "category": "Viandes crues",
-      "defname": "Meat_AA_RoughPlatedMonitor",
-      "price": -10
-    },
-    {
-      "abr": "lockjaw",
-      "category": "Animaux",
-      "defname": "AA_Lockjaw",
-      "price": -10
-    },
-    {
-      "abr": "luciferbug",
-      "category": "Animaux",
-      "defname": "AA_LuciferBug",
-      "price": -10
-    },
-    {
-      "abr": "mammothworm",
-      "category": "Animaux",
-      "defname": "AA_MammothWorm",
-      "price": -10
-    },
-    {
-      "abr": "mammothwormegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_MammothWormEggFertilized",
-      "price": -10
-    },
-    {
-      "abr": "mammothwormegg(unfert.)",
-      "category": "Œufs (non fécondés)",
-      "defname": "AA_MammothWormEggUnfertilized",
-      "price": -10
-    },
-    {
-      "abr": "mantrap",
-      "category": "Animaux",
-      "defname": "AA_Mantrap",
       "price": -10
     },
     {
@@ -6709,267 +5461,9 @@
       "price": -10
     },
     {
-      "abr": "maturefleshbeast",
-      "category": "Animaux",
-      "defname": "AA_MatureFleshbeast",
-      "price": -10
-    },
-    {
-      "abr": "meadowave",
-      "category": "Animaux",
-      "defname": "AA_MeadowAve",
-      "price": -10
-    },
-    {
-      "abr": "meadowaveegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_EggMeadowAveFertilized",
-      "price": -10
-    },
-    {
-      "abr": "meadowavemeat",
-      "category": "Viandes crues",
-      "defname": "Meat_AA_MeadowAve",
-      "price": -10
-    },
-    {
-      "abr": "mechanicalarm",
-      "category": "Pièces simples",
-      "defname": "MechanicalMedArm",
-      "price": -10
-    },
-    {
-      "abr": "mechanicalfinger",
-      "category": "Pièces simples",
-      "defname": "MechanicalMedFinger",
-      "price": -10
-    },
-    {
-      "abr": "mechanicalfoot",
-      "category": "Pièces simples",
-      "defname": "MechanicalMedFoot",
-      "price": -10
-    },
-    {
-      "abr": "mechanicalhand",
-      "category": "Pièces simples",
-      "defname": "MechanicalMedHand",
-      "price": -10
-    },
-    {
-      "abr": "mechanicalleg",
-      "category": "Pièces simples",
-      "defname": "MechanicalMedLeg",
-      "price": -10
-    },
-    {
-      "abr": "mechanicaltoe",
-      "category": "Pièces simples",
-      "defname": "MechanicalMedToe",
-      "price": -10
-    },
-    {
-      "abr": "medicinalcactipinequill",
-      "category": "Médicaments",
-      "defname": "AA_CactipineQuill",
-      "price": -10
-    },
-    {
-      "abr": "medievalsaiyanarmor",
-      "category": "Armures",
-      "defname": "SR_MedievalSaiyanArmor",
-      "price": -10
-    },
-    {
-      "abr": "megalouse",
-      "category": "Animaux",
-      "defname": "AA_MegaLouse",
-      "price": -10
-    },
-    {
-      "abr": "megalouseegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_MegalouseEggFertilized",
-      "price": -10
-    },
-    {
-      "abr": "megalouseegg(unfert.)",
-      "category": "Œufs (non fécondés)",
-      "defname": "AA_MegalouseEggUnfertilized",
-      "price": -10
-    },
-    {
-      "abr": "metallovore",
-      "category": "Animaux",
-      "defname": "AA_Metallovore",
-      "price": -10
-    },
-    {
-      "abr": "mime",
-      "category": "Animaux",
-      "defname": "AA_Mime",
-      "price": -10
-    },
-    {
-      "abr": "moribundgallatross",
-      "category": "Animaux",
-      "defname": "AA_GallatrossMoribund",
-      "price": -10
-    },
-    {
-      "abr": "mothsilk",
-      "category": "Textiles",
-      "defname": "AA_MothSilk",
-      "price": -10
-    },
-    {
-      "abr": "mutantarm",
-      "category": "Teratogenic parts",
-      "defname": "AA_MutantArm",
-      "price": -10
-    },
-    {
-      "abr": "mutanteye",
-      "category": "Teratogenic parts",
-      "defname": "AA_MutantEye",
-      "price": -10
-    },
-    {
-      "abr": "mutantleg",
-      "category": "Teratogenic parts",
-      "defname": "AA_MutantLeg",
-      "price": -10
-    },
-    {
-      "abr": "mycoidcolossus",
-      "category": "Animaux",
-      "defname": "AA_MycoidColossus",
-      "price": -10
-    },
-    {
-      "abr": "mycoidcolossussporeclump(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_MycoidColossusSpores",
-      "price": -10
-    },
-    {
-      "abr": "needlepost",
-      "category": "Animaux",
-      "defname": "AA_Needlepost",
-      "price": -10
-    },
-    {
-      "abr": "needleroll",
-      "category": "Animaux",
-      "defname": "AA_Needleroll",
-      "price": -10
-    },
-    {
-      "abr": "nightave",
-      "category": "Animaux",
-      "defname": "AA_NightAve",
-      "price": -10
-    },
-    {
-      "abr": "nightaveegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_EggNightAveFertilized",
-      "price": -10
-    },
-    {
-      "abr": "nightleather",
-      "category": "Cuirs",
-      "defname": "Leather_Night",
-      "price": -10
-    },
-    {
-      "abr": "nightling",
-      "category": "Animaux",
-      "defname": "AA_Nightling",
-      "price": -10
-    },
-    {
-      "abr": "nightlingegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_EggNightlingFertilized",
-      "price": -10
-    },
-    {
-      "abr": "nightmule",
-      "category": "Animaux",
-      "defname": "AA_NightMule",
-      "price": -10
-    },
-    {
-      "abr": "nightram",
-      "category": "Animaux",
-      "defname": "AA_NightRam",
-      "price": -10
-    },
-    {
-      "abr": "ocularjelly",
-      "category": "Animaux",
-      "defname": "AA_OcularJelly",
-      "price": -10
-    },
-    {
-      "abr": "ocularjellymeat",
-      "category": "Viandes crues",
-      "defname": "AA_OcularJellyMeat",
-      "price": -10
-    },
-    {
-      "abr": "ocularnightling",
-      "category": "Animaux",
-      "defname": "AA_OcularNightling",
-      "price": -10
-    },
-    {
       "abr": "omni-spectrumgoggles",
       "category": "Casques",
       "defname": "VAE_Headgear_NightVisionGoggles",
-      "price": -10
-    },
-    {
-      "abr": "overgrowncolossus",
-      "category": "Animaux",
-      "defname": "AA_OvergrownColossus",
-      "price": -10
-    },
-    {
-      "abr": "pebblemit",
-      "category": "Animaux",
-      "defname": "AA_PebbleMit",
-      "price": -10
-    },
-    {
-      "abr": "pedigreedraptor",
-      "category": "Animaux",
-      "defname": "AA_PedigreedRaptor",
-      "price": -10
-    },
-    {
-      "abr": "pedigreedraptoregg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_EggPedigreedRaptorFertilized",
-      "price": -10
-    },
-    {
-      "abr": "phoenixowlcat",
-      "category": "Animaux",
-      "defname": "AA_PhoenixOwlcat",
-      "price": -10
-    },
-    {
-      "abr": "plantmeat",
-      "category": "Végétaux",
-      "defname": "AA_CactusMeat",
-      "price": -10
-    },
-    {
-      "abr": "plasmorph",
-      "category": "Animaux",
-      "defname": "AA_Plasmorph",
       "price": -10
     },
     {
@@ -7021,231 +5515,9 @@
       "price": -10
     },
     {
-      "abr": "prosthetichook",
-      "category": "Pièces simples",
-      "defname": "ProstheticHook",
-      "price": -10
-    },
-    {
       "abr": "quiltedvest",
       "category": "Armures",
       "defname": "VAE_Apparel_QuiltedVest",
-      "price": -10
-    },
-    {
-      "abr": "radyak",
-      "category": "Animaux",
-      "defname": "AA_Radyak",
-      "price": -10
-    },
-    {
-      "abr": "raptorshrimp",
-      "category": "Animaux",
-      "defname": "AA_RaptorShrimp",
-      "price": -10
-    },
-    {
-      "abr": "raptorshrimpflesh",
-      "category": "Viandes crues",
-      "defname": "Meat_AA_RaptorShrimp",
-      "price": -10
-    },
-    {
-      "abr": "ravager",
-      "category": "Animaux",
-      "defname": "AA_Ravager",
-      "price": -10
-    },
-    {
-      "abr": "rawredslime",
-      "category": "Végétaux",
-      "defname": "AB_RawRedSlime",
-      "price": -10
-    },
-    {
-      "abr": "ray-hound",
-      "category": "Animaux",
-      "defname": "AA_RayHound",
-      "price": -10
-    },
-    {
-      "abr": "razorjack",
-      "category": "Animaux",
-      "defname": "AA_Razorjack",
-      "price": -10
-    },
-    {
-      "abr": "redgoo",
-      "category": "Animaux",
-      "defname": "AA_RedGoo",
-      "price": -10
-    },
-    {
-      "abr": "redspore",
-      "category": "Animaux",
-      "defname": "AA_RedSpore",
-      "price": -10
-    },
-    {
-      "abr": "redwood",
-      "category": "Ressources brutes",
-      "defname": "GU_RedWood",
-      "price": -10
-    },
-    {
-      "abr": "rideaux(1x1)",
-      "category": "Constructions",
-      "defname": "HeronCurtainTribal",
-      "price": -10
-    },
-    {
-      "abr": "rideaux(2x1)",
-      "category": "Constructions",
-      "defname": "HeronCurtainTribalDouble",
-      "price": -10
-    },
-    {
-      "abr": "rideaux(3x1)",
-      "category": "Constructions",
-      "defname": "HeronCurtainTribalTriple",
-      "price": -10
-    },
-    {
-      "abr": "ripperhound",
-      "category": "Animaux",
-      "defname": "AA_RipperHound",
-      "price": -10
-    },
-    {
-      "abr": "rough-platedmonitor",
-      "category": "Animaux",
-      "defname": "AA_RoughPlatedMonitor",
-      "price": -10
-    },
-    {
-      "abr": "rough-platedmonitoregg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_EggRoughPlatedMonitorFertilized",
-      "price": -10
-    },
-    {
-      "abr": "royalave",
-      "category": "Animaux",
-      "defname": "AA_RoyalAve",
-      "price": -10
-    },
-    {
-      "abr": "royalaveegg(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_EggRoyalAveFertilized",
-      "price": -10
-    },
-    {
-      "abr": "saibamenbeanproducer",
-      "category": "Production",
-      "defname": "SR_SaibamenBeanProducer",
-      "price": -10
-    },
-    {
-      "abr": "saibamenseed",
-      "category": "Objets",
-      "defname": "SR_SaibamenSeed",
-      "price": -10
-    },
-    {
-      "abr": "saiyan",
-      "category": "Animal",
-      "defname": "SR_SaiyanRace",
-      "price": -10
-    },
-    {
-      "abr": "saiyanarmor",
-      "category": "Armures",
-      "defname": "SR_SaiyanBattleArmor",
-      "price": 1933
-    },
-    {
-      "abr": "saiyanbattlearmor",
-      "category": "Armures",
-      "defname": "SR_SaiyanFullBattleArmor",
-      "price": 2900
-    },
-    {
-      "abr": "saiyanboots",
-      "category": "Vêtements",
-      "defname": "SR_SaiyanBoots",
-      "price": -10
-    },
-    {
-      "abr": "saiyangloves",
-      "category": "Vêtements",
-      "defname": "SR_SaiyanGloves",
-      "price": -10
-    },
-    {
-      "abr": "saiyanpowerarmor",
-      "category": "Armures",
-      "defname": "SR_SaiyanPowerArmor",
-      "price": 6667
-    },
-    {
-      "abr": "saiyanuniform",
-      "category": "Vêtements",
-      "defname": "SR_SaiyanUniform",
-      "price": -10
-    },
-    {
-      "abr": "sandlion",
-      "category": "Animaux",
-      "defname": "AA_SandLion",
-      "price": -10
-    },
-    {
-      "abr": "sandlionfur",
-      "category": "Cuirs",
-      "defname": "AA_SandLion_Leather",
-      "price": -10
-    },
-    {
-      "abr": "sandprowler",
-      "category": "Animaux",
-      "defname": "AA_SandProwler",
-      "price": -10
-    },
-    {
-      "abr": "sandsquid",
-      "category": "Animaux",
-      "defname": "AA_SandSquid",
-      "price": -10
-    },
-    {
-      "abr": "scaledalienleather",
-      "category": "Cuirs",
-      "defname": "O21_AlienLeather_Scaled",
-      "price": -10
-    },
-    {
-      "abr": "scouter(green)",
-      "category": "Casques",
-      "defname": "SR_Apparel_ScouterGreen",
-      "price": -10
-    },
-    {
-      "abr": "scouter(red)",
-      "category": "Casques",
-      "defname": "SR_Apparel_ScouterRed",
-      "price": -10
-    },
-    {
-      "abr": "sentientplantskin",
-      "category": "Cuirs",
-      "defname": "Leather_Cactus",
-      "price": -10
-    },
-    {
-      "abr": "shockgoat",
-      "category": "Animaux",
-      "defname": "AA_ShockGoat",
       "price": -10
     },
     {
@@ -7261,141 +5533,9 @@
       "price": -10
     },
     {
-      "abr": "skiphound",
-      "category": "Animaux",
-      "defname": "AA_Skiphound",
-      "price": -10
-    },
-    {
-      "abr": "skysteel",
-      "category": "Ressources brutes",
-      "defname": "AA_SkySteel",
-      "price": -10
-    },
-    {
-      "abr": "slugmeat",
-      "category": "Viandes crues",
-      "defname": "Meat_AA_Helixien",
-      "price": -10
-    },
-    {
-      "abr": "slurrypede",
-      "category": "Animaux",
-      "defname": "AA_Slurrypede",
-      "price": -10
-    },
-    {
-      "abr": "spinedgow",
-      "category": "Animaux",
-      "defname": "AA_SpinedGow",
-      "price": -10
-    },
-    {
-      "abr": "squidmeat",
-      "category": "Viandes crues",
-      "defname": "Meat_AA_SandSquid",
-      "price": -10
-    },
-    {
       "abr": "stonewarmask",
       "category": "Casques",
       "defname": "VAE_Headgear_StoneWarMask",
-      "price": -10
-    },
-    {
-      "abr": "summitcrab",
-      "category": "Animaux",
-      "defname": "AA_SummitCrab",
-      "price": -10
-    },
-    {
-      "abr": "swarmling",
-      "category": "Animaux",
-      "defname": "AA_Swarmling",
-      "price": -10
-    },
-    {
-      "abr": "targuzzler",
-      "category": "Animaux",
-      "defname": "AA_TarGuzzler",
-      "price": -10
-    },
-    {
-      "abr": "teratogenicoriginator",
-      "category": "Animaux",
-      "defname": "AA_TeratogenicOriginator",
-      "price": -10
-    },
-    {
-      "abr": "terramorph",
-      "category": "Animaux",
-      "defname": "AA_Terramorph",
-      "price": -10
-    },
-    {
-      "abr": "tetraslug",
-      "category": "Animaux",
-      "defname": "AA_TetraSlug",
-      "price": -10
-    },
-    {
-      "abr": "theheuristiceye",
-      "category": "Teratogenic parts",
-      "defname": "AA_TheHeuristicEye",
-      "price": -10
-    },
-    {
-      "abr": "themeretriciouseye",
-      "category": "Teratogenic parts",
-      "defname": "AA_TheMeretriciousEye",
-      "price": -10
-    },
-    {
-      "abr": "thenumbingeye",
-      "category": "Teratogenic parts",
-      "defname": "AA_TheNumbingEye",
-      "price": -10
-    },
-    {
-      "abr": "theomniscienteye",
-      "category": "Teratogenic parts",
-      "defname": "AA_TheOmniscientEye",
-      "price": -10
-    },
-    {
-      "abr": "thequiescenteye",
-      "category": "Teratogenic parts",
-      "defname": "AA_TheQuiescentEye",
-      "price": -10
-    },
-    {
-      "abr": "therecalcitranteye",
-      "category": "Teratogenic parts",
-      "defname": "AA_TheRecalcitrantEye",
-      "price": -10
-    },
-    {
-      "abr": "thespasmodiceye",
-      "category": "Teratogenic parts",
-      "defname": "AA_TheSpasmodicEye",
-      "price": -10
-    },
-    {
-      "abr": "thermadon",
-      "category": "Animaux",
-      "defname": "AA_Thermadon",
-      "price": -10
-    },
-    {
-      "abr": "thickalienleather",
-      "category": "Cuirs",
-      "defname": "O21_AlienLeather_Thick",
-      "price": -10
-    },
-    {
-      "abr": "thunderbeast",
-      "category": "Animaux",
-      "defname": "AA_Thunderbeast",
       "price": -10
     },
     {
@@ -7411,172 +5551,5284 @@
       "price": -10
     },
     {
-      "abr": "unblinkingeye",
-      "category": "Animaux",
-      "defname": "AA_UnblinkingEye",
-      "price": -10
-    },
-    {
-      "abr": "unrefineduraniumcrystals",
-      "category": "Ressources brutes",
-      "defname": "AA_UraniumCrystals",
-      "price": -10
-    },
-    {
-      "abr": "vianded'arcturanskyeel",
-      "category": "Viandes crues",
-      "defname": "Meat_AA_Skyeel",
-      "price": -10
-    },
-    {
-      "abr": "vianded'atispec",
-      "category": "Viandes crues",
-      "defname": "Meat_AA_Atispec",
-      "price": -10
-    },
-    {
-      "abr": "viandededevilsheep",
-      "category": "Viandes crues",
-      "defname": "Meat_AA_DevilSheep",
-      "price": -10
-    },
-    {
-      "abr": "viandedefrostling",
-      "category": "Viandes crues",
-      "defname": "Meat_AA_Frostling",
-      "price": -10
-    },
-    {
-      "abr": "viandedegallatross",
-      "category": "Viandes crues",
-      "defname": "Meat_AA_Gallatross",
-      "price": -10
-    },
-    {
-      "abr": "viandedegigantelope",
-      "category": "Viandes crues",
-      "defname": "Meat_AA_Gigantelope",
-      "price": -10
-    },
-    {
-      "abr": "viandedegroundrunner",
-      "category": "Viandes crues",
-      "defname": "Meat_AA_Groundrunner",
-      "price": -10
-    },
-    {
-      "abr": "viandedenightling",
-      "category": "Viandes crues",
-      "defname": "Meat_AA_Nightling",
-      "price": -10
-    },
-    {
-      "abr": "viandederazorjack",
-      "category": "Viandes crues",
-      "defname": "Meat_AA_Razorjack",
-      "price": -10
-    },
-    {
-      "abr": "viandederipperhound",
-      "category": "Viandes crues",
-      "defname": "Meat_AA_RipperHound",
-      "price": -10
-    },
-    {
-      "abr": "viandedesaibamen",
-      "category": "Viandes crues",
-      "defname": "Meat_SR_Saibamen",
-      "price": -10
-    },
-    {
-      "abr": "viandedesaiyan",
-      "category": "Viandes crues",
-      "defname": "Meat_SR_SaiyanRace",
-      "price": -10
-    },
-    {
-      "abr": "vianded'overgrowncolossus",
-      "category": "Viandes crues",
-      "defname": "Meat_AA_OvergrownColossus",
-      "price": -10
-    },
-    {
-      "abr": "waywardmobileassembler",
-      "category": "Animal",
-      "defname": "AA_WaywardMobileAssembler",
-      "price": -10
-    },
-    {
-      "abr": "weightedgisuit",
-      "category": "Vêtements",
-      "defname": "SR_WeightedGiSuit",
-      "price": -10
-    },
-    {
-      "abr": "weightedwristband",
-      "category": "Vêtements",
-      "defname": "SR_WeightedWristBand",
-      "price": -10
-    },
-    {
-      "abr": "wildpawn",
-      "category": "Animaux",
-      "defname": "AA_Wildpawn",
-      "price": -10
-    },
-    {
-      "abr": "wildpawnsporeclump(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_WildpawnSpores",
-      "price": -10
-    },
-    {
-      "abr": "wildpod",
-      "category": "Animaux",
-      "defname": "AA_Wildpod",
-      "price": -10
-    },
-    {
-      "abr": "wildpodsporeclump(fert.)",
-      "category": "Œufs (fécondés)",
-      "defname": "AA_WildpodSpores",
-      "price": -10
-    },
-    {
-      "abr": "windbeast",
-      "category": "Animaux",
-      "defname": "AA_WindBeast",
-      "price": -10
-    },
-    {
       "abr": "woodenarmor",
       "category": "Armures",
       "defname": "VAE_Apparel_WoodenArmor",
       "price": -10
     },
     {
-      "abr": "woodenfinger",
-      "category": "Pièces simples",
-      "defname": "WoodenFinger",
+      "abr": "advancedassembler",
+      "category": "Production",
+      "defname": "VFEM_ElectronicsFabricationFactory_AdvancedAssembler",
       "price": -10
     },
     {
-      "abr": "woodennose",
-      "category": "Pièces simples",
-      "defname": "WoodenNose",
+      "abr": "advancedbattery",
+      "category": "Énergie",
+      "defname": "VFE_AdvancedBattery",
       "price": -10
     },
     {
-      "abr": "woodentoe",
-      "category": "Pièces simples",
-      "defname": "WoodenToe",
+      "abr": "advancedbed",
+      "category": "Meubles",
+      "defname": "Bed_AdvBed",
       "price": -10
     },
     {
-      "abr": "yadratarmor",
+      "abr": "advancedchair",
+      "category": "Meubles",
+      "defname": "Seat_AdvChair",
+      "price": -10
+    },
+    {
+      "abr": "advanceddoublebed",
+      "category": "Meubles",
+      "defname": "Bed_AdvDoubleBed",
+      "price": -10
+    },
+    {
+      "abr": "advancedinfernocannon",
+      "category": "Armes à distance",
+      "defname": "VFE_Gun_AdvancedInfernoCannon",
+      "price": -10
+    },
+    {
+      "abr": "advancedinfernospewer",
+      "category": "Armes à distance",
+      "defname": "VFE_Gun_AdvancedInfernoSpewer",
+      "price": -10
+    },
+    {
+      "abr": "agavenectar",
+      "category": "Condiments",
+      "defname": "VCE_AgaveNectar",
+      "price": -10
+    },
+    {
+      "abr": "ambrandy(awful)",
+      "category": "Drogues",
+      "defname": "VBE_AmbrandyAwful",
+      "price": -10
+    },
+    {
+      "abr": "ambrandy(excellent)",
+      "category": "Drogues",
+      "defname": "VBE_AmbrandyExcellent",
+      "price": -10
+    },
+    {
+      "abr": "ambrandy(good)",
+      "category": "Drogues",
+      "defname": "VBE_AmbrandyGood",
+      "price": -10
+    },
+    {
+      "abr": "ambrandy(legendary)",
+      "category": "Drogues",
+      "defname": "VBE_AmbrandyLegendary",
+      "price": -10
+    },
+    {
+      "abr": "ambrandy(masterwork)",
+      "category": "Drogues",
+      "defname": "VBE_AmbrandyMasterwork",
+      "price": -10
+    },
+    {
+      "abr": "ambrandy(normal)",
+      "category": "Drogues",
+      "defname": "VBE_AmbrandyNormal",
+      "price": -10
+    },
+    {
+      "abr": "ambrandy(poor)",
+      "category": "Drogues",
+      "defname": "VBE_AmbrandyPoor",
+      "price": -10
+    },
+    {
+      "abr": "ambrandydistillery",
+      "category": "Production",
+      "defname": "VBE_AmbrandyDistillery",
+      "price": -10
+    },
+    {
+      "abr": "ambrandymust",
+      "category": "Musts and syrups",
+      "defname": "VBE_AmbrandyMust",
+      "price": -10
+    },
+    {
+      "abr": "ambrosiamush",
+      "category": "Musts and syrups",
+      "defname": "VBE_AmbrandyMush",
+      "price": -10
+    },
+    {
+      "abr": "amulet",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertAmulet",
+      "price": -10
+    },
+    {
+      "abr": "anchovy",
+      "category": "Raw fish",
+      "defname": "VCEF_RawAnchovy",
+      "price": -10
+    },
+    {
+      "abr": "angelfish",
+      "category": "Raw fish",
+      "defname": "VCEF_RawAngelfish",
+      "price": -10
+    },
+    {
+      "abr": "anglerfish",
+      "category": "Raw fish",
+      "defname": "VCEF_RawAnglerfish",
+      "price": -10
+    },
+    {
+      "abr": "animalfeeder",
+      "category": "Meubles",
+      "defname": "VFE_AnimalFeeder",
+      "price": -10
+    },
+    {
+      "abr": "anti-materialrifle",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_AntiMaterialRifle",
+      "price": -10
+    },
+    {
+      "abr": "antlers",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertAntlers",
+      "price": -10
+    },
+    {
+      "abr": "apiary",
+      "category": "Divers",
+      "defname": "VFEV_Apiary",
+      "price": 318
+    },
+    {
+      "abr": "applique",
+      "category": "Meubles",
+      "defname": "GLWallLamp",
+      "price": -10
+    },
+    {
+      "abr": "applique",
+      "category": "Meubles",
+      "defname": "WallLamp",
+      "price": -10
+    },
+    {
+      "abr": "applique(bleu)",
+      "category": "Meubles",
+      "defname": "GLWallLamp_Blue",
+      "price": -10
+    },
+    {
+      "abr": "applique(jaune)",
+      "category": "Meubles",
+      "defname": "GLWallLamp_Yellow",
+      "price": -10
+    },
+    {
+      "abr": "applique(orange)",
+      "category": "Meubles",
+      "defname": "GLWallLamp_Orange",
+      "price": -10
+    },
+    {
+      "abr": "applique(rouge)",
+      "category": "Meubles",
+      "defname": "GLWallLamp_Red",
+      "price": -10
+    },
+    {
+      "abr": "applique(vert)",
+      "category": "Meubles",
+      "defname": "GLWallLamp_Green",
+      "price": -10
+    },
+    {
+      "abr": "applique(violet)",
+      "category": "Meubles",
+      "defname": "GLWallLamp_Violet",
+      "price": -10
+    },
+    {
+      "abr": "apron",
+      "category": "Vêtements",
+      "defname": "VAE_Apparel_Apron",
+      "price": -10
+    },
+    {
+      "abr": "aquaponicsbasin",
+      "category": "Production",
+      "defname": "VFEM_AquaponicsBasin",
+      "price": -10
+    },
+    {
+      "abr": "archerytarget",
+      "category": "Détente",
+      "defname": "VFEM_ArcheryTarget",
+      "price": 41
+    },
+    {
+      "abr": "archotechsculpture",
+      "category": "Art",
+      "defname": "VFE_ArchotechSculpture",
+      "price": -10
+    },
+    {
+      "abr": "archotechviolencegenerator",
+      "category": "Spécial",
+      "defname": "VPE_ArchotechViolenceGenerator",
+      "price": -10
+    },
+    {
+      "abr": "artilleryfoundry",
+      "category": "Production",
+      "defname": "VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry",
+      "price": -10
+    },
+    {
+      "abr": "atelierdeverre(combustiblechimique)",
+      "category": "Production",
+      "defname": "FueledGlassworkTable",
+      "price": -10
+    },
+    {
+      "abr": "atelierdeverre(électricité)",
+      "category": "Production",
+      "defname": "GlassworkTable",
+      "price": -10
+    },
+    {
+      "abr": "atelierdeverrerenforcé",
+      "category": "Production",
+      "defname": "ReinforcedGlassworkTable",
+      "price": -10
+    },
+    {
+      "abr": "autoloom",
+      "category": "Production",
+      "defname": "VFEM_WearablesAndTextileFactory_AutoLoom",
+      "price": -10
+    },
+    {
+      "abr": "autobroadcasterchargingstation",
+      "category": "Production",
+      "defname": "VFE_Mechanoids_AutobroadcasterBase",
+      "price": -10
+    },
+    {
+      "abr": "autocannon",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_Autocannon",
+      "price": -10
+    },
+    {
+      "abr": "autocleanerchargingstation",
+      "category": "Production",
+      "defname": "VFE_Mechanoids_AutocleanerBase",
+      "price": -10
+    },
+    {
+      "abr": "autocrane",
+      "category": "Production",
+      "defname": "VFEM_Autocrane",
+      "price": -10
+    },
+    {
+      "abr": "autohaulerchargingstation",
+      "category": "Production",
+      "defname": "VFE_Mechanoids_AutohaulerBase",
+      "price": -10
+    },
+    {
+      "abr": "automaticdrill",
+      "category": "Production",
+      "defname": "VFEM_MasonryAndMetallicsFactory_AutomaticDrill",
+      "price": -10
+    },
+    {
+      "abr": "automaticpistol",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_AutomaticPistol",
+      "price": -10
+    },
+    {
+      "abr": "auto-medicchargingstation",
+      "category": "Production",
+      "defname": "VFE_Mechanoids_AutoMedicBase",
+      "price": -10
+    },
+    {
+      "abr": "autominerchargingstation",
+      "category": "Production",
+      "defname": "VFE_Mechanoids_AutominerBase",
+      "price": -10
+    },
+    {
+      "abr": "auto-mortar",
+      "category": "Sécurité",
+      "defname": "VFE_Turret_AutoMortar",
+      "price": -10
+    },
+    {
+      "abr": "autostriderchargingstation",
+      "category": "Production",
+      "defname": "VFE_Mechanoids_AutostriderBase",
+      "price": -10
+    },
+    {
+      "abr": "axehead",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertAxeHead",
+      "price": -10
+    },
+    {
+      "abr": "bandana",
+      "category": "Couvre-chefs",
+      "defname": "VFES_Headgear_Bandana",
+      "price": 91
+    },
+    {
+      "abr": "bar",
+      "category": "Production",
+      "defname": "VBE_Bar",
+      "price": -10
+    },
+    {
+      "abr": "barstool",
+      "category": "Meubles",
+      "defname": "StoolBar",
+      "price": -10
+    },
+    {
+      "abr": "baseballcap",
+      "category": "Couvre-chefs",
+      "defname": "VAE_Headgear_BaseballCap",
+      "price": 77
+    },
+    {
+      "abr": "bass",
+      "category": "Raw fish",
+      "defname": "VCEF_RawBass",
+      "price": -10
+    },
+    {
+      "abr": "bat",
+      "category": "Animaux",
+      "defname": "ROMV_BatRace",
+      "price": -10
+    },
+    {
+      "abr": "baton",
+      "category": "Armes de mêlée",
+      "defname": "VWE_MeleeWeapon_Baton",
+      "price": -10
+    },
+    {
+      "abr": "battleaxe",
+      "category": "Armes de mêlée",
+      "defname": "VWE_MeleeWeapon_BattleAxe",
+      "price": 442
+    },
+    {
+      "abr": "battlerifle",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_BattleRifle",
+      "price": -10
+    },
+    {
+      "abr": "beads",
+      "category": "Couvre-chefs",
+      "defname": "VIEHAR_Apparel_Beads",
+      "price": -10
+    },
+    {
+      "abr": "bearheaddress",
+      "category": "Couvre-chefs",
+      "defname": "VFEV_BearHeaddress",
+      "price": 203
+    },
+    {
+      "abr": "beardedaxe",
+      "category": "Armes de mêlée",
+      "defname": "VFE_MeleeWeapon_BeardedAxe",
+      "price": -10
+    },
+    {
+      "abr": "biolabsunlamp",
+      "category": "Meubles",
+      "defname": "Spacer_SunLamp",
+      "price": -10
+    },
+    {
+      "abr": "bishophat",
+      "category": "Couvre-chefs",
+      "defname": "VIEHAR_Apparel_BishopHat",
+      "price": 75
+    },
+    {
+      "abr": "blacktea",
+      "category": "Drogues",
+      "defname": "VBE_BlackTea",
+      "price": 18
+    },
+    {
+      "abr": "blade",
+      "category": "Weapons Part",
+      "defname": "MeleeWeapon_BladePart",
+      "price": -10
+    },
+    {
+      "abr": "bloodpack(animal)",
+      "category": "Blood packs",
+      "defname": "BloodPack_Animal",
+      "price": -10
+    },
+    {
+      "abr": "bloodpack(average)",
+      "category": "Blood packs",
+      "defname": "BloodPack_AverageBlood",
+      "price": -10
+    },
+    {
+      "abr": "bloodpack(highblood)",
+      "category": "Blood packs",
+      "defname": "BloodPack_HighBlood",
+      "price": -10
+    },
+    {
+      "abr": "bloodpack(lowblood)",
+      "category": "Blood packs",
+      "defname": "BloodPack_LowBlood",
+      "price": -10
+    },
+    {
+      "abr": "bloodvial(average)",
+      "category": "Blood packs",
+      "defname": "BloodVial_AverageBlood",
+      "price": -10
+    },
+    {
+      "abr": "bloodvial(highblood)",
+      "category": "Blood packs",
+      "defname": "BloodVial_HighBlood",
+      "price": -10
+    },
+    {
+      "abr": "bloodvial(low)",
+      "category": "Blood packs",
+      "defname": "BloodVial_LowBlood",
+      "price": -10
+    },
+    {
+      "abr": "bloodvial(special)",
+      "category": "Blood packs",
+      "defname": "BloodVial_Special",
+      "price": -10
+    },
+    {
+      "abr": "bloodwine(average)",
+      "category": "Blood packs",
+      "defname": "BloodWine_AverageBlood",
+      "price": -10
+    },
+    {
+      "abr": "bloodwine(highblood)",
+      "category": "Blood packs",
+      "defname": "BloodWine_HighBlood",
+      "price": -10
+    },
+    {
+      "abr": "bloodwine(low)",
+      "category": "Blood packs",
+      "defname": "BloodWine_LowBlood",
+      "price": -10
+    },
+    {
+      "abr": "bloodwine(special)",
+      "category": "Blood packs",
+      "defname": "BloodWine_Special",
+      "price": -10
+    },
+    {
+      "abr": "blouse",
+      "category": "Vêtements",
+      "defname": "VAE_Apparel_Blouse",
+      "price": -10
+    },
+    {
+      "abr": "bone",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertBone",
+      "price": -10
+    },
+    {
+      "abr": "book",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertBook",
+      "price": -10
+    },
+    {
+      "abr": "boots",
+      "category": "Handwear and footwear",
+      "defname": "VAE_Footwear_Boots",
+      "price": 110
+    },
+    {
+      "abr": "bottle",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertBottle",
+      "price": -10
+    },
+    {
+      "abr": "bowl",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertBowl",
+      "price": -10
+    },
+    {
+      "abr": "bracelet",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertBracelet",
+      "price": -10
+    },
+    {
+      "abr": "brimlesshat",
+      "category": "Couvre-chefs",
+      "defname": "VIEHAR_Apparel_BrimlessHat",
+      "price": -10
+    },
+    {
+      "abr": "brokenmask",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertBrokenMask",
+      "price": -10
+    },
+    {
+      "abr": "brokenspear",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertBrokenSpear",
+      "price": -10
+    },
+    {
+      "abr": "brokensword",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertSword",
+      "price": -10
+    },
+    {
+      "abr": "bucket",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertBucket",
+      "price": -10
+    },
+    {
+      "abr": "builder'sjacket",
+      "category": "Vêtements",
+      "defname": "VAE_Apparel_BuildersJacket",
+      "price": -10
+    },
+    {
+      "abr": "bullpupdmr",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_BullpupDMR",
+      "price": -10
+    },
+    {
+      "abr": "bullpuprifle",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_BullpupRifle",
+      "price": -10
+    },
+    {
+      "abr": "candle",
+      "category": "Meubles",
+      "defname": "VFEM_Candle",
+      "price": -10
+    },
+    {
+      "abr": "cannedeggs",
+      "category": "Plats",
+      "defname": "VCE_CannedAP",
+      "price": -10
+    },
+    {
+      "abr": "cannedfish",
+      "category": "Plats",
+      "defname": "VCE_CannedFish",
+      "price": -10
+    },
+    {
+      "abr": "cannedfruit",
+      "category": "Plats",
+      "defname": "VCE_CannedFruit",
+      "price": -10
+    },
+    {
+      "abr": "cannedmeat",
+      "category": "Plats",
+      "defname": "VCE_CannedMeat",
+      "price": -10
+    },
+    {
+      "abr": "cannedproduce",
+      "category": "Plats",
+      "defname": "VCE_CannedProduce",
+      "price": -10
+    },
+    {
+      "abr": "cannery",
+      "category": "Production",
+      "defname": "VFEM_ProvisionsPackagingFactory_Cannery",
+      "price": -10
+    },
+    {
+      "abr": "cannibalcoffee",
+      "category": "Drogues",
+      "defname": "VBE_CannibalCoffee",
+      "price": -10
+    },
+    {
+      "abr": "canningmachine",
+      "category": "Production",
+      "defname": "VCE_CanningMachine",
+      "price": -10
+    },
+    {
+      "abr": "carbine",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_Carbine",
+      "price": -10
+    },
+    {
+      "abr": "carving",
+      "category": "Art",
+      "defname": "VFE_Carving",
+      "price": -10
+    },
+    {
+      "abr": "casualt-shirt",
+      "category": "Vêtements",
+      "defname": "VAE_Apparel_CasualTShirt",
+      "price": -10
+    },
+    {
+      "abr": "catfish",
+      "category": "Raw fish",
+      "defname": "VCEF_RawCatfish",
+      "price": -10
+    },
+    {
+      "abr": "ceilingdarklamp",
+      "category": "Meubles",
+      "defname": "GLCeilingLampDark",
+      "price": -10
+    },
+    {
+      "abr": "ceremonialmask",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertCeremonialMask",
+      "price": -10
+    },
+    {
+      "abr": "chain",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertChain",
+      "price": -10
+    },
+    {
+      "abr": "chainsaw",
+      "category": "Armes de mêlée",
+      "defname": "PowerTool_IndustrialChainsaw",
+      "price": -10
+    },
+    {
+      "abr": "chargeblasterturret",
+      "category": "Sécurité",
+      "defname": "VFE_Turret_AutoChargeBlaster",
+      "price": -10
+    },
+    {
+      "abr": "chargelanceturret",
+      "category": "Sécurité",
+      "defname": "VFE_Turret_AutoChargeLance",
+      "price": -10
+    },
+    {
+      "abr": "chargelmg",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_ChargeLMG",
+      "price": -10
+    },
+    {
+      "abr": "chargeminigun",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_ChargeMinigun",
+      "price": -10
+    },
+    {
+      "abr": "chargepistol",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_ChargePistol",
+      "price": -10
+    },
+    {
+      "abr": "chargerocketlauncher",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_ChargeRocketLauncher",
+      "price": -10
+    },
+    {
+      "abr": "chargeshotgun",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_ChargeShotgun",
+      "price": -10
+    },
+    {
+      "abr": "chargesmg",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_ChargeSMG",
+      "price": -10
+    },
+    {
+      "abr": "chargesniperrifle",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_ChargeSniperRifle",
+      "price": -10
+    },
+    {
+      "abr": "cheese",
+      "category": "Plats",
+      "defname": "VCE_Cheese",
+      "price": -10
+    },
+    {
+      "abr": "cheesepress",
+      "category": "Production",
+      "defname": "VCE_CheesePress",
+      "price": -10
+    },
+    {
+      "abr": "chef'stoque",
+      "category": "Couvre-chefs",
+      "defname": "VAE_Headgear_ChefsToque",
+      "price": 112
+    },
+    {
+      "abr": "chef'suniform",
+      "category": "Vêtements",
+      "defname": "VAE_Apparel_ChefsUniform",
+      "price": 222
+    },
+    {
+      "abr": "chemboiler",
+      "category": "Température",
+      "defname": "ChemBoiler",
+      "price": -10
+    },
+    {
+      "abr": "chemfuelclarifier",
+      "category": "Production",
+      "defname": "VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier",
+      "price": -10
+    },
+    {
+      "abr": "chemlamp",
+      "category": "Meubles",
+      "defname": "Chemlamp",
+      "price": -10
+    },
+    {
+      "abr": "chemlamppost",
+      "category": "Meubles",
+      "defname": "ChemlampPost",
+      "price": -10
+    },
+    {
+      "abr": "chemshine",
+      "category": "Drogues",
+      "defname": "Chemshine",
+      "price": -10
+    },
+    {
+      "abr": "chemshinebarrel",
+      "category": "Production",
+      "defname": "Building_ChemshineBarrel",
+      "price": -10
+    },
+    {
+      "abr": "chirashizushibowl(simple)",
+      "category": "Plats",
+      "defname": "VCE_Chirashizushi",
+      "price": -10
+    },
+    {
+      "abr": "chocolatesyrup",
+      "category": "Condiments",
+      "defname": "VCE_ChocolateSyrup",
+      "price": 6
+    },
+    {
+      "abr": "cibledetiràl'arc",
+      "category": "Détente",
+      "defname": "ArcheryTarget",
+      "price": 248
+    },
+    {
+      "abr": "cider",
+      "category": "Drogues",
+      "defname": "VBE_Cider",
+      "price": 20
+    },
+    {
+      "abr": "cigarettes",
+      "category": "Drogues",
+      "defname": "VBE_Cigarettes",
+      "price": 13
+    },
+    {
+      "abr": "cigars",
+      "category": "Drogues",
+      "defname": "VBE_Cigars",
+      "price": 100
+    },
+    {
+      "abr": "circulartable",
+      "category": "Meubles",
+      "defname": "TableCircular",
+      "price": -10
+    },
+    {
+      "abr": "claymore",
+      "category": "Armes de mêlée",
+      "defname": "VFEM_MeleeWeapon_Claymore",
+      "price": -10
+    },
+    {
+      "abr": "cleaver",
+      "category": "Armes de mêlée",
+      "defname": "VWE_MeleeWeapon_Cleaver",
+      "price": -10
+    },
+    {
+      "abr": "cloak",
+      "category": "Vêtements",
+      "defname": "VAE_Apparel_Cape",
+      "price": -10
+    },
+    {
+      "abr": "clownfish",
+      "category": "Raw fish",
+      "defname": "VCEF_RawClownfish",
+      "price": -10
+    },
+    {
+      "abr": "cod",
+      "category": "Raw fish",
+      "defname": "VCEF_RawCod",
+      "price": -10
+    },
+    {
+      "abr": "coffee",
+      "category": "Drogues",
+      "defname": "VBE_HotCoffee",
+      "price": 13
+    },
+    {
+      "abr": "coffeebeans",
+      "category": "Matières végétales",
+      "defname": "VBE_RawCoffee",
+      "price": -10
+    },
+    {
+      "abr": "coffin",
+      "category": "Meubles",
+      "defname": "ROMV_SimpleCoffin",
+      "price": -10
+    },
+    {
+      "abr": "combathandgun",
+      "category": "Armes à distance",
+      "defname": "VWE_CombatHandgun",
+      "price": -10
+    },
+    {
+      "abr": "combatknife",
+      "category": "Armes de mêlée",
+      "defname": "VWE_MeleeWeapon_CombatKnife",
+      "price": -10
+    },
+    {
+      "abr": "combatmechanoidchargingstation",
+      "category": "Production",
+      "defname": "VFE_Mechanoids_CombatBase",
+      "price": -10
+    },
+    {
+      "abr": "commissarhat",
+      "category": "Couvre-chefs",
+      "defname": "VIEHAR_Apparel_CommisarHat",
+      "price": 109
+    },
+    {
+      "abr": "componentassembler",
+      "category": "Production",
+      "defname": "VFEM_ElectronicsFabricationFactory_ComponentAssembler",
+      "price": -10
+    },
+    {
+      "abr": "compositecrossbowtop",
+      "category": "Weapons Part",
+      "defname": "RangWeapon_Crossbow_TopCompositePart",
+      "price": -10
+    },
+    {
+      "abr": "compoundbow",
+      "category": "Armes à distance",
+      "defname": "VWE_Bow_Compound",
+      "price": -10
+    },
+    {
+      "abr": "condimentpreptable",
+      "category": "Production",
+      "defname": "VCE_CondimentPrepTable",
+      "price": -10
+    },
+    {
+      "abr": "conduitpylon",
+      "category": "Divers",
+      "defname": "VFE_ConduitPylon",
+      "price": -10
+    },
+    {
+      "abr": "conveyoroven",
+      "category": "Production",
+      "defname": "VFEM_ProvisionsPackagingFactory_ConveyorOven",
+      "price": -10
+    },
+    {
+      "abr": "cowwool",
+      "category": "Laines",
+      "defname": "VFEV_WoolCow",
+      "price": -10
+    },
+    {
+      "abr": "crossbow",
+      "category": "Assemble Weapons",
+      "defname": "RangWeapon_TinkersCrossbow",
+      "price": -10
+    },
+    {
+      "abr": "crossbow",
+      "category": "Armes à distance",
+      "defname": "VWE_Bow_Crossbow",
+      "price": 358
+    },
+    {
+      "abr": "crossbowbody",
+      "category": "Weapons Part",
+      "defname": "RangWeapon_Crossbow_BodyPart",
+      "price": -10
+    },
+    {
+      "abr": "crossbowtop",
+      "category": "Weapons Part",
+      "defname": "RangWeapon_Crossbow_TopPart",
+      "price": -10
+    },
+    {
+      "abr": "cryptoarmor",
       "category": "Armures",
-      "defname": "SR_YadratArmor",
+      "defname": "VFEV_CryptoArmor",
       "price": -10
+    },
+    {
+      "abr": "cryptocrossbow",
+      "category": "Crypto weapons",
+      "defname": "VFEV_CryptoLightCrossbow",
+      "price": -10
+    },
+    {
+      "abr": "cryptohatchet",
+      "category": "Crypto weapons",
+      "defname": "VFEV_CryptoLightAxe",
+      "price": -10
+    },
+    {
+      "abr": "cryptoheavyarmor",
+      "category": "Armures",
+      "defname": "VFEV_CryptoHeavyArmor",
+      "price": -10
+    },
+    {
+      "abr": "cryptoheavycrossbow",
+      "category": "Crypto weapons",
+      "defname": "VFEV_CryptoHeavyCrossbow",
+      "price": -10
+    },
+    {
+      "abr": "cryptohelmet",
+      "category": "Casques",
+      "defname": "VFEV_Apparel_CryptoLightHelmet",
+      "price": -10
+    },
+    {
+      "abr": "cryptopistol",
+      "category": "Crypto weapons",
+      "defname": "VFEV_CryptoPistol",
+      "price": -10
+    },
+    {
+      "abr": "cryptorifle",
+      "category": "Crypto weapons",
+      "defname": "VFEV_CryptoRifle",
+      "price": -10
+    },
+    {
+      "abr": "cryptoshield",
+      "category": "Shields",
+      "defname": "VFEV_Shield_Crypto",
+      "price": -10
+    },
+    {
+      "abr": "cryptosleepsuspender",
+      "category": "Meubles",
+      "defname": "Bed_CryptoBed",
+      "price": -10
+    },
+    {
+      "abr": "dalgonacoffee",
+      "category": "Drogues",
+      "defname": "VBE_DalgonaCoffee",
+      "price": 23
+    },
+    {
+      "abr": "damedress",
+      "category": "Vêtements",
+      "defname": "VFEM_Apparel_DameDress",
+      "price": -10
+    },
+    {
+      "abr": "damehat",
+      "category": "Couvre-chefs",
+      "defname": "VFEM_Apparel_DameHat",
+      "price": -10
+    },
+    {
+      "abr": "daneaxe",
+      "category": "Armes de mêlée",
+      "defname": "VFE_MeleeWeapon_DaneAxe",
+      "price": -10
+    },
+    {
+      "abr": "darkcandle",
+      "category": "Meubles",
+      "defname": "VFEM_DarkCandle",
+      "price": -10
+    },
+    {
+      "abr": "darkilluminateddresser",
+      "category": "Meubles",
+      "defname": "Table_DarkIlluminatedDresser",
+      "price": -10
+    },
+    {
+      "abr": "darkilluminatedendtable",
+      "category": "Meubles",
+      "defname": "Table_DarkIlluminatedEndTable",
+      "price": -10
+    },
+    {
+      "abr": "darklampendtable",
+      "category": "Meubles",
+      "defname": "Table_DarkLightEndTable",
+      "price": -10
+    },
+    {
+      "abr": "dartgun",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_DartGun",
+      "price": -10
+    },
+    {
+      "abr": "decorativeplantpot",
+      "category": "Art",
+      "defname": "VFE_DecorativePlantPot",
+      "price": -10
+    },
+    {
+      "abr": "deepfriedfish",
+      "category": "Plats",
+      "defname": "VCE_DeepFriedFish",
+      "price": -10
+    },
+    {
+      "abr": "deepfriedmeat",
+      "category": "Plats",
+      "defname": "VCE_DeepFriedBigMeat",
+      "price": -10
+    },
+    {
+      "abr": "deepfriedsushi",
+      "category": "Plats",
+      "defname": "VCE_DeepFriedSushi",
+      "price": -10
+    },
+    {
+      "abr": "deepfriedvegetables",
+      "category": "Plats",
+      "defname": "VCE_DeepFriedVegetables",
+      "price": -10
+    },
+    {
+      "abr": "deepfryer",
+      "category": "Production",
+      "defname": "VCE_DeepFrier",
+      "price": -10
+    },
+    {
+      "abr": "deerskull",
+      "category": "Couvre-chefs",
+      "defname": "VIEHAR_Apparel_DeerSkull",
+      "price": 145
+    },
+    {
+      "abr": "derringer",
+      "category": "Armes à distance",
+      "defname": "VWEFT_Gun_Derringer",
+      "price": -10
+    },
+    {
+      "abr": "diamond",
+      "category": "Ressources brutes",
+      "defname": "Diamond",
+      "price": -10
+    },
+    {
+      "abr": "digestibleresurrectornanites",
+      "category": "Condiments",
+      "defname": "VCE_DigestibleResurrectorNanites",
+      "price": -10
+    },
+    {
+      "abr": "doctorscrubs",
+      "category": "Vêtements",
+      "defname": "VAE_Apparel_DoctorScrubs",
+      "price": 186
+    },
+    {
+      "abr": "doublefurbed",
+      "category": "Meubles",
+      "defname": "VFEV_DoubleFurBed",
+      "price": -10
+    },
+    {
+      "abr": "doubleroyalcoffin",
+      "category": "Meubles",
+      "defname": "ROMV_RoyalCoffinDouble",
+      "price": -10
+    },
+    {
+      "abr": "double-actionrevolver",
+      "category": "Armes à distance",
+      "defname": "VFES_Gun_DoubleActionRevolver",
+      "price": -10
+    },
+    {
+      "abr": "double-agedwhiskey",
+      "category": "Drogues",
+      "defname": "VBE_DoubleWhiskey",
+      "price": 100
+    },
+    {
+      "abr": "double-barreledshotgun",
+      "category": "Armes à distance",
+      "defname": "VFES_Gun_DoubleBarreledShotgun",
+      "price": -10
+    },
+    {
+      "abr": "drill",
+      "category": "Armes de mêlée",
+      "defname": "PowerTool_IndustrialDrill",
+      "price": -10
+    },
+    {
+      "abr": "drugcabinet",
+      "category": "Divers",
+      "defname": "VFE_DrugCabinet",
+      "price": -10
+    },
+    {
+      "abr": "drugpowderizer",
+      "category": "Production",
+      "defname": "VFEM_MedicinalCompoundingFactory_DrugPowderizer",
+      "price": -10
+    },
+    {
+      "abr": "dynamite",
+      "category": "Grenades",
+      "defname": "VFES_Weapon_GrenadeDynamite",
+      "price": -10
+    },
+    {
+      "abr": "dynamitebelt",
+      "category": "Utilitaires",
+      "defname": "VWE_Apparel_DynamiteBelt",
+      "price": -10
+    },
+    {
+      "abr": "earlgreytea",
+      "category": "Drogues",
+      "defname": "VBE_EarlGreyTea",
+      "price": 17
+    },
+    {
+      "abr": "eel",
+      "category": "Raw fish",
+      "defname": "VCEF_RawEel",
+      "price": -10
+    },
+    {
+      "abr": "electricbutcher",
+      "category": "Production",
+      "defname": "VFE_TableButcherElectric",
+      "price": -10
+    },
+    {
+      "abr": "electricdruglab",
+      "category": "Production",
+      "defname": "VFE_TableDrugLabElectric",
+      "price": -10
+    },
+    {
+      "abr": "electricpot",
+      "category": "Production",
+      "defname": "VCE_ElectricPot",
+      "price": -10
+    },
+    {
+      "abr": "electricstonecutter'stable",
+      "category": "Production",
+      "defname": "VFE_TableStonecutterElectric",
+      "price": -10
+    },
+    {
+      "abr": "eltex",
+      "category": "Produits manufacturés",
+      "defname": "VPE_Eltex",
+      "price": -10
+    },
+    {
+      "abr": "eltexcape",
+      "category": "Vêtements",
+      "defname": "VPE_Apparel_EltexCape",
+      "price": -10
+    },
+    {
+      "abr": "eltexdagger",
+      "category": "Armes de mêlée",
+      "defname": "VPE_MeleeWeapon_EltexDagger",
+      "price": -10
+    },
+    {
+      "abr": "eltexmace",
+      "category": "Armes de mêlée",
+      "defname": "VPE_MeleeWeapon_EltexMace",
+      "price": -10
+    },
+    {
+      "abr": "eltexmask",
+      "category": "Couvre-chefs",
+      "defname": "VPE_Apparel_EltexMask",
+      "price": -10
+    },
+    {
+      "abr": "eltexsword",
+      "category": "Armes de mêlée",
+      "defname": "VPE_MeleeWeapon_EltexSword",
+      "price": -10
+    },
+    {
+      "abr": "empgrenadebelt",
+      "category": "Utilitaires",
+      "defname": "VWE_Apparel_GrenadeEMPBelt",
+      "price": -10
+    },
+    {
+      "abr": "energydrink",
+      "category": "Drogues",
+      "defname": "VBE_EnergyDrink",
+      "price": 22
+    },
+    {
+      "abr": "engram",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertEngram",
+      "price": -10
+    },
+    {
+      "abr": "entraîneurpsychique(adrenalinerush)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_AdrenalineRush",
+      "price": 2333
+    },
+    {
+      "abr": "entraîneurpsychique(age)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Age",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(aggressiveheatdump)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_AggressiveHeatDump",
+      "price": 2333
+    },
+    {
+      "abr": "entraîneurpsychique(animalallies)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_AnimalAllies",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(assassinate)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Assassinate",
+      "price": 3333
+    },
+    {
+      "abr": "entraîneurpsychique(balllightning)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_BallLightning",
+      "price": 2333
+    },
+    {
+      "abr": "entraîneurpsychique(beckon)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Beckon",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(bendprobability)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_BendProbability",
+      "price": 2333
+    },
+    {
+      "abr": "entraîneurpsychique(berserk)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Berserk",
+      "price": 2333
+    },
+    {
+      "abr": "entraîneurpsychique(berskerkpulse)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_BerserkPulse",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(bladefocus)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_BladeFocus",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(blindingpulse)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_BlindingPulse",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(bliss)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Bliss",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(blizzard)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Blizzard",
+      "price": 3333
+    },
+    {
+      "abr": "entraîneurpsychique(bolt)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Bolt",
+      "price": 1333
+    },
+    {
+      "abr": "entraîneurpsychique(bramblemaze)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_BrambleMaze",
+      "price": 1333
+    },
+    {
+      "abr": "entraîneurpsychique(breatheflame)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_BreatheFlame",
+      "price": 2333
+    },
+    {
+      "abr": "entraîneurpsychique(breatheice)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_IceBreath",
+      "price": 1333
+    },
+    {
+      "abr": "entraîneurpsychique(burden)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Burden",
+      "price": 1333
+    },
+    {
+      "abr": "entraîneurpsychique(chainbolt)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_ChainBolt",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(chaosskip)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_ChaosSkip",
+      "price": 2333
+    },
+    {
+      "abr": "entraîneurpsychique(chunkskip)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Chunkskip",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(coldzone)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_ColdZone",
+      "price": 2333
+    },
+    {
+      "abr": "entraîneurpsychique(conjureheatpearls)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_ConjureHeatPearls",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(consumebodies)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_ConsumeBodies",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(controlledfrenzy)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_ControlledFrenzy",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(corpsetalk)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Corpsetalk",
+      "price": 2333
+    },
+    {
+      "abr": "entraîneurpsychique(craftpsyring)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_CraftPsyRing",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(crafttimeskip)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_CraftTimeskip",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(cropburst)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_CropBurst",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(darkness)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Darkness",
+      "price": 1333
+    },
+    {
+      "abr": "entraîneurpsychique(darkvision)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Darkvision",
+      "price": 1333
+    },
+    {
+      "abr": "entraîneurpsychique(deathshield)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Deathshield",
+      "price": 3333
+    },
+    {
+      "abr": "entraîneurpsychique(decoy)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Decoy",
+      "price": 2333
+    },
+    {
+      "abr": "entraîneurpsychique(drainpsyessence)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_DrainPsyessence",
+      "price": 3333
+    },
+    {
+      "abr": "entraîneurpsychique(eclipse)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Eclipse",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(enchantquality)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_EnchantQuality",
+      "price": 1333
+    },
+    {
+      "abr": "entraîneurpsychique(energydump)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_EnergyDump",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(enthrall)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Enthrall",
+      "price": 3333
+    },
+    {
+      "abr": "entraîneurpsychique(essencetransfer)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_EssenceTransfer",
+      "price": 3333
+    },
+    {
+      "abr": "entraîneurpsychique(explosion)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Explosion",
+      "price": 2333
+    },
+    {
+      "abr": "entraîneurpsychique(extinguishflames)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_QuenchFlames",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(eyeblast)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_EyeBlast",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(farskip)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Farskip",
+      "price": 3333
+    },
+    {
+      "abr": "entraîneurpsychique(firebeam)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_FireBeam",
+      "price": 3333
+    },
+    {
+      "abr": "entraîneurpsychique(fireshield)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_FireShield",
+      "price": 2333
+    },
+    {
+      "abr": "entraîneurpsychique(firetornado)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_FlameTornado",
+      "price": 3333
+    },
+    {
+      "abr": "entraîneurpsychique(firingfocus)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_FiringFocus",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(flameball)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Flameball",
+      "price": 1333
+    },
+    {
+      "abr": "entraîneurpsychique(flashstorm)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Flashstorm",
+      "price": 3333
+    },
+    {
+      "abr": "entraîneurpsychique(focus)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Focus",
+      "price": 2333
+    },
+    {
+      "abr": "entraîneurpsychique(frostray)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_FrostRay",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(ghostwalk)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Ghostwalk",
+      "price": 2333
+    },
+    {
+      "abr": "entraîneurpsychique(grouplink)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_GroupLink",
+      "price": 2333
+    },
+    {
+      "abr": "entraîneurpsychique(guardianskipbarrier)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_GuardianSkipbarrier",
+      "price": 3333
+    },
+    {
+      "abr": "entraîneurpsychique(guidedshot)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_GuidedShot",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(haywire)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Haywire",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(healthswap)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_HealthSwap",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(heatfocus)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_HeatFocus",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(hurricane)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Hurricane",
+      "price": 3333
+    },
+    {
+      "abr": "entraîneurpsychique(iceblock)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_IceBlock",
+      "price": 2333
+    },
+    {
+      "abr": "entraîneurpsychique(icecrystal)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_IceCrystal",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(iceshield)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_IceShield",
+      "price": 1333
+    },
+    {
+      "abr": "entraîneurpsychique(icespike)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_IceSpike",
+      "price": 1333
+    },
+    {
+      "abr": "entraîneurpsychique(icewall)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_IceWall",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(intensifyshadows)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_IntensifyShadows",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(invisibility)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Invisibility",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(killskip)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Killskip",
+      "price": 3333
+    },
+    {
+      "abr": "entraîneurpsychique(liferot)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Liferot",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(locationswap)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_LocationSwap",
+      "price": 2333
+    },
+    {
+      "abr": "entraîneurpsychique(lucktransfer)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_LuckTransfer",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(manhunterpulse)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_ManhunterPulse",
+      "price": 2333
+    },
+    {
+      "abr": "entraîneurpsychique(massbeckon)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_MassBeckon",
+      "price": 3333
+    },
+    {
+      "abr": "entraîneurpsychique(masschaosskip)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_MassChaosSkip",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(masshallucination)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_MassHallucination",
+      "price": 3333
+    },
+    {
+      "abr": "entraîneurpsychique(mend)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Mend",
+      "price": 1333
+    },
+    {
+      "abr": "entraîneurpsychique(meteorshower)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_MeteorShower",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(mindbreak)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_MindBreak",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(mindcontrol)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Mindcontrol",
+      "price": 1333
+    },
+    {
+      "abr": "entraîneurpsychique(mindwipe)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_MindWipe",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(neuralheatdetonation)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_NeuralHeatDetonation",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(neuralheatdump)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_NeuralHeatDump",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(neuroquake)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Neuroquake",
+      "price": 3333
+    },
+    {
+      "abr": "entraîneurpsychique(nightstep)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Nightstep",
+      "price": 3333
+    },
+    {
+      "abr": "entraîneurpsychique(obscure)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Obscure",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(overshield)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Overshield",
+      "price": 2333
+    },
+    {
+      "abr": "entraîneurpsychique(painblock)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Painblock",
+      "price": 1333
+    },
+    {
+      "abr": "entraîneurpsychique(paralysispulse)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_ParalysisPulse",
+      "price": 2333
+    },
+    {
+      "abr": "entraîneurpsychique(planttimeskip)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_PlantTimeskip",
+      "price": 1333
+    },
+    {
+      "abr": "entraîneurpsychique(powerleap)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_PowerLeap",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(power)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Power",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(psychicdrone)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_PsychicDrone",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(psychicguidance)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_PsychicGuidance",
+      "price": 1333
+    },
+    {
+      "abr": "entraîneurpsychique(psychicshock)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_PsychicShock",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(psychicsooth(female))",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_SootheFemale",
+      "price": 2333
+    },
+    {
+      "abr": "entraîneurpsychique(psychicsooth(male))",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_SootheMale",
+      "price": 2333
+    },
+    {
+      "abr": "entraîneurpsychique(raidpause)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_RaidPause",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(recharge)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Recharge",
+      "price": 2333
+    },
+    {
+      "abr": "entraîneurpsychique(regrowlimbs)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_RegrowLimbs",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(resurrect)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Resurrect",
+      "price": 3333
+    },
+    {
+      "abr": "entraîneurpsychique(reunionfarskip)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_ReunionFarskip",
+      "price": 3333
+    },
+    {
+      "abr": "entraîneurpsychique(reverseengineer)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_ReverseEngineer",
+      "price": 3333
+    },
+    {
+      "abr": "entraîneurpsychique(rockconstruct)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_RockConstruct",
+      "price": 2333
+    },
+    {
+      "abr": "entraîneurpsychique(seasontimeskip)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_SeasonTimeskip",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(selfexplosion)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_SelfExplosion",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(shadowfocus)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_ShadowFocus",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(shadowskip)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Shadowskip",
+      "price": 2333
+    },
+    {
+      "abr": "entraîneurpsychique(shieldanimals)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_ShieldAnimals",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(shrineshield)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Shrineshield",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(skillroll)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_SkillRoll",
+      "price": 3333
+    },
+    {
+      "abr": "entraîneurpsychique(skip)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Skip",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(skipdoor)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Skipdoor",
+      "price": 3333
+    },
+    {
+      "abr": "entraîneurpsychique(skipshield)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Skipshield",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(smokepop)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Smokepop",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(snapfreeze)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_SnapFreeze",
+      "price": 2333
+    },
+    {
+      "abr": "entraîneurpsychique(solarpinhole)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_SolarPinhole",
+      "price": 1333
+    },
+    {
+      "abr": "entraîneurpsychique(speedboost)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_SpeedBoost",
+      "price": 1333
+    },
+    {
+      "abr": "entraîneurpsychique(stabilize)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Stabilize",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(staticaura)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_StaticAura",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(staticpulse)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_StaticPulse",
+      "price": 2333
+    },
+    {
+      "abr": "entraîneurpsychique(stealvitality)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_StealVitality",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(steelconstruct)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_SteelConstruct",
+      "price": 2333
+    },
+    {
+      "abr": "entraîneurpsychique(stun)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Stun",
+      "price": 1333
+    },
+    {
+      "abr": "entraîneurpsychique(summonpack)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_SummonPack",
+      "price": 3333
+    },
+    {
+      "abr": "entraîneurpsychique(thunderbolt)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Thunderbolt",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(timereversal)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_TimeReversal",
+      "price": 3333
+    },
+    {
+      "abr": "entraîneurpsychique(timesphere)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_TimeSphere",
+      "price": 3333
+    },
+    {
+      "abr": "entraîneurpsychique(timequake)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Timequake",
+      "price": 3333
+    },
+    {
+      "abr": "entraîneurpsychique(timeskipmeditation)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_TimeskipMeditation",
+      "price": 1333
+    },
+    {
+      "abr": "entraîneurpsychique(transmutation)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Transmutation",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(transmutestone)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_TransmuteStone",
+      "price": 1333
+    },
+    {
+      "abr": "entraîneurpsychique(treesprout)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_TreeSprout",
+      "price": 2333
+    },
+    {
+      "abr": "entraîneurpsychique(vortex)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Vortex",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(wallraise)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Wallraise",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(waterskip)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_Waterskip",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(wordofalliance)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_WordofAlliance",
+      "price": 2333
+    },
+    {
+      "abr": "entraîneurpsychique(wordofanimals)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_WordofAnimals",
+      "price": 2333
+    },
+    {
+      "abr": "entraîneurpsychique(wordoffear)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_WordofFear",
+      "price": 1333
+    },
+    {
+      "abr": "entraîneurpsychique(wordofforetelling)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_WordofForetelling",
+      "price": 1333
+    },
+    {
+      "abr": "entraîneurpsychique(wordofhealing)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_WordofHealing",
+      "price": 1333
+    },
+    {
+      "abr": "entraîneurpsychique(wordofimmunity)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_WordofImmunity",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(wordofinspiration)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_WordofInspiration",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(wordofjoy)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_WordofJoy",
+      "price": 1333
+    },
+    {
+      "abr": "entraîneurpsychique(wordoflove)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_WordofLove",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(wordofpain)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_WordofPain",
+      "price": 2333
+    },
+    {
+      "abr": "entraîneurpsychique(wordofproductivity)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_WordofProductivity",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(wordofprogress)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_WordofProgress",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(wordofprotection)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_WordofProtection",
+      "price": 2833
+    },
+    {
+      "abr": "entraîneurpsychique(wordofserenity)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_WordofSerenity",
+      "price": 1833
+    },
+    {
+      "abr": "entraîneurpsychique(wordoftrust)",
+      "category": "Psycho-entraîneurs",
+      "defname": "Psytrainer_VPE_WordofTrust",
+      "price": 1333
+    },
+    {
+      "abr": "espressomachine",
+      "category": "Production",
+      "defname": "VBE_EspressoMachineBuilding",
+      "price": -10
+    },
+    {
+      "abr": "espressoromano",
+      "category": "Drogues",
+      "defname": "VBE_LemonCoffee",
+      "price": 17
+    },
+    {
+      "abr": "exoskeletonframe",
+      "category": "Utilitaires",
+      "defname": "VWE_Apparel_Exoframe",
+      "price": -10
+    },
+    {
+      "abr": "fabricationcabinet",
+      "category": "Divers",
+      "defname": "VFE_FabricationCabinet",
+      "price": -10
+    },
+    {
+      "abr": "facepaintingtable",
+      "category": "Divers",
+      "defname": "VFE_TableFacePaints",
+      "price": -10
+    },
+    {
+      "abr": "factoryhopper",
+      "category": "Production",
+      "defname": "VFEM_HeavyHopper",
+      "price": -10
+    },
+    {
+      "abr": "farotable",
+      "category": "Meubles",
+      "defname": "TableFaro",
+      "price": 255
+    },
+    {
+      "abr": "fedora",
+      "category": "Couvre-chefs",
+      "defname": "VAE_Headgear_Fedora",
+      "price": 94
+    },
+    {
+      "abr": "fenrir",
+      "category": "Animaux",
+      "defname": "VFEV_Fenrir",
+      "price": -10
+    },
+    {
+      "abr": "fenrirskin",
+      "category": "Cuirs",
+      "defname": "VFEV_Leather_Fenrir",
+      "price": -10
+    },
+    {
+      "abr": "fez",
+      "category": "Couvre-chefs",
+      "defname": "VIEHAR_Apparel_Fez",
+      "price": 92
+    },
+    {
+      "abr": "finebake",
+      "category": "Plats",
+      "defname": "VCE_FineBake",
+      "price": -10
+    },
+    {
+      "abr": "finecocktail",
+      "category": "Plats",
+      "defname": "VBE_FineCocktail",
+      "price": 33
+    },
+    {
+      "abr": "finedessert",
+      "category": "Plats",
+      "defname": "VCE_FineDessert",
+      "price": -10
+    },
+    {
+      "abr": "finegrill",
+      "category": "Plats",
+      "defname": "VCE_FineGrill",
+      "price": -10
+    },
+    {
+      "abr": "finesoup",
+      "category": "Plats",
+      "defname": "VCE_CookedSoupFine",
+      "price": -10
+    },
+    {
+      "abr": "finestew",
+      "category": "Plats",
+      "defname": "VCE_CookedStewFine",
+      "price": -10
+    },
+    {
+      "abr": "firebombs",
+      "category": "Grenades",
+      "defname": "VWE_Weapon_FireBomb",
+      "price": -10
+    },
+    {
+      "abr": "fireextinguisher",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_FireExtinguisher",
+      "price": -10
+    },
+    {
+      "abr": "fivefingerfillettable",
+      "category": "Meubles",
+      "defname": "TableFiveFingerFilet",
+      "price": 205
+    },
+    {
+      "abr": "flamethrower",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_Flamethrower",
+      "price": -10
+    },
+    {
+      "abr": "flashgrenadebelt",
+      "category": "Utilitaires",
+      "defname": "VWE_Apparel_GrenadeFlashBelt",
+      "price": -10
+    },
+    {
+      "abr": "flashgrenades",
+      "category": "Grenades",
+      "defname": "VWE_FlashGrenade",
+      "price": -10
+    },
+    {
+      "abr": "flatcap",
+      "category": "Couvre-chefs",
+      "defname": "VFES_Headgear_FlatCap",
+      "price": 95
+    },
+    {
+      "abr": "fleeceshirt",
+      "category": "Vêtements",
+      "defname": "VAE_Apparel_FleeceShirt",
+      "price": -10
+    },
+    {
+      "abr": "flintlock",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_Flintlock",
+      "price": -10
+    },
+    {
+      "abr": "flour",
+      "category": "Matières végétales",
+      "defname": "VCE_Flour",
+      "price": -10
+    },
+    {
+      "abr": "fossil",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertFossil",
+      "price": -10
+    },
+    {
+      "abr": "fraggrenadebelt",
+      "category": "Utilitaires",
+      "defname": "VWE_Apparel_GrenadeFragBelt",
+      "price": -10
+    },
+    {
+      "abr": "frontierpistol",
+      "category": "Armes à distance",
+      "defname": "VWEFT_Gun_FrontierPistol",
+      "price": -10
+    },
+    {
+      "abr": "fueledsmelter",
+      "category": "Production",
+      "defname": "VFE_FueledSmelter",
+      "price": -10
+    },
+    {
+      "abr": "furbed",
+      "category": "Meubles",
+      "defname": "VFEV_FurBed",
+      "price": -10
+    },
+    {
+      "abr": "futomaki(lavish)",
+      "category": "Plats",
+      "defname": "VCE_Futomaki",
+      "price": -10
+    },
+    {
+      "abr": "gasfloodlight",
+      "category": "Meubles",
+      "defname": "VPE_GasFloodlight",
+      "price": -10
+    },
+    {
+      "abr": "gasheater",
+      "category": "Température",
+      "defname": "VPE_GasHeater",
+      "price": -10
+    },
+    {
+      "abr": "gasmask",
+      "category": "Couvre-chefs",
+      "defname": "VAE_Headgear_GasMask",
+      "price": -10
+    },
+    {
+      "abr": "gaspoweredexcavator",
+      "category": "Production",
+      "defname": "VPE_GasDrill",
+      "price": -10
+    },
+    {
+      "abr": "gassunlamp",
+      "category": "Meubles",
+      "defname": "VPE_GasSunLamp",
+      "price": -10
+    },
+    {
+      "abr": "gastank",
+      "category": "Énergie",
+      "defname": "VPE_GasTank",
+      "price": -10
+    },
+    {
+      "abr": "gaswalldarklight",
+      "category": "Meubles",
+      "defname": "VPE_GasWallDarkLight",
+      "price": -10
+    },
+    {
+      "abr": "gaswalllight",
+      "category": "Meubles",
+      "defname": "VPE_GasWallLight",
+      "price": -10
+    },
+    {
+      "abr": "gatlinggunturret",
+      "category": "Sécurité",
+      "defname": "Turret_GatlingGun",
+      "price": -10
+    },
+    {
+      "abr": "gauntlet",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertGauntlet",
+      "price": -10
+    },
+    {
+      "abr": "gausslance",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_GaussLance",
+      "price": -10
+    },
+    {
+      "abr": "gaussmagnum",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_GaussMagnum",
+      "price": -10
+    },
+    {
+      "abr": "gaussrepeater",
+      "category": "Armes à distance",
+      "defname": "VWEFT_Gun_GaussRepeater",
+      "price": -10
+    },
+    {
+      "abr": "gaussrevolver",
+      "category": "Armes à distance",
+      "defname": "VWEFT_Gun_GaussRevolver",
+      "price": -10
+    },
+    {
+      "abr": "gaussrifle",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_GaussRifle",
+      "price": -10
+    },
+    {
+      "abr": "gin",
+      "category": "Drogues",
+      "defname": "VBE_Gin",
+      "price": 20
+    },
+    {
+      "abr": "ginmush",
+      "category": "Musts and syrups",
+      "defname": "VBE_GinMush",
+      "price": -10
+    },
+    {
+      "abr": "ginstill",
+      "category": "Production",
+      "defname": "VBE_GinStill",
+      "price": -10
+    },
+    {
+      "abr": "glasses",
+      "category": "Couvre-chefs",
+      "defname": "VAE_Headgear_Glasses",
+      "price": 38
+    },
+    {
+      "abr": "gloves",
+      "category": "Handwear and footwear",
+      "defname": "VAE_Handwear_Gloves",
+      "price": -10
+    },
+    {
+      "abr": "go-juicestock",
+      "category": "Condiments",
+      "defname": "VBE_GoJuiceStock",
+      "price": -10
+    },
+    {
+      "abr": "goldbracelet",
+      "category": "Jewelry",
+      "defname": "Jewelry_Bracelet",
+      "price": 417
+    },
+    {
+      "abr": "goldearring",
+      "category": "Jewelry",
+      "defname": "Jewelry_Earring",
+      "price": 267
+    },
+    {
+      "abr": "goldeltexnecklace",
+      "category": "Jewelry",
+      "defname": "Jewelry_PsychicNecklace",
+      "price": 750
+    },
+    {
+      "abr": "goldnecklace",
+      "category": "Jewelry",
+      "defname": "Jewelry_Necklace",
+      "price": 600
+    },
+    {
+      "abr": "goldring",
+      "category": "Jewelry",
+      "defname": "Jewelry_Ring",
+      "price": 250
+    },
+    {
+      "abr": "goldfish",
+      "category": "Raw fish",
+      "defname": "VCEF_RawGoldfish",
+      "price": -10
+    },
+    {
+      "abr": "gourmetbake",
+      "category": "Plats",
+      "defname": "VCE_GourmetBake",
+      "price": -10
+    },
+    {
+      "abr": "gourmetcocktail",
+      "category": "Plats",
+      "defname": "VBE_GourmetCocktail",
+      "price": -10
+    },
+    {
+      "abr": "gourmetdessert",
+      "category": "Plats",
+      "defname": "VCE_GourmetDessert",
+      "price": -10
+    },
+    {
+      "abr": "gourmetgrill",
+      "category": "Plats",
+      "defname": "VCE_GourmetGrill",
+      "price": -10
+    },
+    {
+      "abr": "gourmetmeal",
+      "category": "Plats",
+      "defname": "VCE_MealGourmet",
+      "price": -10
+    },
+    {
+      "abr": "gourmetsoup",
+      "category": "Plats",
+      "defname": "VCE_CookedSoupGourmet",
+      "price": -10
+    },
+    {
+      "abr": "grandpaillasson(bleue)",
+      "category": "Meubles",
+      "defname": "DoorMatBigBlue",
+      "price": -10
+    },
+    {
+      "abr": "grandpaillasson(rouge)",
+      "category": "Meubles",
+      "defname": "DoorMatBigRed",
+      "price": -10
+    },
+    {
+      "abr": "grandpaillasson(vert)",
+      "category": "Meubles",
+      "defname": "DoorMatBigGreen",
+      "price": -10
+    },
+    {
+      "abr": "grandrug",
+      "category": "Art",
+      "defname": "VFE_RugGrand",
+      "price": -10
+    },
+    {
+      "abr": "grandstatue",
+      "category": "Art",
+      "defname": "VFE_StatueGrand",
+      "price": -10
+    },
+    {
+      "abr": "grandstatueofcolonist",
+      "category": "Art",
+      "defname": "TMB_StatueOfColonistKGrand",
+      "price": -10
+    },
+    {
+      "abr": "grandverresphérique",
+      "category": "Produits manufacturés",
+      "defname": "LargeCircularGlass",
+      "price": -10
+    },
+    {
+      "abr": "grapemust",
+      "category": "Produits manufacturés",
+      "defname": "VFEM_Must",
+      "price": -10
+    },
+    {
+      "abr": "grapes",
+      "category": "Végétaux",
+      "defname": "VFEM_RawGrapes",
+      "price": -10
+    },
+    {
+      "abr": "greatdress",
+      "category": "Vêtements",
+      "defname": "Apparel_GreatDress",
+      "price": -10
+    },
+    {
+      "abr": "greentea",
+      "category": "Drogues",
+      "defname": "VBE_GreenTea",
+      "price": 23
+    },
+    {
+      "abr": "grenadelauncher",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_GrenadeLauncher",
+      "price": -10
+    },
+    {
+      "abr": "grill",
+      "category": "Production",
+      "defname": "VCE_Grill",
+      "price": -10
+    },
+    {
+      "abr": "grinder",
+      "category": "Armes de mêlée",
+      "defname": "PowerTool_IndustrialGrinder",
+      "price": -10
+    },
+    {
+      "abr": "guardianarmor",
+      "category": "Armures",
+      "defname": "VFEV_Apparel_GuardianArmor",
+      "price": 958
+    },
+    {
+      "abr": "guardianhelmet",
+      "category": "Casques",
+      "defname": "VFEV_Apparel_GuardianHelmet",
+      "price": 305
+    },
+    {
+      "abr": "gunkanmaki(gourmet)",
+      "category": "Plats",
+      "defname": "VCE_Gunkanmaki",
+      "price": -10
+    },
+    {
+      "abr": "guppy",
+      "category": "Raw fish",
+      "defname": "VCEF_RawGuppy",
+      "price": -10
+    },
+    {
+      "abr": "haddock",
+      "category": "Raw fish",
+      "defname": "VCEF_RawHaddock",
+      "price": -10
+    },
+    {
+      "abr": "halberd",
+      "category": "Armes de mêlée",
+      "defname": "VWE_MeleeWeapon_Halberd",
+      "price": -10
+    },
+    {
+      "abr": "halibut",
+      "category": "Raw fish",
+      "defname": "VCEF_RawHalibut",
+      "price": -10
+    },
+    {
+      "abr": "hammer",
+      "category": "Armes de mêlée",
+      "defname": "VWE_MeleeWeapon_Hammer",
+      "price": -10
+    },
+    {
+      "abr": "handcannon",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_HandCannon",
+      "price": -10
+    },
+    {
+      "abr": "handheldgatlinggun",
+      "category": "Armes à distance",
+      "defname": "VWEFT_Gun_HandheldGatlingGun",
+      "price": -10
+    },
+    {
+      "abr": "handheldmortar",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_HandheldMortar",
+      "price": -10
+    },
+    {
+      "abr": "handle",
+      "category": "Weapons Part",
+      "defname": "MeleeWeapon_HandlePart",
+      "price": -10
+    },
+    {
+      "abr": "hardhat",
+      "category": "Couvre-chefs",
+      "defname": "VAE_Headgear_Hardhat",
+      "price": 164
+    },
+    {
+      "abr": "harpoon",
+      "category": "Armes à distance",
+      "defname": "VFE_Harpoon",
+      "price": -10
+    },
+    {
+      "abr": "hatchet",
+      "category": "Armes de mêlée",
+      "defname": "VWE_MeleeWeapon_Axe",
+      "price": -10
+    },
+    {
+      "abr": "headbag",
+      "category": "Couvre-chefs",
+      "defname": "VIEHAR_Apparel_Headbag",
+      "price": -10
+    },
+    {
+      "abr": "headscarf",
+      "category": "Couvre-chefs",
+      "defname": "VIEHAR_Apparel_Headscarf",
+      "price": 126
+    },
+    {
+      "abr": "heatpearls",
+      "category": "Utilitaires",
+      "defname": "VPE_HeatPearls",
+      "price": -10
+    },
+    {
+      "abr": "heatershield",
+      "category": "Shields",
+      "defname": "VFEM_Shield_Heater",
+      "price": -10
+    },
+    {
+      "abr": "heavyclub",
+      "category": "Armes de mêlée",
+      "defname": "VWE_MeleeWeapon_HeavyClub",
+      "price": -10
+    },
+    {
+      "abr": "heavycrossbow",
+      "category": "Armes à distance",
+      "defname": "VFEM_Bow_HeavyCrossbow",
+      "price": -10
+    },
+    {
+      "abr": "heavycryptoaxe",
+      "category": "Crypto weapons",
+      "defname": "VFEV_CryptoHeavyAxe",
+      "price": -10
+    },
+    {
+      "abr": "heavycryptohelmet",
+      "category": "Casques",
+      "defname": "VFEV_Apparel_CryptoHeavyHelmet",
+      "price": -10
+    },
+    {
+      "abr": "heavyflamer",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_HeavyFlamer",
+      "price": -10
+    },
+    {
+      "abr": "heavymace",
+      "category": "Armes de mêlée",
+      "defname": "VFEM_MeleeWeapon_HeavyMace",
+      "price": -10
+    },
+    {
+      "abr": "heavyplatearmor",
+      "category": "Armures",
+      "defname": "VFEM_Apparel_PlateArmorHeavy",
+      "price": -10
+    },
+    {
+      "abr": "heavyplatehelmet",
+      "category": "Casques",
+      "defname": "VFEM_Apparel_PlateHelmetHeavy",
+      "price": -10
+    },
+    {
+      "abr": "heavyrevolver",
+      "category": "Armes à distance",
+      "defname": "VWEFT_Gun_HeavyRevolver",
+      "price": -10
+    },
+    {
+      "abr": "helixiengassmelter",
+      "category": "Production",
+      "defname": "VPE_GasSmelter",
+      "price": -10
+    },
+    {
+      "abr": "helixiengassmithy",
+      "category": "Production",
+      "defname": "VPE_GasSmithy",
+      "price": -10
+    },
+    {
+      "abr": "helixiengasstove",
+      "category": "Production",
+      "defname": "VPE_GasStove",
+      "price": -10
+    },
+    {
+      "abr": "herring",
+      "category": "Raw fish",
+      "defname": "VCEF_RawHerring",
+      "price": -10
+    },
+    {
+      "abr": "hmg",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_HMG",
+      "price": -10
+    },
+    {
+      "abr": "hnefatafltable",
+      "category": "Meubles",
+      "defname": "VFEV_Hnefatafl",
+      "price": -10
+    },
+    {
+      "abr": "hologrambase",
+      "category": "Art",
+      "defname": "HologramBase",
+      "price": -10
+    },
+    {
+      "abr": "hood",
+      "category": "Couvre-chefs",
+      "defname": "VAE_Headgear_Hood",
+      "price": -10
+    },
+    {
+      "abr": "hoodie",
+      "category": "Vêtements",
+      "defname": "VAE_Apparel_Hoodie",
+      "price": -10
+    },
+    {
+      "abr": "horn",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertHorn",
+      "price": -10
+    },
+    {
+      "abr": "horsemask",
+      "category": "Couvre-chefs",
+      "defname": "VIEHAR_Apparel_HorseMask",
+      "price": 145
+    },
+    {
+      "abr": "hotsauce",
+      "category": "Condiments",
+      "defname": "VCE_HotSauce",
+      "price": 2
+    },
+    {
+      "abr": "hugestatueofcolonist",
+      "category": "Art",
+      "defname": "TMB_StatueOfColonistKLarge",
+      "price": -10
+    },
+    {
+      "abr": "humansurimi",
+      "category": "Raw fish",
+      "defname": "VCE_HumanSurimi",
+      "price": -10
+    },
+    {
+      "abr": "huntingrifle",
+      "category": "Armes à distance",
+      "defname": "VFES_Gun_HuntingRifle",
+      "price": -10
+    },
+    {
+      "abr": "icedcoffee",
+      "category": "Drogues",
+      "defname": "VBE_IceCoffee",
+      "price": 15
+    },
+    {
+      "abr": "idol",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertIdol",
+      "price": -10
+    },
+    {
+      "abr": "illuminateddresser",
+      "category": "Meubles",
+      "defname": "Table_IlluminatedDresser",
+      "price": -10
+    },
+    {
+      "abr": "illuminatedendtable",
+      "category": "Meubles",
+      "defname": "Table_IlluminatedEndTable",
+      "price": -10
+    },
+    {
+      "abr": "implant",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertImplant",
+      "price": -10
+    },
+    {
+      "abr": "industrialapiary",
+      "category": "Production",
+      "defname": "VFE_IndustrialApiary",
+      "price": -10
+    },
+    {
+      "abr": "industrialcheesepress",
+      "category": "Production",
+      "defname": "VFEM_IndustrialCheesePress",
+      "price": -10
+    },
+    {
+      "abr": "industrialcoffeeroaster",
+      "category": "Production",
+      "defname": "VFEM_IndustrialCoffeeRoaster",
+      "price": -10
+    },
+    {
+      "abr": "industrialsoupvat",
+      "category": "Production",
+      "defname": "VFEM_IndustrialSoupVat",
+      "price": -10
+    },
+    {
+      "abr": "infernocannonturret",
+      "category": "Sécurité",
+      "defname": "VFE_Turret_AutoInfernoCannon",
+      "price": -10
+    },
+    {
+      "abr": "infernospewer",
+      "category": "Armes à distance",
+      "defname": "VFE_Gun_InfernoSpewer",
+      "price": -10
+    },
+    {
+      "abr": "insectjellypreserves",
+      "category": "Condiments",
+      "defname": "VCE_InsectJellyPreserves",
+      "price": -10
+    },
+    {
+      "abr": "insectskull",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertInsectSkull",
+      "price": -10
+    },
+    {
+      "abr": "interactivetable(1x1)",
+      "category": "Meubles",
+      "defname": "Table_interactive_1x1c",
+      "price": -10
+    },
+    {
+      "abr": "interactivetable(2x2)",
+      "category": "Meubles",
+      "defname": "Table_interactive_2x2c",
+      "price": -10
+    },
+    {
+      "abr": "intravenousdripstand",
+      "category": "Divers",
+      "defname": "Facility_IVDrip",
+      "price": -10
+    },
+    {
+      "abr": "irishcoffee",
+      "category": "Drogues",
+      "defname": "VBE_IrishCoffee",
+      "price": 42
+    },
+    {
+      "abr": "jackhammer",
+      "category": "Armes de mêlée",
+      "defname": "PowerTool_IndustrialJackHammer",
+      "price": -10
+    },
+    {
+      "abr": "jarlcape",
+      "category": "Vêtements",
+      "defname": "VFEV_Apparel_JarlCape",
+      "price": -10
+    },
+    {
+      "abr": "jarlcrown",
+      "category": "Couvre-chefs",
+      "defname": "VFEV_JarlCrown",
+      "price": -10
+    },
+    {
+      "abr": "jeans",
+      "category": "Vêtements",
+      "defname": "VAE_Apparel_Jeans",
+      "price": -10
+    },
+    {
+      "abr": "jesterhat",
+      "category": "Couvre-chefs",
+      "defname": "VFEM_Apparel_JesterHat",
+      "price": -10
+    },
+    {
+      "abr": "jesteroutfit",
+      "category": "Vêtements",
+      "defname": "VFEM_Apparel_JesterOutfit",
+      "price": -10
+    },
+    {
+      "abr": "juice",
+      "category": "Plats",
+      "defname": "VBE_Juice",
+      "price": -10
+    },
+    {
+      "abr": "jumpsuit",
+      "category": "Vêtements",
+      "defname": "VAE_Apparel_Jumpsuit",
+      "price": -10
+    },
+    {
+      "abr": "junction",
+      "category": "Weapons Part",
+      "defname": "MeleeWeapon_JunctionPart",
+      "price": -10
+    },
+    {
+      "abr": "ketchup",
+      "category": "Condiments",
+      "defname": "VCE_Ketchup",
+      "price": 2
+    },
+    {
+      "abr": "king’srobes",
+      "category": "Vêtements",
+      "defname": "VFEM_Apparel_KingsRobes",
+      "price": -10
+    },
+    {
+      "abr": "king'scrown",
+      "category": "Couvre-chefs",
+      "defname": "VFEM_Apparel_KingsCrown",
+      "price": -10
+    },
+    {
+      "abr": "kitchensinkcabinet",
+      "category": "Divers",
+      "defname": "VFE_KitchenSinkCabinet",
+      "price": -10
+    },
+    {
+      "abr": "kiteshield",
+      "category": "Shields",
+      "defname": "VFEM_Shield_Kite",
+      "price": -10
+    },
+    {
+      "abr": "knife",
+      "category": "Assemble Weapons",
+      "defname": "MeleeWeapon_TinkersKnife",
+      "price": -10
+    },
+    {
+      "abr": "knifeblade",
+      "category": "Weapons Part",
+      "defname": "MeleeWeapon_KnifeBladePart",
+      "price": -10
+    },
+    {
+      "abr": "knifehandle",
+      "category": "Weapons Part",
+      "defname": "MeleeWeapon_KnifeHandlePart",
+      "price": -10
+    },
+    {
+      "abr": "koi",
+      "category": "Raw fish",
+      "defname": "VCEF_RawKoi",
+      "price": -10
+    },
+    {
+      "abr": "kombuchatea",
+      "category": "Drogues",
+      "defname": "VBE_Kombucha",
+      "price": 17
+    },
+    {
+      "abr": "labcoat",
+      "category": "Vêtements",
+      "defname": "VAE_Apparel_LabCoat",
+      "price": 242
+    },
+    {
+      "abr": "lampadaireextérieur",
+      "category": "Meubles",
+      "defname": "OutdoorGroundLamp",
+      "price": -10
+    },
+    {
+      "abr": "largeadvancedbattery",
+      "category": "Énergie",
+      "defname": "VFE_LargeAdvancedBattery",
+      "price": -10
+    },
+    {
+      "abr": "largebattery",
+      "category": "Énergie",
+      "defname": "VFE_LargeBattery",
+      "price": -10
+    },
+    {
+      "abr": "largedoormat",
+      "category": "Meubles",
+      "defname": "DoorMatBigLeather",
+      "price": -10
+    },
+    {
+      "abr": "largedoormat(orange)",
+      "category": "Meubles",
+      "defname": "DoorMatBigOrange",
+      "price": -10
+    },
+    {
+      "abr": "largedoormat(teal)",
+      "category": "Meubles",
+      "defname": "DoorMatBigTeal",
+      "price": -10
+    },
+    {
+      "abr": "largerug",
+      "category": "Art",
+      "defname": "VFE_RugLarge",
+      "price": -10
+    },
+    {
+      "abr": "largestatue",
+      "category": "Art",
+      "defname": "VFE_StatueLarge",
+      "price": -10
+    },
+    {
+      "abr": "largevanometricpowercell",
+      "category": "Spécial",
+      "defname": "VFE_LargeVanometricPowerCell",
+      "price": -10
+    },
+    {
+      "abr": "laserminigun",
+      "category": "Armes à distance",
+      "defname": "VWEL_Gun_LaserMinigun",
+      "price": -10
+    },
+    {
+      "abr": "laserpistol",
+      "category": "Armes à distance",
+      "defname": "VWEL_Gun_LaserPistol",
+      "price": -10
+    },
+    {
+      "abr": "laserrifle",
+      "category": "Armes à distance",
+      "defname": "VWEL_Gun_LaserRifle",
+      "price": -10
+    },
+    {
+      "abr": "lasersculptingtable",
+      "category": "Production",
+      "defname": "LaserTableSculpting",
+      "price": -10
+    },
+    {
+      "abr": "lasershotgun",
+      "category": "Armes à distance",
+      "defname": "VWEL_Gun_LaserShotgun",
+      "price": -10
+    },
+    {
+      "abr": "lasersmg",
+      "category": "Armes à distance",
+      "defname": "VWEL_Gun_LaserSMG",
+      "price": -10
+    },
+    {
+      "abr": "lasersniperrifle",
+      "category": "Armes à distance",
+      "defname": "VWEL_Gun_LaserSniperRifle",
+      "price": -10
+    },
+    {
+      "abr": "lasersword",
+      "category": "Armes de mêlée",
+      "defname": "VWEL_LaserSword",
+      "price": -10
+    },
+    {
+      "abr": "lattecoffee",
+      "category": "Drogues",
+      "defname": "VBE_LatteCoffee",
+      "price": 20
+    },
+    {
+      "abr": "lavishbake",
+      "category": "Plats",
+      "defname": "VCE_LavishBake",
+      "price": -10
+    },
+    {
+      "abr": "lavishcocktail",
+      "category": "Plats",
+      "defname": "VBE_LavishCocktail",
+      "price": -10
+    },
+    {
+      "abr": "lavishdessert",
+      "category": "Plats",
+      "defname": "VCE_LavishDessert",
+      "price": -10
+    },
+    {
+      "abr": "lavishgrill",
+      "category": "Plats",
+      "defname": "VCE_LavishGrill",
+      "price": -10
+    },
+    {
+      "abr": "lavishsoup",
+      "category": "Plats",
+      "defname": "VCE_CookedSoupLavish",
+      "price": -10
+    },
+    {
+      "abr": "lavishstew",
+      "category": "Plats",
+      "defname": "VCE_CookedStewLavish",
+      "price": -10
+    },
+    {
+      "abr": "leatherarmor",
+      "category": "Armures",
+      "defname": "VFEV_LeatherArmor",
+      "price": -10
+    },
+    {
+      "abr": "leatherhelmet",
+      "category": "Casques",
+      "defname": "VFEV_Apparel_LeatherHelmet",
+      "price": -10
+    },
+    {
+      "abr": "lemontea",
+      "category": "Drogues",
+      "defname": "VBE_LemonTea",
+      "price": 17
+    },
+    {
+      "abr": "lemonade",
+      "category": "Drogues",
+      "defname": "VBE_Lemonade",
+      "price": 5
+    },
+    {
+      "abr": "lemons",
+      "category": "Raw fruits",
+      "defname": "VCE_RawLemon",
+      "price": -10
+    },
+    {
+      "abr": "lever-actionrifle",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_LeverActionRifle",
+      "price": -10
+    },
+    {
+      "abr": "lever-actionshotgun",
+      "category": "Armes à distance",
+      "defname": "VWEFT_Gun_LeverActionShotgun",
+      "price": -10
+    },
+    {
+      "abr": "lightclub",
+      "category": "Armes de mêlée",
+      "defname": "VWE_MeleeWeapon_LightClub",
+      "price": -10
+    },
+    {
+      "abr": "lightplatehelmet",
+      "category": "Casques",
+      "defname": "VFEM_Apparel_PlateHelmetLight",
+      "price": -10
+    },
+    {
+      "abr": "lightsmg",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_LightSMG",
+      "price": -10
+    },
+    {
+      "abr": "lightningrod",
+      "category": "Spécial",
+      "defname": "VPE_LightningRod",
+      "price": -10
+    },
+    {
+      "abr": "linkeddoormat",
+      "category": "Meubles",
+      "defname": "DoorMatLinkedLeather",
+      "price": -10
+    },
+    {
+      "abr": "linkeddoormat(blue)",
+      "category": "Meubles",
+      "defname": "DoorMatLinkedBlue",
+      "price": -10
+    },
+    {
+      "abr": "linkeddoormat(green)",
+      "category": "Meubles",
+      "defname": "DoorMatLinkedGreen",
+      "price": -10
+    },
+    {
+      "abr": "linkeddoormat(orange)",
+      "category": "Meubles",
+      "defname": "DoorMatLinkedOrange",
+      "price": -10
+    },
+    {
+      "abr": "linkeddoormat(red)",
+      "category": "Meubles",
+      "defname": "DoorMatLinkedRed",
+      "price": -10
+    },
+    {
+      "abr": "linkeddoormat(teal)",
+      "category": "Meubles",
+      "defname": "DoorMatLinkedTeal",
+      "price": -10
+    },
+    {
+      "abr": "liquidfreezer",
+      "category": "Meubles",
+      "defname": "VFE_MechanoidLiquidFreezer",
+      "price": -10
+    },
+    {
+      "abr": "liquormixer",
+      "category": "Production",
+      "defname": "VFE_LiquorMixer",
+      "price": -10
+    },
+    {
+      "abr": "lobster",
+      "category": "Raw fish",
+      "defname": "VCEF_RawLobster",
+      "price": -10
+    },
+    {
+      "abr": "longbow",
+      "category": "Armes à distance",
+      "defname": "VWE_Bow_Long",
+      "price": 197
+    },
+    {
+      "abr": "longsword",
+      "category": "Assemble Weapons",
+      "defname": "MeleeWeapon_TinkersLongSword",
+      "price": -10
+    },
+    {
+      "abr": "lothurr",
+      "category": "Animaux",
+      "defname": "VFEV_Lothurr",
+      "price": -10
+    },
+    {
+      "abr": "lothurrantler",
+      "category": "Objets",
+      "defname": "VFEV_LothurrAntler",
+      "price": -10
+    },
+    {
+      "abr": "lothurrleather",
+      "category": "Cuirs",
+      "defname": "VFEV_Leather_Lothurr",
+      "price": -10
+    },
+    {
+      "abr": "luciferiumpowder",
+      "category": "Condiments",
+      "defname": "VBE_LuciferiumPowder",
+      "price": -10
+    },
+    {
+      "abr": "machiningcabinet",
+      "category": "Divers",
+      "defname": "VFE_MachiningCabinet",
+      "price": -10
+    },
+    {
+      "abr": "mackerel",
+      "category": "Raw fish",
+      "defname": "VCEF_RawMackerel",
+      "price": -10
+    },
+    {
+      "abr": "makeshiftlmg",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_MakeshiftLMG",
+      "price": -10
+    },
+    {
+      "abr": "makeshiftpistol",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_MakeshiftPistol",
+      "price": -10
+    },
+    {
+      "abr": "makeshiftrifle",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_MakeshiftRifle",
+      "price": -10
+    },
+    {
+      "abr": "makeshiftshotgun",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_MakeshiftShotgun",
+      "price": -10
+    },
+    {
+      "abr": "makeshiftsmg",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_MakeshiftSMG",
+      "price": -10
+    },
+    {
+      "abr": "mannequinpourletiràl'arc",
+      "category": "Détente",
+      "defname": "ShootingRangeTarget",
+      "price": 325
+    },
+    {
+      "abr": "mannequinpourlesartsmartiaux",
+      "category": "Détente",
+      "defname": "MartialArtsTarget",
+      "price": 251
+    },
+    {
+      "abr": "marksmanrifle",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_MarksmanRifle",
+      "price": -10
+    },
+    {
+      "abr": "masalachai",
+      "category": "Drogues",
+      "defname": "VBE_MasalaChai",
+      "price": 20
+    },
+    {
+      "abr": "masonrysaw",
+      "category": "Production",
+      "defname": "VFEM_MasonryAndMetallicsFactory_MasonrySaw",
+      "price": -10
+    },
+    {
+      "abr": "mayo",
+      "category": "Condiments",
+      "defname": "VCE_Mayo",
+      "price": 6
+    },
+    {
+      "abr": "mead",
+      "category": "Drogues",
+      "defname": "VFEV_Mead",
+      "price": 25
+    },
+    {
+      "abr": "meadfermentingbarrel",
+      "category": "Production",
+      "defname": "VFEV_MeadFermentingBarrel",
+      "price": -10
+    },
+    {
+      "abr": "meatgrinder",
+      "category": "Production",
+      "defname": "VFEM_ProvisionsPackagingFactory_MeatGrinder",
+      "price": -10
+    },
+    {
+      "abr": "mechanitepants",
+      "category": "Armures",
+      "defname": "VFE_MechanitePants",
+      "price": -10
+    },
+    {
+      "abr": "mechaniteunderarmor",
+      "category": "Armures",
+      "defname": "VFE_MechaniteUnderArmor",
+      "price": -10
+    },
+    {
+      "abr": "mechanizedweaponsmith",
+      "category": "Production",
+      "defname": "VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith",
+      "price": -10
+    },
+    {
+      "abr": "mechanoidcomponent",
+      "category": "Produits manufacturés",
+      "defname": "VFE_ComponentMechanoid",
+      "price": -10
+    },
+    {
+      "abr": "mechanoidhead",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertMechanoidHead",
+      "price": -10
+    },
+    {
+      "abr": "medallion",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertMedallion",
+      "price": -10
+    },
+    {
+      "abr": "medicinegranulator",
+      "category": "Production",
+      "defname": "VFEM_MedicinalCompoundingFactory_MedicineGranulator",
+      "price": -10
+    },
+    {
+      "abr": "mediumdoormat",
+      "category": "Meubles",
+      "defname": "DoorMatMediumLeather",
+      "price": -10
+    },
+    {
+      "abr": "mediumdoormat(blue)",
+      "category": "Meubles",
+      "defname": "DoorMatMediumBlue",
+      "price": -10
+    },
+    {
+      "abr": "mediumdoormat(green)",
+      "category": "Meubles",
+      "defname": "DoorMatMediumGreen",
+      "price": -10
+    },
+    {
+      "abr": "mediumdoormat(orange)",
+      "category": "Meubles",
+      "defname": "DoorMatMediumOrange",
+      "price": -10
+    },
+    {
+      "abr": "mediumdoormat(red)",
+      "category": "Meubles",
+      "defname": "DoorMatMediumRed",
+      "price": -10
+    },
+    {
+      "abr": "mediumdoormat(teal)",
+      "category": "Meubles",
+      "defname": "DoorMatMediumTeal",
+      "price": -10
+    },
+    {
+      "abr": "militaryberet",
+      "category": "Couvre-chefs",
+      "defname": "VAE_Headgear_Beret",
+      "price": 77
+    },
+    {
+      "abr": "militarycap",
+      "category": "Couvre-chefs",
+      "defname": "VIEHAR_Apparel_MilitaryCap",
+      "price": 109
+    },
+    {
+      "abr": "militaryjacket",
+      "category": "Vêtements",
+      "defname": "VAE_Apparel_MilitaryJacket",
+      "price": 375
+    },
+    {
+      "abr": "militaryuniform",
+      "category": "Vêtements",
+      "defname": "VAE_Apparel_MilitaryUniform",
+      "price": 246
+    },
+    {
+      "abr": "mini-14",
+      "category": "Gun Nut",
+      "defname": "HRK_Ruger_14Mini",
+      "price": -10
+    },
+    {
+      "abr": "mini-14(charged)",
+      "category": "Gun Nut",
+      "defname": "HRK_Ruger_ChargeMini",
+      "price": -10
+    },
+    {
+      "abr": "mini-30",
+      "category": "Gun Nut",
+      "defname": "HRK_Ruger_30Mini",
+      "price": -10
+    },
+    {
+      "abr": "mini-30(custom)",
+      "category": "Gun Nut",
+      "defname": "HRK_Ruger_TacticalMini",
+      "price": -10
+    },
+    {
+      "abr": "minnow",
+      "category": "Raw fish",
+      "defname": "VCEF_RawMinnow",
+      "price": -10
+    },
+    {
+      "abr": "mintcoffee",
+      "category": "Drogues",
+      "defname": "VBE_MintCoffee",
+      "price": 20
+    },
+    {
+      "abr": "mintleaves",
+      "category": "Condiments",
+      "defname": "VBE_MintLeaves",
+      "price": 11
+    },
+    {
+      "abr": "minttea",
+      "category": "Drogues",
+      "defname": "VBE_MintTea",
+      "price": 13
+    },
+    {
+      "abr": "mjollnirstriketargeter",
+      "category": "Utilitaires",
+      "defname": "VFEV_OrbitalTargeterMjollnir",
+      "price": -10
+    },
+    {
+      "abr": "mobileturretchargingstation",
+      "category": "Production",
+      "defname": "VFE_Mechanoids_TurretBase",
+      "price": -10
+    },
+    {
+      "abr": "mochacoffee",
+      "category": "Drogues",
+      "defname": "VBE_MochaCoffee",
+      "price": 17
+    },
+    {
+      "abr": "moderndarklamp",
+      "category": "Meubles",
+      "defname": "Light_ModernDarkLamp",
+      "price": -10
+    },
+    {
+      "abr": "modularstool",
+      "category": "Meubles",
+      "defname": "StoolLinkable",
+      "price": -10
+    },
+    {
+      "abr": "modulartable",
+      "category": "Meubles",
+      "defname": "TableShortModular",
+      "price": -10
+    },
+    {
+      "abr": "mold",
+      "category": "Produits manufacturés",
+      "defname": "Stove_Mould",
+      "price": -10
+    },
+    {
+      "abr": "molotovbelt",
+      "category": "Utilitaires",
+      "defname": "VWE_Apparel_GrenadeMolotovBelt",
+      "price": -10
+    },
+    {
+      "abr": "monument",
+      "category": "Art",
+      "defname": "VFE_Monument",
+      "price": -10
+    },
+    {
+      "abr": "mooseheaddress",
+      "category": "Couvre-chefs",
+      "defname": "VFEV_MooseHeaddress",
+      "price": 203
+    },
+    {
+      "abr": "mug",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertMug",
+      "price": -10
+    },
+    {
+      "abr": "musket",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_Musket",
+      "price": -10
+    },
+    {
+      "abr": "neutroamineinfuser",
+      "category": "Production",
+      "defname": "VFEM_MedicinalCompoundingFactory_NeutroamineInfuser",
+      "price": -10
+    },
+    {
+      "abr": "nigiri(fine)",
+      "category": "Plats",
+      "defname": "VCE_Nigiri",
+      "price": -10
+    },
+    {
+      "abr": "njorun",
+      "category": "Animaux",
+      "defname": "VFEV_Njorun",
+      "price": -10
+    },
+    {
+      "abr": "njorunfur",
+      "category": "Cuirs",
+      "defname": "VFEV_Leather_Njorun",
+      "price": -10
+    },
+    {
+      "abr": "noblefurcoat",
+      "category": "Vêtements",
+      "defname": "VFEV_Apparel_RoyalFurCoat",
+      "price": -10
+    },
+    {
+      "abr": "non-lethalpistol",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_RubberBulletPistol",
+      "price": -10
+    },
+    {
+      "abr": "noonchai",
+      "category": "Drogues",
+      "defname": "VBE_NoonChai",
+      "price": 20
+    },
+    {
+      "abr": "norimaki(simple)",
+      "category": "Plats",
+      "defname": "VCE_Norimaki",
+      "price": -10
+    },
+    {
+      "abr": "obelisk",
+      "category": "Art",
+      "defname": "VFE_Obelisk",
+      "price": -10
+    },
+    {
+      "abr": "operatingtable",
+      "category": "Meubles",
+      "defname": "Bed_OperatingTable",
+      "price": -10
+    },
+    {
+      "abr": "orb",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertApple",
+      "price": -10
+    },
+    {
+      "abr": "oshizushi(gourmet)",
+      "category": "Plats",
+      "defname": "VCE_Oshizushi",
+      "price": -10
+    },
+    {
+      "abr": "outdoorlamp",
+      "category": "Meubles",
+      "defname": "Light_OutdoorDarkLamp",
+      "price": -10
+    },
+    {
+      "abr": "outdoorsolardarklamp",
+      "category": "Meubles",
+      "defname": "Spacer_OutdoorDarkLamp",
+      "price": -10
+    },
+    {
+      "abr": "outdoorsolarlamp",
+      "category": "Meubles",
+      "defname": "Spacer_OutdoorLamp",
+      "price": -10
+    },
+    {
+      "abr": "overalls",
+      "category": "Vêtements",
+      "defname": "VAE_Apparel_Overalls",
+      "price": -10
+    },
+    {
+      "abr": "paillasson(bleue)",
+      "category": "Meubles",
+      "defname": "DoorMatBlue",
+      "price": -10
+    },
+    {
+      "abr": "paillasson(rouge)",
+      "category": "Meubles",
+      "defname": "DoorMatRed",
+      "price": -10
+    },
+    {
+      "abr": "paillasson(vert)",
+      "category": "Meubles",
+      "defname": "DoorMatGreen",
+      "price": -10
+    },
+    {
+      "abr": "pdw",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_PDW",
+      "price": -10
+    },
+    {
+      "abr": "peltcoat",
+      "category": "Vêtements",
+      "defname": "VAE_Apparel_PeltCoat",
+      "price": -10
+    },
+    {
+      "abr": "perch",
+      "category": "Raw fish",
+      "defname": "VCEF_RawPerch",
+      "price": -10
+    },
+    {
+      "abr": "pickaxe",
+      "category": "Armes de mêlée",
+      "defname": "VWE_MeleeWeapon_Pickaxe",
+      "price": -10
+    },
+    {
+      "abr": "pillar",
+      "category": "Art",
+      "defname": "VFE_Pillar",
+      "price": -10
+    },
+    {
+      "abr": "pilum",
+      "category": "Assemble Weapons",
+      "defname": "RangWeapon_TinkersPilum",
+      "price": -10
+    },
+    {
+      "abr": "pilumgrip",
+      "category": "Weapons Part",
+      "defname": "RangWeapon_Pilum_GripPart",
+      "price": -10
+    },
+    {
+      "abr": "piranha",
+      "category": "Raw fish",
+      "defname": "VCEF_RawPiranha",
+      "price": -10
+    },
+    {
+      "abr": "plafonnier",
+      "category": "Meubles",
+      "defname": "GLCeilingLamp",
+      "price": -10
+    },
+    {
+      "abr": "plafonnier",
+      "category": "Meubles",
+      "defname": "CeilingLamp",
+      "price": -10
+    },
+    {
+      "abr": "plafonnier(bleu)",
+      "category": "Meubles",
+      "defname": "GLCeilingLamp_Blue",
+      "price": -10
+    },
+    {
+      "abr": "plafonnier(bleu)",
+      "category": "Meubles",
+      "defname": "CeilingLamp_Blue",
+      "price": -10
+    },
+    {
+      "abr": "plafonnier(jaune)",
+      "category": "Meubles",
+      "defname": "GLCeilingLamp_Yellow",
+      "price": -10
+    },
+    {
+      "abr": "plafonnier(jaune)",
+      "category": "Meubles",
+      "defname": "CeilingLamp_Yellow",
+      "price": -10
+    },
+    {
+      "abr": "plafonnier(orange)",
+      "category": "Meubles",
+      "defname": "GLCeilingLamp_Orange",
+      "price": -10
+    },
+    {
+      "abr": "plafonnier(orange)",
+      "category": "Meubles",
+      "defname": "CeilingLamp_Orange",
+      "price": -10
+    },
+    {
+      "abr": "plafonnier(rouge)",
+      "category": "Meubles",
+      "defname": "GLCeilingLamp_Red",
+      "price": -10
+    },
+    {
+      "abr": "plafonnier(rouge)",
+      "category": "Meubles",
+      "defname": "CeilingLamp_Red",
+      "price": -10
+    },
+    {
+      "abr": "plafonnier(vert)",
+      "category": "Meubles",
+      "defname": "GLCeilingLamp_Green",
+      "price": -10
+    },
+    {
+      "abr": "plafonnier(vert)",
+      "category": "Meubles",
+      "defname": "CeilingLamp_Green",
+      "price": -10
+    },
+    {
+      "abr": "plafonnier(violet)",
+      "category": "Meubles",
+      "defname": "GLCeilingLamp_Violet",
+      "price": -10
+    },
+    {
+      "abr": "plafonnier(violet)",
+      "category": "Meubles",
+      "defname": "CeilingLamp_Violet",
+      "price": -10
+    },
+    {
+      "abr": "plaguemask",
+      "category": "Couvre-chefs",
+      "defname": "VFEM_Apparel_PlagueMask",
+      "price": 163
+    },
+    {
+      "abr": "plasteelforge",
+      "category": "Production",
+      "defname": "VFEM_MasonryAndMetallicsFactory_PlasteelForge",
+      "price": -10
+    },
+    {
+      "abr": "plinth",
+      "category": "Art",
+      "defname": "VFE_Plinth",
+      "price": -10
+    },
+    {
+      "abr": "polishedrock",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertPolishedRock",
+      "price": -10
+    },
+    {
+      "abr": "portablechemfuelpoweredgenerator",
+      "category": "Énergie",
+      "defname": "VFE_PortableChemfuelPoweredGenerator",
+      "price": -10
+    },
+    {
+      "abr": "portablewood-firedgenerator",
+      "category": "Énergie",
+      "defname": "VFE_PortableWoodFiredGenerator",
+      "price": -10
+    },
+    {
+      "abr": "pottery",
+      "category": "Art",
+      "defname": "VFE_Pottery",
+      "price": 143
+    },
+    {
+      "abr": "prestigeplatearmor",
+      "category": "Armures",
+      "defname": "VPE_Apparel_PlateArmorPrestige",
+      "price": -10
+    },
+    {
+      "abr": "processedmeat",
+      "category": "Viandes crues",
+      "defname": "VFEM_ProcessedMeat",
+      "price": -10
+    },
+    {
+      "abr": "prostheticstable",
+      "category": "Production",
+      "defname": "TableSyrProsthetics",
+      "price": -10
+    },
+    {
+      "abr": "psychiccornucopia",
+      "category": "Artéfacts",
+      "defname": "VFEV_PlantGrowerArtifact",
+      "price": -10
+    },
+    {
+      "abr": "psyring",
+      "category": "Utilitaires",
+      "defname": "VPE_Psyring",
+      "price": -10
+    },
+    {
+      "abr": "pufferfish",
+      "category": "Raw fish",
+      "defname": "VCEF_RawPufferfish",
+      "price": -10
+    },
+    {
+      "abr": "pumpkinspicecoffee",
+      "category": "Drogues",
+      "defname": "VBE_PumpkinCoffee",
+      "price": 7
+    },
+    {
+      "abr": "pyramid",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertPyramid",
+      "price": -10
+    },
+    {
+      "abr": "pyromechanoidchargingstation",
+      "category": "Production",
+      "defname": "VFE_Mechanoids_PyroBase",
+      "price": -10
+    },
+    {
+      "abr": "rags",
+      "category": "Vêtements",
+      "defname": "VIEHAR_Apparel_Rags",
+      "price": -10
+    },
+    {
+      "abr": "raidermechanoidchargingstation",
+      "category": "Production",
+      "defname": "VFE_Mechanoids_RaiderBase",
+      "price": -10
+    },
+    {
+      "abr": "ravagerarmor",
+      "category": "Armures",
+      "defname": "VFEV_Apparel_RavagerArmor",
+      "price": 825
+    },
+    {
+      "abr": "ravagerhelmet",
+      "category": "Casques",
+      "defname": "VFEV_Apparel_RavagerHelmet",
+      "price": -10
+    },
+    {
+      "abr": "rawhoney",
+      "category": "Produits animaliers",
+      "defname": "VFEV_Honey",
+      "price": -10
+    },
+    {
+      "abr": "relief",
+      "category": "Art",
+      "defname": "VFE_Relief",
+      "price": -10
+    },
+    {
+      "abr": "repairshelf",
+      "category": "Meubles",
+      "defname": "Shelf_RepairRack",
+      "price": 2908
+    },
+    {
+      "abr": "repeatingshotgun",
+      "category": "Armes à distance",
+      "defname": "VWEFT_Gun_RepeatingShotgun",
+      "price": -10
+    },
+    {
+      "abr": "ring",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertRing",
+      "price": -10
+    },
+    {
+      "abr": "riotmechanoidchargingstation",
+      "category": "Production",
+      "defname": "VFE_Mechanoids_RiotBase",
+      "price": -10
+    },
+    {
+      "abr": "rockconstruct",
+      "category": "Animaux",
+      "defname": "VPE_RockConstruct",
+      "price": -10
+    },
+    {
+      "abr": "rocketlauncher",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_RocketLauncher",
+      "price": -10
+    },
+    {
+      "abr": "rollingblockrifle",
+      "category": "Armes à distance",
+      "defname": "VWEFT_Gun_RollingBlockRifle",
+      "price": -10
+    },
+    {
+      "abr": "roundshield",
+      "category": "Shields",
+      "defname": "VFEV_Shield_Round",
+      "price": -10
+    },
+    {
+      "abr": "royalcoffin",
+      "category": "Meubles",
+      "defname": "ROMV_RoyalCoffin",
+      "price": -10
+    },
+    {
+      "abr": "ruby",
+      "category": "Ressources brutes",
+      "defname": "Ruby",
+      "price": -10
+    },
+    {
+      "abr": "ruinedfinegrill",
+      "category": "Plats",
+      "defname": "VCE_RuinedFineGrill",
+      "price": -10
+    },
+    {
+      "abr": "ruinedgourmetgrill",
+      "category": "Plats",
+      "defname": "VCE_RuinedGourmetGrill",
+      "price": -10
+    },
+    {
+      "abr": "ruinedlavishgrill",
+      "category": "Plats",
+      "defname": "VCE_RuinedLavishGrill",
+      "price": -10
+    },
+    {
+      "abr": "ruinedsimplegrill",
+      "category": "Plats",
+      "defname": "VCE_RuinedSimpleGrill",
+      "price": -10
+    },
+    {
+      "abr": "runestone",
+      "category": "Meubles",
+      "defname": "VFEV_RuneStone",
+      "price": -10
+    },
+    {
+      "abr": "salmon",
+      "category": "Raw fish",
+      "defname": "VCEF_RawSalmon",
+      "price": -10
+    },
+    {
+      "abr": "salt",
+      "category": "Condiments",
+      "defname": "VCE_Salt",
+      "price": 3
+    },
+    {
+      "abr": "salvagedlaserhuntingrifle",
+      "category": "Armes à distance",
+      "defname": "VWEFT_Gun_SalvagedLaserHuntingRifle",
+      "price": -10
+    },
+    {
+      "abr": "salvagedlaserpistol",
+      "category": "Armes à distance",
+      "defname": "VWEL_Gun_SalvagedLaserPistol",
+      "price": -10
+    },
+    {
+      "abr": "salvagedlaserrepeater",
+      "category": "Armes à distance",
+      "defname": "VWEFT_Gun_SalvagedLaserRepeater",
+      "price": -10
+    },
+    {
+      "abr": "salvagedlaserrevolver",
+      "category": "Armes à distance",
+      "defname": "VWEFT_Gun_SalvagedLaserRevolver",
+      "price": -10
+    },
+    {
+      "abr": "salvagedlaserrifle",
+      "category": "Armes à distance",
+      "defname": "VWEL_Gun_SalvagedLaserRifle",
+      "price": -10
+    },
+    {
+      "abr": "salvagedlasershotgun",
+      "category": "Armes à distance",
+      "defname": "VWEL_Gun_SalvagedLaserShotgun",
+      "price": -10
+    },
+    {
+      "abr": "salvagedlasersniperrifle",
+      "category": "Armes à distance",
+      "defname": "VWEL_Gun_SalvagedLaserSniperRifle",
+      "price": -10
+    },
+    {
+      "abr": "sapphire",
+      "category": "Ressources brutes",
+      "defname": "Sapphire",
+      "price": -10
+    },
+    {
+      "abr": "sawed-offshotgun",
+      "category": "Armes à distance",
+      "defname": "VWE_SawedOffShotgun",
+      "price": -10
+    },
+    {
+      "abr": "scalpel",
+      "category": "Armes de mêlée",
+      "defname": "VWE_MeleeWeapon_Scalpel",
+      "price": -10
+    },
+    {
+      "abr": "scarecrow",
+      "category": "Divers",
+      "defname": "VFE_Scarecrow",
+      "price": 129
+    },
+    {
+      "abr": "scarf",
+      "category": "Couvre-chefs",
+      "defname": "VAE_Headgear_Scarf",
+      "price": -10
+    },
+    {
+      "abr": "scroll",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertScroll",
+      "price": -10
+    },
+    {
+      "abr": "seax",
+      "category": "Armes de mêlée",
+      "defname": "VFE_MeleeWeapon_Seax",
+      "price": -10
+    },
+    {
+      "abr": "semi-automaticrifle",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_SemiAutomaticRifle",
+      "price": -10
+    },
+    {
+      "abr": "servicerifle",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_ServiceRifle",
+      "price": -10
+    },
+    {
+      "abr": "sheriffshirt",
+      "category": "Vêtements",
+      "defname": "VAE_Apparel_SheriffShirt",
+      "price": 213
+    },
+    {
+      "abr": "shirtandtie",
+      "category": "Vêtements",
+      "defname": "VAE_Apparel_ShirtandTie",
+      "price": -10
+    },
+    {
+      "abr": "shiv",
+      "category": "Armes de mêlée",
+      "defname": "VWE_MeleeWeapon_Shiv",
+      "price": -10
+    },
+    {
+      "abr": "shoes",
+      "category": "Handwear and footwear",
+      "defname": "VAE_Footwear_Shoes",
+      "price": 114
+    },
+    {
+      "abr": "shorts",
+      "category": "Vêtements",
+      "defname": "VAE_Apparel_Shorts",
+      "price": -10
+    },
+    {
+      "abr": "shovel",
+      "category": "Armes de mêlée",
+      "defname": "VWE_MeleeWeapon_Shovel",
+      "price": -10
+    },
+    {
+      "abr": "shroud",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertShroud",
+      "price": -10
+    },
+    {
+      "abr": "silverbracelet",
+      "category": "Jewelry",
+      "defname": "Jewelry_Bracelet_Silver",
+      "price": 417
+    },
+    {
+      "abr": "silverearring",
+      "category": "Jewelry",
+      "defname": "Jewelry_Earring_Silver",
+      "price": 267
+    },
+    {
+      "abr": "silvereltexnecklace",
+      "category": "Jewelry",
+      "defname": "Jewelry_PsychicNecklace_Silver",
+      "price": 750
+    },
+    {
+      "abr": "silvernecklace",
+      "category": "Jewelry",
+      "defname": "Jewelry_Necklace_Silver",
+      "price": 600
+    },
+    {
+      "abr": "silverring",
+      "category": "Jewelry",
+      "defname": "Jewelry_Ring_Silver",
+      "price": 250
+    },
+    {
+      "abr": "simplebake",
+      "category": "Plats",
+      "defname": "VCE_SimpleBake",
+      "price": -10
+    },
+    {
+      "abr": "simplecocktail",
+      "category": "Plats",
+      "defname": "VBE_SimpleCocktail",
+      "price": -10
+    },
+    {
+      "abr": "simpledessert",
+      "category": "Plats",
+      "defname": "VCE_SimpleDessert",
+      "price": -10
+    },
+    {
+      "abr": "simplegrill",
+      "category": "Plats",
+      "defname": "VCE_SimpleGrill",
+      "price": -10
+    },
+    {
+      "abr": "simplesoup",
+      "category": "Plats",
+      "defname": "VCE_CookedSoupSimple",
+      "price": -10
+    },
+    {
+      "abr": "simplestew",
+      "category": "Plats",
+      "defname": "VCE_CookedStewSimple",
+      "price": -10
+    },
+    {
+      "abr": "skeleton",
+      "category": "Animaux",
+      "defname": "VPE_SummonedSkeleton",
+      "price": -10
+    },
+    {
+      "abr": "skirt",
+      "category": "Vêtements",
+      "defname": "VAE_Apparel_Skirt",
+      "price": -10
+    },
+    {
+      "abr": "skull",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertSkull",
+      "price": -10
+    },
+    {
+      "abr": "skullcap",
+      "category": "Couvre-chefs",
+      "defname": "VIEHAR_Apparel_Skullcap",
+      "price": -10
+    },
+    {
+      "abr": "slag",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertPlate",
+      "price": -10
+    },
+    {
+      "abr": "sling",
+      "category": "Armes à distance",
+      "defname": "VWE_Sling",
+      "price": -10
+    },
+    {
+      "abr": "smallbattery",
+      "category": "Énergie",
+      "defname": "VFE_SmallBattery",
+      "price": -10
+    },
+    {
+      "abr": "smalldoormat",
+      "category": "Meubles",
+      "defname": "DoorMatLeather",
+      "price": -10
+    },
+    {
+      "abr": "smalldoormat(orange)",
+      "category": "Meubles",
+      "defname": "DoorMatOrange",
+      "price": -10
+    },
+    {
+      "abr": "smalldoormat(teal)",
+      "category": "Meubles",
+      "defname": "DoorMatTeal",
+      "price": -10
+    },
+    {
+      "abr": "smallinfernospewer",
+      "category": "Armes à distance",
+      "defname": "VFE_Gun_InfernoSpewerSmall",
+      "price": -10
+    },
+    {
+      "abr": "smallrug",
+      "category": "Art",
+      "defname": "VFE_RugSmall",
+      "price": -10
+    },
+    {
+      "abr": "smallstatue",
+      "category": "Art",
+      "defname": "VFE_StatueSmall",
+      "price": -10
+    },
+    {
+      "abr": "smallvanometricpowercell",
+      "category": "Spécial",
+      "defname": "VFE_SmallVanometricPowerCell",
+      "price": -10
+    },
+    {
+      "abr": "smg",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_SMG",
+      "price": -10
+    },
+    {
+      "abr": "smithingcabinet",
+      "category": "Divers",
+      "defname": "VFE_SmithyCabinet",
+      "price": -10
+    },
+    {
+      "abr": "smokegrenadebelt",
+      "category": "Utilitaires",
+      "defname": "VWE_Apparel_GrenadeSmokeBelt",
+      "price": -10
+    },
+    {
+      "abr": "smokegrenades",
+      "category": "Grenades",
+      "defname": "VWE_SmokeGrenade",
+      "price": -10
+    },
+    {
+      "abr": "smokedfish",
+      "category": "Raw fish",
+      "defname": "VFEM_SmokedFish",
+      "price": -10
+    },
+    {
+      "abr": "smokedmeat",
+      "category": "Viandes crues",
+      "defname": "VFEM_SmokedMeat",
+      "price": -10
+    },
+    {
+      "abr": "smokeleafbutter",
+      "category": "Condiments",
+      "defname": "VCE_SmokeleafButter",
+      "price": 12
+    },
+    {
+      "abr": "soda",
+      "category": "Drogues",
+      "defname": "VBE_Soda",
+      "price": 20
+    },
+    {
+      "abr": "sodafountain",
+      "category": "Production",
+      "defname": "VBE_SodaFountain",
+      "price": -10
+    },
+    {
+      "abr": "sodasyrup",
+      "category": "Musts and syrups",
+      "defname": "VBE_SodaSyrup",
+      "price": -10
+    },
+    {
+      "abr": "sombrero",
+      "category": "Couvre-chefs",
+      "defname": "VFES_Headgear_Sombrero",
+      "price": 97
+    },
+    {
+      "abr": "soysauce",
+      "category": "Condiments",
+      "defname": "VCE_SoySauce",
+      "price": 25
+    },
+    {
+      "abr": "soysaucefermenter",
+      "category": "Production",
+      "defname": "VCE_SoyFermenter",
+      "price": -10
+    },
+    {
+      "abr": "soybeans",
+      "category": "Végétaux",
+      "defname": "VCE_RawSoybean",
+      "price": -10
+    },
+    {
+      "abr": "spacerdarklamp",
+      "category": "Meubles",
+      "defname": "Light_SpacerDarkLamp",
+      "price": -10
+    },
+    {
+      "abr": "spacerlamp",
+      "category": "Meubles",
+      "defname": "Light_SpacerLamp",
+      "price": -10
+    },
+    {
+      "abr": "spices",
+      "category": "Condiments",
+      "defname": "VCE_RawSpices",
+      "price": 11
+    },
+    {
+      "abr": "spikedskullcap",
+      "category": "Couvre-chefs",
+      "defname": "VIEHAR_Apparel_SpikedSkullcap",
+      "price": -10
+    },
+    {
+      "abr": "sprat",
+      "category": "Raw fish",
+      "defname": "VCEF_RawSprat",
+      "price": -10
+    },
+    {
+      "abr": "sprinkler",
+      "category": "Divers",
+      "defname": "VFE_Sprinkler",
+      "price": -10
+    },
+    {
+      "abr": "stack",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertStack",
+      "price": -10
+    },
+    {
+      "abr": "standinggaslamp",
+      "category": "Meubles",
+      "defname": "VPE_GasLamp",
+      "price": -10
+    },
+    {
+      "abr": "statueofcolonist",
+      "category": "Art",
+      "defname": "TMB_StatueOfColonistK",
+      "price": -10
+    },
+    {
+      "abr": "statuette",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertStatuette",
+      "price": -10
+    },
+    {
+      "abr": "steelconstruct",
+      "category": "Animaux",
+      "defname": "VPE_SteelConstruct",
+      "price": -10
+    },
+    {
+      "abr": "steelextractor",
+      "category": "Production",
+      "defname": "VFEM_ElectronicsFabricationFactory_SteelExtractor",
+      "price": -10
+    },
+    {
+      "abr": "stunbaton",
+      "category": "Armes de mêlée",
+      "defname": "VWE_MeleeWeapon_StunBaton",
+      "price": -10
+    },
+    {
+      "abr": "sugar",
+      "category": "Condiments",
+      "defname": "VCE_RawSugar",
+      "price": 20
+    },
+    {
+      "abr": "suitjacket",
+      "category": "Vêtements",
+      "defname": "VAE_Apparel_SuitJacket",
+      "price": -10
+    },
+    {
+      "abr": "summerhat",
+      "category": "Couvre-chefs",
+      "defname": "VAE_Headgear_SummerHat",
+      "price": 94
+    },
+    {
+      "abr": "sunglasses",
+      "category": "Couvre-chefs",
+      "defname": "VAE_Headgear_Sunglasses",
+      "price": 156
+    },
+    {
+      "abr": "supercomputer",
+      "category": "Production",
+      "defname": "VFE_Supercomputer",
+      "price": -10
+    },
+    {
+      "abr": "surgicalmask",
+      "category": "Couvre-chefs",
+      "defname": "VAE_Headgear_SurgicalMask",
+      "price": 121
+    },
+    {
+      "abr": "sushipreptable",
+      "category": "Production",
+      "defname": "VCE_SushiPrepTable",
+      "price": -10
+    },
+    {
+      "abr": "swarmmissilelauncher",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_SwarmMissileLauncher",
+      "price": -10
+    },
+    {
+      "abr": "sweetroll",
+      "category": "Aliments",
+      "defname": "VFEV_Sweetroll",
+      "price": 11
+    },
+    {
+      "abr": "swordfish",
+      "category": "Raw fish",
+      "defname": "VCEF_RawSwordfish",
+      "price": -10
+    },
+    {
+      "abr": "synthreadsynthesizer",
+      "category": "Production",
+      "defname": "VFEM_WearablesAndTextileFactory_SynthreadSynthesizer",
+      "price": -10
+    },
+    {
+      "abr": "tabard",
+      "category": "Vêtements",
+      "defname": "VFEM_Apparel_Tabard",
+      "price": -10
+    },
+    {
+      "abr": "tablecarréeenverre",
+      "category": "Meubles",
+      "defname": "GlassTableShort",
+      "price": -10
+    },
+    {
+      "abr": "tablederéparation",
+      "category": "Production",
+      "defname": "TableMending",
+      "price": -10
+    },
+    {
+      "abr": "tailorcabinet",
+      "category": "Divers",
+      "defname": "VFE_TailorCabinet",
+      "price": -10
+    },
+    {
+      "abr": "tanktop",
+      "category": "Vêtements",
+      "defname": "VAE_Apparel_TankTop",
+      "price": -10
+    },
+    {
+      "abr": "tasergun",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_Taser",
+      "price": -10
+    },
+    {
+      "abr": "tea",
+      "category": "Drogues",
+      "defname": "VBE_Tea",
+      "price": 13
+    },
+    {
+      "abr": "tealeaves",
+      "category": "Matières végétales",
+      "defname": "VBE_RawTea",
+      "price": -10
+    },
+    {
+      "abr": "teargasgrenadebelt",
+      "category": "Utilitaires",
+      "defname": "VWE_Apparel_GrenadeTearGasBelt",
+      "price": -10
+    },
+    {
+      "abr": "teargasgrenades",
+      "category": "Grenades",
+      "defname": "VWE_TearGasGrenade",
+      "price": -10
+    },
+    {
+      "abr": "teargaslauncher",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_TearGasLauncher",
+      "price": -10
+    },
+    {
+      "abr": "tech",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertEngine",
+      "price": -10
+    },
+    {
+      "abr": "télévisionenverre",
+      "category": "Détente",
+      "defname": "GlassMonitorLarge",
+      "price": 1417
+    },
+    {
+      "abr": "temaki(lavish)",
+      "category": "Plats",
+      "defname": "VCE_Temaki",
+      "price": -10
+    },
+    {
+      "abr": "tequila",
+      "category": "Drogues",
+      "defname": "VBE_Tequila",
+      "price": 25
+    },
+    {
+      "abr": "tequilabarrel",
+      "category": "Production",
+      "defname": "VBE_TequilaBarrel",
+      "price": -10
+    },
+    {
+      "abr": "tequilamust",
+      "category": "Musts and syrups",
+      "defname": "VBE_TequilaMust",
+      "price": -10
+    },
+    {
+      "abr": "teslagun",
+      "category": "Armes à distance",
+      "defname": "VWEL_Gun_TeslaGun",
+      "price": -10
+    },
+    {
+      "abr": "textilerecycler",
+      "category": "Production",
+      "defname": "VFEM_WearablesAndTextileFactory_TextileRecycler",
+      "price": -10
+    },
+    {
+      "abr": "throwabletorchbelt",
+      "category": "Utilitaires",
+      "defname": "VFEV_Apparel_TorchBelt",
+      "price": -10
+    },
+    {
+      "abr": "throwingaxe",
+      "category": "Armes à distance",
+      "defname": "VFE_ThrowingAxe",
+      "price": -10
+    },
+    {
+      "abr": "throwingknives",
+      "category": "Armes à distance",
+      "defname": "VWE_Throwing_Knives",
+      "price": -10
+    },
+    {
+      "abr": "throwingrocks",
+      "category": "Armes à distance",
+      "defname": "VWE_Throwing_Rocks",
+      "price": -10
+    },
+    {
+      "abr": "throwingshards",
+      "category": "Armes à distance",
+      "defname": "VWE_Throwing_Shards",
+      "price": -10
+    },
+    {
+      "abr": "tobaccoleaves",
+      "category": "Matières végétales",
+      "defname": "VBE_RawTobacco",
+      "price": -10
+    },
+    {
+      "abr": "tomahawk",
+      "category": "Armes à distance",
+      "defname": "VFES_Tomahawk",
+      "price": 210
+    },
+    {
+      "abr": "tools",
+      "category": "Reliques inertes",
+      "defname": "VIE_RelicInertTools",
+      "price": -10
+    },
+    {
+      "abr": "toxicgrenadebelt",
+      "category": "Utilitaires",
+      "defname": "VWE_Apparel_GrenadeToxicBelt",
+      "price": -10
+    },
+    {
+      "abr": "toxicgrenades",
+      "category": "Grenades",
+      "defname": "VWE_ToxicGrenade",
+      "price": -10
+    },
+    {
+      "abr": "trainingdummy",
+      "category": "Détente",
+      "defname": "VFEV_TrainingDummy",
+      "price": -10
+    },
+    {
+      "abr": "trapperhat",
+      "category": "Couvre-chefs",
+      "defname": "VAE_Headgear_TrapperHat",
+      "price": 130
+    },
+    {
+      "abr": "tribalaxe",
+      "category": "Armes de mêlée",
+      "defname": "VWE_MeleeWeapon_TribalAxe",
+      "price": -10
+    },
+    {
+      "abr": "tribalkilt",
+      "category": "Vêtements",
+      "defname": "VAE_Apparel_TribalKilt",
+      "price": -10
+    },
+    {
+      "abr": "tribalponcho",
+      "category": "Vêtements",
+      "defname": "VAE_Apparel_TribalPoncho",
+      "price": -10
+    },
+    {
+      "abr": "trousers",
+      "category": "Vêtements",
+      "defname": "VAE_Apparel_Trousers",
+      "price": -10
+    },
+    {
+      "abr": "troussederéparation",
+      "category": "Produits manufacturés",
+      "defname": "MendingKit",
+      "price": -10
+    },
+    {
+      "abr": "trout",
+      "category": "Raw fish",
+      "defname": "VCEF_RawTrout",
+      "price": -10
+    },
+    {
+      "abr": "tuna",
+      "category": "Raw fish",
+      "defname": "VCEF_RawTuna",
+      "price": -10
+    },
+    {
+      "abr": "tunic",
+      "category": "Vêtements",
+      "defname": "VAE_Apparel_Tunic",
+      "price": -10
+    },
+    {
+      "abr": "ultrascreentelevision",
+      "category": "Détente",
+      "defname": "UltrascreenTV",
+      "price": 4100
+    },
+    {
+      "abr": "uncookedfinesoup",
+      "category": "Uncooked soups",
+      "defname": "VCE_UncookedSoupFine",
+      "price": -10
+    },
+    {
+      "abr": "uncookedfinestew",
+      "category": "Uncooked stew",
+      "defname": "VCE_UncookedStewFine",
+      "price": -10
+    },
+    {
+      "abr": "uncookedgourmetsoup",
+      "category": "Uncooked soups",
+      "defname": "VCE_UncookedSoupGourmet",
+      "price": -10
+    },
+    {
+      "abr": "uncookedlavishsoup",
+      "category": "Uncooked soups",
+      "defname": "VCE_UncookedSoupLavish",
+      "price": -10
+    },
+    {
+      "abr": "uncookedlavishstew",
+      "category": "Uncooked stew",
+      "defname": "VCE_UncookedStewLavish",
+      "price": -10
+    },
+    {
+      "abr": "uncookedsimplesoup",
+      "category": "Uncooked soups",
+      "defname": "VCE_UncookedSoupSimple",
+      "price": -10
+    },
+    {
+      "abr": "uncookedsimplestew",
+      "category": "Uncooked stew",
+      "defname": "VCE_UncookedStewSimple",
+      "price": -10
+    },
+    {
+      "abr": "unfermentedcider",
+      "category": "Musts and syrups",
+      "defname": "VBE_UnfermentedCider",
+      "price": -10
+    },
+    {
+      "abr": "uramaki(fine)",
+      "category": "Plats",
+      "defname": "VCE_Uramaki",
+      "price": -10
+    },
+    {
+      "abr": "uraniumslugrifle",
+      "category": "Armes à distance",
+      "defname": "VWE_Gun_UraniumSlugRifle",
+      "price": -10
+    },
+    {
+      "abr": "verre",
+      "category": "Produits manufacturés",
+      "defname": "Glass",
+      "price": -10
+    },
+    {
+      "abr": "verretrempé",
+      "category": "Produits manufacturés",
+      "defname": "ReinforcedGlass",
+      "price": -10
+    },
+    {
+      "abr": "versatileassembler",
+      "category": "Production",
+      "defname": "VFEM_VersatileAssembler",
+      "price": -10
+    },
+    {
+      "abr": "vest",
+      "category": "Vêtements",
+      "defname": "Apparel_Vest",
+      "price": -10
+    },
+    {
+      "abr": "viandedebat",
+      "category": "Viandes crues",
+      "defname": "Meat_ROMV_BatRace",
+      "price": -10
+    },
+    {
+      "abr": "viandedefenrir",
+      "category": "Viandes crues",
+      "defname": "Meat_VFEV_Fenrir",
+      "price": -10
+    },
+    {
+      "abr": "viandedelothurr",
+      "category": "Viandes crues",
+      "defname": "Meat_VFEV_Lothurr",
+      "price": -10
+    },
+    {
+      "abr": "viandedenjorun",
+      "category": "Viandes crues",
+      "defname": "Meat_VFEV_Njorun",
+      "price": -10
+    },
+    {
+      "abr": "viandedespectralbat",
+      "category": "Viandes crues",
+      "defname": "Meat_ROMV_BatSpectralRace",
+      "price": -10
+    },
+    {
+      "abr": "viandedewolfhound",
+      "category": "Viandes crues",
+      "defname": "Meat_VFEV_Wolfhound",
+      "price": -10
+    },
+    {
+      "abr": "vitalscentre",
+      "category": "Divers",
+      "defname": "Facility_VitalsCentre",
+      "price": -10
+    },
+    {
+      "abr": "vodka",
+      "category": "Drogues",
+      "defname": "VBE_Vodka",
+      "price": 13
+    },
+    {
+      "abr": "vodkadrum",
+      "category": "Production",
+      "defname": "VBE_VodkaDrum",
+      "price": -10
+    },
+    {
+      "abr": "vodkamash",
+      "category": "Musts and syrups",
+      "defname": "VBE_VodkaMash",
+      "price": -10
+    },
+    {
+      "abr": "volcanicpistol",
+      "category": "Armes à distance",
+      "defname": "VWEFT_Gun_VolcanicPistol",
+      "price": -10
+    },
+    {
+      "abr": "wake-uppowder",
+      "category": "Condiments",
+      "defname": "VBE_WakeUpPowder",
+      "price": -10
+    },
+    {
+      "abr": "walldarklight",
+      "category": "Meubles",
+      "defname": "GLWallLampDark",
+      "price": -10
+    },
+    {
+      "abr": "wasabi",
+      "category": "Végétaux",
+      "defname": "VCE_RawWasabi",
+      "price": -10
+    },
+    {
+      "abr": "wasabipaste",
+      "category": "Condiments",
+      "defname": "VCE_WasabiPaste",
+      "price": 5
+    },
+    {
+      "abr": "whip",
+      "category": "Armes à distance",
+      "defname": "VWE_Tool_Whip",
+      "price": -10
+    },
+    {
+      "abr": "whiskey",
+      "category": "Drogues",
+      "defname": "VBE_Whiskey",
+      "price": 50
+    },
+    {
+      "abr": "whiskeycask",
+      "category": "Production",
+      "defname": "VBE_WhiskeyCask",
+      "price": -10
+    },
+    {
+      "abr": "whiskeymash",
+      "category": "Musts and syrups",
+      "defname": "VBE_WhiskeyMash",
+      "price": -10
+    },
+    {
+      "abr": "widehat",
+      "category": "Couvre-chefs",
+      "defname": "VIEHAR_Apparel_WideHat",
+      "price": 126
+    },
+    {
+      "abr": "wine",
+      "category": "Drogues",
+      "defname": "VFEM_Wine",
+      "price": 33
+    },
+    {
+      "abr": "winebarrel",
+      "category": "Production",
+      "defname": "VFEM_WineBarrel",
+      "price": -10
+    },
+    {
+      "abr": "wolfhound",
+      "category": "Animaux",
+      "defname": "VFEV_Wolfhound",
+      "price": -10
+    },
+    {
+      "abr": "woolycow",
+      "category": "Animaux",
+      "defname": "VFEV_WoolyCow",
+      "price": -10
+    },
+    {
+      "abr": "wrench",
+      "category": "Armes de mêlée",
+      "defname": "VWE_MeleeWeapon_Wrench",
+      "price": -10
+    },
+    {
+      "abr": "yuenyeung",
+      "category": "Drogues",
+      "defname": "VBE_Yuenyeung",
+      "price": 13
     },
     {
       "abr": "invitélit",
@@ -7627,6 +10879,18 @@
       "price": -10
     },
     {
+      "abr": "invitéfurbed",
+      "category": "Meubles",
+      "defname": "VFEV_FurBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "invitédoublefurbed",
+      "category": "Meubles",
+      "defname": "VFEV_DoubleFurBedGuest",
+      "price": -10
+    },
+    {
       "abr": "invitéergonomicbed",
       "category": "Meubles",
       "defname": "Bed_ErgonomicGuest",
@@ -7655,7 +10919,31 @@
       "category": "Meubles",
       "defname": "Bed_SimpleGuest",
       "price": -10
+    },
+    {
+      "abr": "invitéoperatingtable",
+      "category": "Meubles",
+      "defname": "Bed_OperatingTableGuest",
+      "price": -10
+    },
+    {
+      "abr": "invitécryptosleepsuspender",
+      "category": "Meubles",
+      "defname": "Bed_CryptoBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "invitéadvancedbed",
+      "category": "Meubles",
+      "defname": "Bed_AdvBedGuest",
+      "price": -10
+    },
+    {
+      "abr": "invitéadvanceddoublebed",
+      "category": "Meubles",
+      "defname": "Bed_AdvDoubleBedGuest",
+      "price": -10
     }
   ],
-  "total": 1276
+  "total": 1824
 }
