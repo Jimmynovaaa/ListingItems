@@ -2129,16 +2129,9 @@
       "degree": -1
     },
     {
-      "description": "A Saiyan born with low power level considered to be low-class in Saiyan terms.",
+      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. il will prefer fishing above other activities.",
       "stats": [
-        "+20% vitesse générale de travail",
-        "+20.00% probabilité d'apprivoiser un animal",
-        "+20.00% probabilité de dresser des animaux",
-        "-1.0 précision de tir",
-        "+60 capacité de transport",
-        "+10% vitesse de minage",
-        "+1.40 vitesse de déplacement",
-        "x80% vitesse de recherche"
+
       ],
       "conflicts": [
 
@@ -2148,24 +2141,17 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "The Saiyans",
+        "mod": "Vanilla Fishing Expanded",
         "karmaTypeForAdding": null,
         "conflicts": [
 
         ],
         "stats": [
-          "+20% vitesse générale de travail",
-          "+20.00% probabilité d'apprivoiser un animal",
-          "+20.00% probabilité de dresser des animaux",
-          "-1.0 précision de tir",
-          "+60 capacité de transport",
-          "+10% vitesse de minage",
-          "+1.40 vitesse de déplacement",
-          "x80% vitesse de recherche"
+
         ]
       },
-      "defName": "SR_LowClassSaiyan",
-      "name": "lowclasssaiyan",
+      "defName": "VCEF_Fisherman",
+      "name": "fisherman",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -2173,15 +2159,9 @@
       "degree": 0
     },
     {
-      "description": "A Saiyan born with an average power level.",
+      "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
       "stats": [
-        "+10% vitesse générale de travail",
-        "-1.0 précision de tir",
-        "+50 capacité de transport",
-        "+25% vitesse de minage",
-        "+1.50 vitesse de déplacement",
-        "+1.0 probabilité de toucher en mêlée",
-        "x90% vitesse de recherche"
+
       ],
       "conflicts": [
 
@@ -2191,211 +2171,17 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "The Saiyans",
+        "mod": "Vanilla Psycasts Expanded",
         "karmaTypeForAdding": null,
         "conflicts": [
 
         ],
         "stats": [
-          "+10% vitesse générale de travail",
-          "-1.0 précision de tir",
-          "+50 capacité de transport",
-          "+25% vitesse de minage",
-          "+1.50 vitesse de déplacement",
-          "+1.0 probabilité de toucher en mêlée",
-          "x90% vitesse de recherche"
+
         ]
       },
-      "defName": "SR_NormalClassSaiyan",
-      "name": "saiyan",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "Saiyans born of royal blood line or with higher than average power levels are considered Elite.",
-      "stats": [
-        "+20% vitesse générale de travail",
-        "+2.0 précision de tir",
-        "+65 capacité de transport",
-        "+1.60 vitesse de déplacement",
-        "x115% vitesse de recherche"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "The Saiyans",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+20% vitesse générale de travail",
-          "+2.0 précision de tir",
-          "+65 capacité de transport",
-          "+1.60 vitesse de déplacement",
-          "x115% vitesse de recherche"
-        ]
-      },
-      "defName": "SR_EliteClassSaiyan",
-      "name": "eliteclasssaiyan",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "The ultimate transformation for a saiyan warrior.",
-      "stats": [
-        "+1500 € valeur marchande"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "The Saiyans",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+1500 € valeur marchande"
-        ]
-      },
-      "defName": "SR_SuperSaiyanTrait",
-      "name": "supersaiyan",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "A Saiyan born of pure rage and power. Is prone to bouts of uncontrollable rage.",
-      "stats": [
-        "+20% vitesse générale de travail",
-        "+25% vitesse de minage",
-        "-1.0 précision de tir",
-        "+75 capacité de transport",
-        "+2.50 vitesse de déplacement",
-        "+20% seuil de choc à la douleur",
-        "+1.0 probabilité de toucher en mêlée",
-        "+10% melee attack speed factor",
-        "x70% multiplicateur de dégâts",
-        "x25% vitesse de recherche",
-        "x30% impact des discussions",
-        "x0% Probabilité de déclencher un piège"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "The Saiyans",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+20% vitesse générale de travail",
-          "+25% vitesse de minage",
-          "-1.0 précision de tir",
-          "+75 capacité de transport",
-          "+2.50 vitesse de déplacement",
-          "+20% seuil de choc à la douleur",
-          "+1.0 probabilité de toucher en mêlée",
-          "+10% melee attack speed factor",
-          "x70% multiplicateur de dégâts",
-          "x25% vitesse de recherche",
-          "x30% impact des discussions",
-          "x0% Probabilité de déclencher un piège"
-        ]
-      },
-      "defName": "SR_LegendaryClassSaiyan",
-      "name": "legendarysaiyan",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "The ultimate transformation for a saiyan warrior.",
-      "stats": [
-        "+1500 € valeur marchande"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "The Saiyans",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+1500 € valeur marchande"
-        ]
-      },
-      "defName": "SR_LegendarySuperSaiyanTrait",
-      "name": "legendarysupersaiyan",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
-    },
-    {
-      "description": "A Human Saiyan hybrid.",
-      "stats": [
-        "+20% vitesse générale de travail",
-        "+2.0 précision de tir",
-        "+65 capacité de transport",
-        "+1.60 vitesse de déplacement",
-        "x115% vitesse de recherche"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "The Saiyans",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+20% vitesse générale de travail",
-          "+2.0 précision de tir",
-          "+65 capacité de transport",
-          "+1.60 vitesse de déplacement",
-          "x115% vitesse de recherche"
-        ]
-      },
-      "defName": "SR_HalfSaiyanClassSaiyan",
-      "name": "halfsaiyan",
+      "defName": "VPE_Thrall",
+      "name": "thrall",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -2422,31 +2208,9 @@
       },
       "description": "Un humain de souche, en grande partie épargné par l'ingénierie génétique et globalement peu altéré par la pression de l'évolution sur les planètes extraterrestres.",
       "defName": "Human",
-      "enabled": false,
+      "enabled": true,
       "name": "humain",
       "price": 1
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Poids",
-          "+70% Inflammabilité",
-          "+4375 € Valeur marchande",
-          "+90% Seuil de choc à la douleur",
-          "+100.0 Max KI energy",
-          "+30.0% Armure - Contondant",
-          "+30.0% Armure - Perforant",
-          "+30.0% Armure - Protection thermique"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "saiyan race.",
-      "defName": "SR_SaiyanRace",
-      "enabled": true,
-      "name": "saiyan",
-      "price": 5000
     }
   ]
 }
