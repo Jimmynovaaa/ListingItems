@@ -2173,408 +2173,6 @@
       "price": -10
     },
     {
-      "abr": "armoireàpharmacie",
-      "category": "Meubles",
-      "defname": "LWM_Medicine_Cabinet",
-      "price": -10
-    },
-    {
-      "abr": "armurerie",
-      "category": "Meubles",
-      "defname": "LWM_WeaponsCabinet",
-      "price": -10
-    },
-    {
-      "abr": "armureriesécurisée",
-      "category": "Meubles",
-      "defname": "LWM_WeaponsLocker",
-      "price": -10
-    },
-    {
-      "abr": "atelierdeprothèses",
-      "category": "Production",
-      "defname": "TableProsthetics",
-      "price": -10
-    },
-    {
-      "abr": "auxiliaryai(agricultural)",
-      "category": "Archotech",
-      "defname": "FarmerCore",
-      "price": -10
-    },
-    {
-      "abr": "auxiliaryai(constructing)",
-      "category": "Archotech",
-      "defname": "ConstructorCore",
-      "price": -10
-    },
-    {
-      "abr": "auxiliaryai(diplomatic)",
-      "category": "Archotech",
-      "defname": "DiplomatCore",
-      "price": -10
-    },
-    {
-      "abr": "auxiliaryai(medical)",
-      "category": "Archotech",
-      "defname": "DoctorCore",
-      "price": -10
-    },
-    {
-      "abr": "auxiliaryai(mining)",
-      "category": "Archotech",
-      "defname": "MinerCore",
-      "price": -10
-    },
-    {
-      "abr": "bandaged'oreille",
-      "category": "Pièces simples",
-      "defname": "EarBandage",
-      "price": -10
-    },
-    {
-      "abr": "bassinartificiel",
-      "category": "Prothèses",
-      "defname": "ArtificialPelvis",
-      "price": -10
-    },
-    {
-      "abr": "bras",
-      "category": "Naturelles",
-      "defname": "Arm",
-      "price": -10
-    },
-    {
-      "abr": "brasbioniqueavancé",
-      "category": "Ultratech",
-      "defname": "AdvancedBionicArm",
-      "price": -10
-    },
-    {
-      "abr": "brasenacier",
-      "category": "Pièces simples",
-      "defname": "SteelArm",
-      "price": -10
-    },
-    {
-      "abr": "braspuissant",
-      "category": "Bioniques",
-      "defname": "PowerArm",
-      "price": -10
-    },
-    {
-      "abr": "braspuissantavancé",
-      "category": "Ultratech",
-      "defname": "AdvancedPowerArm",
-      "price": -10
-    },
-    {
-      "abr": "bureaudegestionnaire",
-      "category": "Production",
-      "defname": "FM_ManagerStation",
-      "price": -10
-    },
-    {
-      "abr": "bureaudegestionnairebasique",
-      "category": "Production",
-      "defname": "FM_BasicManagerStation",
-      "price": -10
-    },
-    {
-      "abr": "cache-oeil",
-      "category": "Pièces simples",
-      "defname": "EyePatch",
-      "price": -10
-    },
-    {
-      "abr": "caisse",
-      "category": "Meubles",
-      "defname": "CashRegister_CashRegister",
-      "price": -10
-    },
-    {
-      "abr": "claviculeartificielle",
-      "category": "Prothèses",
-      "defname": "ArtificialClavicle",
-      "price": -10
-    },
-    {
-      "abr": "clustercolumn",
-      "category": "Sécurité",
-      "defname": "DetColumnMod",
-      "price": -10
-    },
-    {
-      "abr": "colonnevertébralebioniqueavancée",
-      "category": "Ultratech",
-      "defname": "AdvancedBionicSpine",
-      "price": -10
-    },
-    {
-      "abr": "combinaisonexosquelette",
-      "category": "Ultratech",
-      "defname": "ExoskeletonSuit",
-      "price": -10
-    },
-    {
-      "abr": "commoninfuser",
-      "category": "Infusers",
-      "defname": "Infusion_Infuser_Common",
-      "price": -10
-    },
-    {
-      "abr": "côte(adrénaline)",
-      "category": "Bioniques",
-      "defname": "AdrenalineRib",
-      "price": -10
-    },
-    {
-      "abr": "côte(anti-douleur)",
-      "category": "Bioniques",
-      "defname": "PainkillerRib",
-      "price": -10
-    },
-    {
-      "abr": "côte(drogue)",
-      "category": "Bioniques",
-      "defname": "DruggedRib",
-      "price": -10
-    },
-    {
-      "abr": "côte(médicale)",
-      "category": "Bioniques",
-      "defname": "MedicalRib",
-      "price": -10
-    },
-    {
-      "abr": "crochetsàviande",
-      "category": "Meubles",
-      "defname": "LWM_Meat_Hook",
-      "price": -10
-    },
-    {
-      "abr": "darkcolumn",
-      "category": "Divers",
-      "defname": "DarkColumnMod",
-      "price": -10
-    },
-    {
-      "abr": "dentier",
-      "category": "Pièces simples",
-      "defname": "denture",
-      "price": -10
-    },
-    {
-      "abr": "emptyinfuser",
-      "category": "Infusers",
-      "defname": "Infusion_InfuserEmpty",
-      "price": -10
-    },
-    {
-      "abr": "estomac",
-      "category": "Naturelles",
-      "defname": "Stomach",
-      "price": -10
-    },
-    {
-      "abr": "estomacartificiel",
-      "category": "Prothèses",
-      "defname": "SurrogateStomach",
-      "price": -10
-    },
-    {
-      "abr": "flamecolumn",
-      "category": "Sécurité",
-      "defname": "FlameColumnMod",
-      "price": -10
-    },
-    {
-      "abr": "foieartificiel",
-      "category": "Prothèses",
-      "defname": "SurrogateLiver",
-      "price": -10
-    },
-    {
-      "abr": "foiesynthétique",
-      "category": "Bioniques",
-      "defname": "SyntheticLiver",
-      "price": -10
-    },
-    {
-      "abr": "frozencolumn",
-      "category": "Divers",
-      "defname": "IceColumnMod",
-      "price": -10
-    },
-    {
-      "abr": "garde-robe",
-      "category": "Meubles",
-      "defname": "LWM_Clothing_Rack",
-      "price": -10
-    },
-    {
-      "abr": "gestionia",
-      "category": "Production",
-      "defname": "FM_AIManager",
-      "price": -10
-    },
-    {
-      "abr": "grandeétagère",
-      "category": "Meubles",
-      "defname": "LWM_BigShelf",
-      "price": -10
-    },
-    {
-      "abr": "griffemotoriséeavancée",
-      "category": "Ultratech",
-      "defname": "AdvancedPowerClaw",
-      "price": -10
-    },
-    {
-      "abr": "imprimantedetissusorganiques",
-      "category": "Production",
-      "defname": "TableOrgans",
-      "price": -10
-    },
-    {
-      "abr": "jambe",
-      "category": "Naturelles",
-      "defname": "Leg",
-      "price": -10
-    },
-    {
-      "abr": "jambebioniqueavancée",
-      "category": "Ultratech",
-      "defname": "AdvancedBionicLeg",
-      "price": -10
-    },
-    {
-      "abr": "jambedebois",
-      "category": "Pièces simples",
-      "defname": "PegLeg",
-      "price": -10
-    },
-    {
-      "abr": "legendaryinfuser",
-      "category": "Infusers",
-      "defname": "Infusion_Infuser_Legendary",
-      "price": -10
-    },
-    {
-      "abr": "lightcolumn",
-      "category": "Divers",
-      "defname": "LightColumnMod",
-      "price": -10
-    },
-    {
-      "abr": "mâchoire",
-      "category": "Naturelles",
-      "defname": "Jaw",
-      "price": -10
-    },
-    {
-      "abr": "mâchoirebionique",
-      "category": "Bioniques",
-      "defname": "BionicJaw",
-      "price": -10
-    },
-    {
-      "abr": "mâchoirebioniqueavancée",
-      "category": "Ultratech",
-      "defname": "AdvancedBionicJaw",
-      "price": -10
-    },
-    {
-      "abr": "mâchoirehydraulique",
-      "category": "Prothèses",
-      "defname": "HydraulicJaw",
-      "price": -10
-    },
-    {
-      "abr": "mâchoiresilencieuse",
-      "category": "Bioniques",
-      "defname": "SilentJaw",
-      "price": -10
-    },
-    {
-      "abr": "mainbionique",
-      "category": "Bioniques",
-      "defname": "BionicHand",
-      "price": -10
-    },
-    {
-      "abr": "mainbioniqueavancée",
-      "category": "Ultratech",
-      "defname": "AdvancedBionicHand",
-      "price": -10
-    },
-    {
-      "abr": "main-crochet",
-      "category": "Pièces simples",
-      "defname": "HookHand",
-      "price": -10
-    },
-    {
-      "abr": "meditrain(tm)table",
-      "category": "Divers",
-      "defname": "IF_MeditrainTable",
-      "price": -10
-    },
-    {
-      "abr": "musclestimulator",
-      "category": "Archotech",
-      "defname": "MuscleStimulator",
-      "price": -10
-    },
-    {
-      "abr": "nez",
-      "category": "Naturelles",
-      "defname": "Nose",
-      "price": -10
-    },
-    {
-      "abr": "nezartificiel",
-      "category": "Prothèses",
-      "defname": "ArtificialNose",
-      "price": -10
-    },
-    {
-      "abr": "oeil",
-      "category": "Naturelles",
-      "defname": "Eye",
-      "price": -10
-    },
-    {
-      "abr": "oeilbioniqueavancé",
-      "category": "Ultratech",
-      "defname": "AdvancedBionicEye",
-      "price": -10
-    },
-    {
-      "abr": "oeilenor",
-      "category": "Prothèses",
-      "defname": "GoldenEye",
-      "price": -10
-    },
-    {
-      "abr": "orbitaltradecolumn",
-      "category": "Divers",
-      "defname": "OrbitalTradeColumnMod",
-      "price": -10
-    },
-    {
-      "abr": "oreille",
-      "category": "Naturelles",
-      "defname": "Ear",
-      "price": -10
-    },
-    {
-      "abr": "oreillebioniqueavancée",
-      "category": "Ultratech",
-      "defname": "AdvancedBionicEar",
-      "price": -10
-    },
-    {
       "abr": "packdebouclierbas",
       "category": "Utilitaires",
       "defname": "Apparel_PackBroadshield",
@@ -2590,30 +2188,6 @@
       "abr": "packdorsaux",
       "category": "Utilitaires",
       "defname": "Apparel_PackJump",
-      "price": -10
-    },
-    {
-      "abr": "palette",
-      "category": "Meubles",
-      "defname": "LWM_Pallet",
-      "price": -10
-    },
-    {
-      "abr": "paletteemballée",
-      "category": "Meubles",
-      "defname": "LWM_Pallet_Covered",
-      "price": -10
-    },
-    {
-      "abr": "panierànourriture",
-      "category": "Meubles",
-      "defname": "LWM_Food_Basket",
-      "price": -10
-    },
-    {
-      "abr": "panierentissu",
-      "category": "Meubles",
-      "defname": "LWM_FabricHamper",
       "price": -10
     },
     {
@@ -2677,18 +2251,6 @@
       "price": -10
     },
     {
-      "abr": "petitcoffre-fort",
-      "category": "Meubles",
-      "defname": "LWM_Safe",
-      "price": -10
-    },
-    {
-      "abr": "petitcontainer",
-      "category": "Meubles",
-      "defname": "LWM_DeepStorage_Skip",
-      "price": -10
-    },
-    {
       "abr": "petitréfrigérateur",
       "category": "Meubles",
       "defname": "RimFridge_SingleRefrigerator",
@@ -2722,24 +2284,6 @@
       "abr": "picdegenou",
       "category": "Prothèses",
       "defname": "KneeSpike",
-      "price": -10
-    },
-    {
-      "abr": "piedbionique",
-      "category": "Bioniques",
-      "defname": "BionicFoot",
-      "price": -10
-    },
-    {
-      "abr": "piedbioniqueavancé",
-      "category": "Ultratech",
-      "defname": "AdvancedBionicFoot",
-      "price": -10
-    },
-    {
-      "abr": "piedenbois",
-      "category": "Pièces simples",
-      "defname": "WoodenFoot",
       "price": -10
     },
     {
@@ -2881,12 +2425,6 @@
       "price": -10
     },
     {
-      "abr": "plateauàrepas",
-      "category": "Meubles",
-      "defname": "LWM_MealRack",
-      "price": -10
-    },
-    {
       "abr": "plateaudejeud'ur",
       "category": "Meubles",
       "defname": "GameOfUrBoard",
@@ -2938,18 +2476,6 @@
       "abr": "poumon",
       "category": "Naturelles",
       "defname": "Lung",
-      "price": -10
-    },
-    {
-      "abr": "poumonartificiel",
-      "category": "Prothèses",
-      "defname": "SurrogateLung",
-      "price": -10
-    },
-    {
-      "abr": "poumonsynthétique",
-      "category": "Bioniques",
-      "defname": "SyntheticLung",
       "price": -10
     },
     {
@@ -3007,24 +2533,6 @@
       "price": -10
     },
     {
-      "abr": "prothèsedemainsimple",
-      "category": "Prothèses",
-      "defname": "SimpleProstheticHand",
-      "price": -10
-    },
-    {
-      "abr": "prothèsedepiedsimple",
-      "category": "Prothèses",
-      "defname": "SimpleProstheticFoot",
-      "price": -10
-    },
-    {
-      "abr": "puceia",
-      "category": "Bioniques",
-      "defname": "AIChip",
-      "price": -10
-    },
-    {
       "abr": "pupitre",
       "category": "Divers",
       "defname": "Lectern",
@@ -3040,12 +2548,6 @@
       "abr": "radiateur",
       "category": "Température",
       "defname": "Heater",
-      "price": -10
-    },
-    {
-      "abr": "rareinfuser",
-      "category": "Infusers",
-      "defname": "Infusion_Infuser_Rare",
       "price": -10
     },
     {
@@ -3073,12 +2575,6 @@
       "price": -10
     },
     {
-      "abr": "récepteurdelumière",
-      "category": "Prothèses",
-      "defname": "LightReceptor",
-      "price": -10
-    },
-    {
       "abr": "réfrigérateur",
       "category": "Meubles",
       "defname": "RimFridge_Refrigerator",
@@ -3103,18 +2599,6 @@
       "price": -10
     },
     {
-      "abr": "reinartificiel",
-      "category": "Prothèses",
-      "defname": "SurrogateKidney",
-      "price": -10
-    },
-    {
-      "abr": "reinsynthétique",
-      "category": "Bioniques",
-      "defname": "SyntheticKidney",
-      "price": -10
-    },
-    {
       "abr": "renardarctique",
       "category": "Animaux",
       "defname": "Fox_Arctic",
@@ -3124,12 +2608,6 @@
       "abr": "renardroux",
       "category": "Animaux",
       "defname": "Fox_Red",
-      "price": -10
-    },
-    {
-      "abr": "réservoiràfoin",
-      "category": "Meubles",
-      "defname": "LWM_Hayloft",
       "price": -10
     },
     {
@@ -3313,21 +2791,9 @@
       "price": -10
     },
     {
-      "abr": "stimulateurcérébral",
-      "category": "Prothèses",
-      "defname": "BrainStimulator",
-      "price": -10
-    },
-    {
       "abr": "sugegasa",
       "category": "Couvre-chefs",
       "defname": "Apparel_Shadecone",
-      "price": -10
-    },
-    {
-      "abr": "suncolumn",
-      "category": "Divers",
-      "defname": "SunColumnMod",
       "price": -10
     },
     {
@@ -3401,12 +2867,6 @@
       "category": "Meubles",
       "defname": "Stool",
       "price": -10
-    },
-    {
-      "abr": "tacticalcorneaimplant",
-      "category": "Archotech",
-      "defname": "TacticalCorneaImplant",
-      "price": 4167
     },
     {
       "abr": "tambour",
@@ -3493,12 +2953,6 @@
       "price": -10
     },
     {
-      "abr": "trèsgrandeétagère",
-      "category": "Meubles",
-      "defname": "LWM_VeryBigShelf",
-      "price": -10
-    },
-    {
       "abr": "trônedeméditation",
       "category": "Meubles",
       "defname": "Throne",
@@ -3514,12 +2968,6 @@
       "abr": "turban",
       "category": "Couvre-chefs",
       "defname": "Apparel_Headwrap",
-      "price": -10
-    },
-    {
-      "abr": "uncommoninfuser",
-      "category": "Infusers",
-      "defname": "Infusion_Infuser_Uncommon",
       "price": -10
     },
     {
@@ -3883,96 +3331,6 @@
       "price": -10
     },
     {
-      "abr": "walldarklight",
-      "category": "Meubles",
-      "defname": "Lighting_MURWallLightDark",
-      "price": -10
-    },
-    {
-      "abr": "walllight",
-      "category": "Meubles",
-      "defname": "Lighting_MURWallLight",
-      "price": -10
-    },
-    {
-      "abr": "walllight(azure)",
-      "category": "Meubles",
-      "defname": "Lighting_MURWallLightAzure",
-      "price": -10
-    },
-    {
-      "abr": "walllight(blue)",
-      "category": "Meubles",
-      "defname": "Lighting_MURWallLightBlue",
-      "price": -10
-    },
-    {
-      "abr": "walllight(chartreuse)",
-      "category": "Meubles",
-      "defname": "Lighting_MURWallLightChartreuse",
-      "price": -10
-    },
-    {
-      "abr": "walllight(cyan)",
-      "category": "Meubles",
-      "defname": "Lighting_MURWallLightCyan",
-      "price": -10
-    },
-    {
-      "abr": "walllight(green)",
-      "category": "Meubles",
-      "defname": "Lighting_MURWallLightGreen",
-      "price": -10
-    },
-    {
-      "abr": "walllight(magenta)",
-      "category": "Meubles",
-      "defname": "Lighting_MURWallLightMagenta",
-      "price": -10
-    },
-    {
-      "abr": "walllight(orange)",
-      "category": "Meubles",
-      "defname": "Lighting_MURWallLightOrange",
-      "price": -10
-    },
-    {
-      "abr": "walllight(red)",
-      "category": "Meubles",
-      "defname": "Lighting_MURWallLightRed",
-      "price": -10
-    },
-    {
-      "abr": "walllight(rose)",
-      "category": "Meubles",
-      "defname": "Lighting_MURWallLightRose",
-      "price": -10
-    },
-    {
-      "abr": "walllight(springgreen)",
-      "category": "Meubles",
-      "defname": "Lighting_MURWallLightSpringGreen",
-      "price": -10
-    },
-    {
-      "abr": "walllight(violet)",
-      "category": "Meubles",
-      "defname": "Lighting_MURWallLightViolet",
-      "price": -10
-    },
-    {
-      "abr": "walllight(yellow)",
-      "category": "Meubles",
-      "defname": "Lighting_MURWallLightYellow",
-      "price": -10
-    },
-    {
-      "abr": "wallsunlight",
-      "category": "Meubles",
-      "defname": "Lighting_MURWallSunLight",
-      "price": -10
-    },
-    {
       "abr": "wapiti",
       "category": "Animaux",
       "defname": "Elk",
@@ -3982,24 +3340,6 @@
       "abr": "warg",
       "category": "Animaux",
       "defname": "Warg",
-      "price": -10
-    },
-    {
-      "abr": "weaponrack(2slot)",
-      "category": "Meubles",
-      "defname": "WeaponRacks_2Rack",
-      "price": -10
-    },
-    {
-      "abr": "weaponrack(3slot)",
-      "category": "Meubles",
-      "defname": "WeaponRacks_3Rack",
-      "price": -10
-    },
-    {
-      "abr": "weaponrack(4slot)",
-      "category": "Meubles",
-      "defname": "WeaponRacks_4Rack",
       "price": -10
     },
     {
@@ -5713,54 +5053,6 @@
       "price": 318
     },
     {
-      "abr": "applique",
-      "category": "Meubles",
-      "defname": "GLWallLamp",
-      "price": -10
-    },
-    {
-      "abr": "applique",
-      "category": "Meubles",
-      "defname": "WallLamp",
-      "price": -10
-    },
-    {
-      "abr": "applique(bleu)",
-      "category": "Meubles",
-      "defname": "GLWallLamp_Blue",
-      "price": -10
-    },
-    {
-      "abr": "applique(jaune)",
-      "category": "Meubles",
-      "defname": "GLWallLamp_Yellow",
-      "price": -10
-    },
-    {
-      "abr": "applique(orange)",
-      "category": "Meubles",
-      "defname": "GLWallLamp_Orange",
-      "price": -10
-    },
-    {
-      "abr": "applique(rouge)",
-      "category": "Meubles",
-      "defname": "GLWallLamp_Red",
-      "price": -10
-    },
-    {
-      "abr": "applique(vert)",
-      "category": "Meubles",
-      "defname": "GLWallLamp_Green",
-      "price": -10
-    },
-    {
-      "abr": "applique(violet)",
-      "category": "Meubles",
-      "defname": "GLWallLamp_Violet",
-      "price": -10
-    },
-    {
       "abr": "apron",
       "category": "Vêtements",
       "defname": "VAE_Apparel_Apron",
@@ -5794,24 +5086,6 @@
       "abr": "artilleryfoundry",
       "category": "Production",
       "defname": "VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry",
-      "price": -10
-    },
-    {
-      "abr": "atelierdeverre(combustiblechimique)",
-      "category": "Production",
-      "defname": "FueledGlassworkTable",
-      "price": -10
-    },
-    {
-      "abr": "atelierdeverre(électricité)",
-      "category": "Production",
-      "defname": "GlassworkTable",
-      "price": -10
-    },
-    {
-      "abr": "atelierdeverrerenforcé",
-      "category": "Production",
-      "defname": "ReinforcedGlassworkTable",
       "price": -10
     },
     {
@@ -5923,12 +5197,6 @@
       "price": -10
     },
     {
-      "abr": "bat",
-      "category": "Animaux",
-      "defname": "ROMV_BatRace",
-      "price": -10
-    },
-    {
       "abr": "baton",
       "category": "Armes de mêlée",
       "defname": "VWE_MeleeWeapon_Baton",
@@ -5981,84 +5249,6 @@
       "category": "Drogues",
       "defname": "VBE_BlackTea",
       "price": 18
-    },
-    {
-      "abr": "blade",
-      "category": "Weapons Part",
-      "defname": "MeleeWeapon_BladePart",
-      "price": -10
-    },
-    {
-      "abr": "bloodpack(animal)",
-      "category": "Blood packs",
-      "defname": "BloodPack_Animal",
-      "price": -10
-    },
-    {
-      "abr": "bloodpack(average)",
-      "category": "Blood packs",
-      "defname": "BloodPack_AverageBlood",
-      "price": -10
-    },
-    {
-      "abr": "bloodpack(highblood)",
-      "category": "Blood packs",
-      "defname": "BloodPack_HighBlood",
-      "price": -10
-    },
-    {
-      "abr": "bloodpack(lowblood)",
-      "category": "Blood packs",
-      "defname": "BloodPack_LowBlood",
-      "price": -10
-    },
-    {
-      "abr": "bloodvial(average)",
-      "category": "Blood packs",
-      "defname": "BloodVial_AverageBlood",
-      "price": -10
-    },
-    {
-      "abr": "bloodvial(highblood)",
-      "category": "Blood packs",
-      "defname": "BloodVial_HighBlood",
-      "price": -10
-    },
-    {
-      "abr": "bloodvial(low)",
-      "category": "Blood packs",
-      "defname": "BloodVial_LowBlood",
-      "price": -10
-    },
-    {
-      "abr": "bloodvial(special)",
-      "category": "Blood packs",
-      "defname": "BloodVial_Special",
-      "price": -10
-    },
-    {
-      "abr": "bloodwine(average)",
-      "category": "Blood packs",
-      "defname": "BloodWine_AverageBlood",
-      "price": -10
-    },
-    {
-      "abr": "bloodwine(highblood)",
-      "category": "Blood packs",
-      "defname": "BloodWine_HighBlood",
-      "price": -10
-    },
-    {
-      "abr": "bloodwine(low)",
-      "category": "Blood packs",
-      "defname": "BloodWine_LowBlood",
-      "price": -10
-    },
-    {
-      "abr": "bloodwine(special)",
-      "category": "Blood packs",
-      "defname": "BloodWine_Special",
-      "price": -10
     },
     {
       "abr": "blouse",
@@ -6229,12 +5419,6 @@
       "price": -10
     },
     {
-      "abr": "ceilingdarklamp",
-      "category": "Meubles",
-      "defname": "GLCeilingLampDark",
-      "price": -10
-    },
-    {
       "abr": "ceremonialmask",
       "category": "Reliques inertes",
       "defname": "VIE_RelicInertCeremonialMask",
@@ -6244,12 +5428,6 @@
       "abr": "chain",
       "category": "Reliques inertes",
       "defname": "VIE_RelicInertChain",
-      "price": -10
-    },
-    {
-      "abr": "chainsaw",
-      "category": "Armes de mêlée",
-      "defname": "PowerTool_IndustrialChainsaw",
       "price": -10
     },
     {
@@ -6379,12 +5557,6 @@
       "price": 6
     },
     {
-      "abr": "cibledetiràl'arc",
-      "category": "Détente",
-      "defname": "ArcheryTarget",
-      "price": 248
-    },
-    {
       "abr": "cider",
       "category": "Drogues",
       "defname": "VBE_Cider",
@@ -6451,12 +5623,6 @@
       "price": -10
     },
     {
-      "abr": "coffin",
-      "category": "Meubles",
-      "defname": "ROMV_SimpleCoffin",
-      "price": -10
-    },
-    {
       "abr": "combathandgun",
       "category": "Armes à distance",
       "defname": "VWE_CombatHandgun",
@@ -6484,12 +5650,6 @@
       "abr": "componentassembler",
       "category": "Production",
       "defname": "VFEM_ElectronicsFabricationFactory_ComponentAssembler",
-      "price": -10
-    },
-    {
-      "abr": "compositecrossbowtop",
-      "category": "Weapons Part",
-      "defname": "RangWeapon_Crossbow_TopCompositePart",
       "price": -10
     },
     {
@@ -6524,27 +5684,9 @@
     },
     {
       "abr": "crossbow",
-      "category": "Assemble Weapons",
-      "defname": "RangWeapon_TinkersCrossbow",
-      "price": -10
-    },
-    {
-      "abr": "crossbow",
       "category": "Armes à distance",
       "defname": "VWE_Bow_Crossbow",
       "price": 358
-    },
-    {
-      "abr": "crossbowbody",
-      "category": "Weapons Part",
-      "defname": "RangWeapon_Crossbow_BodyPart",
-      "price": -10
-    },
-    {
-      "abr": "crossbowtop",
-      "category": "Weapons Part",
-      "defname": "RangWeapon_Crossbow_TopPart",
-      "price": -10
     },
     {
       "abr": "cryptoarmor",
@@ -6631,30 +5773,6 @@
       "price": -10
     },
     {
-      "abr": "darkcandle",
-      "category": "Meubles",
-      "defname": "VFEM_DarkCandle",
-      "price": -10
-    },
-    {
-      "abr": "darkilluminateddresser",
-      "category": "Meubles",
-      "defname": "Table_DarkIlluminatedDresser",
-      "price": -10
-    },
-    {
-      "abr": "darkilluminatedendtable",
-      "category": "Meubles",
-      "defname": "Table_DarkIlluminatedEndTable",
-      "price": -10
-    },
-    {
-      "abr": "darklampendtable",
-      "category": "Meubles",
-      "defname": "Table_DarkLightEndTable",
-      "price": -10
-    },
-    {
       "abr": "dartgun",
       "category": "Armes à distance",
       "defname": "VWE_Gun_DartGun",
@@ -6709,12 +5827,6 @@
       "price": -10
     },
     {
-      "abr": "diamond",
-      "category": "Ressources brutes",
-      "defname": "Diamond",
-      "price": -10
-    },
-    {
       "abr": "digestibleresurrectornanites",
       "category": "Condiments",
       "defname": "VCE_DigestibleResurrectorNanites",
@@ -6733,12 +5845,6 @@
       "price": -10
     },
     {
-      "abr": "doubleroyalcoffin",
-      "category": "Meubles",
-      "defname": "ROMV_RoyalCoffinDouble",
-      "price": -10
-    },
-    {
       "abr": "double-actionrevolver",
       "category": "Armes à distance",
       "defname": "VFES_Gun_DoubleActionRevolver",
@@ -6754,12 +5860,6 @@
       "abr": "double-barreledshotgun",
       "category": "Armes à distance",
       "defname": "VFES_Gun_DoubleBarreledShotgun",
-      "price": -10
-    },
-    {
-      "abr": "drill",
-      "category": "Armes de mêlée",
-      "defname": "PowerTool_IndustrialDrill",
       "price": -10
     },
     {
@@ -6880,901 +5980,901 @@
       "abr": "entraîneurpsychique(adrenalinerush)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_AdrenalineRush",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(age)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Age",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(aggressiveheatdump)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_AggressiveHeatDump",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(animalallies)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_AnimalAllies",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(assassinate)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Assassinate",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(balllightning)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_BallLightning",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(beckon)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Beckon",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(bendprobability)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_BendProbability",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(berserk)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Berserk",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(berskerkpulse)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_BerserkPulse",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(bladefocus)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_BladeFocus",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(blindingpulse)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_BlindingPulse",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(bliss)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Bliss",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(blizzard)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Blizzard",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(bolt)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Bolt",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(bramblemaze)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_BrambleMaze",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(breatheflame)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_BreatheFlame",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(breatheice)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_IceBreath",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(burden)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Burden",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(chainbolt)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_ChainBolt",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(chaosskip)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_ChaosSkip",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(chunkskip)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Chunkskip",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(coldzone)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_ColdZone",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(conjureheatpearls)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_ConjureHeatPearls",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(consumebodies)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_ConsumeBodies",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(controlledfrenzy)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_ControlledFrenzy",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(corpsetalk)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Corpsetalk",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(craftpsyring)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_CraftPsyRing",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(crafttimeskip)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_CraftTimeskip",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(cropburst)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_CropBurst",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(darkness)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Darkness",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(darkvision)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Darkvision",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(deathshield)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Deathshield",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(decoy)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Decoy",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(drainpsyessence)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_DrainPsyessence",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(eclipse)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Eclipse",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(enchantquality)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_EnchantQuality",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(energydump)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_EnergyDump",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(enthrall)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Enthrall",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(essencetransfer)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_EssenceTransfer",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(explosion)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Explosion",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(extinguishflames)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_QuenchFlames",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(eyeblast)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_EyeBlast",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(farskip)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Farskip",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(firebeam)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_FireBeam",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(fireshield)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_FireShield",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(firetornado)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_FlameTornado",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(firingfocus)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_FiringFocus",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(flameball)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Flameball",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(flashstorm)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Flashstorm",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(focus)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Focus",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(frostray)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_FrostRay",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(ghostwalk)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Ghostwalk",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(grouplink)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_GroupLink",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(guardianskipbarrier)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_GuardianSkipbarrier",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(guidedshot)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_GuidedShot",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(haywire)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Haywire",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(healthswap)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_HealthSwap",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(heatfocus)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_HeatFocus",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(hurricane)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Hurricane",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(iceblock)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_IceBlock",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(icecrystal)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_IceCrystal",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(iceshield)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_IceShield",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(icespike)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_IceSpike",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(icewall)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_IceWall",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(intensifyshadows)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_IntensifyShadows",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(invisibility)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Invisibility",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(killskip)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Killskip",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(liferot)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Liferot",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(locationswap)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_LocationSwap",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(lucktransfer)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_LuckTransfer",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(manhunterpulse)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_ManhunterPulse",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(massbeckon)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_MassBeckon",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(masschaosskip)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_MassChaosSkip",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(masshallucination)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_MassHallucination",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(mend)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Mend",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(meteorshower)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_MeteorShower",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(mindbreak)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_MindBreak",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(mindcontrol)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Mindcontrol",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(mindwipe)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_MindWipe",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(neuralheatdetonation)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_NeuralHeatDetonation",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(neuralheatdump)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_NeuralHeatDump",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(neuroquake)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Neuroquake",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(nightstep)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Nightstep",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(obscure)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Obscure",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(overshield)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Overshield",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(painblock)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Painblock",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(paralysispulse)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_ParalysisPulse",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(planttimeskip)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_PlantTimeskip",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(powerleap)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_PowerLeap",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(power)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Power",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(psychicdrone)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_PsychicDrone",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(psychicguidance)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_PsychicGuidance",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(psychicshock)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_PsychicShock",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(psychicsooth(female))",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_SootheFemale",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(psychicsooth(male))",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_SootheMale",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(raidpause)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_RaidPause",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(recharge)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Recharge",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(regrowlimbs)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_RegrowLimbs",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(resurrect)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Resurrect",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(reunionfarskip)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_ReunionFarskip",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(reverseengineer)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_ReverseEngineer",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(rockconstruct)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_RockConstruct",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(seasontimeskip)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_SeasonTimeskip",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(selfexplosion)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_SelfExplosion",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(shadowfocus)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_ShadowFocus",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(shadowskip)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Shadowskip",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(shieldanimals)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_ShieldAnimals",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(shrineshield)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Shrineshield",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(skillroll)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_SkillRoll",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(skip)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Skip",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(skipdoor)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Skipdoor",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(skipshield)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Skipshield",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(smokepop)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Smokepop",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(snapfreeze)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_SnapFreeze",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(solarpinhole)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_SolarPinhole",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(speedboost)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_SpeedBoost",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(stabilize)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Stabilize",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(staticaura)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_StaticAura",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(staticpulse)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_StaticPulse",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(stealvitality)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_StealVitality",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(steelconstruct)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_SteelConstruct",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(stun)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Stun",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(summonpack)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_SummonPack",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(thunderbolt)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Thunderbolt",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(timereversal)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_TimeReversal",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(timesphere)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_TimeSphere",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(timequake)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Timequake",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(timeskipmeditation)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_TimeskipMeditation",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(transmutation)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Transmutation",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(transmutestone)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_TransmuteStone",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(treesprout)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_TreeSprout",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(vortex)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Vortex",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(wallraise)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Wallraise",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(waterskip)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_Waterskip",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(wordofalliance)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_WordofAlliance",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(wordofanimals)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_WordofAnimals",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(wordoffear)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_WordofFear",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(wordofforetelling)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_WordofForetelling",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(wordofhealing)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_WordofHealing",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(wordofimmunity)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_WordofImmunity",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(wordofinspiration)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_WordofInspiration",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(wordofjoy)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_WordofJoy",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(wordoflove)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_WordofLove",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(wordofpain)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_WordofPain",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(wordofproductivity)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_WordofProductivity",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(wordofprogress)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_WordofProgress",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(wordofprotection)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_WordofProtection",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(wordofserenity)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_WordofSerenity",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "entraîneurpsychique(wordoftrust)",
       "category": "Psycho-entraîneurs",
       "defname": "Psytrainer_VPE_WordofTrust",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "espressomachine",
@@ -7816,7 +6916,7 @@
       "abr": "farotable",
       "category": "Meubles",
       "defname": "TableFaro",
-      "price": 255
+      "price": -10
     },
     {
       "abr": "fedora",
@@ -7894,7 +6994,7 @@
       "abr": "fivefingerfillettable",
       "category": "Meubles",
       "defname": "TableFiveFingerFilet",
-      "price": 205
+      "price": -10
     },
     {
       "abr": "flamethrower",
@@ -8101,36 +7201,6 @@
       "price": -10
     },
     {
-      "abr": "goldbracelet",
-      "category": "Jewelry",
-      "defname": "Jewelry_Bracelet",
-      "price": 417
-    },
-    {
-      "abr": "goldearring",
-      "category": "Jewelry",
-      "defname": "Jewelry_Earring",
-      "price": 267
-    },
-    {
-      "abr": "goldeltexnecklace",
-      "category": "Jewelry",
-      "defname": "Jewelry_PsychicNecklace",
-      "price": 750
-    },
-    {
-      "abr": "goldnecklace",
-      "category": "Jewelry",
-      "defname": "Jewelry_Necklace",
-      "price": 600
-    },
-    {
-      "abr": "goldring",
-      "category": "Jewelry",
-      "defname": "Jewelry_Ring",
-      "price": 250
-    },
-    {
       "abr": "goldfish",
       "category": "Raw fish",
       "defname": "VCEF_RawGoldfish",
@@ -8173,24 +7243,6 @@
       "price": -10
     },
     {
-      "abr": "grandpaillasson(bleue)",
-      "category": "Meubles",
-      "defname": "DoorMatBigBlue",
-      "price": -10
-    },
-    {
-      "abr": "grandpaillasson(rouge)",
-      "category": "Meubles",
-      "defname": "DoorMatBigRed",
-      "price": -10
-    },
-    {
-      "abr": "grandpaillasson(vert)",
-      "category": "Meubles",
-      "defname": "DoorMatBigGreen",
-      "price": -10
-    },
-    {
       "abr": "grandrug",
       "category": "Art",
       "defname": "VFE_RugGrand",
@@ -8200,18 +7252,6 @@
       "abr": "grandstatue",
       "category": "Art",
       "defname": "VFE_StatueGrand",
-      "price": -10
-    },
-    {
-      "abr": "grandstatueofcolonist",
-      "category": "Art",
-      "defname": "TMB_StatueOfColonistKGrand",
-      "price": -10
-    },
-    {
-      "abr": "grandverresphérique",
-      "category": "Produits manufacturés",
-      "defname": "LargeCircularGlass",
       "price": -10
     },
     {
@@ -8248,12 +7288,6 @@
       "abr": "grill",
       "category": "Production",
       "defname": "VCE_Grill",
-      "price": -10
-    },
-    {
-      "abr": "grinder",
-      "category": "Armes de mêlée",
-      "defname": "PowerTool_IndustrialGrinder",
       "price": -10
     },
     {
@@ -8320,12 +7354,6 @@
       "abr": "handheldmortar",
       "category": "Armes à distance",
       "defname": "VWE_Gun_HandheldMortar",
-      "price": -10
-    },
-    {
-      "abr": "handle",
-      "category": "Weapons Part",
-      "defname": "MeleeWeapon_HandlePart",
       "price": -10
     },
     {
@@ -8497,12 +7525,6 @@
       "price": 2
     },
     {
-      "abr": "hugestatueofcolonist",
-      "category": "Art",
-      "defname": "TMB_StatueOfColonistKLarge",
-      "price": -10
-    },
-    {
       "abr": "humansurimi",
       "category": "Raw fish",
       "defname": "VCE_HumanSurimi",
@@ -8617,12 +7639,6 @@
       "price": 42
     },
     {
-      "abr": "jackhammer",
-      "category": "Armes de mêlée",
-      "defname": "PowerTool_IndustrialJackHammer",
-      "price": -10
-    },
-    {
       "abr": "jarlcape",
       "category": "Vêtements",
       "defname": "VFEV_Apparel_JarlCape",
@@ -8665,12 +7681,6 @@
       "price": -10
     },
     {
-      "abr": "junction",
-      "category": "Weapons Part",
-      "defname": "MeleeWeapon_JunctionPart",
-      "price": -10
-    },
-    {
       "abr": "ketchup",
       "category": "Condiments",
       "defname": "VCE_Ketchup",
@@ -8701,24 +7711,6 @@
       "price": -10
     },
     {
-      "abr": "knife",
-      "category": "Assemble Weapons",
-      "defname": "MeleeWeapon_TinkersKnife",
-      "price": -10
-    },
-    {
-      "abr": "knifeblade",
-      "category": "Weapons Part",
-      "defname": "MeleeWeapon_KnifeBladePart",
-      "price": -10
-    },
-    {
-      "abr": "knifehandle",
-      "category": "Weapons Part",
-      "defname": "MeleeWeapon_KnifeHandlePart",
-      "price": -10
-    },
-    {
       "abr": "koi",
       "category": "Raw fish",
       "defname": "VCEF_RawKoi",
@@ -8737,12 +7729,6 @@
       "price": 242
     },
     {
-      "abr": "lampadaireextérieur",
-      "category": "Meubles",
-      "defname": "OutdoorGroundLamp",
-      "price": -10
-    },
-    {
       "abr": "largeadvancedbattery",
       "category": "Énergie",
       "defname": "VFE_LargeAdvancedBattery",
@@ -8752,24 +7738,6 @@
       "abr": "largebattery",
       "category": "Énergie",
       "defname": "VFE_LargeBattery",
-      "price": -10
-    },
-    {
-      "abr": "largedoormat",
-      "category": "Meubles",
-      "defname": "DoorMatBigLeather",
-      "price": -10
-    },
-    {
-      "abr": "largedoormat(orange)",
-      "category": "Meubles",
-      "defname": "DoorMatBigOrange",
-      "price": -10
-    },
-    {
-      "abr": "largedoormat(teal)",
-      "category": "Meubles",
-      "defname": "DoorMatBigTeal",
       "price": -10
     },
     {
@@ -8806,12 +7774,6 @@
       "abr": "laserrifle",
       "category": "Armes à distance",
       "defname": "VWEL_Gun_LaserRifle",
-      "price": -10
-    },
-    {
-      "abr": "lasersculptingtable",
-      "category": "Production",
-      "defname": "LaserTableSculpting",
       "price": -10
     },
     {
@@ -8947,42 +7909,6 @@
       "price": -10
     },
     {
-      "abr": "linkeddoormat",
-      "category": "Meubles",
-      "defname": "DoorMatLinkedLeather",
-      "price": -10
-    },
-    {
-      "abr": "linkeddoormat(blue)",
-      "category": "Meubles",
-      "defname": "DoorMatLinkedBlue",
-      "price": -10
-    },
-    {
-      "abr": "linkeddoormat(green)",
-      "category": "Meubles",
-      "defname": "DoorMatLinkedGreen",
-      "price": -10
-    },
-    {
-      "abr": "linkeddoormat(orange)",
-      "category": "Meubles",
-      "defname": "DoorMatLinkedOrange",
-      "price": -10
-    },
-    {
-      "abr": "linkeddoormat(red)",
-      "category": "Meubles",
-      "defname": "DoorMatLinkedRed",
-      "price": -10
-    },
-    {
-      "abr": "linkeddoormat(teal)",
-      "category": "Meubles",
-      "defname": "DoorMatLinkedTeal",
-      "price": -10
-    },
-    {
       "abr": "liquidfreezer",
       "category": "Meubles",
       "defname": "VFE_MechanoidLiquidFreezer",
@@ -9005,12 +7931,6 @@
       "category": "Armes à distance",
       "defname": "VWE_Bow_Long",
       "price": 197
-    },
-    {
-      "abr": "longsword",
-      "category": "Assemble Weapons",
-      "defname": "MeleeWeapon_TinkersLongSword",
-      "price": -10
     },
     {
       "abr": "lothurr",
@@ -9077,18 +7997,6 @@
       "category": "Armes à distance",
       "defname": "VWE_Gun_MakeshiftSMG",
       "price": -10
-    },
-    {
-      "abr": "mannequinpourletiràl'arc",
-      "category": "Détente",
-      "defname": "ShootingRangeTarget",
-      "price": 325
-    },
-    {
-      "abr": "mannequinpourlesartsmartiaux",
-      "category": "Détente",
-      "defname": "MartialArtsTarget",
-      "price": 251
     },
     {
       "abr": "marksmanrifle",
@@ -9175,42 +8083,6 @@
       "price": -10
     },
     {
-      "abr": "mediumdoormat",
-      "category": "Meubles",
-      "defname": "DoorMatMediumLeather",
-      "price": -10
-    },
-    {
-      "abr": "mediumdoormat(blue)",
-      "category": "Meubles",
-      "defname": "DoorMatMediumBlue",
-      "price": -10
-    },
-    {
-      "abr": "mediumdoormat(green)",
-      "category": "Meubles",
-      "defname": "DoorMatMediumGreen",
-      "price": -10
-    },
-    {
-      "abr": "mediumdoormat(orange)",
-      "category": "Meubles",
-      "defname": "DoorMatMediumOrange",
-      "price": -10
-    },
-    {
-      "abr": "mediumdoormat(red)",
-      "category": "Meubles",
-      "defname": "DoorMatMediumRed",
-      "price": -10
-    },
-    {
-      "abr": "mediumdoormat(teal)",
-      "category": "Meubles",
-      "defname": "DoorMatMediumTeal",
-      "price": -10
-    },
-    {
       "abr": "militaryberet",
       "category": "Couvre-chefs",
       "defname": "VAE_Headgear_Beret",
@@ -9233,30 +8105,6 @@
       "category": "Vêtements",
       "defname": "VAE_Apparel_MilitaryUniform",
       "price": 246
-    },
-    {
-      "abr": "mini-14",
-      "category": "Gun Nut",
-      "defname": "HRK_Ruger_14Mini",
-      "price": -10
-    },
-    {
-      "abr": "mini-14(charged)",
-      "category": "Gun Nut",
-      "defname": "HRK_Ruger_ChargeMini",
-      "price": -10
-    },
-    {
-      "abr": "mini-30",
-      "category": "Gun Nut",
-      "defname": "HRK_Ruger_30Mini",
-      "price": -10
-    },
-    {
-      "abr": "mini-30(custom)",
-      "category": "Gun Nut",
-      "defname": "HRK_Ruger_TacticalMini",
-      "price": -10
     },
     {
       "abr": "minnow",
@@ -9299,30 +8147,6 @@
       "category": "Drogues",
       "defname": "VBE_MochaCoffee",
       "price": 17
-    },
-    {
-      "abr": "moderndarklamp",
-      "category": "Meubles",
-      "defname": "Light_ModernDarkLamp",
-      "price": -10
-    },
-    {
-      "abr": "modularstool",
-      "category": "Meubles",
-      "defname": "StoolLinkable",
-      "price": -10
-    },
-    {
-      "abr": "modulartable",
-      "category": "Meubles",
-      "defname": "TableShortModular",
-      "price": -10
-    },
-    {
-      "abr": "mold",
-      "category": "Produits manufacturés",
-      "defname": "Stove_Mould",
-      "price": -10
     },
     {
       "abr": "molotovbelt",
@@ -9427,18 +8251,6 @@
       "price": -10
     },
     {
-      "abr": "outdoorlamp",
-      "category": "Meubles",
-      "defname": "Light_OutdoorDarkLamp",
-      "price": -10
-    },
-    {
-      "abr": "outdoorsolardarklamp",
-      "category": "Meubles",
-      "defname": "Spacer_OutdoorDarkLamp",
-      "price": -10
-    },
-    {
       "abr": "outdoorsolarlamp",
       "category": "Meubles",
       "defname": "Spacer_OutdoorLamp",
@@ -9448,24 +8260,6 @@
       "abr": "overalls",
       "category": "Vêtements",
       "defname": "VAE_Apparel_Overalls",
-      "price": -10
-    },
-    {
-      "abr": "paillasson(bleue)",
-      "category": "Meubles",
-      "defname": "DoorMatBlue",
-      "price": -10
-    },
-    {
-      "abr": "paillasson(rouge)",
-      "category": "Meubles",
-      "defname": "DoorMatRed",
-      "price": -10
-    },
-    {
-      "abr": "paillasson(vert)",
-      "category": "Meubles",
-      "defname": "DoorMatGreen",
       "price": -10
     },
     {
@@ -9499,105 +8293,9 @@
       "price": -10
     },
     {
-      "abr": "pilum",
-      "category": "Assemble Weapons",
-      "defname": "RangWeapon_TinkersPilum",
-      "price": -10
-    },
-    {
-      "abr": "pilumgrip",
-      "category": "Weapons Part",
-      "defname": "RangWeapon_Pilum_GripPart",
-      "price": -10
-    },
-    {
       "abr": "piranha",
       "category": "Raw fish",
       "defname": "VCEF_RawPiranha",
-      "price": -10
-    },
-    {
-      "abr": "plafonnier",
-      "category": "Meubles",
-      "defname": "GLCeilingLamp",
-      "price": -10
-    },
-    {
-      "abr": "plafonnier",
-      "category": "Meubles",
-      "defname": "CeilingLamp",
-      "price": -10
-    },
-    {
-      "abr": "plafonnier(bleu)",
-      "category": "Meubles",
-      "defname": "GLCeilingLamp_Blue",
-      "price": -10
-    },
-    {
-      "abr": "plafonnier(bleu)",
-      "category": "Meubles",
-      "defname": "CeilingLamp_Blue",
-      "price": -10
-    },
-    {
-      "abr": "plafonnier(jaune)",
-      "category": "Meubles",
-      "defname": "GLCeilingLamp_Yellow",
-      "price": -10
-    },
-    {
-      "abr": "plafonnier(jaune)",
-      "category": "Meubles",
-      "defname": "CeilingLamp_Yellow",
-      "price": -10
-    },
-    {
-      "abr": "plafonnier(orange)",
-      "category": "Meubles",
-      "defname": "GLCeilingLamp_Orange",
-      "price": -10
-    },
-    {
-      "abr": "plafonnier(orange)",
-      "category": "Meubles",
-      "defname": "CeilingLamp_Orange",
-      "price": -10
-    },
-    {
-      "abr": "plafonnier(rouge)",
-      "category": "Meubles",
-      "defname": "GLCeilingLamp_Red",
-      "price": -10
-    },
-    {
-      "abr": "plafonnier(rouge)",
-      "category": "Meubles",
-      "defname": "CeilingLamp_Red",
-      "price": -10
-    },
-    {
-      "abr": "plafonnier(vert)",
-      "category": "Meubles",
-      "defname": "GLCeilingLamp_Green",
-      "price": -10
-    },
-    {
-      "abr": "plafonnier(vert)",
-      "category": "Meubles",
-      "defname": "CeilingLamp_Green",
-      "price": -10
-    },
-    {
-      "abr": "plafonnier(violet)",
-      "category": "Meubles",
-      "defname": "GLCeilingLamp_Violet",
-      "price": -10
-    },
-    {
-      "abr": "plafonnier(violet)",
-      "category": "Meubles",
-      "defname": "CeilingLamp_Violet",
       "price": -10
     },
     {
@@ -9652,12 +8350,6 @@
       "abr": "processedmeat",
       "category": "Viandes crues",
       "defname": "VFEM_ProcessedMeat",
-      "price": -10
-    },
-    {
-      "abr": "prostheticstable",
-      "category": "Production",
-      "defname": "TableSyrProsthetics",
       "price": -10
     },
     {
@@ -9727,21 +8419,195 @@
       "price": -10
     },
     {
+      "abr": "armoireàpharmacie",
+      "category": "Meubles",
+      "defname": "LWM_Medicine_Cabinet",
+      "price": -10
+    },
+    {
+      "abr": "armurerie",
+      "category": "Meubles",
+      "defname": "LWM_WeaponsCabinet",
+      "price": -10
+    },
+    {
+      "abr": "armureriesécurisée",
+      "category": "Meubles",
+      "defname": "LWM_WeaponsLocker",
+      "price": -10
+    },
+    {
+      "abr": "bureaudegestionnaire",
+      "category": "Production",
+      "defname": "FM_ManagerStation",
+      "price": -10
+    },
+    {
+      "abr": "bureaudegestionnairebasique",
+      "category": "Production",
+      "defname": "FM_BasicManagerStation",
+      "price": -10
+    },
+    {
+      "abr": "caisse",
+      "category": "Meubles",
+      "defname": "CashRegister_CashRegister",
+      "price": -10
+    },
+    {
+      "abr": "chainsaw",
+      "category": "Armes de mêlée",
+      "defname": "PowerTool_IndustrialChainsaw",
+      "price": 808
+    },
+    {
+      "abr": "commoninfuser",
+      "category": "Infusers",
+      "defname": "Infusion_Infuser_Common",
+      "price": -10
+    },
+    {
+      "abr": "crochetsàviande",
+      "category": "Meubles",
+      "defname": "LWM_Meat_Hook",
+      "price": -10
+    },
+    {
+      "abr": "drill",
+      "category": "Armes de mêlée",
+      "defname": "PowerTool_IndustrialDrill",
+      "price": 592
+    },
+    {
+      "abr": "emptyinfuser",
+      "category": "Infusers",
+      "defname": "Infusion_InfuserEmpty",
+      "price": -10
+    },
+    {
+      "abr": "fieldresearchanalyzer-kit",
+      "category": "Utilitaires",
+      "defname": "RR_FieldResearchKitMultiAnalyzer",
+      "price": -10
+    },
+    {
+      "abr": "fieldresearchkit",
+      "category": "Utilitaires",
+      "defname": "RR_FieldResearchKitHiTech",
+      "price": -10
+    },
+    {
+      "abr": "garde-robe",
+      "category": "Meubles",
+      "defname": "LWM_Clothing_Rack",
+      "price": -10
+    },
+    {
+      "abr": "gestionia",
+      "category": "Production",
+      "defname": "FM_AIManager",
+      "price": -10
+    },
+    {
+      "abr": "grandeétagère",
+      "category": "Meubles",
+      "defname": "LWM_BigShelf",
+      "price": 224
+    },
+    {
+      "abr": "grinder",
+      "category": "Armes de mêlée",
+      "defname": "PowerTool_IndustrialGrinder",
+      "price": -10
+    },
+    {
+      "abr": "jackhammer",
+      "category": "Armes de mêlée",
+      "defname": "PowerTool_IndustrialJackHammer",
+      "price": 767
+    },
+    {
+      "abr": "legendaryinfuser",
+      "category": "Infusers",
+      "defname": "Infusion_Infuser_Legendary",
+      "price": -10
+    },
+    {
+      "abr": "palette",
+      "category": "Meubles",
+      "defname": "LWM_Pallet",
+      "price": -10
+    },
+    {
+      "abr": "paletteemballée",
+      "category": "Meubles",
+      "defname": "LWM_Pallet_Covered",
+      "price": -10
+    },
+    {
+      "abr": "panierànourriture",
+      "category": "Meubles",
+      "defname": "LWM_Food_Basket",
+      "price": -10
+    },
+    {
+      "abr": "panierentissu",
+      "category": "Meubles",
+      "defname": "LWM_FabricHamper",
+      "price": -10
+    },
+    {
+      "abr": "petitcoffre-fort",
+      "category": "Meubles",
+      "defname": "LWM_Safe",
+      "price": -10
+    },
+    {
+      "abr": "petitcontainer",
+      "category": "Meubles",
+      "defname": "LWM_DeepStorage_Skip",
+      "price": -10
+    },
+    {
+      "abr": "plateauàrepas",
+      "category": "Meubles",
+      "defname": "LWM_MealRack",
+      "price": -10
+    },
+    {
+      "abr": "rareinfuser",
+      "category": "Infusers",
+      "defname": "Infusion_Infuser_Rare",
+      "price": -10
+    },
+    {
       "abr": "relief",
       "category": "Art",
       "defname": "VFE_Relief",
       "price": -10
     },
     {
+      "abr": "remotefieldresearchkit",
+      "category": "Utilitaires",
+      "defname": "RR_FieldResearchKitRemote",
+      "price": -10
+    },
+    {
       "abr": "repairshelf",
       "category": "Meubles",
       "defname": "Shelf_RepairRack",
-      "price": 2908
+      "price": -10
     },
     {
       "abr": "repeatingshotgun",
       "category": "Armes à distance",
       "defname": "VWEFT_Gun_RepeatingShotgun",
+      "price": -10
+    },
+    {
+      "abr": "réservoiràfoin",
+      "category": "Meubles",
+      "defname": "LWM_Hayloft",
       "price": -10
     },
     {
@@ -9778,18 +8644,6 @@
       "abr": "roundshield",
       "category": "Shields",
       "defname": "VFEV_Shield_Round",
-      "price": -10
-    },
-    {
-      "abr": "royalcoffin",
-      "category": "Meubles",
-      "defname": "ROMV_RoyalCoffin",
-      "price": -10
-    },
-    {
-      "abr": "ruby",
-      "category": "Ressources brutes",
-      "defname": "Ruby",
       "price": -10
     },
     {
@@ -9877,12 +8731,6 @@
       "price": -10
     },
     {
-      "abr": "sapphire",
-      "category": "Ressources brutes",
-      "defname": "Sapphire",
-      "price": -10
-    },
-    {
       "abr": "sawed-offshotgun",
       "category": "Armes à distance",
       "defname": "VWE_SawedOffShotgun",
@@ -9892,7 +8740,7 @@
       "abr": "scalpel",
       "category": "Armes de mêlée",
       "defname": "VWE_MeleeWeapon_Scalpel",
-      "price": -10
+      "price": 277
     },
     {
       "abr": "scarecrow",
@@ -9904,6 +8752,12 @@
       "abr": "scarf",
       "category": "Couvre-chefs",
       "defname": "VAE_Headgear_Scarf",
+      "price": 91
+    },
+    {
+      "abr": "schématechnique(câblageducerveau)",
+      "category": "Schémas techniques",
+      "defname": "Techprint_BrainWiring",
       "price": -10
     },
     {
@@ -9973,36 +8827,6 @@
       "price": -10
     },
     {
-      "abr": "silverbracelet",
-      "category": "Jewelry",
-      "defname": "Jewelry_Bracelet_Silver",
-      "price": 417
-    },
-    {
-      "abr": "silverearring",
-      "category": "Jewelry",
-      "defname": "Jewelry_Earring_Silver",
-      "price": 267
-    },
-    {
-      "abr": "silvereltexnecklace",
-      "category": "Jewelry",
-      "defname": "Jewelry_PsychicNecklace_Silver",
-      "price": 750
-    },
-    {
-      "abr": "silvernecklace",
-      "category": "Jewelry",
-      "defname": "Jewelry_Necklace_Silver",
-      "price": 600
-    },
-    {
-      "abr": "silverring",
-      "category": "Jewelry",
-      "defname": "Jewelry_Ring_Silver",
-      "price": 250
-    },
-    {
       "abr": "simplebake",
       "category": "Plats",
       "defname": "VCE_SimpleBake",
@@ -10012,12 +8836,18 @@
       "abr": "simplecocktail",
       "category": "Plats",
       "defname": "VBE_SimpleCocktail",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "simpledessert",
       "category": "Plats",
       "defname": "VCE_SimpleDessert",
+      "price": -10
+    },
+    {
+      "abr": "simplefieldresearchkit",
+      "category": "Utilitaires",
+      "defname": "RR_FieldResearchKitSimple",
       "price": -10
     },
     {
@@ -10060,7 +8890,7 @@
       "abr": "skullcap",
       "category": "Couvre-chefs",
       "defname": "VIEHAR_Apparel_Skullcap",
-      "price": -10
+      "price": 57
     },
     {
       "abr": "slag",
@@ -10078,24 +8908,6 @@
       "abr": "smallbattery",
       "category": "Énergie",
       "defname": "VFE_SmallBattery",
-      "price": -10
-    },
-    {
-      "abr": "smalldoormat",
-      "category": "Meubles",
-      "defname": "DoorMatLeather",
-      "price": -10
-    },
-    {
-      "abr": "smalldoormat(orange)",
-      "category": "Meubles",
-      "defname": "DoorMatOrange",
-      "price": -10
-    },
-    {
-      "abr": "smalldoormat(teal)",
-      "category": "Meubles",
-      "defname": "DoorMatTeal",
       "price": -10
     },
     {
@@ -10174,7 +8986,7 @@
       "abr": "sodafountain",
       "category": "Production",
       "defname": "VBE_SodaFountain",
-      "price": -10
+      "price": 185
     },
     {
       "abr": "sodasyrup",
@@ -10207,12 +9019,6 @@
       "price": -10
     },
     {
-      "abr": "spacerdarklamp",
-      "category": "Meubles",
-      "defname": "Light_SpacerDarkLamp",
-      "price": -10
-    },
-    {
       "abr": "spacerlamp",
       "category": "Meubles",
       "defname": "Light_SpacerLamp",
@@ -10228,7 +9034,7 @@
       "abr": "spikedskullcap",
       "category": "Couvre-chefs",
       "defname": "VIEHAR_Apparel_SpikedSkullcap",
-      "price": -10
+      "price": 153
     },
     {
       "abr": "sprat",
@@ -10252,12 +9058,6 @@
       "abr": "standinggaslamp",
       "category": "Meubles",
       "defname": "VPE_GasLamp",
-      "price": -10
-    },
-    {
-      "abr": "statueofcolonist",
-      "category": "Art",
-      "defname": "TMB_StatueOfColonistK",
       "price": -10
     },
     {
@@ -10294,7 +9094,7 @@
       "abr": "suitjacket",
       "category": "Vêtements",
       "defname": "VAE_Apparel_SuitJacket",
-      "price": -10
+      "price": 327
     },
     {
       "abr": "summerhat",
@@ -10357,18 +9157,6 @@
       "price": -10
     },
     {
-      "abr": "tablecarréeenverre",
-      "category": "Meubles",
-      "defname": "GlassTableShort",
-      "price": -10
-    },
-    {
-      "abr": "tablederéparation",
-      "category": "Production",
-      "defname": "TableMending",
-      "price": -10
-    },
-    {
       "abr": "tailorcabinet",
       "category": "Divers",
       "defname": "VFE_TailorCabinet",
@@ -10423,12 +9211,6 @@
       "price": -10
     },
     {
-      "abr": "télévisionenverre",
-      "category": "Détente",
-      "defname": "GlassMonitorLarge",
-      "price": 1417
-    },
-    {
       "abr": "temaki(lavish)",
       "category": "Plats",
       "defname": "VCE_Temaki",
@@ -10474,7 +9256,7 @@
       "abr": "throwingaxe",
       "category": "Armes à distance",
       "defname": "VFE_ThrowingAxe",
-      "price": -10
+      "price": 260
     },
     {
       "abr": "throwingknives",
@@ -10504,7 +9286,7 @@
       "abr": "tomahawk",
       "category": "Armes à distance",
       "defname": "VFES_Tomahawk",
-      "price": 210
+      "price": -10
     },
     {
       "abr": "tools",
@@ -10528,13 +9310,19 @@
       "abr": "trainingdummy",
       "category": "Détente",
       "defname": "VFEV_TrainingDummy",
-      "price": -10
+      "price": 80
     },
     {
       "abr": "trapperhat",
       "category": "Couvre-chefs",
       "defname": "VAE_Headgear_TrapperHat",
       "price": 130
+    },
+    {
+      "abr": "trèsgrandeétagère",
+      "category": "Meubles",
+      "defname": "LWM_VeryBigShelf",
+      "price": -10
     },
     {
       "abr": "tribalaxe",
@@ -10552,19 +9340,13 @@
       "abr": "tribalponcho",
       "category": "Vêtements",
       "defname": "VAE_Apparel_TribalPoncho",
-      "price": -10
+      "price": 144
     },
     {
       "abr": "trousers",
       "category": "Vêtements",
       "defname": "VAE_Apparel_Trousers",
-      "price": -10
-    },
-    {
-      "abr": "troussederéparation",
-      "category": "Produits manufacturés",
-      "defname": "MendingKit",
-      "price": -10
+      "price": 164
     },
     {
       "abr": "trout",
@@ -10582,13 +9364,19 @@
       "abr": "tunic",
       "category": "Vêtements",
       "defname": "VAE_Apparel_Tunic",
-      "price": -10
+      "price": 143
     },
     {
       "abr": "ultrascreentelevision",
       "category": "Détente",
       "defname": "UltrascreenTV",
       "price": 4100
+    },
+    {
+      "abr": "uncommoninfuser",
+      "category": "Infusers",
+      "defname": "Infusion_Infuser_Uncommon",
+      "price": -10
     },
     {
       "abr": "uncookedfinesoup",
@@ -10651,18 +9439,6 @@
       "price": -10
     },
     {
-      "abr": "verre",
-      "category": "Produits manufacturés",
-      "defname": "Glass",
-      "price": -10
-    },
-    {
-      "abr": "verretrempé",
-      "category": "Produits manufacturés",
-      "defname": "ReinforcedGlass",
-      "price": -10
-    },
-    {
       "abr": "versatileassembler",
       "category": "Production",
       "defname": "VFEM_VersatileAssembler",
@@ -10672,13 +9448,7 @@
       "abr": "vest",
       "category": "Vêtements",
       "defname": "Apparel_Vest",
-      "price": -10
-    },
-    {
-      "abr": "viandedebat",
-      "category": "Viandes crues",
-      "defname": "Meat_ROMV_BatRace",
-      "price": -10
+      "price": 183
     },
     {
       "abr": "viandedefenrir",
@@ -10696,12 +9466,6 @@
       "abr": "viandedenjorun",
       "category": "Viandes crues",
       "defname": "Meat_VFEV_Njorun",
-      "price": -10
-    },
-    {
-      "abr": "viandedespectralbat",
-      "category": "Viandes crues",
-      "defname": "Meat_ROMV_BatSpectralRace",
       "price": -10
     },
     {
@@ -10744,12 +9508,96 @@
       "abr": "wake-uppowder",
       "category": "Condiments",
       "defname": "VBE_WakeUpPowder",
-      "price": -10
+      "price": 100
     },
     {
       "abr": "walldarklight",
       "category": "Meubles",
-      "defname": "GLWallLampDark",
+      "defname": "Lighting_MURWallLightDark",
+      "price": -10
+    },
+    {
+      "abr": "walllight",
+      "category": "Meubles",
+      "defname": "Lighting_MURWallLight",
+      "price": -10
+    },
+    {
+      "abr": "walllight(azure)",
+      "category": "Meubles",
+      "defname": "Lighting_MURWallLightAzure",
+      "price": -10
+    },
+    {
+      "abr": "walllight(blue)",
+      "category": "Meubles",
+      "defname": "Lighting_MURWallLightBlue",
+      "price": -10
+    },
+    {
+      "abr": "walllight(chartreuse)",
+      "category": "Meubles",
+      "defname": "Lighting_MURWallLightChartreuse",
+      "price": -10
+    },
+    {
+      "abr": "walllight(cyan)",
+      "category": "Meubles",
+      "defname": "Lighting_MURWallLightCyan",
+      "price": -10
+    },
+    {
+      "abr": "walllight(green)",
+      "category": "Meubles",
+      "defname": "Lighting_MURWallLightGreen",
+      "price": -10
+    },
+    {
+      "abr": "walllight(magenta)",
+      "category": "Meubles",
+      "defname": "Lighting_MURWallLightMagenta",
+      "price": -10
+    },
+    {
+      "abr": "walllight(orange)",
+      "category": "Meubles",
+      "defname": "Lighting_MURWallLightOrange",
+      "price": -10
+    },
+    {
+      "abr": "walllight(red)",
+      "category": "Meubles",
+      "defname": "Lighting_MURWallLightRed",
+      "price": -10
+    },
+    {
+      "abr": "walllight(rose)",
+      "category": "Meubles",
+      "defname": "Lighting_MURWallLightRose",
+      "price": -10
+    },
+    {
+      "abr": "walllight(springgreen)",
+      "category": "Meubles",
+      "defname": "Lighting_MURWallLightSpringGreen",
+      "price": -10
+    },
+    {
+      "abr": "walllight(violet)",
+      "category": "Meubles",
+      "defname": "Lighting_MURWallLightViolet",
+      "price": -10
+    },
+    {
+      "abr": "walllight(yellow)",
+      "category": "Meubles",
+      "defname": "Lighting_MURWallLightYellow",
+      "price": -10
+    },
+    {
+      "abr": "wallsunlight",
+      "category": "Meubles",
+      "defname": "Lighting_MURWallSunLight",
       "price": -10
     },
     {
@@ -10765,10 +9613,28 @@
       "price": 5
     },
     {
+      "abr": "weaponrack(2slot)",
+      "category": "Meubles",
+      "defname": "WeaponRacks_2Rack",
+      "price": -10
+    },
+    {
+      "abr": "weaponrack(3slot)",
+      "category": "Meubles",
+      "defname": "WeaponRacks_3Rack",
+      "price": -10
+    },
+    {
+      "abr": "weaponrack(4slot)",
+      "category": "Meubles",
+      "defname": "WeaponRacks_4Rack",
+      "price": -10
+    },
+    {
       "abr": "whip",
       "category": "Armes à distance",
       "defname": "VWE_Tool_Whip",
-      "price": -10
+      "price": 203
     },
     {
       "abr": "whiskey",
@@ -10891,6 +9757,18 @@
       "price": -10
     },
     {
+      "abr": "invitéoperatingtable",
+      "category": "Meubles",
+      "defname": "Bed_OperatingTableGuest",
+      "price": -10
+    },
+    {
+      "abr": "invitécryptosleepsuspender",
+      "category": "Meubles",
+      "defname": "Bed_CryptoBedGuest",
+      "price": -10
+    },
+    {
       "abr": "invitéergonomicbed",
       "category": "Meubles",
       "defname": "Bed_ErgonomicGuest",
@@ -10921,18 +9799,6 @@
       "price": -10
     },
     {
-      "abr": "invitéoperatingtable",
-      "category": "Meubles",
-      "defname": "Bed_OperatingTableGuest",
-      "price": -10
-    },
-    {
-      "abr": "invitécryptosleepsuspender",
-      "category": "Meubles",
-      "defname": "Bed_CryptoBedGuest",
-      "price": -10
-    },
-    {
       "abr": "invitéadvancedbed",
       "category": "Meubles",
       "defname": "Bed_AdvBedGuest",
@@ -10945,5 +9811,5 @@
       "price": -10
     }
   ],
-  "total": 1824
+  "total": 1635
 }
