@@ -58,15 +58,15 @@
       "isShortcut": false,
       "isBuy": false,
       "isBalance": false,
-      "hasGlobalCooldown": true,
+      "hasGlobalCooldown": false,
       "globalCooldown": 0,
-      "hasLocalCooldown": true,
+      "hasLocalCooldown": false,
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
     "description": "Gives a viewer coins.",
     "name": "Give coins",
-    "usage": "!gc <viewer> <coins>",
+    "usage": "!givecoins <viewer> <coins>",
     "userLevel": "Moderator",
     "shortcut": false,
     "defName": "GiveCoins"
@@ -174,7 +174,7 @@
     },
     "description": null,
     "name": "Purchase list",
-    "usage": "!liste",
+    "usage": "!purchaselist",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "PurchaseList"
@@ -190,9 +190,27 @@
       "localCooldown": 0,
       "mod": "Twitch Toolkit"
     },
+    "description": "Gives a viewer some of your coins.",
+    "name": "Gift coins",
+    "usage": "!giftcoins <viewer> <amount>",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "GiftCoins"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Twitch Toolkit"
+    },
     "description": null,
     "name": "Join queue",
-    "usage": "!join",
+    "usage": "!joinqueue",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "JoinQueue"
@@ -246,7 +264,7 @@
     },
     "description": "Lets you wager coins to level up a skill of your choosing.",
     "name": "Level skill",
-    "usage": "!levelskill  <skill> <coins>",
+    "usage": "!levelskill <skill> <coins>",
     "userLevel": "Anyone",
     "shortcut": true,
     "defName": "LevelSkillShortcut"
@@ -300,7 +318,7 @@
     },
     "description": null,
     "name": "All commands",
-    "usage": "!rimcommands",
+    "usage": "!allcommands",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "AvailableCommands"
@@ -318,7 +336,7 @@
     },
     "description": "Shows you the complete list of installed mods.",
     "name": "Installed mods",
-    "usage": "!modsrimworld",
+    "usage": "!installedmods",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "InstalledMods"
@@ -1014,8 +1032,8 @@
       "isBalance": false,
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
+      "hasLocalCooldown": true,
+      "localCooldown": 300,
       "mod": "ToolkitUtils"
     },
     "description": "Makes your pawn insult a random pawn. If a viewer is specified, you'll insult them instead.",
@@ -1042,6 +1060,24 @@
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "Chat"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 300,
+      "hasLocalCooldown": true,
+      "localCooldown": 300,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Makes your pawn flirt with a random pawn. If a viewer is specified, you'll flirt with their pawn instead.",
+    "name": "Flirt",
+    "usage": "!flirt [target]",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "Flirt"
   },
   {
     "data": {
@@ -1140,44 +1176,8 @@
       "isBalance": false,
       "hasGlobalCooldown": false,
       "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "Twitch Toolkit"
-    },
-    "description": "Gives a viewer some of your coins.",
-    "name": "Gift coins",
-    "usage": "!giftcoins <viewer> <amount>",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "GiftCoins"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Makes your pawn flirt with a random pawn. If a viewer is specified, you'll flirt with their pawn instead.",
-    "name": "Flirt",
-    "usage": "!flirt [target]",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "Flirt"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
+      "hasLocalCooldown": true,
+      "localCooldown": 600,
       "mod": "ToolkitUtils"
     },
     "description": null,
@@ -1222,23 +1222,5 @@
     "userLevel": "Moderator",
     "shortcut": false,
     "defName": "HelloWorld"
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitRaids"
-    },
-    "description": null,
-    "name": "joinraid",
-    "usage": "!joinraid",
-    "userLevel": "Anyone",
-    "shortcut": false,
-    "defName": "JoinRaid"
   }
 ]
